@@ -4,33 +4,26 @@ Source: user-uploaded scan (`Fayette_Zoning_Ordinance.pdf`), OCR'd page-by-page 
 
 Original document: Canon scanner copy, created 2014; adopted as Ordinance 2000-1, 'Fayette Township Zoning Ordinance of 2000.'
 
-
-**Important:** This is OCR output from a scanned document. It has not been proofread line-by-line against the original. For anything you plan to rely on for compliance (setbacks, permitted uses, procedures), cross-check against the original PDF or with the township. Eight pages contain rotated dimensional/use tables that OCR could not parse automatically; those were manually transcribed into markdown tables in place below, with the upright source image embedded alongside each one for verification. Two cells on the RA District table (page 37, Use #6) have handwritten corrections in the original document — see the footnotes on that table.
-
+**Important:** This is OCR output from a scanned document. It has not been proofread line-by-line against the original. For anything you plan to rely on for compliance (setbacks, permitted uses, procedures), cross-check against the original PDF or with the township. This file has been reformatted from the original page-by-page scan into a continuous markdown document: page-break markers and page-footer numbers have been removed, headings are real markdown headings, in-text references to other Articles/Sections are clickable links, and the district dimensional/use tables that were originally split across two scanned pages have been combined into single tables. Eight of those tables were rotated in the original scan and unreadable by OCR; they were manually transcribed into markdown tables in place below, with the upright source image(s) embedded alongside each one for verification. Two cells on the RA District table (Use #6, under [Article IV](#article-iv)) have handwritten corrections in the original document — see the footnotes on that table.
 
 ## Table of Contents
 
-
-- Article I — General Provisions
-- Article II — Glossary of Zoning Terms
-- Article III — Designation of Districts
-- Article IV — RA - Rural Agricultural District
-- Article V — F - Forest District
-- Article VI — R-1 - Residential District
-- Article VII — C - Commercial District
-- Article VIII — I - Industrial District
-- Article IX — FP - Floodplain District
-- Article X — Supplemental Regulations
-- Article XI — Conditional Uses
-- Article XII — Signs
-- Article XIII — Off-Street Parking, Loading and Unloading
-- Article XIV — Administration and Enforcement
-
+- [Article I — General Provisions](#article-i)
+- [Article II — Glossary of Zoning Terms](#article-ii)
+- [Article III — Designation of Districts](#article-iii)
+- [Article IV — RA - Rural Agricultural District](#article-iv)
+- [Article V — F - Forest District](#article-v)
+- [Article VI — R-1 - Residential District](#article-vi)
+- [Article VII — C - Commercial District](#article-vii)
+- [Article VIII — I - Industrial District](#article-viii)
+- [Article IX — FP - Floodplain District](#article-ix)
+- [Article X — Supplemental Regulations](#article-x)
+- [Article XI — Conditional Uses](#article-xi)
+- [Article XII — Signs](#article-xii)
+- [Article XIII — Off-Street Parking, Loading and Unloading](#article-xiii)
+- [Article XIV — Administration and Enforcement](#article-xiv)
 
 ---
-
-
-## Page 001
 
 FAYETTE TOWNSHIP
 
@@ -40,19 +33,16 @@ OF 2000
 
 Fayette Township, Juniata County
 
-
-## Page 002
-
 ORDINANCE NO. 2000-1
 
 THE FAYETTE TOWNSHIP ZONING ORDINANCE
 OF 2000
 
-ARTICLE I
+<a id="article-i"></a>
+## Article I — General Provisions
 
-GENERAL PROVISIONS
-
-Section 101 - Title
+<a id="section-101"></a>
+### Section 101 - Title
 
 AN AMENDED ORDINANCE PERMITTING, PROHIBITING, REGULATING,
 RESTRICTING, AND DETERMINING THE USES OF LAND, WATERCOURSES,
@@ -78,15 +68,14 @@ through X of Act No. 170 of the General Assembly of the Commonwealth of Pennsylv
 approved December 21, 1988, known and cited as the “Pennsylvania Municipalities Planning
 Code,” and any amendments and supplements thereto, as follows:
 
-Section 102 - Short Title
+<a id="section-102"></a>
+### Section 102 - Short Title
 
 This Ordinance shall be known and may be cited as the “Fayette Township Zoning
 Ordinance of 2000.”
 
-
-## Page 003
-
-Section 103 - Purpose
+<a id="section-103"></a>
+### Section 103 - Purpose
 
 This revised Zoning Ordinance has been prepared and amended in accordance with the
 Fayette Township Comprehensive Development Plan of 1993, with consideration for the
@@ -104,7 +93,8 @@ schools, public grounds and other public requirements, as well as
 congestion in travel and transportation, loss of health, life of property from fire,
 flood, panic or other dangers.
 
-Section 104 - Zoning Hearing Board
+<a id="section-104"></a>
+### Section 104 - Zoning Hearing Board
 
 In accordance with Article IX of the Act of December 21, 1988, P.L. 1329, No. 170,
 as amended, known as the Pennsylvania Municipalities Planning Code of the Commonwealth
@@ -114,7 +104,8 @@ established Zoning Hearing Board may, from time to time, be herein referred to a
 and unless otherwise clearly indicated, the term “Board” shall refer to such Zoning Hearing
 Board.
 
-Section 105 - Interpretation and Conflict
+<a id="section-105"></a>
+### Section 105 - Interpretation and Conflict
 
 In interpreting and applying the provisions of this Ordinance, they shall be held to be
 the minimum requirements for the promotion of health, safety, morals, and the general welfare
@@ -127,16 +118,12 @@ Ordinance imposes a greater restriction upon the use of the buildings or premise
 height of the building, or requires a larger open space than is imposed or required by such
 ordinance, rules, regulations or permits, or by easements, covenants, building restrictions or
 
-2
-
-
-## Page 004
-
 agreements, the provisions of this Ordinance shall control. Furthermore, if a discrepancy
 exists between any regulations contained within this ordinance, that regulation which imposes
 the greater restriction shall apply.
 
-Section 106 - Uses Not Provided For
+<a id="section-106"></a>
+### Section 106 - Uses Not Provided For
 
 Whenever, in any District established under this Ordinance, a use is neither specifically
 permitted or denied and an application is made by a property owner to the Zoning Officer for
@@ -148,20 +135,23 @@ this Ordinance. The burden of proof shall be upon the applicant to demonstrate t
 proposed use meets the foregoing criteria and would not be detrimental to the public health,
 safety and welfare of the neighborhood.
 
-Section 107 - Community Goals and Objectives
+<a id="section-107"></a>
+### Section 107 - Community Goals and Objectives
 
 This amended Zoning Ordinance is enacted as part of the overall plan for the orderly
 growth and development of Fayette Township. As such, this Ordinance is based upon the
 expressed or implied community development goals and objectives as contained in the Fayette
 Township Comprehensive Plan of 1993, as amended.
 
-Section 108 - Validity
+<a id="section-108"></a>
+### Section 108 - Validity
 
 Should any section or provision of this ordinance be declared by a court of competent
 jurisdiction to be invalid, such decision shall not affect the validity of this ordinance as a whole
 or of any other part thereof.
 
-Section 109 - Establishment of Zones
+<a id="section-109"></a>
+### Section 109 - Establishment of Zones
 
 For the purpose of this amended Ordinance, Fayette Township is still divided into
 previously established zones, which are designated as follows:
@@ -176,16 +166,15 @@ Industrial District ()
 
 Floodplain District (FP)
 
-
-## Page 005
-
-Section 110 —- Zoning Map
+<a id="section-110"></a>
+### Section 110 - Zoning Map
 
 The areas within Fayette Township, as assigned to each zone and the location of the
 zones established by this Ordinance, are shown upon the Zoning Map, which together with all
 explanatory matter thereon, is attached to and is declared to be a part of this Ordinance.
 
-Section 111 —- Zone Boundary Lines
+<a id="section-111"></a>
+### Section 111 - Zone Boundary Lines
 
 The zone boundary lines shall be as shown on the Zoning Map. Zone boundary lines
 are intended to coincide with lot lines; centerlines of streets, alleys, railroad rights-of-way, and
@@ -194,14 +183,11 @@ dimensioned on the map. In the event of dispute about the location of the bounda
 zone, the Zoning Officer shall investigate and render a decision on the location of the line.
 Appeals from this decision shall be made to the Zoning Hearing Board.
 
+<a id="article-ii"></a>
+## Article II — Glossary of Zoning Terms
 
-## Page 006
-
-ARTICLE II
-
-GLOSSARY OF ZONING TERMS
-
-Section 201 - Application and Interpretation
+<a id="section-201"></a>
+### Section 201 - Application and Interpretation
 
 It is not intended that this Glossary include only words used or referred to in this
 Ordinance. The words are included in order to facilitate the interpretation of the Ordinance for
@@ -235,13 +221,11 @@ The word “shall” or “must” is always mandatory.
 The word “erected” shall be construed to include the words “constructed, altered or
 moved”.
 
-Section 202 — Definition of Terms
+<a id="section-202"></a>
+### Section 202 - Definition of Terms
 
 For the purpose of this Ordinance, the following words, terms, and phrases have the
 meaning herein indicated:
-
-
-## Page 007
 
 Access Drive: An improved cartway designed and constructed to provide for vehicular
 movement between a street and more than four (4) dwelling units, or any other use or
@@ -285,9 +269,6 @@ Township Board of Supervisors.
 Animal Hospital: A building or any establishment offering veterinary services used for
 the treatment, housing, or overnight boarding of small domestic animals such as dogs,
 cats, rabbits, and birds or fowls by a veterinarian.
-
-
-## Page 008
 
 Applicant: A landowner or developer, as hereinafter defined, who has filed an
 application for development, including his heirs, personal representatives, successors
@@ -333,11 +314,6 @@ display, sale or rental of new and used cars, trucks, campers, tractors, trailer
 snowmobiles where mechanical repairs and body work may be conducted as an
 accessory use incidental to the primary use.
 
-7
-
-
-## Page 009
-
 Automobile, or Gasoline Services Station: A building on a lot or part thereof, that is
 used primarily for the retail sale of gasoline, oil or fuel and which may include facilities
 used for polishing, greasing, washing, dry cleaning or otherwise cleaning or servicing
@@ -380,9 +356,6 @@ Boarding House: Any dwelling in which more than three persons, but not more than
 ten (10) persons, either individually or as families, are housed or lodged for hire with
 or without meals. A rooming house or a furnished room house shall be deemed a
 boarding house.
-
-
-## Page 010
 
 Building: Any structure, either temporary or permanent, having walls and a roof or
 other covering, and designed or used for the shelter or enclosure of any person, animal
@@ -428,11 +401,6 @@ as cabins, tents, or shelters.
 Type 2 - Any land and buildings thereon, used for any assembly of persons for
 which is commonly known as “day camp” purposes, whether or not conducted
 
-9
-
-
-## Page 011
-
 for profit or whether occupied by adults or children, either as individuals,
 families, or groups.
 
@@ -472,11 +440,6 @@ confine and conduct continuously or periodically flowing water.
 Child Day Care Center: A Pennsylvania licensed and/or registered facility which care
 is provided or is intended to be provided for seven (7) or more children at any age of at
 any time.
-
-10
-
-
-## Page 012
 
 Child Day Care Home: A State licensed and/or registered single-family dwelling in
 which child day care is provided at any time for not more than seven (7) children under
@@ -522,11 +485,6 @@ of maps, charts, and textual material, that constitutes a policy guide to decisi
 the physical and social development of Fayette Township, as amended from the time to
 time.
 
-11
-
-
-## Page 013
-
 Conditional Use: A use which may not be appropriate to a particular zoning district as
 a whole, but which may be suitable in certain localities within the district only when
 specific conditions and criteria prescribed for such uses have been complied with.
@@ -570,11 +528,6 @@ Court, Outer: A court enclosed on not more than three sides by exterior walls an
 
 lines on which walls are allowable, with one side or end open to a street, driveway,
 alley or yard.
-
-12
-
-
-## Page 014
 
 Coverage: That portion or percentage of the plot or lot area covered by the building
 area.
@@ -621,11 +574,6 @@ Developmentally Disabled Person: A person with a developmental disability.
 Dog Kennel: An establishment for the sheltering of four (4) or more dogs that are
 more than six (6) months old.
 
-13
-
-
-## Page 015
-
 Domiciliary Care Unit: An existing building or structure designed for a dwelling unit
 for one family which provides 24-hour supervised living arrangements by the family
 residing therein for not more than two (2) unrelated persons eighteen (18) years of age
@@ -666,11 +614,6 @@ separated from any other building or structure by space on all sides.
 3. Single-Family Semi-Detached - Two dwelling units accommodating two families
 which are attached side by side through the use of a party wall, and having one side
 yard adjacent to each dwelling unit.
-
-14
-
-
-## Page 016
 
 4. Two-family Detached - Two dwelling units accommodating two families which are
 located one over the other and having two (2) side yards.
@@ -714,11 +657,6 @@ or modifying its characteristics to meet the needs of the general public.
 
 Facade: The front of a building; part of a building facing a street, courtyard, etc.
 
-15
-
-
-## Page 017
-
 Family: One (1) or more persons related by blood, adoption or marriage, living and
 cooking together as a single housekeeping unit, exclusive of household servants. A
 number of persons not exceeding two (2) living and cooking together as a single
@@ -749,17 +687,12 @@ embankments, and causeways.
 
 Floodplain: A floodplain is defined and established to be the low area adjoining and
 including any water or drainage course or body of water subject to periodic flooding or
-overflow as further defined in Article IX of this Ordinance.
+overflow as further defined in [Article IX](#article-ix) of this Ordinance.
 
 Floor Area of a Building: The sum of the gross horizontal areas of the several floors of
 a building and its accessory building on the same lot, excluding cellar and basement
 floor areas not devoted to residential use, but including the area of roofed porches and
 roofed terraces. All dimensions shall be measured between exterior faces of walls.
-
-16
-
-
-## Page 018
 
 Floor Area, Habitable: The aggregate of the horizontal areas of all rooms used for
 habitation, such as living room, dining room, kitchen, bedroom, but not including
@@ -799,11 +732,6 @@ as shown on official plans or designs relating thereto.
 Greenhouse: A glass, plastic or other clear, or opaque substance-enclosed room or
 building for growing plants for commercial sale that need an even, usually warm
 temperature.
-
-17
-
-
-## Page 019
 
 Group Home: A dwelling designed for a group of mentally and/or physically disabled
 persons living and cooking together in a single dwelling unit. The maximum number of
@@ -846,11 +774,6 @@ Home Gardening: The cultivation of herbs, fruits, flowers or vegetables on a pie
 ground adjoining the dwelling, excluding the keeping of livestock, and permitting the
 sale of produce raised thereon.
 
-18
-
-
-## Page 020
-
 Home Occupation: Any use customarily conducted entirely within a dwelling or in a
 building accessory thereto and carried on by the inhabitants residing therein, providing
 that the use is clearly incidental and secondary to the use of the dwelling for dwelling
@@ -890,11 +813,6 @@ that shall not be operable under its own power for any reason, or a vehicle that
 have a valid current registration plate or that has a certificate of inspection which is
 more than sixty (60) days beyond the expiration date). This will except farm equipment
 utilized in farming operations.
-
-19
-
-
-## Page 021
 
 Junk Yard: An area of land, with or without buildings, used for the storage, outside a
 completely enclosed building, of used and discarded materials, including, but not
@@ -943,10 +861,6 @@ translucent cover or shade.
 
 2. Direct or Flood - That form of lighting wherein the source is visible and the light is
 distributed directly from it to the object to be illuminated.
-20
-
-
-## Page 022
 
 3. Indirect - That form of lighting wherein the light source is entirely hidden, the light
 being projected to a suitable reflector from which it is reflected to the object to be
@@ -986,14 +900,9 @@ Mobilehome: Any structure intended for, or capable of, permanent human habitatio
 with or without wheels, and capable of being transported or towed from one place to
 the next, in one or more pieces, by whatsoever name or title it is colloquially or
 commercially known, but travel trailers. Mobile homes placed in parks shall meet the
-requirements for mobile home parks listed in Section 1115 of this Ordinance. Mobile
+requirements for mobile home parks listed in [Section 1115](#section-1115) of this Ordinance. Mobile
 homes placed on individual lots shall be considered “dwellings,” and be bound by the
 requirements there-imposed. For the purposes of this Ordinance, any travel trailer, as
-
-21
-
-
-## Page 023
 
 defined herein, that is contained on the same parcel for more than one hundred eighty
 (180) days in any calendar year shall be considered a mobile home.
@@ -1038,11 +947,6 @@ design or performance standard specified by this Ordinance, where such dimension
 non-conformity lawfully existed prior to the adoption of this Ordinance or amendment
 thereto.
 
-22
-
-
-## Page 024
-
 Nursing or Convalescent Home: Any dwelling with less than fifteen (15) sleeping
 rooms where persons are housed or lodged and furnished with meals and nursing care
 for hire.
@@ -1085,11 +989,6 @@ conducted as a private gainful business.
 Parks, Public and/or Non-Profit: Those facilities designed and used for recreation
 purposes by the general public that are (1) owned and operated by a government or
 governmental agency/authority, or (2) are operated on a nonprofit basis. This
-
-23
-
-
-## Page 025
 
 definition is meant to include the widest range of recreational activities, excluding adult
 entertainment uses, and amusement arcades.
@@ -1135,11 +1034,6 @@ Restaurant, Drive-In: A building designed for the preparation of food to be cons
 by and served to the general public within the structure or outside of the structure.
 Differentiated from a restaurant in that no table service is offered, and wrapping,
 
-24
-
-
-## Page 026
-
 covering and/or packaging food is specialized to facilities off-premises consumption of
 food.
 
@@ -1183,11 +1077,6 @@ Services, Essential: Uses, not enclosed within a building, necessary for the
 preservation of the public health and safety including, but not limited to, the erection,
 construction, alteration or maintenance of, by public utilities or governmental agencies,
 
-25
-
-
-## Page 027
-
 underground or overhead transmission systems, poles, wires, pipes, cables, fire alarms
 boxes, hydrants, or other similar equipment.
 
@@ -1229,11 +1118,6 @@ hire, remuneration or sale.
 
 Stoop: A covered or uncovered area at a front, side or rear door not exceeding four (4)
 feet by five (5) feet or twenty (20) square feet in area.
-
-26
-
-
-## Page 028
 
 Story: That portion of a building included between the surface of any floor and the
 surface of the floor next above it, or if there be no floor above it, then the space
@@ -1282,11 +1166,6 @@ and bounds into lots or parcels two or more in number, for the purpose of convey
 transfer, improvement or sale. The appurtenant roads, streets, lanes, alleys, and ways
 dedicated or intended to be dedicated to public uses, or the use of purchasers or owners
 
-27
-
-
-## Page 029
-
 of lots fronting thereon are included. The word “subdivision” includes the word
 
 ancs
@@ -1331,11 +1210,6 @@ as a temporary dwelling for travel, recreational, and vacation uses, permanently
 identified “Travel Trailer” by the manufacturer on the trailer. Unoccupied travel
 trailers do not constitute mobilehomes, as used in this Ordinance.
 
-28
-
-
-## Page 030
-
 Use: The specific purpose for which land or a building is designed, arranged,
 intended, or for which it is or may be occupied or maintained. The term “permitted
 use” or its equivalent shall not be deemed to include any non-conforming use.
@@ -1378,11 +1252,6 @@ required natural light, natural ventilation or both to an interior space, the gl
 of a door in an exterior wall may be construed to be a window in regard to provision of
 natural light.
 
-29
-
-
-## Page 031
-
 Yard: An unoccupied space open to the sky, on the same lot with a building or
 structure.
 
@@ -1416,16 +1285,13 @@ enforce this Ordinance in accordance with its literal terms.
 
 Zoning Ordinance: The “Fayette Township Zoning Ordinance.”
 
-30
+<a id="article-iii"></a>
+## Article III — Designation of Districts
 
+*(OCR misread as "ARTICLE II" in the scan — confirmed by Section 301 numbering)*
 
-## Page 032
-
-ARTICLE III *(OCR misread as "ARTICLE II" in the scan — confirmed by Section 301 numbering)*
-
-DESIGNATION OF DISTRICTS
-
-Section 301 - General Districts
+<a id="section-301"></a>
+### Section 301 - General Districts
 
 For the purposes of this Ordinance, the Township of Fayette is hereby divided
 into six (6) types of Districts, which shall be designed as follows:
@@ -1441,13 +1307,15 @@ I - Industrial District
 
 FP - Floodplain District
 
-Section 302 - Zoning Map
+<a id="section-302"></a>
+### Section 302 - Zoning Map
 
 The boundaries of said Districts should be shown upon the map made a part of
 this Ordinance, which shall be designated as the Official Zoning Map. The map and all
 notations, are referenced into this Ordinance as if they were fully described herein.
 
-Section 303 - District Boundaries
+<a id="section-303"></a>
+### Section 303 - District Boundaries
 
 Where uncertainly exists as to boundaries of any District as shown on said map,
 the following rules shall apply:
@@ -1463,44 +1331,37 @@ approximately follows lot lines, and where it does not scale more than ten
 (10) feet therefrom, such lot lines shall be construed to be such boundaries
 unless specifically shown otherwise.
 
-31
-
-
-## Page 033
-
 3. Where a District boundary divides a lot held in a single separate ownership
 prior to the effective date of this Ordinance spacing seventy-five (75) percent
 or more of the lot area in a particular district, the location of such District
 boundary may be construed to include the remaining twenty-five (25)
 percent or less of the lot so divided.
 
-Section 304 - Interpretation of Boundaries
+<a id="section-304"></a>
+### Section 304 - Interpretation of Boundaries
 
 In case of any uncertainty, the Zoning Hearing Board shall interpret the intent of the
 map as to location of District boundaries.
 
-32
+<a id="article-iv"></a>
+## Article IV — RA - Rural Agricultural District
 
-
-## Page 034
-
-ARTICLE IV
-
-RA - RURAL AGRICULTURAL DISTRICT
-
-Section 401 - Purpose
+<a id="section-401"></a>
+### Section 401 - Purpose
 
 The purpose of the Rural Agricultural District (RA) is to (1) identify those areas where
 agricultural activities should be encouraged or preserved, and (2) provide for the preservation
 of natural, unpolluted drainageways, protection from flooding and high-water tables,
 preservations of open space, and conservation of the natural environment and natural resources
 while providing for such uses and development as are compatible with these objectives.
-Section 402 - Permitted Uses
+<a id="section-402"></a>
+### Section 402 - Permitted Uses
 
 The chart on the following page refers to the uses permitted in a Rural Agricultural
 (RA) District. Uses not specifically mentioned shall be considered as special exceptions,
 requiring the approval of a Zoning Hearing Board.
-Section 403 - Area Regulations
+<a id="section-403"></a>
+### Section 403 - Area Regulations
 
 The chart on the following page refers to the minimum area and bulk requirements.
 
@@ -1523,25 +1384,23 @@ shall be no closer than one hundred (100) feet to any public right-of-way nor fi
 hundred (500) feet to a residential district, except as noted under provisions of
 Commercial Livestock Operations.
 
-33
-
-
-## Page 035
-
 8. Buildings housing livestock (including dog kennels) poultry, or mushroom culture,
 shall be no closer than one hundred (100) feet to any public right-of-way nor five
 hundred (500) feet of a building of like use owned by a different party, except as
 noted under provisions of Commercial Livestock Operations.
 
-Section 404 - Off-Street Parking
+<a id="section-404"></a>
+### Section 404 - Off-Street Parking
 
-See Article XII.
+See [Article XII](#article-xii).
 
-Section 405 - Sign Regulations
+<a id="section-405"></a>
+### Section 405 - Sign Regulations
 
-See Article XII.
+See [Article XII](#article-xii).
 
-Section 406 — Required Conservation Plan
+<a id="section-406"></a>
+### Section 406 - Required Conservation Plan
 
 Any agricultural, horticultural or forestry related uses which involve earthmoving activities, or
 the commercial harvesting or timbering of vegetation shall require the obtainment of an
@@ -1550,23 +1409,22 @@ approved conservation plan by the Juniata County Conservation District pursuant 
 Protection. All on-site activities shall then be in compliance with the approved conservation
 plan.
 
-Section 407 - Driveways and Access Drives
+<a id="section-407"></a>
+### Section 407 - Driveways and Access Drives
+
 All driveways serving single-family dwellings shall be in accordance with this Ordinance. All
 access drives serving other uses shall be in accordance with this Ordinance. All lanes
 exclusively serving agricultural, horticultural and/or forestry related activities shall be exempt
 from driveway and access drive requirements.
 
-Section 408
+<a id="section-408"></a>
+### Section 408
 
 All uses permitted within this Zone shall also comply with the Supplemental Regulations
-contained within Article X of this Ordinance.
+contained within [Article X](#article-x) of this Ordinance.
 
-34
-
-
-## Page 036
-
-Section 409 - Agricultural Nuisance Disclaimer
+<a id="section-409"></a>
+### Section 409 - Agricultural Nuisance Disclaimer
 
 All lands within the Agricultural Zone are located within an area where land may be used for
 normal or commercial agricultural production. Owners, residents and other users of this
@@ -1580,11 +1438,6 @@ agricultural operations, and are hereby put on official notice that Section 4 of
 Act 133 of 1982 “The Right to Farm Law” may bar them from obtaining a legal judgment
 against such normal agricultural operations.
 
-35
-
-
-## Page 037
-
 **Table: RA — Rural Agricultural District, Dimensional & Use Regulations**
 
 | Use # | RA – Agricultural | Front Yard (min, ft) | Rear Yard (min, ft) | Side Yard (min, ft) | Lot Size — Public Water & Public Sewer (min) | Street Frontage — Public Water & Public Sewer (min) | Lot Size — Public Water or Public Sewer (min) | Street Frontage — Public Water or Public Sewer (min) | Lot Size — No Public Water or Sewer (min) | Street Frontage — No Public Water or Sewer (min) |
@@ -1596,10 +1449,10 @@ against such normal agricultural operations.
 | 4. | Dog Kennels | 50 | 100 | 100 | 2.5 ac. | 125 ft. | 2.5 ac. | 125 ft. | 2.5 ac. | 125 ft. |
 | 5. | Grange Halls & Similar Uses | 50 | 100 | 100 | 2.5 ac. | 125 ft. | 2.5 ac. | 125 ft. | 2.5 ac. | 125 ft. |
 | 6. | Single-Family Detached Dwellings | 35 | 35 | 10 | 20,000 sq. ft. | 100 ft. | 30,000 sq. ft. [^ra37-1] | 125 ft. [^ra37-1] | 1 ac. [^ra37-2] | 150 ft. |
-| 7. | Home Occupations | — | — | — | Refer to Definition, Article II | — | — | — | — | — |
+| 7. | Home Occupations | — | — | — | Refer to Definition, [Article II](#article-ii) | — | — | — | — | — |
 | | | | | | **CONDITIONAL USES** | | | | | |
 | 8. | Appropriate Public Uses | 35 | 40 | 20 | 1 ac. | 100 ft. | 2 ac. | 125 ft. | 2.5 ac. | 125 ft. |
-| 9. | Roadside Stands | — | — | — | Refer to Definition | — | — | — | — | — |
+| 9. | Roadside Stands | — | — | — | Refer to Definition, [Article II](#article-ii) | — | — | — | — | — |
 | 10. | Private Parks and Recreation Areas | 50 | 100 | 100 | 5 ac. | 200 ft. | 5 ac. | 200 ft. | 5 ac. | 200 ft. |
 | 11. | Natural Resource Extraction | 100 | 200 | 200 | 20 ac. | 400 ft. | 20 ac. | 300 ft. | 20 ac. | 400 ft. |
 | 12. | Junkyards | 100 | 200 | 200 | 20 ac. | 400 ft. | 20 ac. | 400 ft. | 20 ac. | 400 ft. |
@@ -1608,54 +1461,39 @@ against such normal agricultural operations.
 | 15. | Child Day Care Homes | 35 | 35 | 10 | 20,000 sq. ft. | 100 ft. | 30,000 sq. ft. | 125 ft. | 1 ac. | 150 ft. |
 | 16. | Bed and Breakfast Inns | 35 | 35 | 10 | 20,000 sq. ft. | 100 ft. | 30,000 sq. ft. | 125 ft. | 1 ac. | 150 ft. |
 | 17. | Commercial Livestock Operations | 50 | 100 | 100 | 50 ac.* | 200 ft. | 50 ac.* | 200 ft. | 50 ac.* | 200 ft. |
+| 18. | Commercial Produce Operations | 50 | 100 | 100 | 50 ac. | 200 ft. | 50 ac. | 200 ft. | 50 ac. | 200 ft. |
+| 19. | Manure Storage Facilities | — | — | — | Refer to Definition, [Article II](#article-ii) | — | — | — | — | — |
 
-*Rows 9 and 7 note "Refer to Definition"/"Refer to Definition, Article II" across the last six columns rather than numeric values.*
+\* Refer to paragraph 1011.2 (Commercial Livestock Operations, see [Article X](#article-x)).
 
 [^ra37-1]: In the original document, the printed values "20,000 sq. ft." / "100 ft." in this cell are struck through and hand-corrected to "30,000 sq. ft." / "125 ft." — transcribed here as the corrected (handwritten) figures. Verify against the official recorded ordinance.
 [^ra37-2]: The "No Public Water or Public Sewer" lot-size figure for this row carries a handwritten mark that is not fully legible (appears to read approximately "1 ac.," possibly amended). Verify against the official recorded ordinance or the source image below before relying on this figure.
 
-**Source image (upright):**
+**Source images (upright):**
 
-![RA — Rural Agricultural District table, page 37](zoning-district-tables/RA-Rural-Agricultural-table-p37.jpg)
+![RA — Rural Agricultural District table, part 1](zoning-district-tables/RA-Rural-Agricultural-table-p37.jpg)
 
-Full-resolution file: [`zoning-district-tables/RA-Rural-Agricultural-table-p37.jpg`](zoning-district-tables/RA-Rural-Agricultural-table-p37.jpg)
+![RA — Rural Agricultural District table, part 2 (rows 18–19)](zoning-district-tables/RA-Rural-Agricultural-table-p38-cont.jpg)
 
+Full-resolution files: [`RA-Rural-Agricultural-table-p37.jpg`](zoning-district-tables/RA-Rural-Agricultural-table-p37.jpg), [`RA-Rural-Agricultural-table-p38-cont.jpg`](zoning-district-tables/RA-Rural-Agricultural-table-p38-cont.jpg)
 
-## Page 038
+<a id="article-v"></a>
+## Article V — F - Forest District
 
-**Table: RA — Rural Agricultural District, Dimensional & Use Regulations (continued)**
-
-| Use # | RA – Agricultural | Front Yard (min, ft) | Rear Yard (min, ft) | Side Yard (min, ft) | Lot Size — Public Water & Public Sewer (min) | Street Frontage — Public Water & Public Sewer (min) | Lot Size — Public Water or Public Sewer (min) | Street Frontage — Public Water or Public Sewer (min) | Lot Size — No Public Water or Sewer (min) | Street Frontage — No Public Water or Sewer (min) |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 18. | Commercial Produce Operations | 50 | 100 | 100 | 50 ac. | 200 ft. | 50 ac. | 200 ft. | 50 ac. | 200 ft. |
-| 19. | Manure Storage Facilities | — | — | — | Refer to Definition | — | — | — | — | — |
-
-\* Refer to paragraph 1011.2
-
-**Source image (upright):**
-
-![RA — Rural Agricultural District table, page 38 continued](zoning-district-tables/RA-Rural-Agricultural-table-p38-cont.jpg)
-
-Full-resolution file: [`zoning-district-tables/RA-Rural-Agricultural-table-p38-cont.jpg`](zoning-district-tables/RA-Rural-Agricultural-table-p38-cont.jpg)
-
-
-## Page 039
-
-ARTICLE V
-
-F - FOREST DISTRICT
-
-Section 501 - Purpose
+<a id="section-501"></a>
+### Section 501 - Purpose
 
 The purpose of the F - Forest District is to encourage the preservation and conservation
 of the natural resources by providing reasonable standards for the development and use of
 land.
-Section 502 - Permitted Uses
+<a id="section-502"></a>
+### Section 502 - Permitted Uses
 
 The chart on the following page refers to the uses permitted in a Forest District. Uses
 not specifically cited shall be considered as special exceptions, requiring the approval of the
 Zoning Hearing Board.
-Section 503 - Area Regulations
+<a id="section-503"></a>
+### Section 503 - Area Regulations
 
 The chart on the following page refers to the minimum area and bulk requirements.
 
@@ -1670,19 +1508,18 @@ measured as an arc with a 50 foot radius originating at the rear property corner
 
 5. No lot shall be covered by more than twelve (12) percent with impervious surfaces.
 
-Section 504 - Off-Street Parking
+<a id="section-504"></a>
+### Section 504 - Off-Street Parking
 
 See Article XHI.
 
-Section 505 - Signs
-See Article XII.
+<a id="section-505"></a>
+### Section 505 - Signs
 
-38
+See [Article XII](#article-xii).
 
-
-## Page 040
-
-Section 506 - Required Conservation Plan
+<a id="section-506"></a>
+### Section 506 - Required Conservation Plan
 
 Any agricultural, horticultural or forestry related uses which involves earthmoving activities,
 or the commercial harvesting or timbering of vegetation shall require the obtainment of an
@@ -1691,12 +1528,14 @@ approved conservation plan by the Juniata County Conservation District pursuant 
 Protection. All on-site activities shall then be in compliance with the approved conservation
 plan.
 
-Section 507
+<a id="section-507"></a>
+### Section 507
 
 All uses permitted within this Zone shall also comply with the Supplemental Regulations
-contained within Article X of this Ordinance.
+contained within [Article X](#article-x) of this Ordinance.
 
-Section 508 - Agricultural Nuisance Disclaimer
+<a id="section-508"></a>
+### Section 508 - Agricultural Nuisance Disclaimer
 
 All lands within the Forest District Zone are located within an area where land may be used
 for agricultural production. Owners, residents, and other users of this property may be
@@ -1709,11 +1548,6 @@ inconveniences, discomfort and possibility of injury from normal agricultural op
 are hereby put on official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right
 of Farm Law” may bar them from obtaining a legal judgement against such normal agricultural
 operations.
-
-39
-
-
-## Page 041
 
 **Table: F — Forest District, Dimensional & Use Regulations**
 
@@ -1728,7 +1562,7 @@ operations.
 | 6. | Public and Private Parks & Recreation Areas | 50 | 100 | 100 | 5 ac. | 200 ft. | 5 ac. | 200 ft. | 5 ac. | 200 ft. |
 | 7. | House of Worship | 35 | 40 | 15 | 20,000 sq. ft. | 100 ft. | 30,000 sq. ft. | 125 ft. | 2 ac. | 150 ft. |
 | 8. | Radio, TV Transmission & Receiving | 35 | 30 | 10 | 10,000 sq. ft. | 80 ft. | 10,000 sq. ft. | 80 ft. | 10,000 sq. ft. | 80 ft. |
-| 9. | Home Occupations | — | — | — | See Definitions, Article II | — | — | — | — | — |
+| 9. | Home Occupations | — | — | — | See Definitions, [Article II](#article-ii) | — | — | — | — | — |
 | 10. | Accessory Buildings to Above Uses | | | | | | | | | |
 | 11. | Forest Industries | 100 | 200 | 200 | 5 ac. | 200 ft. | 5 ac. | 200 ft. | 5 ac. | 200 ft. |
 | | | | | | **CONDITIONAL USES** | | | | | |
@@ -1747,28 +1581,28 @@ operations.
 
 Full-resolution file: [`zoning-district-tables/Forest-District-table-p41.jpg`](zoning-district-tables/Forest-District-table-p41.jpg)
 
+<a id="article-vi"></a>
+## Article VI — R-1 - Residential District
 
-## Page 042
+<a id="section-600"></a>
+### Section 600
 
-ARTICLE VI
-
-R-1 - RESIDENTIAL DISTRICT
-
-Section 600 -
-
-Section 601 - Purpose
+<a id="section-601"></a>
+### Section 601 - Purpose
 
 The purpose of the R-1 Residential District is to provide for the orderly expansion of
 residential development in those areas where public services are adequate and to exclude uses
 not compatible with such residential development.
 
-Section 602 - Permitted Uses
+<a id="section-602"></a>
+### Section 602 - Permitted Uses
 
 The chart on the following page refers to the uses permitted in a Residential District.
 Uses not specifically mentioned shall be considered special exceptions, requiring the approval
 of a Zoning Hearing Board.
 
-Section 603 - Area Regulations
+<a id="section-603"></a>
+### Section 603 - Area Regulations
 
 The chart on the following page refers to the minimum area and bulk requirements.
 
@@ -1792,28 +1626,30 @@ measured as an arc with a 35 foot radius originating at the rear property corner
 
 4]
 
+<a id="section-604"></a>
+### Section 604 - Off-Street Parking
 
-## Page 043
+See [Article XIII](#article-xiii).
 
-Section 604 - Off-Street Parking
+<a id="section-605"></a>
+### Section 605 - Sign Regulations
 
-See Article XIII.
+See [Article XII](#article-xii).
 
-Section 605 - Sign Regulations
-
-See Article XII.
-
-Section 606 - Driveways and Access Drives
+<a id="section-606"></a>
+### Section 606 - Driveways and Access Drives
 
 All driveways serving single-family dwellings shall be in accordance with this Ordinance. All
 access drives serving other uses shall be in accordance with this Ordinance.
 
-Section 607
+<a id="section-607"></a>
+### Section 607
 
 All uses permitted within this Zone shall also comply with the Supplemental Regulations
-contained within Article X of this Ordinance.
+contained within [Article X](#article-x) of this Ordinance.
 
-Section 608 - Agricultural Nuisance Disclaimer
+<a id="section-608"></a>
+### Section 608 - Agricultural Nuisance Disclaimer
 
 All lands within the Residential Zone are located within an area where land may be used for
 agricultural production. Owners, residents, and other users of this property may be subjected
@@ -1826,11 +1662,6 @@ discomfort and possibility of injury from normal agricultural operations, and ar
 official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right of Farm Law”
 may bar them from obtaining a legal judgement against such normal agricultural operations.
 
-42
-
-
-## Page 044
-
 **Table: R — Residential District, Dimensional & Use Regulations**
 
 | Use # | R – Residential | Front Yard (min, ft) | Rear Yard (min, ft) | Side Yard (min, ft) | Lot Size — Public Water & Public Sewer (min) | Street Frontage — Public Water & Public Sewer (min) | Lot Size — Public Water or Public Sewer (min) | Street Frontage — Public Water or Public Sewer (min) | Lot Size — No Public Water or Sewer (min) | Street Frontage — No Public Water or Sewer (min) |
@@ -1842,59 +1673,46 @@ may bar them from obtaining a legal judgement against such normal agricultural o
 | 4. | Two-Family Detached Dwellings | 35 | 35 | 10 | 4,000 sq. ft./dwelling unit | 30 dwelling units | 8,000 sq. ft. | 60 ft./dwelling unit | 1 ac./dwelling unit | 150 ft./dwelling unit |
 | 5. | Two-Family Semi-Detached Dwellings | 35 | 35 | 10 | 4,000 sq. ft./dwelling unit | 30 dwelling units | 8,000 sq. ft. | 60 ft./dwelling unit | Not permitted | Not permitted |
 | 6. | Agricultural & Horticultural Uses * | 50 | 100 | 100 | 10 ac. | 300 ft. | 10 ac. | 300 ft. | 10 ac. | 300 ft. |
-| 7. | Accessory Uses to the Above Uses | — | — | — | See Definition, Article II | — | — | — | — | — |
-
-\* Excluding Commercial Livestock and Commercial Produce Operations
-
-**Source image (upright):**
-
-![R — Residential District table, page 43](zoning-district-tables/R1-Residential-table-p44.jpg)
-
-Full-resolution file: [`zoning-district-tables/R1-Residential-table-p44.jpg`](zoning-district-tables/R1-Residential-table-p44.jpg)
-
-
-## Page 045
-
-**Table: R — Residential District, Dimensional & Use Regulations (continued)**
-
-| Use # | R – Residential | Front Yard (min, ft) | Rear Yard (min, ft) | Side Yard (min, ft) | Lot Size — Public Water & Public Sewer (min) | Street Frontage — Public Water & Public Sewer (min) | Lot Size — Public Water or Public Sewer (min) | Street Frontage — Public Water or Public Sewer (min) | Lot Size — No Public Water or Sewer (min) | Street Frontage — No Public Water or Sewer (min) |
-|---|---|---|---|---|---|---|---|---|---|---|
+| 7. | Accessory Uses to the Above Uses | — | — | — | See Definition, [Article II](#article-ii) | — | — | — | — | — |
 | | | | | | **CONDITIONAL USES** | | | | | |
 | 8. | Appropriate Public Uses | 35 | 40 | 15 | 20,000 sq. ft. | 100 ft. | 30,000 sq. ft. | 125 ft. | 1 ac. | 150 ft. |
 | 9. | Apartment Dwellings | 35 | 35 | 10 | 4,000 sq. ft./dwelling unit | 60 ft. | 8,000 sq. ft./dwelling unit | 60 ft. | Not permitted | Not permitted |
 | 10. | Mobilehome Parks | 50 | 100 | 100 | 10 ac. | 300 ft. | 10 ac. | 300 ft. | Not permitted | Not permitted |
-| 11. | Roadside Stands | — | — | — | See Definition, Article II | — | — | — | — | — |
+| 11. | Roadside Stands | — | — | — | See Definition, [Article II](#article-ii) | — | — | — | — | — |
 | 12. | Home Occupations | 35 | 35 | 8 | 4,000 sq. ft. | 30 ft. | 8,000 sq. ft. | 60 ft. | 1 ac. | 150 ft. |
 | 13. | Public/Private Parks & Recreation Areas | 50 | 100 | 100 | 2.5 ac. | 200 ft. | 2.5 ac. | 200 ft. | 2.5 ac. | 200 ft. |
 | 14. | Child Day Care Homes | 35 | 35 | 8 | 4,000 sq. ft. | 30 ft. | 8,000 sq. ft. | 60 ft. | 1 ac. | 150 ft. |
 | 15. | Bed & Breakfast Inns | 35 | 35 | 8 | 7,500 sq. ft. | 60 ft. | 15,000 sq. ft. | 75 ft. | 1 ac. | 150 ft. |
 
-**Source image (upright):**
+\* Excluding Commercial Livestock and Commercial Produce Operations
 
-![R — Residential District table, page 44 continued](zoning-district-tables/R1-Residential-table-p45-cont.jpg)
+**Source images (upright):**
 
-Full-resolution file: [`zoning-district-tables/R1-Residential-table-p45-cont.jpg`](zoning-district-tables/R1-Residential-table-p45-cont.jpg)
+![R — Residential District table, part 1](zoning-district-tables/R1-Residential-table-p44.jpg)
 
+![R — Residential District table, part 2 (rows 8–15)](zoning-district-tables/R1-Residential-table-p45-cont.jpg)
 
-## Page 046
+Full-resolution files: [`R1-Residential-table-p44.jpg`](zoning-district-tables/R1-Residential-table-p44.jpg), [`R1-Residential-table-p45-cont.jpg`](zoning-district-tables/R1-Residential-table-p45-cont.jpg)
 
-ARTICLE VII
+<a id="article-vii"></a>
+## Article VII — C - Commercial District
 
-C - COMMERCIAL DISTRICT
-
-Section 701 - Purpose
+<a id="section-701"></a>
+### Section 701 - Purpose
 
 The purpose of the C - Commercial District is to provide for the orderly development
 of those uses necessary to meet the community and regional need for general goods and
 services, and to provide for anticipated future needs.
 
-Section 702 — Permitted Uses
+<a id="section-702"></a>
+### Section 702 - Permitted Uses
 
 The chart on the following page refers to the uses permitted in a Commercial District.
 Uses not specifically mentioned shall be considered special exceptions, requiring the approval
 of a Zoning Hearing Board.
 
-Section 703 - Area Regulations
+<a id="section-703"></a>
+### Section 703 - Area Regulations
 
 1.
 
@@ -1919,15 +1737,11 @@ on-lot sewage system according to Township and PADEP requirements.
 When adjacent to residential uses, screen plantings and buffer yards must be
 provided in accordance with Township requirements.
 
-45
-
-
-## Page 047
-
 6. All commercial property must have frontage on public roads. Any commercial
 property will be the total acreage of that parcel.
 
-Section 704 - Screen Planting
+<a id="section-704"></a>
+### Section 704 - Screen Planting
 
 Screen Planting: Where adjacent to land zoned for residential use or used for
 residential purposes, screen planting is required to screen the commercial use and storage of
@@ -1936,90 +1750,75 @@ high enough to provide screening, and/or the provision and maintenance of solid 
 the form of contiguous evergreen shrubs. Evergreen trees or shrubs shall be at least four (4)
 feet in height at the time of planting and setback at least ten (10) feet from any property line.
 Such planting will be of a variety that will attain a height of eight (8) feet.
-Section 705 - Off-Street Parking Regulations
+<a id="section-705"></a>
+### Section 705 - Off-Street Parking Regulations
 
-See Article XIII.
+See [Article XIII](#article-xiii).
 
-Section 706 - Sign Regulations
+<a id="section-706"></a>
+### Section 706 - Sign Regulations
 
-See Article XII.
+See [Article XII](#article-xii).
 
-Section 707 - Performance Standards
+<a id="section-707"></a>
+### Section 707 - Performance Standards
 
-See Article X, Section 1002.
-
-46
-
-
-## Page 048
+See [Article X](#article-x), [Section 1002](#section-1002).
 
 **Table: C — Commercial District, Dimensional & Use Regulations**
 
 | Use # | C – Commercial | Front Yard (min) | Rear Yard (min) | Side Yard (min) | Lot Size — Public Water & Public Sewer (min) | Street Frontage — Public Water & Public Sewer (min) | Lot Size — Public Water or Public Sewer (min) | Street Frontage — Public Water or Public Sewer (min) | Lot Size — No Public Water or Sewer (min) | Street Frontage — No Public Water or Sewer (min) |
 |---|---|---|---|---|---|---|---|---|---|---|
 | | | | | | **PERMITTED USES** | | | | | |
-| 1. | Retail Stores | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 2. | Personal Services | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 3. | Professional Offices | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 4. | Mortuaries and Undertaking Establishments | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 5. | Drive-In Establishments | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 6. | Restaurants | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 7. | Indoor Recreation Facilities | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 8. | Membership Clubs and Lodges | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 9. | Motels, Hotels and Boarding Houses | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 10. | Automobile Service Stations | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 11. | Automobile/Trailer Sales | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
-| 12. | Farm Equipment Sales and Service | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
+| 1. | Retail Stores | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 2. | Personal Services | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 3. | Professional Offices | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 4. | Mortuaries and Undertaking Establishments | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 5. | Drive-In Establishments | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 6. | Restaurants | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 7. | Indoor Recreation Facilities | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 8. | Membership Clubs and Lodges | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 9. | Motels, Hotels and Boarding Houses | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 10. | Automobile Service Stations | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 11. | Automobile/Trailer Sales | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
+| 12. | Farm Equipment Sales and Service | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
 | 13. | Single-Family Detached Dwellings | 35 ft. | 35 ft. | 10 ft. | 7,500 sq. ft. | 60 ft. | 15,000 sq. ft. | 75 ft. | 1 ac. | 150 ft. |
 | 14. | Single-Family Semi-Detached Dwellings | 35 ft. | 35 ft. | 10 ft. (1/unit) | 4,000 sq. ft./dwelling unit | 30 ft./dwelling unit | 8,000 sq. ft./dwelling unit | 60 ft./dwelling unit | 1 ac./dwelling unit | 150 ft./dwelling unit |
-
-Note: "See Section 703" spans the minimum lot size/street frontage columns for Uses 1–12 in the source table (a single cell reading "See Section 703").
-
-**Source image (upright):**
-
-![C — Commercial District table, page 47](zoning-district-tables/Commercial-District-table-p48.jpg)
-
-Full-resolution file: [`zoning-district-tables/Commercial-District-table-p48.jpg`](zoning-district-tables/Commercial-District-table-p48.jpg)
-
-
-## Page 049
-
-**Table: C — Commercial District, Dimensional & Use Regulations (continued)**
-
-| Use # | C – Commercial | Front Yard (min) | Rear Yard (min) | Side Yard (min) | Lot Size — Public Water & Public Sewer (min) | Street Frontage — Public Water & Public Sewer (min) | Lot Size — Public Water or Public Sewer (min) | Street Frontage — Public Water or Public Sewer (min) | Lot Size — No Public Water or Sewer (min) | Street Frontage — No Public Water or Sewer (min) |
-|---|---|---|---|---|---|---|---|---|---|---|
 | 15. | Child Day Care Centers | 50 ft. | 50 ft. | 25 ft. | 15,000 sq. ft. | 100 ft. | 20,000 sq. ft. | 125 ft. | 30,000 sq. ft. | 150 ft. |
-| 16. | Accessory Uses to the Above Uses | — | — | — | See Definition, Article II | — | — | — | — | — |
+| 16. | Accessory Uses to the Above Uses | — | — | — | See Definition, [Article II](#article-ii) | — | — | — | — | — |
 | | | | | | **CONDITIONAL USES** | | | | | |
-| 17. | Appropriate Public Uses | 35 ft. | 35 ft. | 10 ft. | See Section 703 | — | — | — | — | — |
+| 17. | Appropriate Public Uses | 35 ft. | 35 ft. | 10 ft. | See [Section 703](#section-703) | — | — | — | — | — |
 | 18. | Apartment Dwellings | 35 ft. | 35 ft. | 10 ft. | 4,000 sq. ft./dwelling unit | 30 ft./dwelling unit | 8,000 sq. ft./dwelling unit | 60 ft./dwelling unit | Not permitted | Not permitted |
 
-**Source image (upright):**
+Note: "See Section 703" spans the minimum lot size/street frontage columns for Uses 1–12 and 17 in the source table (a single cell reading "See Section 703").
 
-![C — Commercial District table, page 48 continued](zoning-district-tables/Commercial-District-table-p49-cont.jpg)
+**Source images (upright):**
 
-Full-resolution file: [`zoning-district-tables/Commercial-District-table-p49-cont.jpg`](zoning-district-tables/Commercial-District-table-p49-cont.jpg)
+![C — Commercial District table, part 1](zoning-district-tables/Commercial-District-table-p48.jpg)
 
+![C — Commercial District table, part 2 (rows 15–18)](zoning-district-tables/Commercial-District-table-p49-cont.jpg)
 
-## Page 050
+Full-resolution files: [`Commercial-District-table-p48.jpg`](zoning-district-tables/Commercial-District-table-p48.jpg), [`Commercial-District-table-p49-cont.jpg`](zoning-district-tables/Commercial-District-table-p49-cont.jpg)
 
-ARTICLE VIII
+<a id="article-viii"></a>
+## Article VIII — I - Industrial District
 
-I - INDUSTRIAL DISTRICT
-
-Section 801 - Purpose
+<a id="section-801"></a>
+### Section 801 - Purpose
 
 The purpose of the I - Industrial District is to provide for the orderly development of
 limited industrial activity to stimulate employment generating land use types in the Township.
 It is further intended that industrial operations will be compatible with surrounding residential
 or farm areas.
 
-Section 802 - Permitted Uses
+<a id="section-802"></a>
+### Section 802 - Permitted Uses
 
 The chart on the following page refers to the uses permitted in an Industrial District.
 Uses not specifically cited shall be considered as special exceptions. Requiring approval of the
 Zoning Hearing Board.
-Section 803 - Area Regulations
+<a id="section-803"></a>
+### Section 803 - Area Regulations
 
 The chart on the following page refers to the minimum area and bulk requirements.
 
@@ -2027,7 +1826,8 @@ The chart on the following page refers to the minimum area and bulk requirements
 
 total lot area.
 
-Section 804 - Screen Planting
+<a id="section-804"></a>
+### Section 804 - Screen Planting
 
 Where adjacent to land zoned or used for residential purposes, screen planting is
 required to screen the industrial use and storage of material from normal view. Screening may
@@ -2037,27 +1837,20 @@ evergreen shrubs. Evergreen trees or shrubs shall be at least four (4) feet in h
 of planting and setback at least ten (10) feet from any property. Such planting will be of a
 variety that will attain a height sufficient to visually block the industrial facility from view at
 ground level.
-Section 805 - Off-Street Parking Regulations
+<a id="section-805"></a>
+### Section 805 - Off-Street Parking Regulations
 
-See Article XIII.
+See [Article XIII](#article-xiii).
 
-49
+<a id="section-806"></a>
+### Section 806 - Sign Regulations
 
+See [Article XII](#article-xii).
 
-## Page 051
+<a id="section-807"></a>
+### Section 807 - Performance Standards
 
-Section 806 - Sign Regulations
-
-See Article XII.
-
-Section 807 - Performance Standards
-
-See Article X, Section 1002.
-
-50
-
-
-## Page 052
+See [Article X](#article-x), [Section 1002](#section-1002).
 
 **Table: I — Industrial District, Dimensional & Use Regulations**
 
@@ -2088,14 +1881,11 @@ See Article X, Section 1002.
 
 Full-resolution file: [`zoning-district-tables/Industrial-District-table-p52.jpg`](zoning-district-tables/Industrial-District-table-p52.jpg)
 
+<a id="article-ix"></a>
+## Article IX — FP - Floodplain District
 
-## Page 053
-
-ARTICLE IX
-
-FP - FLOODPLAIN DISTRICT
-
-Section 900 - Purpose
+<a id="section-900"></a>
+### Section 900 - Purpose
 
 L
 
@@ -2132,11 +1922,6 @@ constructed, reconstructed, enlarged, or structurally altered except in full com
 with the terms and provisions of this ordinance and any other applicable ordinances and
 regulations which apply to uses within the jurisdiction of this ordinance.
 
-52
-
-
-## Page 054
-
 4. Warning and Disclaimer of Liability
 
 The degree of flood protection sought by the provisions of this ordinance is considered
@@ -2151,7 +1936,8 @@ This Ordinance shall not create liability on the part of Fayette Township or any
 or employee thereof for any flood damages that result from reliance on this ordinance
 or any administrative decision lawfully made thereunder.
 
-Section 901 - Establishment of Zoning District
+<a id="section-901"></a>
+### Section 901 - Establishment of Zoning District
 
 Te. Description of District
 
@@ -2188,11 +1974,6 @@ are available.
 the FP District subject to inundation by the 100 year flood where
 a detailed study has not been performed, but where a 100 year
 floodplain boundary has been approximated. Where the specific
-
-53
-
-
-## Page 055
 
 100 year flood elevation cannot be determined for this area using
 other sources of data such as the U.S. Army Corps of Engineers
@@ -2236,11 +2017,6 @@ said map is hereby incorporated into and made a part of the Official Zoning Map 
 Fayette Township as amended. A copy of said map shall be kept on file at the offices
 of the Township and be available for inspection at any time.
 
-54
-
-
-## Page 056
-
 3. District Boundary Changes
 
 The delineation of any of the floodplain districts may be revised by the Board of
@@ -2259,7 +2035,8 @@ or contesting the location of the district boundary shall be given a reasonable
 opportunity to present his case to the Board and submit his own technical evidence if he
 so desires.
 
-Section 902 — District Provisions
+<a id="section-902"></a>
+### Section 902 - District Provisions
 
 All uses, activities, and development occurring within any floodplain district shall be
 undertaken, only, in strict compliance with the provisions of this Ordinance and with all other
@@ -2274,11 +2051,6 @@ Department of Environmental Resources, Bureau of Dams and Waterways Management.
 Further, notification of the proposal shall be given to all affected adjacent municipalities.
 Copies of such notifications shall be forwarded to both the Federal Insurance Administration
 and the Pennsylvania Department of Community Affairs.
-
-55
-
-
-## Page 057
 
 1.
 
@@ -2333,11 +2105,6 @@ a.
 Structures, except for mobilehomes, accessory to the uses and
 activities in Section 1 above.
 
-56
-
-
-## Page 058
-
 b. Utilities and public facilities and improvements such as railroads,
 streets, bridges, transmission lines, pipe lines, water and sewage
 treatment plants, and other similar related uses.
@@ -2369,17 +2136,15 @@ such uses, activities, and/or development shall be undertaken in strict
 compliance with the floodproofing and related provisions contained in all other
 applicable codes and ordinances.
 
-Section 903 - Conditional Uses, Special Exception and Variances - Factors to be
-Considered.
+<a id="section-903"></a>
+### Section 903 - Conditional Uses, Special Exception and Variances - Factors to be Considered
+
 In passing upon applications for Conditional Uses by the Board of Supervisors and in
 
 case of special exceptions and variances, the Zoning Hearing Board shall consider all relevant
 factors and procedures specified in other sections of the Zoning Ordinance and:
 
 aT
-
-
-## Page 059
 
 10.
 
@@ -2430,11 +2195,6 @@ or variance to any engineer or other qualified person or agency for technical as
 evaluating the proposed project in relation to flood heights and velocities, and the adequacy of
 the plans for protection and other related matters.
 
-58
-
-
-## Page 060
-
 Conditional Uses shall be issued after the Board of Supervisors has determined that the
 granting of such will not result in (a) unacceptable or prohibited increases in flood heights, (b)
 additional threats to public safety, (c) extraordinary public expense, (d) create nuisances, (e)
@@ -2443,7 +2203,8 @@ Variances or special exceptions granted by the Zoning Hearing Board shall consid
 
 data above.
 
-Section 904 — Existing Structures in Floodplain District
+<a id="section-904"></a>
+### Section 904 - Existing Structures in Floodplain District
 
 A structure or use of a structure or premises which lawfully existed before the
 enactment of these provisions, but which is not in conformity with these provisions may be
@@ -2470,17 +2231,11 @@ applicable ordinance.
 Uses or adjuncts thereof which are, or become, nuisances shall not be permitted
 to continue.
 
-59
+<a id="article-x"></a>
+## Article X — Supplemental Regulations
 
-
-## Page 061
-
-ARTICLE X
-
-SUPPLEMENTAL REGULATIONS
-
-Section 1001 - Performance Standards for General Agricultural Uses, excluding
-Commercial Livestock Operations
+<a id="section-1001"></a>
+### Section 1001 - Performance Standards for General Agricultural Uses, excluding Commercial Livestock Operations
 
 All agricultural uses shall be in conformance with requirements of Juniata County and
 the Laws of the State of Pennsylvania, as amended.
@@ -2518,11 +2273,6 @@ operations existing on the effective date of this ordinance shall be subject to 
 provisions of this ordinance, state laws and the Juniata County requirements if
 the following circumstances apply:
 
-60
-
-
-## Page 062
-
 A. That the storage, handling or disposal of manure of the application of
 
 fertilizer by the operation is in violation of applicable standards that are
@@ -2535,7 +2285,8 @@ B. that such violation is causing or is substantially threatening to cause
 
 pollution to ground or surface waters.
 
-Section 1002 - Performance Standards for Industrial and Natural Resource Uses
+<a id="section-1002"></a>
+### Section 1002 - Performance Standards for Industrial and Natural Resource Uses
 
 Industrial and Natural Resource uses shall be subject to the following regulations,
 where applicable:
@@ -2566,12 +2317,8 @@ Outside Industrial Storage: No outside industrial storage including junk yards
 shall be located on land with a slope in excess of five (5) percent or within one
 hundred (100) feet of a public right-of-way.
 
-61
-
-
-## Page 063
-
-Section 1003 - Building Height
+<a id="section-1003"></a>
+### Section 1003 - Building Height
 
 1.
 
@@ -2588,7 +2335,8 @@ reasonable period of construction not to exceed a twenty-four (24) month period
 from the date of issuance of the Zoning Permit. This time period may be
 extended by the Board of Supervisors.
 
-Section 1004 - Landscaping
+<a id="section-1004"></a>
+### Section 1004 - Landscaping
 
 Any part of portion of the site which is not used for buildings, other structures, loading
 or parking spaces and aisle, sidewalks and designated storage areas shall be provided with an
@@ -2597,7 +2345,8 @@ an overall landscape plan. To facilitate the processing of plot plans, a plant s
 prepared giving the botanical and common names of the plants to be used, the sizes to be
 planted, and quantity and spacing of each.
 
-Section 1005 - Screening
+<a id="section-1005"></a>
+### Section 1005 - Screening
 
 1.
 
@@ -2616,11 +2365,6 @@ intervals of not more than ten (10) feet. The low level screen planting shall be
 placed in an alternating or staggered pattern to produce a more effective visual
 barrier.
 
-62
-
-
-## Page 064
-
 An alternative visual barrier shall be a six (6) feet high opaque fence or wall
 with planting of trees, shrubs, and/or vines along the surface of the barrier
 facing any residential or commercial district or public right-of-way.
@@ -2632,7 +2376,8 @@ supply units shall have an architectural building material screen or covering
 which is an integral part of the building envelope and/or which is harmonious
 with the building design.
 
-Section 1006 - Swimming Pools
+<a id="section-1006"></a>
+### Section 1006 - Swimming Pools
 
 1,
 
@@ -2666,12 +2411,8 @@ b. Chapter 4, Article 442, Rules and Regulations, Commonwealth of
 Pennsylvania, Department of Environmental Resources, adopted October
 30, 1959, and amendments thereto.
 
-63
-
-
-## Page 065
-
-Section 1007 — Projections into Required Yard
+<a id="section-1007"></a>
+### Section 1007 - Projections into Required Yard
 
 The following projections into yards and courts shall be permitted:
 
@@ -2684,9 +2425,8 @@ chimney may extend or project into a required yard not more than two (2) feet.
 No patio or paved terrace shall be located within five (5) feet of any property
 line or between building setback line and the right-of-way line.
 
-Section 1008 - Front Yard Exception
-
-1
+<a id="section-1008"></a>
+### Section 1008 - Front Yard Exception
 
 In any use district when fifty (50) percent or more of the block frontage
 containing a lot upon which a proposed building is to be located in already
@@ -2703,23 +2443,20 @@ closer to the street than the average from yard so established by the existing
 buildings provided, however, that in no case shall the depth of such front yard
 be required to exceed such minimum depth by more than fifteen (15).
 
-Section 1009 — Intersection Clearance
+<a id="section-1009"></a>
+### Section 1009 - Intersection Clearance
 
 On a corner lot no fence, structure or planting higher than two (2) feet above the curb
 or street line shall be erected or within twenty-five (25) feet of the intersection of the street lot
 
 lines.
 
-Section 1010 - Individual Mobilehomes
+<a id="section-1010"></a>
+### Section 1010 - Individual Mobilehomes
 
 An enclosure of compatible design and materials shall be erected around the entire base
 of each mobile home. Such enclosure shall provide sufficient ventilation t inhibit decay and
 deterioration of the structure.
-
-64
-
-
-## Page 066
 
 Foundation Requirements. The area of the mobilehome stand shall be improved to
 provide an adequate foundation for the placement of the mobilehome, thereby, securing the
@@ -2773,11 +2510,6 @@ which has been submitted for preliminary or final subdivision approval.
 Unless specifically enumerates otherwise, by regulations of the Nutrient
 Management Act, any building or area used for the housing, feeding, watering,
 
-65
-
-
-## Page 067
-
 1011.5
 
 1011.6
@@ -2825,11 +2557,6 @@ the Township to be drilled a depth equal to or greater than nearest
 residential use well around any proposed manure storage lagoons and/or
 manure spreading areas. Provide semi-annual test results consisting of at
 least total coliform, fecal coliform and nitrate/nitrites.
-
-66
-
-
-## Page 068
 
 1011.8
 
@@ -2885,11 +2612,6 @@ A water feasibility study shall include the following information:
 e a geologic map of the area with a radius of at least one mile from the
 site;
 
-67
-
-
-## Page 069
-
 1011.13
 
 1011.14
@@ -2934,7 +2656,8 @@ The applicant shall notify all adjacent property owners of any request for a
 conditional use or special exceptions for commercial livestock operation by
 certified mail, return receipt requested and provide such proof to Township.
 
-Section 1012 - Commercial Produce Operations
+<a id="section-1012"></a>
+### Section 1012 - Commercial Produce Operations
 
 1012.1
 
@@ -2955,11 +2678,6 @@ impervious surfaces;
 The applicant shall submit written evidence from the appropriate review that the
 proposed use has an approved nutrient management plan. All subsequent
 operations and activities shall be conducted in accordance with such plans. If,
-
-68
-
-
-## Page 070
 
 1012.5
 
@@ -3020,11 +2738,6 @@ feasibility study will be provided to enable the Township to evaluate the impact
 of the proposed development on the groundwater supply and on existing wells.
 The purpose of the study will be to determine if there is an adequate supply of
 
-69
-
-
-## Page 071
-
 1012.12
 
 1012.13
@@ -3082,11 +2795,6 @@ section on Stormwater Management.
 The applicant shall be required to obtain an approved land development under
 the S.L.D.O., as amended;
 
-70
-
-
-## Page 072
-
 1012.16
 
 1012.17
@@ -3123,19 +2831,14 @@ parking and loading spaces, outdoor storage areas and dumpsters shall be set
 back at least fifty feet (50’) and screened from adjoining roads and properties;
 and,
 
-One (1) sign as provided for in Article XII, Section 1204 and 1205 shall be
+One (1) sign as provided for in [Article XII](#article-xii), [Section 1204](#section-1204) and [Section 1205](#section-1205) shall be
 permitted.
 
-71
+<a id="article-xi"></a>
+## Article XI — Conditional Uses
 
-
-## Page 073
-
-ARTICLE XI
-
-CONDITIONAL USES
-
-Section 1100 - Referral to Planning Commission
+<a id="section-1100"></a>
+### Section 1100 - Referral to Planning Commission
 
 Where the Zoning Ordinance has stated conditional uses to be granted or denied by the
 Board pursuant to express standards and criteria, the Board shall hear and decide requests for
@@ -3155,7 +2858,8 @@ Commission and/or Township Engineer shall make a study thereof and recommendatio
 thereon the Board within thirty (30) days from the date of the receipt and said application by
 the Planning Commission and/or Township Engineer.
 
-Section 1101 - General Standards for Conditional Uses and Special Exceptions/Variances
+<a id="section-1101"></a>
+### Section 1101 - General Standards for Conditional Uses and Special Exceptions/Variances
 
 The Board of Supervisors, before granting a conditional use for any use, must find that
 the use and the proposed operations and development in connection with the use, or the
@@ -3173,11 +2877,6 @@ De That the nature and intensity of the operations involved are in harmony with 
 orderly and appropriate development of the zone in which the use is to be
 located;
 
-72
-
-
-## Page 074
-
 3. That the grant of the special exception shall not materially increase traffic
 congestion in the roads and highways, nor cause nor encourage commercial or
 industrial traffic to use residential streets;
@@ -3185,7 +2884,8 @@ industrial traffic to use residential streets;
 For granting of special exceptions/variances, only the Zoning Hearing Board may
 approve, utilizing the same criteria above.
 
-Section 1102 — Additional Conditions
+<a id="section-1102"></a>
+### Section 1102 - Additional Conditions
 
 1. In granting a conditional use, the Board of Supervisors may attach such
 reasonable conditions and safeguards, in addition to those expressed in the
@@ -3221,16 +2921,14 @@ b. Names and addresses of adjoining owners.
 
 a3
 
-
-## Page 075
-
 Unless otherwise specified or extended by the Zoning Hearing Board or Board
 of Supervisors, a special exception/variance or conditional use authorized by
 such board expires is the applicant fails to obtain, where required to do so, a
 building permit within six (6) months of the date of the authorization of the
 special exception.
 
-Section 1103 — Adult Regulated Facility
+<a id="section-1103"></a>
+### Section 1103 - Adult Regulated Facility
 
 1103.1
 
@@ -3289,11 +2987,6 @@ upon the premises shall be exhibited or displayed outside of a building or
 
 structure;
 
-74
-
-
-## Page 076
-
 1103.7
 
 1103.8
@@ -3332,7 +3025,8 @@ No unlawful sexual activity or conduct shall be permitted;
 No more than one adult-related use may be located within one building or
 shopping center.
 
-Section 1104 - Apartment Dwellings
+<a id="section-1104"></a>
+### Section 1104 - Apartment Dwellings
 
 Apartment dwelling are permitted as conditional use in the R - Residential and C -
 Commercial Districts, subject to the requirements of the district where proposed as herein
@@ -3356,15 +3050,13 @@ The maximum number of dwelling units per gross acre of land permitted is ten
 
 15:
 
-
-## Page 077
-
 De Consideration shall be given to traffic problems. If the nature of the multi-
 family development is such that it will generate a high volume of vehicular
 traffic, then access should be via an arterial or collector street as designated in
 the Township Comprehensive Plan.
 
-Section 1105 - Appropriate Public Uses
+<a id="section-1105"></a>
+### Section 1105 - Appropriate Public Uses
 
 1. Each lot shall provide front side and rear yard setbacks in accordance with the
 zone requirements where located. Sufficient space shall be provided so service
@@ -3389,7 +3081,8 @@ hazardous effect shall be installed in the residential zone.
 
 6. The external design of a building shall be in conformity with the buildings in the
 surrounding area to the extend possible.
-Section 1106 - Automobile or Gasoline Service Stations and Garages
+<a id="section-1106"></a>
+### Section 1106 - Automobile or Gasoline Service Stations and Garages
 
 In districts where permitted, automobile service stations and garages shall be subject to
 the following additional safe-guards and regulations:
@@ -3397,11 +3090,6 @@ the following additional safe-guards and regulations:
 1s Minimum Setbacks from Street Right-of-Way Lines;
 a. Pumps: twenty-five feet (25’)
 b. Building: fifty feet (50’)
-
-76
-
-
-## Page 078
 
 10.
 
@@ -3444,12 +3132,8 @@ No materials may be stored so as to create a fire hazard.
 
 Lighting: All lights must be diverted inward and downward.
 
-77
-
-
-## Page 079
-
-Section 1107 - Bed and Breakfast Inns
+<a id="section-1107"></a>
+### Section 1107 - Bed and Breakfast Inns
 
 Criteria for the Establishment of a Bed and Breakfast County Inn as a Conditional Use
 subject to recommendation of the Township Planning Commission and approval of the Board
@@ -3478,7 +3162,8 @@ shall be used solely by the family in permanent residence. Bed and Breakfast
 operations shall be conducted so as to be clearly incidental and accessory to the
 primary use of the site as a Single-Family Dwelling.
 
-Section 1108 —- Child Care Centers
+<a id="section-1108"></a>
+### Section 1108 - Child Care Centers
 
 1;
 
@@ -3492,11 +3177,6 @@ certification and any recertification shall be provided to the Township.
 
 At least one (1) off-street parking space for each person employed plus one (1)
 off-street space for each four (4) children to be served by the facility in addition
-
-78
-
-
-## Page 080
 
 to the off-street parking requirements for single-family detached homes shall be
 provided.
@@ -3515,7 +3195,8 @@ abated, then the Fire Department shall require the child care center to cease an
 terminate its operations at such locations within thirty (30) days of the date of
 notice.
 
-Section 1109 - Child Care Homes
+<a id="section-1109"></a>
+### Section 1109 - Child Care Homes
 
 1. A child care home may be conducted in districts where permitted in a detached,
 semi-detached or attached single- or two-family dwelling as defined in this
@@ -3531,7 +3212,8 @@ off-street space for each four (4) children to be served by the facility in addi
 to the off-street parking requirements for single-family detached homes shall be
 provided.
 
-Section 1110 - Drive-In Theaters
+<a id="section-1110"></a>
+### Section 1110 - Drive-In Theaters
 
 A site plan shall be submitted with the application and any building permit issued shall
 
@@ -3540,11 +3222,6 @@ be in accordance with the approved site plan. A drive-in theater shall be subjec
 following regulations:
 
 1, The minimum lot area shall be fifteen (15) acres.
-
-79
-
-
-## Page 081
 
 The screen shall be situated so that its face is not visible from any public right-
 of-way.
@@ -3565,7 +3242,8 @@ percent of theater capacity.
 
 A playground and snack shop will be permitted as an accessory use.
 
-Section 1111 — Forest Industries
+<a id="section-1111"></a>
+### Section 1111 - Forest Industries
 
 1.
 
@@ -3584,17 +3262,13 @@ A reclamation plan for replacing forest products proposed to be removed shall
 be presented and implemented. Such plan will meet any PADER and/or Juniata
 County Conservation District requirements.
 
-Section 1112 - Home Occupations
+<a id="section-1112"></a>
+### Section 1112 - Home Occupations
 
 1.
 
 Home occupations may be authorized in a dwelling unit or accessory structure
 by Conditional Use from the Board of Supervisors.
-
-80
-
-
-## Page 082
 
 Home occupations shall be limited to professional and non-professional uses as
 defined in this Ordinance. The Board of Supervisors shall determine whether a
@@ -3620,7 +3294,8 @@ circumstances so warrant.
 The allowable area used for a home occupation shall not exceed fifty percent
 (50%) of the total floor space of all floors.
 
-Section 1113 - Junkyards
+<a id="section-1113"></a>
+### Section 1113 - Junkyards
 
 All junk yards existing at the effective date of this Ordinance, within one (1) year
 thereafter, and all junk yards, where permitted, shall comply with the following provisions;
@@ -3640,11 +3315,6 @@ Open burning of material is permissible subject to the Title 25 Rules and
 
 Regulations of the Department of Environmental Resources. All burning shall
 be attended and controlled at all times.
-
-81
-
-
-## Page 083
 
 Any junk yard shall be maintained in such a manner as to cause no public or
 private nuisance, nor to cause any offensive or noxious sounds or odors, nor to
@@ -3669,7 +3339,8 @@ The minimum junk yard size shall be twenty (20) acres.
 Junk yards shall be located a minimum of one-thousand (1,000) feet from a
 residential district.
 
-Section 1114 - Meat Processing Facilities
+<a id="section-1114"></a>
+### Section 1114 - Meat Processing Facilities
 
 L.,
 
@@ -3693,12 +3364,8 @@ Satisfactory evidence must be presented to indicate that adequate disposal of
 animal waste will be provided in a manner that will not create a public health
 hazard or nuisance.
 
-82
-
-
-## Page 084
-
-Section 1115 - Mobilehome Parks
+<a id="section-1115"></a>
+### Section 1115 - Mobilehome Parks
 
 1.
 
@@ -3727,7 +3394,8 @@ to protect the general welfare.
 A mobilehome park and extension thereof shall also comply with all applicable
 State and/or municipal regulations now in effect or hereafter enacted.
 
-Section 1116 - Natural Resources Extraction
+<a id="section-1116"></a>
+### Section 1116 - Natural Resources Extraction
 
 1.
 
@@ -3744,11 +3412,6 @@ A. Location of quarrying pit, buildings, stock piles, waste piles, in
 relocation to other existing or planned uses in the area; mining or
 processing techniques employed including crushing, blasting, drilling,
 washing, and noise abatement, ground shock or movement.
-
-83
-
-
-## Page 085
 
 B. Physical Factors:
 
@@ -3784,11 +3447,6 @@ A six foot (6’) substantial fence or other suitable barrier six feet
 
 requirement is waived by special exception issued by the Zoning
 Hearing Board.
-
-84
-
-
-## Page 086
 
 (2)
 
@@ -3838,11 +3496,6 @@ Property Line Setbacks.
 
 From a property line, except for those following:
 
-85
-
-
-## Page 087
-
 qd)
 
 No part of the quarrying pit, stock piles, waste piles, processing
@@ -3887,11 +3540,6 @@ Cc. Reporting of Operational and Rehabilitation Information.
 In order to keep the Zoning Officer abreast of impending termination of
 quarrying operations and plans for rehabilitation as well as operational
 activities which he has a duty to check, each quarry owner or operator
-
-86
-
-
-## Page 088
 
 must submit to the Zoning Officer, as requested, but not to exceed more
 than one report in a period of two (2) years, the information following:
@@ -3940,17 +3588,13 @@ Rehabilitation Plan:
 (b) Plantings or other planned special features of
 rehabilitation.
 
-87
-
-
-## Page 089
-
 (c) The proposed methods by which rehabilitation is to be
 accomplished.
 
 (d) Proposed termination date.
 
-Section 1117 - Public/Private Parks and Recreation Areas
+<a id="section-1117"></a>
+### Section 1117 - Public/Private Parks and Recreation Areas
 
 ly
 
@@ -3974,11 +3618,10 @@ adjoining residential properties.
 Depending upon the special nature of the proposed use, additional screening or
 buffering may be required to protect adjoining properties.
 
-Section 1118 - Recreational Vehicle Park or Campground
+<a id="section-1118"></a>
+### Section 1118 - Recreational Vehicle Park or Campground
 
 I.
-
-25
 
 All campsites shall be located at least fifty (50) feet from any proposed line.
 
@@ -3990,12 +3633,8 @@ parking shall be provided in a common area or lot.
 Adequate provisions for water supply and wastewater management must be
 made in accordance with local and state requirements.
 
-88
-
-
-## Page 090
-
-Section 1119 — Resort Hotels, Motels and Areas
+<a id="section-1119"></a>
+### Section 1119 - Resort Hotels, Motels and Areas
 
 1 Consideration shall be given to traffic problems. If the nature of the park or
 open space area is such that it will generate a high volume of vehicular traffic
@@ -4009,7 +3648,8 @@ accordance with the requirements of this ordinance.
 area. Architectural design, landscaping, grading and other site characteristics
 shall be designed to blend into the natural environmental of the Township.
 
-Section 1120 - Roadside Stands
+<a id="section-1120"></a>
+### Section 1120 - Roadside Stands
 
 Temporary roadside stands may be erected for the sale of garden products and garden
 commodities produced on the same property where offered for sale, provided; no building or
@@ -4018,7 +3658,8 @@ removed during seasons when such products are not being offered for sale, and in
 they remain longer than for a period of six (6) months of any one (1) year; and such stand shall
 not be placed closer than twenty-five (25) feet to any lot line.
 
-Section 1121 - Solid Waste Processing and Disposal Facilities
+<a id="section-1121"></a>
+### Section 1121 - Solid Waste Processing and Disposal Facilities
 
 Facilities for disposal of municipal or residual solid waste permitted by Conditional Use
 in an Industrial District shall, in addition to all of the requirements of this Ordinance, be
@@ -4036,11 +3677,6 @@ Reduction Act, Act 101 of 1988, and 25 PA Code Chapters 271, 273, 275, 277,
 3s If a landfill, no solid waste shall be deposited, either temporarily or
 permanently, within three hundred (300) feet of the property line of any
 adjoining property, or within three hundred (300) feet of the right-of-way line of
-
-89
-
-
-## Page 091
 
 10.
 
@@ -4083,22 +3719,18 @@ Landscaping and bufferyards meeting the requirements of this Ordinance and the
 Subdivision and Land Development Ordinance as a minimum shall be provided
 around the property.
 
-90
+<a id="article-xii"></a>
+## Article XII — Signs
 
-
-## Page 092
-
-ARTICLE XII
-
-SIGNS
-
-Section 1201 - Erection and Maintenance of Signs
+<a id="section-1201"></a>
+### Section 1201 - Erection and Maintenance of Signs
 
 Signs may be erected and maintained only when in compliance with the provisions of
 this Article and any and all other ordinance and regulations relating to the erection, alteration,
 or maintenance of signs and similar devices.
 
-Section 1202 - Signs Permitted in Residential Districts
+<a id="section-1202"></a>
+### Section 1202 - Signs Permitted in Residential Districts
 
 A.
 
@@ -4131,11 +3763,6 @@ the work.
 Trespassing signs, or signs indicating the private nature of a driveway or
 property provided that the size of any signs shall not exceed two (2) square feet.
 
-91
-
-
-## Page 093
-
 F, Signs of schools, colleges, churches, hospitals, sanitariums, or other institutions
 of a similar nature may be erected and maintained provided: (1) the size of any
 such sign is not in excess of forty (40) square feet: and (2) not more than two
@@ -4158,10 +3785,11 @@ I. Official traffic and street name signs when erected by, or with the written
 approval of, the Township Supervisors.
 
 J: Signs necessary for the identification, operation or protection of public utility
-facilities and municipal uses; however, all General Regulations, Section 705,
+facilities and municipal uses; however, all General Regulations, [Section 705](#section-705),
 shall apply to such signs.
 
-Section 1203 - Panel Type Signs (Billboards)
+<a id="section-1203"></a>
+### Section 1203 - Panel Type Signs (Billboards)
 
 Signs which advertise products or services other than those which are sold on the
 premises where the sign is located are permitted in commercial and industrial districts, subject
@@ -4170,20 +3798,17 @@ to the following conditions, as well as other applicable requirements.
 A. No billboards or advertising sign board shall exceed five hundred (500) square
 
 feet in area.
-Section 1204 - Business Identification Signs
+<a id="section-1204"></a>
+### Section 1204 - Business Identification Signs
 
 Signs bearing the name of the occupant and products manufactured, processed, sold or
 displayed may be erected and maintained on the premises in commercial and industrial
 
 districts. The size of business identification signs shall not exceed seventy-five (75) square feet
-in area; however, all General Regulations, Section 1205, shall apply to such signs.
+in area; however, all General Regulations, [Section 1205](#section-1205), shall apply to such signs.
 
-92
-
-
-## Page 094
-
-Section 1205 - General Regulations for All Signs
+<a id="section-1205"></a>
+### Section 1205 - General Regulations for All Signs
 
 The following regulations shall apply to all permitted signs uses.
 
@@ -4213,7 +3838,7 @@ No portion of a sign shall be positioned in a manner that exceeds the height of
 the primary structure on the property on which it is located.
 
 No permit shall be required for the erection, alteration, or maintenance of any
-signs as permitted in Section 1202, Signs in Residential Districts.
+signs as permitted in [Section 1202](#section-1202), Signs in Residential Districts.
 
 Advertising painted upon, or displayed upon, a barn or other building or
 structure shall be regarded as an advertising sign board and the regulations
@@ -4230,16 +3855,11 @@ safety shall not be permitted in any district.
 Open flames used to attract public attention to a place of business or to an
 advertising sign shall not be permitted.
 
-93
+<a id="article-xiii"></a>
+## Article XIII — Off-Street Parking, Loading and Unloading
 
-
-## Page 095
-
-ARTICLE XIII
-
-OFF-STREET PARKING, LOADING AND UNLOADING
-
-Section 1301 - General Regulations
+<a id="section-1301"></a>
+### Section 1301 - General Regulations
 
 (1)
 
@@ -4286,11 +3906,6 @@ shall be surfaced so as to provide a durable and dustless surface, such as a
 gravel, concrete or bituminous concrete surface, and shall be so arranged as to
 provide for orderly and safe parking storage of vehicles.
 
-94
-
-
-## Page 096
-
 (6)
 
 (7)
@@ -4318,7 +3933,7 @@ in width suitably graded and surfaced not less than eighteen (18) feet in width 
 all cases where the access is to storage areas or loading an unloading spaces
 required hereunder.
 
-For other uses which do not fit into one of the categories listed in Section 802,
+For other uses which do not fit into one of the categories listed in [Section 802](#section-802),
 determination of the appropriate parking space requirement shall be made by the
 Zoning Officer.
 
@@ -4346,12 +3961,9 @@ In the case of mixed uses, the total number of required parking or loading
 spaces shall be the sum of the required spaces for the various uses computed
 separately.
 
-95
+<a id="section-1302"></a>
+### Section 1302 - Parking Facilities Required
 
-
-## Page 097
-
-Section 1302 - Parking Facilities Required
 Off-street parking facilities shall be provided as follows:
 
 (1) Residential Parking Requirements
@@ -4382,11 +3994,6 @@ stadiums
 Retail stores and other places for 200 square feet of floor area
 trade or business for public use
 
-96
-
-
-## Page 098
-
 Food markets and grocery stores
 
 Restaurants, tearooms,
@@ -4415,8 +4022,6 @@ Miniature gold
 Coin laundries
 
 Hotels and motels
-
-97
 
 100 square feet of floor area
 for public use
@@ -4457,9 +4062,6 @@ machines)
 
 1 guest unit, plus 1 for each
 employee
-
-
-## Page 099
 
 Dormitory, fraternity house,
 nursing home
@@ -4521,8 +4123,6 @@ Outdoor recreation center
 
 except in designated areas.
 
-98
-
 One Parking Space for Each
 
 Staff members plus one
@@ -4538,10 +4138,8 @@ devices
 
 Parking Prohibitions: Parking shall not be permitted on public rights-of-way
 
-
-## Page 100
-
-Section 1303 - Loading and Unloading Space
+<a id="section-1303"></a>
+### Section 1303 - Loading and Unloading Space
 
 (1)
 
@@ -4565,7 +4163,8 @@ public rights-of-way be used for loading or unloading of materials.
 Required off-street parking space shall not be computed for loading and
 unloading purposes.
 
-Section 1304 - Access of Off-Street Parking and Loading Areas
+<a id="section-1304"></a>
+### Section 1304 - Access of Off-Street Parking and Loading Areas
 
 Access to and from all off-street parking, loading, and vehicle services areas along
 public right-of-way consist of well defined separate or common entrances and exits and shall
@@ -4585,23 +4184,19 @@ hour; however, when the posted speed limit is thirty-five (35) miles per hour or
 less, the sight-distance requirement may be reduced to two hundred fifty (250)
 feet.
 
-Section 1305 - Parking and Loading Area Setbacks
+<a id="section-1305"></a>
+### Section 1305 - Parking and Loading Area Setbacks
 
 All non-residential parking and loading areas and parallel circulation and service lanes
 shall be separated from the paving edge of a public thoroughfare or adjoining property lines by
 a planting strip at least twenty (20) feet in depth, unless adjoining owners mutually agree to
 common facilities subject to greater setbacks as may be required elsewhere in this Ordinance.
 
-99
+<a id="article-xiv"></a>
+## Article XIV — Administration and Enforcement
 
-
-## Page 101
-
-ARTICLE XIV
-
-ADMINISTRATION AND ENFORCEMENT
-
-Section 1401 - The Zoning Officer
+<a id="section-1401"></a>
+### Section 1401 - The Zoning Officer
 
 L.
 
@@ -4642,11 +4237,6 @@ the permit shall be notified of the discrepancies.
 CG. Keep a record of all applications received, all permits and certificates
 issued, reports of inspections, notices, and orders issued, and the
 
-100
-
-
-## Page 102
-
 complete recording of all pertinent factors involved. He shall file and
 safely keep copies of all plans permitted, and the same shall form a part
 of the records of his office and shall be available for the use of the Board
@@ -4658,7 +4248,8 @@ violations and stop work orders recommended or promulgated.
 D. Identify and register all non-conforming uses and all non-conforming
 structures.
 
-Section 1402 —- Permits
+<a id="section-1402"></a>
+### Section 1402 - Permits
 
 1.
 
@@ -4691,11 +4282,6 @@ One copy of such plans shall be returned to the owner when such plans shall be
 approved by the Municipal Governing body. All applications with
 accompanying plans and documents shall become a public record after a permit
 is issued or denied.
-
-101
-
-
-## Page 103
 
 10.
 
@@ -4741,11 +4327,6 @@ annually for an aggregate period not exceeding three (3) years if an application
 for extension is applied for by the applicant before the expiration date of the
 original temporary permit.
 
-102
-
-
-## Page 104
-
 11.
 
 12.
@@ -4770,7 +4351,8 @@ Compliance with Permit and Plot Plan: All work or uses shall conform to the
 approved application and plans for which the permit has been issued as well as
 the approved plot plan.
 
-Section 1403 - Certificate of Use and Occupancy
+<a id="section-1403"></a>
+### Section 1403 - Certificate of Use and Occupancy
 
 1.
 
@@ -4796,11 +4378,6 @@ compliance with the work listed in the issued permit and all other pertinent
 laws, he shall issue a certificate of use and occupancy without fee for the
 intended use listed in the original application.
 
-103
-
-
-## Page 105
-
 The certification of use of occupancy or a true copy thereof shall be kept
 available for official inspection at all times.
 
@@ -4816,7 +4393,8 @@ and/or occupancy. Such temporary certificates shall be for the period of time to
 be determined by the Zoning/Permit Officer, however, in no case for a period
 exceeding six (6) months.
 
-Section 1404 - Enforcement, Penalty, and Remedy
+<a id="section-1404"></a>
+### Section 1404 - Enforcement, Penalty, and Remedy
 
 1,
 
@@ -4844,11 +4422,6 @@ An enforcement notice shall state at least the following:
 Township intends to take action.
 
 (b) — The location of the property in violation.
-
-104
-
-
-## Page 106
 
 (c) The specific violation with a description of the requirements which have
 been met, citing in each instance the applicable provisions of the
@@ -4894,11 +4467,6 @@ Municipalities Planning Code or prior enabling laws shall, upon being found
 liable therefor in civil enforcement proceeding commended by the Township,
 pay a judgement of not more than $500 plus all court costs, including reasonable
 
-105
-
-
-## Page 107
-
 attorney fees incurred by the Township as a result thereof. No judgement shall
 commence or be imposed, levied or payable until the date of the determination
 of a violation by the District Justice. If the defendant neither pays nor timely
@@ -4922,7 +4490,8 @@ Nothing contained in this section shall be construed or interpreted to grant to
 any person or entity other than the Township the right to commence any action
 for enforcement pursuant to this section.
 
-Section 1405 - Zoning Hearing Board - Powers and Duties
+<a id="section-1405"></a>
+### Section 1405 - Zoning Hearing Board - Powers and Duties
 
 1.
 
@@ -4944,11 +4513,6 @@ set forth as otherwise provided by law. Alternates shall hold no other office in
 the municipality, including membership on the Planning Commission and
 Zoning/Permit Officer. Any alternate may participate in any proceeding or
 
-106
-
-
-## Page 108
-
 discussion of the board shall not be entitled to vote as a member of the board
 nor be compensated unless designed as a voting alternate member.
 
@@ -4967,7 +4531,7 @@ of all the members of the Board, but where two members are disqualified to act
 in a particular manner, the remaining member may act for the Board. The
 Board may appoint a hearing officer from its own membership to conduct any
 hearing on its behalf and the parties may waive further action by the Board as
-provided in Section 1408. The Board may make, alter and rescind rules and
+provided in [Section 1408](#section-1408). The Board may make, alter and rescind rules and
 forms for its procedure, consistent with ordinances of the Township and laws of
 the Commonwealth. The Board shall keep full public records of its business and
 shall submit a report of its activities to the Board of Supervisors once a year.
@@ -4979,7 +4543,8 @@ which they appear on the calendar. However, for good reason, the Board may
 order the advance of the application or appeal. The Board must fix a reasonable
 time for hearings.
 
-Section 1406 — Powers
+<a id="section-1406"></a>
+### Section 1406 - Powers
 
 The Zoning Hearing Board shall have the following powers:
 
@@ -4995,11 +4560,6 @@ by the Board of Supervisors. In addition to the express standards and criteria
 stated in this Ordinance, the Zoning Hearing Board may attach such reasonable
 conditions and safeguards to an approval as it may deem necessary to insure that
 the approval is consistent with the purposes and intent of this Ordinance.
-
-107
-
-
-## Page 109
 
 The Board shall hear requests for variances where it is alleged that the
 provisions of the zoning ordinance inflict unnecessary hardship upon the
@@ -5046,11 +4606,6 @@ shall make a study thereof and recommendations to the Board within
 forty (40) days from the date of the receipt of said application by the
 Planning Commission.
 
-108
-
-
-## Page 110
-
 In exercising the above mentioned powers, the Board may, in conformity with
 the provisions of this article, reverse or affirm, wholly or partly, or may
 modify, the order, requirement, decision or determination appealed from, and
@@ -5078,7 +4633,8 @@ Board, appeal to the Court of Common Pleas of the County.
 The Burden of Proof in any appeal whether for a variance, special exception, or
 otherwise shall be on the appellant.
 
-Section 1407 - Appeals to the Zoning Hearing Board and Board of Supervisors
+<a id="section-1407"></a>
+### Section 1407 - Appeals to the Zoning Hearing Board and Board of Supervisors
 
 Ls
 
@@ -5095,11 +4651,6 @@ A. The name and address of the appellant.
 B. The name and address of the owner of the real estate to be affected by
 
 such proposed exception, of variance.
-
-109
-
-
-## Page 111
 
 A brief description and location of the real estate to be affected by such
 proposed change.
@@ -5145,11 +4696,6 @@ any recommendations adopted in the hearing; it being the intent, so far
 as may be possible to provide due notice to the persons substantially
 interested that the application for appeal is pending.
 
-110
-
-
-## Page 112
-
 The respective Board shall conduct a public hearing on such appeal at which
 hearing any party may appear in person, or by agent or attorney, and all of said
 parties so affected shall be given an opportunity to be heard.
@@ -5186,7 +4732,8 @@ within such twelve (12) month period, and if the Board further finds that
 conditions have so altered or changed in the interval since the granting of the
 variance, permit or action, that revocation or rescission of the action is justified.
 
-Section 1408 - Hearings
+<a id="section-1408"></a>
+### Section 1408 - Hearings
 
 1.
 
@@ -5194,11 +4741,6 @@ Notice; Conduct of Hearing
 
 As Notice shall be given to the public, the applicant, the Zoning/Permit
 Officer, such other persons as the Board of Supervisors shall designate
-
-111
-
-
-## Page 113
 
 by ordinance and to any person who has made timely request for the
 same. Notice shall be given as follows:
@@ -5253,11 +4795,6 @@ unduly repetitious evidence may be excluded.
 
 D. The respective Boards or the Hearing Officer:
 
-112
-
-
-## Page 114
-
 (1) Shall not communicate, directly or indirectly, with any party or
 his representative in connection with any issue involved except
 upon notice and opportunity for all parties to participate;
@@ -5301,11 +4838,6 @@ shall have power to administer oaths and issue subpoenas to compel the
 attendance of witnesses and the production of relevant documents and papers,
 including witnesses and documents requested by the parties.
 
-113
-
-
-## Page 115
-
 Decision Procedure
 
 A,
@@ -5346,11 +4878,6 @@ the hearing, the Board shall provide by mail or otherwise, brief notice of
 the decision or findings and a statement of the place at which the full
 decision or findings may be examined.
 
-114
-
-
-## Page 116
-
 F, Whenever the Board imposes a condition, or conditions with respect to
 the granting of an application or appeal, this condition must be stated in
 the order of the Board and in the permit issued pursuant to the order by
@@ -5365,7 +4892,8 @@ record of the proceedings, and a transcript of the proceedings and copies of
 graphic or written materials received in evidence shall be made available to any
 party at cost.
 
-Section 1409 — Amendments
+<a id="section-1409"></a>
+### Section 1409 - Amendments
 
 This ordinance or any part thereof, may be amended, supplemented or repealed, from time to
 time, by the Township Supervisors on their own motion or upon recommendation by the
@@ -5392,11 +4920,6 @@ dd) Whether such change is consistent with the aims and principles
 embodied in this Ordinance as to the particular Districts
 
 concerned;
-
-115
-
-
-## Page 117
 
 (2) Which areas, land uses, buildings, and establishments in the
 Township will be directly affected by such change and in what
@@ -5444,11 +4967,6 @@ At least thirty (30) days prior to the hearing on the amendment to this Ordinanc
 by the Township Supervisors, the Township Planning Commission shall submit
 the proposed ordinance and amendment to the Juniata County Planning
 
-116
-
-
-## Page 118
-
 Commission. The County Planning Commission shall report to the Supervisors
 in writing its advisory opinion on said amendment within thirty (30) days.
 Failure of the County Planning Commission to report to the Supervisors within
@@ -5491,11 +5009,6 @@ amendments.
 Zoning amendments may be incorporated into official ordinance books
 by reference with the same force and effect as if duly recorded therein.
 
-117
-
-
-## Page 119
-
 5:
 
 Supervisor’s Action
@@ -5503,7 +5016,8 @@ Supervisor’s Action
 The Township Supervisors shall act to approve or disapprove said amendment
 within forty-five (45) days after the date of said public hearing.
 
-Section 1410 - Non-conforming Uses and Structures
+<a id="section-1410"></a>
+### Section 1410 - Non-conforming Uses and Structures
 
 Ii
 
@@ -5538,11 +5052,6 @@ B. This provision shall apply even though such lot fails to meet
 
 requirements of side, front or rear yards or the minimum lot area
 requirements applicable in the District in which the lot is located.
-
-118
-
-
-## Page 120
 
 Restoration:
 
@@ -5596,11 +5105,6 @@ than excavation and foundations is undertaken within a period of thirty
 construction thereof is complete within twelve (12) calendar months from
 the issuance date of the building permit.
 
-119
-
-
-## Page 121
-
 9. Non-conforming Use of Open Land:
 
 A.
@@ -5611,7 +5115,8 @@ period of ninety (90) days or damaged to an extent of sixty percent
 (60%) or more of replacement costs, shall be continued, repaired or
 reconstructed.
 
-Section 1411 - Conditional Uses
+<a id="section-1411"></a>
+### Section 1411 - Conditional Uses
 
 1. Procedure and Standards
 
@@ -5640,11 +5145,6 @@ be authorized and conducted in the following manner:
 
 is The Board of Supervisors shall hold a public hearing on the
 application within sixty (60) days after its receipt.
-
-120
-
-
-## Page 122
 
 Written notice of the hearing shall be given to the applicant and
 to all abutting property owners of the proposed. conditional use.
@@ -5689,11 +5189,6 @@ traffic control, storm drainage, screening, setbacks, lighting, etc.
 so as to remove any potential adverse effects the use may have on
 adjoining uses.
 
-121
-
-
-## Page 123
-
 3: Each proposed use shall provide for sewage treatment facilities
 which meet or exceed specifications established by the
 Pennsylvania Department of Environmental Resources and submit
@@ -5718,7 +5213,8 @@ H. A conditional use for which a permit is granted by the Board of
 Supervisors pursuant to the provisions of this Ordinance, shall be
 construed a conforming use.
 
-Section 1412 — Special Exception Uses
+<a id="section-1412"></a>
+### Section 1412 - Special Exception Uses
 
 1.
 
@@ -5737,11 +5233,6 @@ The Zoning Hearing Board’s decision to grant a permit for a special exception
 
 use hall be made only after public notification of a hearing as established in
 Sectin1408.
-
-122
-
-
-## Page 124
 
 At the discretion of the Zoning Hearing Board, an advisory report may be
 requested from the Planning Commission in which case no decision will be
@@ -5765,7 +5256,8 @@ A special exception use, for which a permit is granted by the Zoning Hearing
 Board pursuant to the provisions of this Ordinance, shall be construed a
 conforming use.
 
-Section 1413 - Validity
+<a id="section-1413"></a>
+### Section 1413 - Validity
 
 1.
 
@@ -5783,19 +5275,17 @@ thereof, irrespective of the fact that any one or more of the sections,
 subsections, provisions, regulations, limitations, restrictions, sentences, clauses,
 phrases, or words may be declared illegal, unconstitutional or invalid.
 
-123
-
-
-## Page 125
-
-Section 1414 - Repealer
+<a id="section-1414"></a>
+### Section 1414 - Repealer
 
 1 Inconsistent Ordinances: Any resolution, ordinance, or part of any ordinance or
 resolution inconsistent herewith and any amendment thereof are hereby
 expressly repealed to the extent necessary to give this ordinance full force and
 effect, specifically Ordinance No. 94-1,
 
-Section 1415 - Adoption
+<a id="section-1415"></a>
+### Section 1415 - Adoption
+
 Ordinance No# 000 shonted by the Board of Supervisors of Fayette Township, Juniata County,
 Pennsylvania, into an Ordinance this/3" day of ewer , 2000.
 
@@ -5816,4 +5306,3 @@ BY: Rabpk AL Yeent
 ATTEST: [LYLE Lath
 Seéretary
 
-124

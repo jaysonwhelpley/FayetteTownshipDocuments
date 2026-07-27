@@ -55,6 +55,12 @@ Flagging these because they bear directly on your parcel and general township la
 
 ---
 
+## Officer Directory
+
+Fayette Township's supervisors, secretary, tax collector, auditors, roadmaster, zoning/permit officer, zoning hearing board, engineer, solicitor, inspection service, and constable, transcribed from Juniata County's own published directory (not the township site) — see [`Fayette-Township-Officer-Directory.md`](Fayette-Township-Officer-Directory.md), sourced from [`2026-JUNIATA-COUNTY-DIRECTORY-07.21.2026.pdf`](2026-JUNIATA-COUNTY-DIRECTORY-07.21.2026.pdf) (pages 15–16 of that document). See the disclaimer in the [README](README.md) before relying on any contact info here — it's a snapshot as of July 21, 2026.
+
+---
+
 ## Site pages with no documents
 
 - About Our Township — text-only, no attachments

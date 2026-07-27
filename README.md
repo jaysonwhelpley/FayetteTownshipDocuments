@@ -15,7 +15,9 @@ The township's own site only offers scanned PDFs and `.odt` files for most docum
 | File | Description |
 |---|---|
 | [`Fayette-Township-Documents-Index.md`](Fayette-Township-Documents-Index.md) | Index of everything on the township site: what's here, what's OCR'd, what's link-only, and notable items surfaced while reading the minutes (zoning/land-use relevant). Start here. |
-| [`Fayette-Zoning-Ordinance-2000-FullText.md`](Fayette-Zoning-Ordinance-2000-FullText.md) | Full OCR text of the 2000 Zoning Ordinance (Ordinance No. 2000-1), 125 pages. The eight dimensional/use-table pages that OCR couldn't parse (they're rotated 90° in the scan) have been manually transcribed into markdown tables in place, each with the upright source image embedded alongside for verification. |
+| [`Fayette-Zoning-Ordinance-2000-FullText.md`](Fayette-Zoning-Ordinance-2000-FullText.md) | Full OCR text of the 2000 Zoning Ordinance (Ordinance No. 2000-1), reformatted as a continuous document — no page-break markers, real markdown headings for every Article/Section with a linked table of contents, and in-text cross-references (e.g. "See Article XII") turned into clickable links. The eight dimensional/use-table pages that OCR couldn't parse (rotated 90° in the scan) are manually transcribed into markdown tables in place — tables that were split across two scanned pages are combined into one — each with the upright source image(s) embedded alongside for verification. |
+| [`Fayette-Township-Officer-Directory.md`](Fayette-Township-Officer-Directory.md) | Fayette Township's supervisors, secretary, tax collector, auditors, roadmaster, zoning/permit officer, zoning hearing board, engineer, solicitor, inspection service, and constable — transcribed from the county directory (see disclaimer below and on that page). |
+| [`2026-JUNIATA-COUNTY-DIRECTORY-07.21.2026.pdf`](2026-JUNIATA-COUNTY-DIRECTORY-07.21.2026.pdf) | The source county directory PDF (Juniata County, dated July 21, 2026) that the officer directory page above was transcribed from. |
 | [`Fayette Zoning Ordinance-ocr.pdf`](Fayette%20Zoning%20Ordinance-ocr.pdf) | The original scanned zoning ordinance PDF, with an OCR text layer added (searchable, but the underlying scan quality is what it is). |
 | [`Fayette-SALDO-1996-FullText.md`](Fayette-SALDO-1996-FullText.md) | Full OCR text of the 1996 Subdivision & Land Development Ordinance (SALDO). Clean OCR throughout — no rotated tables. |
 | [`Fayette-Township-Meeting-Minutes-Archive.md`](Fayette-Township-Meeting-Minutes-Archive.md) | Full text of all 25 available Board of Supervisors meeting minutes, June 2024 – June 2026, in one file. A few were converted from user-uploaded `.odt` files via pandoc where the web version wasn't scrapable. |
@@ -31,7 +33,7 @@ The 2000 Zoning Ordinance includes dimensional and permitted/conditional-use tab
 2. **An embedded image** of the upright (rotated-to-readable) source page, so you can visually verify the transcription against the original layout.
 3. **A direct link** to the full-resolution image file in [`zoning-district-tables/`](zoning-district-tables/), in case you want to view or download it independently.
 
-A couple of cells in the RA District table (page 37, Use #6 — Single-Family Detached Dwellings) have handwritten corrections in the original scanned document. Where a correction was clearly legible it's reflected in the transcribed table with a footnote; where it wasn't fully legible, the footnote says so — check the embedded image or the original PDF before relying on that figure.
+A couple of cells in the RA District table (under [Article IV](Fayette-Zoning-Ordinance-2000-FullText.md#article-iv), Use #6 — Single-Family Detached Dwellings) have handwritten corrections in the original scanned document. Where a correction was clearly legible it's reflected in the transcribed table with a footnote; where it wasn't fully legible, the footnote says so — check the embedded image or the original PDF before relying on that figure.
 
 ## Notes on the underlying ordinances
 
@@ -45,6 +47,15 @@ See the index file for the full list of what's tracked, what's missing, and land
 ## Provenance / disclaimer
 
 - Text files marked "FullText" are OCR output (Tesseract), not proofread line-by-line against the original scans.
-- The eight zoning-table pages noted above were manually transcribed by a human/AI pass against the source images, not automated OCR.
+- The zoning-table pages noted above were manually transcribed by a human/AI pass against the source images, not automated OCR.
 - Meeting minutes are transcribed as posted by the township or converted from user-uploaded `.odt` copies where the web version wasn't scrapable.
+- The officer directory was manually transcribed from a scanned county PDF; names, addresses, and phone numbers are copied as printed in that public document and may be out of date by the time you read this.
 - Always confirm against the official township records before relying on any figure here for a legal, compliance, or permitting decision.
+
+## No legal advice; no liability
+
+**Nothing in this repository is legal advice.** This archive, including all OCR output, manual transcriptions, markdown tables, summaries, headings, links, and notes, was assembled for the repository owner's own personal reference. None of it has been reviewed or endorsed by Fayette Township, Juniata County, or any attorney, and none of it should be read as an authoritative statement of what any ordinance, map, or record says or means. **The only authoritative source is the original document as maintained by Fayette Township or Juniata County.** If you are making any decision — legal, financial, permitting, compliance, or otherwise — based on anything in this repository, verify it directly against the township or county's official records first.
+
+This repository, its owner, and its contributors (including any AI tooling used to produce it) are provided and made available **"AS IS" and "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED**, including but not limited to warranties of accuracy, completeness, merchantability, fitness for a particular purpose, or non-infringement. OCR software and manual/AI-assisted transcription are both error-prone; text, numbers, names, addresses, phone numbers, dimensional figures, section numbers, and cross-references anywhere in this repository **may be misrendered, mis-transcribed, outdated, or otherwise wrong**, and no representation is made that they are not.
+
+**To the fullest extent permitted by law, the repository owner disclaims any and all liability and responsibility for any error, omission, misrendering, or inaccuracy in this repository, and for any loss, damage, cost, or claim of any kind — direct, indirect, incidental, consequential, or otherwise — arising from or related to any use of, reliance on, or inability to use this repository or any content in it, by any person, for any purpose.** By using any file in this repository, you agree that you do so entirely at your own risk.
