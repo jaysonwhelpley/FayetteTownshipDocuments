@@ -197,29 +197,15 @@ by the Zoning Hearing Board.
 Unless otherwise expressly stated, the following shall, for the purpose of this
 Ordinance, have the meaning herein indicated:
 
-1.
-
-2.
-
-3.
-
-Words used in the past tense include the future tense.
-The singular includes the plural.
-
-The word “person” includes a profit or non-profit corporation, company,
-partnership, or individual.
-
-The male gender includes the female gender.
-
-The words “used” or “occupied” as applied to any land or building include the
-words “intended”, “arranged”, or “designed” to be used or occupied.
-
-The word “building” includes structure.
-The word “lot” includes plot or parcel.
-The word “shall” or “must” is always mandatory.
-
-The word “erected” shall be construed to include the words “constructed, altered or
-moved”.
+1. Words used in the past tense include the future tense.
+2. The singular includes the plural.
+3. The word "person" includes a profit or non-profit corporation, company, partnership, or individual.
+4. The male gender includes the female gender.
+5. The words "used" or "occupied" as applied to any land or building include the words "intended", "arranged", or "designed" to be used or occupied.
+6. The word "building" includes structure.
+7. The word "lot" includes plot or parcel.
+8. The word "shall" or "must" is always mandatory.
+9. The word "erected" shall be construed to include the words "constructed, altered or moved".
 
 <a id="section-202"></a>
 ### Section 202 - Definition of Terms
@@ -1464,7 +1450,7 @@ against such normal agricultural operations.
 | 18. | Commercial Produce Operations | 50 | 100 | 100 | 50 ac. | 200 ft. | 50 ac. | 200 ft. | 50 ac. | 200 ft. |
 | 19. | Manure Storage Facilities | — | — | — | Refer to Definition, [Article II](#article-ii) | — | — | — | — | — |
 
-\* Refer to paragraph 1011.2 (Commercial Livestock Operations, see [Article X](#article-x)).
+\* Refer to paragraph 1011.2, under [Section 1011 — Commercial Livestock Operations](#section-1011).
 
 [^ra37-1]: In the original document, the printed values "20,000 sq. ft." / "100 ft." in this cell are struck through and hand-corrected to "30,000 sq. ft." / "125 ft." — transcribed here as the corrected (handwritten) figures. Verify against the official recorded ordinance.
 [^ra37-2]: The "No Public Water or Public Sewer" lot-size figure for this row carries a handwritten mark that is not fully legible (appears to read approximately "1 ac.," possibly amended). Verify against the official recorded ordinance or the source image below before relying on this figure.
@@ -1606,25 +1592,12 @@ of a Zoning Hearing Board.
 
 The chart on the following page refers to the minimum area and bulk requirements.
 
-1.
-
-2.
-
-The height of a building shall not be greater than thirty-five (35) feet.
-
-The height of a dwelling shall not be less than one (1) story.
-
-. Buildings devoted to agricultural use shall be exempt from height regulations.
-
-Accessory buildings shall be a minimum of eight (8) feet from side yard line and
-twelve (12) feet from the rear lot line.
-
-On each corner lot, there shall be two front yards, each abutting a street.
-
-On each pie-shaped lot (front property line is an arc) the rear yard shall be
-measured as an arc with a 35 foot radius originating at the rear property corner.
-
-4]
+1. The height of a building shall not be greater than thirty-five (35) feet.
+2. The height of a dwelling shall not be less than one (1) story.
+3. Buildings devoted to agricultural use shall be exempt from height regulations.
+4. Accessory buildings shall be a minimum of eight (8) feet from side yard line and twelve (12) feet from the rear lot line.
+5. On each corner lot, there shall be two front yards, each abutting a street.
+6. On each pie-shaped lot (front property line is an arc) the rear yard shall be measured as an arc with a 35 foot radius originating at the rear property corner.
 
 <a id="section-604"></a>
 ### Section 604 - Off-Street Parking
@@ -1714,31 +1687,12 @@ of a Zoning Hearing Board.
 <a id="section-703"></a>
 ### Section 703 - Area Regulations
 
-1.
-
-The minimum lot sizes for uses not designated otherwise in the commercial zone
-shall be based upon the adequate provision of off-street parking spaces in
-accordance with this ordinance, maximum impervious cover of fifty percent (50%)
-and a minimum fifty (50) foot lot width.
-
-For the purpose of calculating minimum lot area, on-street parking spaces can be
-included where permitted. If the spaces are not clearly identified, the number of
-spaces can be calculated by dividing the street frontage of the use by twenty (20)
-feet.
-
-Where permitted, lot sizes for combined commercial and residential uses shall meet
-the minimum lot size requirements specified for the residential use or the
-commercial use, whichever is greater. Parking shall be provided for any dwelling
-units in addition to those required for the commercial use.
-
-Where public sewer service is not available, adequate space must be allotted for an
-on-lot sewage system according to Township and PADEP requirements.
-
-When adjacent to residential uses, screen plantings and buffer yards must be
-provided in accordance with Township requirements.
-
-6. All commercial property must have frontage on public roads. Any commercial
-property will be the total acreage of that parcel.
+1. The minimum lot sizes for uses not designated otherwise in the commercial zone shall be based upon the adequate provision of off-street parking spaces in accordance with this ordinance, maximum impervious cover of fifty percent (50%) and a minimum fifty (50) foot lot width.
+2. For the purpose of calculating minimum lot area, on-street parking spaces can be included where permitted. If the spaces are not clearly identified, the number of spaces can be calculated by dividing the street frontage of the use by twenty (20) feet.
+3. Where permitted, lot sizes for combined commercial and residential uses shall meet the minimum lot size requirements specified for the residential use or the commercial use, whichever is greater. Parking shall be provided for any dwelling units in addition to those required for the commercial use.
+4. Where public sewer service is not available, adequate space must be allotted for an on-lot sewage system according to Township and PADEP requirements.
+5. When adjacent to residential uses, screen plantings and buffer yards must be provided in accordance with Township requirements.
+6. All commercial property must have frontage on public roads. Any commercial property will be the total acreage of that parcel.
 
 <a id="section-704"></a>
 ### Section 704 - Screen Planting
@@ -1887,310 +1841,120 @@ Full-resolution file: [`zoning-district-tables/Industrial-District-table-p52.jpg
 <a id="section-900"></a>
 ### Section 900 - Purpose
 
-L
+**1. Purposes**
 
-Purposes
+The purpose of these provisions is to prevent the loss of property and life, the creation of health and safety hazards, the disruption of commerce and governmental services, the extraordinary and unnecessary expenditure of public funds for flood protection and relief, and the impairment of the tax base by:
 
-The purpose of these provisions is to prevent the loss of property and life, the creation
-of health and safety hazards, the disruption of commerce and governmental services,
-the extraordinary and unnecessary expenditure of public funds for flood protection and
-relief, and the impairment of the tax base by:
+- **A.** regulating uses, activities, and development which, acting alone or in combination with other existing or future uses, activities, and development, will cause unacceptable increases in flood heights, velocities and frequencies.
+- **B.** restricting or prohibiting certain uses, activities, and development from locating within areas subject to flooding.
+- **C.** requiring all those uses, activities, and developments that do occur in flood-prone areas to be protected and/or floodproofed against flood damage.
+- **D.** protecting individuals from buying lands and structures which are unsuited for intended purposes because of flood hazards.
 
-A. regulating uses, activities, and development which, acting alone or in
-combination with other existing or future uses, activities, and development, will
-cause unacceptable increases in flood heights, velocities and frequencies.
+**2. Applicability**
 
-B. restricting or prohibiting certain uses, activities, and development from locating
-within areas subject to flooding.
+These provisions shall apply to all lands within the jurisdiction of Fayette Township and shown on the Official Zoning Map as being located within the boundaries of any floodplain district.
 
-Gs: requiring all those uses, activities, and developments that do occur in flood-
-prone areas to be protected and/or floodproofed against flood damage.
+**3. Compliance**
 
-D. protecting individuals from buying lands and structures which are unsuited for
-intended purposes because of flood hazards.
+No structure or land shall hereafter be used and no structure shall be located, relocated, constructed, reconstructed, enlarged, or structurally altered except in full compliance with the terms and provisions of this ordinance and any other applicable ordinances and regulations which apply to uses within the jurisdiction of this ordinance.
 
-Applicability
+**4. Warning and Disclaimer of Liability**
 
-These provisions shall apply to all lands within the jurisdiction of Fayette Township and
-shown on the Official Zoning Map as being located within the boundaries of any
-floodplain district.
+The degree of flood protection sought by the provisions of this ordinance is considered reasonable for regulatory purposes and is based on acceptable engineering methods of study. Large floods may occur on rare occasions. Flood heights may be increased by man-made or natural causes, such as ice jams and bridge openings restricted by debris.
 
-Compliance
+This ordinance does not imply that areas outside the floodplain districts will be free from flooding or flood damages.
 
-No structure or land shall hereafter be used and no structure shall be located, relocated,
-constructed, reconstructed, enlarged, or structurally altered except in full compliance
-with the terms and provisions of this ordinance and any other applicable ordinances and
-regulations which apply to uses within the jurisdiction of this ordinance.
-
-4. Warning and Disclaimer of Liability
-
-The degree of flood protection sought by the provisions of this ordinance is considered
-reasonable for regulatory purposes and is based on acceptable engineering methods of
-study. Large floods may occur on rare occasions. Flood heights may be increased by
-man-made or natural causes, such as ice jams and bridge openings restricted by debris.
-
-This ordinance does not imply that areas outside the floodplain districts will be free
-from flooding or flood damages.
-
-This Ordinance shall not create liability on the part of Fayette Township or any officer
-or employee thereof for any flood damages that result from reliance on this ordinance
-or any administrative decision lawfully made thereunder.
+This Ordinance shall not create liability on the part of Fayette Township or any officer or employee thereof for any flood damages that result from reliance on this ordinance or any administrative decision lawfully made thereunder.
 
 <a id="section-901"></a>
 ### Section 901 - Establishment of Zoning District
 
-Te. Description of District
+**1. Description of District**
 
-A.
+- **A. Basis of District**
 
-Basis of District
+  The Floodplain District (FP) is defined and established as those areas of the Township subject to flooding as defined in subsection (1) hereof. The most extensive of these areas described in the following sources shall determine the outermost boundary of the FP District:
 
-The Floodplain District (FP) is defined and established as those areas of the
-Township subject to flooding as defined in subsection (1) hereof. The most
-extensive of these areas described in the following sources shall determine the
-outermost boundary of the FP District:
+  1. Those areas subject to inundation by the waters of the 100 year flood as delineated in the Flood Insurance Study for the Township as prepared by the U.S. Department of Housing and Urban Development, Federal Insurance Administration.
+     - **a.** "Floodway" means that portion of the FP District required to carry and discharge the waters of the 100 year flood without increasing the water surface elevation at any point more than one foot above existing conditions, as demonstrated in the Flood Insurance Study referenced above.
+     - **b.** "Floodway fringe" means those portions of land within the FP District subject to inundations by the 100 year flood, lying beyond the floodway in areas where detailed study and profiles are available.
+     - **c.** "Approximated floodplain" means those portions of land within the FP District subject to inundation by the 100 year flood where a detailed study has not been performed, but where a 100 year floodplain boundary has been approximated. Where the specific 100 year flood elevation cannot be determined for this area using other sources of data such as the U.S. Army Corps of Engineers Floodplain Information Reports, U.S. Geological Survey Flood Prone Quadrangles, etc., then the applicant for the proposed use, development, and/or activity shall determine this elevation in accordance with hydrologic and hydraulic engineering techniques. Hydrologic and hydraulic analyses shall be undertaken only by professional engineers or others of demonstrated qualifications, who shall certify that the technical methods used correctly reflect currently accepted technical concepts. Studies, analyses, computations, etc., shall be submitted in sufficient detail to allow a thorough technical review by the Township.
 
-li
+- **B. Overlay Concept**
 
-Those areas subject to inundation by the waters of the 100 year flood as
-delineated in the Flood Insurance Study for the Township as prepared by
-the U.S. Department of Housing and Urban Development, Federal
-Insurance Administration.
+  1. The Floodplain District described above shall be overlays to the existing underlying districts as shown on the Official Zoning Map, and as such, the provisions for the floodplain district shall serve as a supplement to the underlying district provisions.
+  2. Where there happens to be any conflict between the provisions or requirements of the Floodplain District and those of any underlying district the more restrictive provisions and/or those pertaining to the floodplain district shall apply.
+  3. In the event any provision concerning a Floodplain District is declared inapplicable as a result of any legislative or administrative actions or judicial discretion, the basic underlying district provisions shall remain applicable.
 
-a.
+**2. Zoning Map**
 
-“Floodway” means that portion of the FP District required to
-carry and discharge the waters of the 100 year flood without
-increasing the water surface elevation at any point more than one
-foot above existing conditions, as demonstrated in the Flood
-Insurance Study referenced above.
+The boundaries of the Floodplain Districts are established as shown on the Flood Boundary and Floodway Map, Panels 1 through 6, dated December 1, 1981, prepared by Erdman, Anthony Associates, Inc. for the Federal Insurance Administration. The said map is hereby incorporated into and made a part of the Official Zoning Map of Fayette Township as amended. A copy of said map shall be kept on file at the offices of the Township and be available for inspection at any time.
 
-“Floodway fringe” means those portions of land within the FP
-District subject to inundations by the 100 year flood, lying
-beyond the floodway in areas where detailed study and profiles
-are available.
+**3. District Boundary Changes**
 
-“Approximated floodplain” means those portions of land within
-the FP District subject to inundation by the 100 year flood where
-a detailed study has not been performed, but where a 100 year
-floodplain boundary has been approximated. Where the specific
+The delineation of any of the floodplain districts may be revised by the Board of Supervisors where natural or man-made changes have occurred and/or more detailed studies conducted or undertaken by the U.S. Army Corps of Engineers, the Susquehanna River Basin Commission or other qualified agency or individual documents the advisability for such change. However, prior to any such change, approval must be obtained from the Federal Insurance Administration (FIA).
 
-100 year flood elevation cannot be determined for this area using
-other sources of data such as the U.S. Army Corps of Engineers
-Floodplain Information Reports, U.S. Geological Survey Flood
-Prone Quadrangles, etc., then the applicant for the proposed use,
-development, and/or activity shall determine this elevation in
-accordance with hydrologic and hydraulic engineering techniques.
-Hydrologic and hydraulic engineering techniques. Hydrologic
-and hydraulic analyses shall be undertaken only by professional
-engineers or others of demonstrated qualifications, who shall
-certify that the technical methods used correctly reflect currently
-accepted technical concepts. Studies, analyses, computations,
-etc., shall be submitted in sufficient detail to allow a thorough
-technical review by the Township.
+**4. Interpretation of District Boundaries**
 
-B. Overlay Concept
-
-1.
-
-Zoning Map
-
-The Floodplain District described above shall be overlays to the existing
-underlying districts as shown on the Official Zoning Map, and as such,
-the provisions for the floodplain district shall serve as a supplement to
-the underlying district provisions.
-
-‘Where there happens to be any conflict between the provisions or
-requirements of the Floodplain District and those of any underlying
-district the more restrictive provisions and/or those pertaining to the
-floodplain district shall apply.
-
-In the event any provision concerning a Floodplain District is declared in
-applicable as a result of any legislative or administrative actions or
-judicial discretion, the basic underlying district provisions shall remain
-applicable.
-
-The boundaries of the Floodplain Districts are established as shown on the Flood
-Boundary and Floodway Map, Panels 1 through 6, dated December 1, 1981, prepared
-by Erdman, Anthony Associates, Inc. for the Federal Insurance Administration. The
-said map is hereby incorporated into and made a part of the Official Zoning Map of
-Fayette Township as amended. A copy of said map shall be kept on file at the offices
-of the Township and be available for inspection at any time.
-
-3. District Boundary Changes
-
-The delineation of any of the floodplain districts may be revised by the Board of
-Supervisors where natural or man-made changes have occurred and/or more detailed
-studies conducted or undertaken by the U.S. Army Corps of Engineers, the
-Susquehanna River Basin Commission or other qualified agency or individual
-documents the advisability for such change. However, prior to any such change,
-approval must be obtained from the Federal Insurance Administration (FIA).
-
-4. Interpretation of District Boundaries
-
-Initial interpretations of the boundaries of the Floodplain District shall be made by the
-Zoning Officer. Should a dispute arise concerning the boundary of the District, the
-Zoning Hearing Board shall make the necessary determination. The person questioning
-or contesting the location of the district boundary shall be given a reasonable
-opportunity to present his case to the Board and submit his own technical evidence if he
-so desires.
+Initial interpretations of the boundaries of the Floodplain District shall be made by the Zoning Officer. Should a dispute arise concerning the boundary of the District, the Zoning Hearing Board shall make the necessary determination. The person questioning or contesting the location of the district boundary shall be given a reasonable opportunity to present his case to the Board and submit his own technical evidence if he so desires.
 
 <a id="section-902"></a>
 ### Section 902 - District Provisions
 
-All uses, activities, and development occurring within any floodplain district shall be
-undertaken, only, in strict compliance with the provisions of this Ordinance and with all other
-applicable codes and ordinances such as the Township Building Permit Ordinance and the
-Township Subdivision and Land Development Ordinance.
+All uses, activities, and development occurring within any floodplain district shall be undertaken, only, in strict compliance with the provisions of this Ordinance and with all other applicable codes and ordinances such as the Township Building Permit Ordinance and the Township Subdivision and Land Development Ordinance.
 
-Under no circumstances shall any use, activity and/or development adversely affect the
-capacity of the channels or floodways of any watercourse, drainage ditch, or any other
-drainage facility or system. Prior to any proposed alteration or relocation of any stream,
-watercourse, etc. within the municipality, a permit shall be obtained from the Pennsylvania
-Department of Environmental Resources, Bureau of Dams and Waterways Management.
-Further, notification of the proposal shall be given to all affected adjacent municipalities.
-Copies of such notifications shall be forwarded to both the Federal Insurance Administration
-and the Pennsylvania Department of Community Affairs.
+Under no circumstances shall any use, activity and/or development adversely affect the capacity of the channels or floodways of any watercourse, drainage ditch, or any other drainage facility or system. Prior to any proposed alteration or relocation of any stream, watercourse, etc. within the municipality, a permit shall be obtained from the Pennsylvania Department of Environmental Resources, Bureau of Dams and Waterways Management. Further, notification of the proposal shall be given to all affected adjacent municipalities. Copies of such notifications shall be forwarded to both the Federal Insurance Administration and the Pennsylvania Department of Community Affairs.
 
-1.
+**1. Floodplain District (FP)**
 
-Floodplain District (FP)
+- **A. Floodway**
 
-A
+  The following uses and no others shall be permitted in a Floodplain District. No development shall be permitted in the Floodway except where the effect of such development on flood heights is fully offset by accompanying improvements which have been approved by all appropriate local and/or State authorities as required above.
 
-Floodway
+  1. **Permitted Uses**
 
-The following uses and no others shall be permitted in a Floodplain District.
-No development shall be permitted in the Floodway except where the effect of
-such development on flood heights is fully offset by accompanying
-improvements which have been approved by all appropriate local and/or State
-authorities as required above.
+     The following uses and activities are permitted in the Floodway provided that they are in compliance with the provisions of the underlying district and are not prohibited by any other ordinance and provided that they do not require structures, fill, or storage of materials and equipment:
 
-1.
+     - **a.** Agriculture, excluding commercial livestock or commercial produce operations, and farm uses such as general farming, pasture, grazing, outdoor plant, nurseries, horticulture, truck farming, forestry, sod farming, and wild crop harvesting.
+     - **b.** Public and private recreational uses and activities such as parks, day camps, picnic grounds, golf courses, boat launching and swimming areas, hiking, and horseback riding trails, wildlife and nature preserves, game farms, fish hatcheries, trap and skeet game ranges, and hunting and fishing areas.
+     - **c.** Accessory residential uses such as yard areas, gardens, play areas, and previous parking areas.
+     - **d.** Accessory industrial and commercial uses such as yard areas, pervious parking and loading areas, airport landing strips, etc.
 
-Permitted Uses
+  2. **Uses Permitted by Conditional Use**
 
-The following uses and activities are permitted in the Floodway provided
-that they are in compliance with the provisions of the underlying district
-and are not prohibited by any other ordinance and provided that they do
-not require structures, fill, or storage of materials and equipment:
+     The following uses and activities may be permitted by Conditional Use provided that they are in compliance with the provisions of the underlying district and are not prohibited by other ordinance:
 
-a.
+     - **a.** Structures, except for mobilehomes, accessory to the uses and activities in Section 1 above.
+     - **b.** Utilities and public facilities and improvements such as railroads, streets, bridges, transmission lines, pipe lines, water and sewage treatment plants, and other similar related uses.
+     - **c.** Water-related uses and activities such as marinas, docks, wharves, piers, etc.
+     - **d.** Extraction of sand, gravel and other materials.
+     - **e.** Temporary uses such as circuses, carnivals, and similar activities.
+     - **f.** Storage of materials and equipment provided that they are not buoyant, flammable or explosive, and are not subject to major damage by flooding, or provided that such material and equipment is firmly anchored to prevent flotation or movement, and/or can be readily removed from the area within the time available after flood warning.
+     - **g.** Other similar uses and activities provided they cause no increase in flood heights and/or velocities. All uses, activities, and structural developments, shall be undertaken in strict compliance with the floodproofing provisions contained in all other applicable codes and ordinances.
 
-Agriculture, excluding commercial livestock or commercial
-produce operations, and farm uses such as general farming,
-pasture, grazing, outdoor plant, nurseries, horticulture, truck
-farming, forestry, sod farming, and wild crop harvesting.
+- **B. Floodway-Fringe**
 
-Public and private recreational uses and activities such as parks,
-day camps, picnic grounds, golf courses, boat launching and
-swimming areas, hiking, and horseback riding trails, wildlife and
-nature preserves, game farms, fish hatcheries, trap and skeet
-game ranges, and hunting and fishing areas.
-
-Accessory residential uses such as yard areas, gardens, play
-areas, and previous parking areas.
-
-Accessory industrial and commercial uses such as yard areas,
-pervious parking and loading areas, airport landing strips, etc.
-
-Uses Permitted by Conditional Use
-
-The following uses and activities may be permitted by Conditional Use
-provided that they are in compliance with the provisions of the
-underlying district and are not prohibited by other ordinance:
-
-a.
-
-Structures, except for mobilehomes, accessory to the uses and
-activities in Section 1 above.
-
-b. Utilities and public facilities and improvements such as railroads,
-streets, bridges, transmission lines, pipe lines, water and sewage
-treatment plants, and other similar related uses.
-
-[eq Water-related uses and activities such as marinas, docks,
-wharves, piers, etc.
-
-d. Extraction of sand, gravel and other materials.
-e Temporary uses such as circuses, carnivals, and similar activities.
-f, Storage of materials and equipment provided that they are not
-
-buoyant, flammable or explosive, and are not subject to major
-damage by flooding, or provided that such material and
-equipment is firmly anchored to prevent flotation or movement,
-and/or can be readily removed from the area within the time
-available after flood warning.
-
-g. Other similar uses and activities provided they cause no increase
-in flood heights and/or velocities. All uses, activities, and
-structural developments, shall be undertaken in strict compliance
-with the floodproofing provisions contained in all other applicable
-codes and ordinances.
-
-B. Floodway-Fringe
-
-The development and/or use of land shall be permitted in the Floodway-Fringe
-in accordance with the regulations of the underlying district provided that all
-such uses, activities, and/or development shall be undertaken in strict
-compliance with the floodproofing and related provisions contained in all other
-applicable codes and ordinances.
+  The development and/or use of land shall be permitted in the Floodway-Fringe in accordance with the regulations of the underlying district provided that all such uses, activities, and/or development shall be undertaken in strict compliance with the floodproofing and related provisions contained in all other applicable codes and ordinances.
 
 <a id="section-903"></a>
 ### Section 903 - Conditional Uses, Special Exception and Variances - Factors to be Considered
 
-In passing upon applications for Conditional Uses by the Board of Supervisors and in
+In passing upon applications for Conditional Uses by the Board of Supervisors and in case of special exceptions and variances, the Zoning Hearing Board shall consider all relevant factors and procedures specified in other sections of the Zoning Ordinance and:
 
-case of special exceptions and variances, the Zoning Hearing Board shall consider all relevant
-factors and procedures specified in other sections of the Zoning Ordinance and:
+1. The danger to life and property due to increased flood heights or velocities caused by encroachments. No special exceptions or variance shall be granted in the floodway for any proposed use, development, or activity that will cause any increase in flood levels during the one hundred (100) year flood.
+2. The danger that materials may be swept on to other lands or downstream to the injury of others.
+3. The proposed water supply and sanitation systems and the ability of these systems to prevent disease, contamination, and unsanitary conditions.
+4. The susceptibility of the proposed facility and its contents of flood damage and the effect of such damage on the individual owners.
+5. The importance of the services provided by the proposed facility to the community.
+6. The requirements of the facility for a waterfront location.
+7. The availability of alternative locations not subject to flooding for the proposed use.
+8. The compatibility of the proposed use with existing development and development anticipated in the foreseeable future.
+9. The relationship of the proposed use to the Comprehensive Plan and floodplain management program for the area.
+10. The safety of access to the property in times of flood of ordinary and emergency vehicles.
+11. The expected heights, velocity, duration, rate of rise, and sediment transport of the flood waters expected at the site.
+12. Such other factors which are relevant to the purposes of this ordinance.
 
-aT
-
-10.
-
-11.
-
-12.
-
-The danger to life and property due to increased flood heights or velocities
-caused by encroachments. No special exceptions or variance shall be granted in
-the floodway for any proposed use, development, or activity that will cause any
-increase in flood levels during the one hundred (100) year flood.
-
-The danger that materials may be swept on to other lands or downstream to the
-injury of others.
-
-The proposed water supply and sanitation systems and the ability of these
-systems to prevent disease, contamination, and unsanitary conditions.
-
-The susceptibility of the proposed facility and its contents of flood damage and
-the effect of such damage on the individual owners.
-
-The importance of the services provided by the proposed facility to the
-community.
-
-The requirements of the facility for a waterfront location.
-
-The availability of alternative locations not subject to flooding for the proposed
-use.
-
-The compatibility of the proposed use with existing development and
-development anticipated in the foreseeable future.
-
-The relationship of the proposed use to the Comprehensive Plan and floodplain
-management program for the area.
-
-The safety of access to the property in times of flood of ordinary and emergency
-vehicles.
-
-The expected heights, velocity, duration, rate of rise, and sediment transport of
-the flood waters expected at the site.
-
-Such other factors which are relevant to the purposes of this ordinance.
-
-The Board of Supervisors or the Zoning Hearing Board may refer any application and
-
-accompanying documentation pertaining to any request for a special exception, conditional use
+The Board of Supervisors or the Zoning Hearing Board may refer any application and accompanying documentation pertaining to any request for a special exception, conditional use
 or variance to any engineer or other qualified person or agency for technical assistance in
 evaluating the proposed project in relation to flood heights and velocities, and the adequacy of
 the plans for protection and other related matters.
@@ -2210,26 +1974,10 @@ A structure or use of a structure or premises which lawfully existed before the
 enactment of these provisions, but which is not in conformity with these provisions may be
 continued subject to the following conditions:
 
-lL.
-
-Existing structures and/or uses located in any floodway shall not be expanded or
-enlarged, unless the effect of the proposed expansion or enlargement of flood
-heights is fully offset by accompanying improvements.
-
-Any modification, alteration, repair, reconstruction, or improvements of any
-kind to a structure and/or use located in the floodplain district to an extent or
-amount of less than fifty (50) percent of its market value, shall be elevated
-and/or floodproofed to the greatest extent possible regardless of its location in
-the floodplain district.
-
-The modification, alteration, repair, reconstruction, or improvement of any kind
-to a structure and/or use regardless of its location in the floodplain district to an
-extent or amount of fifty (50) percent or more of its market value shall be
-undertaken only in full compliance with the provisions of this and any other
-applicable ordinance.
-
-Uses or adjuncts thereof which are, or become, nuisances shall not be permitted
-to continue.
+1. Existing structures and/or uses located in any floodway shall not be expanded or enlarged, unless the effect of the proposed expansion or enlargement of flood heights is fully offset by accompanying improvements.
+2. Any modification, alteration, repair, reconstruction, or improvements of any kind to a structure and/or use located in the floodplain district to an extent or amount of less than fifty (50) percent of its market value, shall be elevated and/or floodproofed to the greatest extent possible regardless of its location in the floodplain district.
+3. The modification, alteration, repair, reconstruction, or improvement of any kind to a structure and/or use regardless of its location in the floodplain district to an extent or amount of fifty (50) percent or more of its market value shall be undertaken only in full compliance with the provisions of this and any other applicable ordinance.
+4. Uses or adjuncts thereof which are, or become, nuisances shall not be permitted to continue.
 
 <a id="article-x"></a>
 ## Article X — Supplemental Regulations
@@ -2244,46 +1992,15 @@ Every applicant installing, erecting or constructing an animal waste storage fac
 the owner of the land where the animal waste storage facility is placed shall be responsible for
 satisfying the requirements of the following regulations:
 
-i
+1. Animal waste storage facilities shall be designed in compliance with engineering standards and specifications comparable to SCS Technical Manuals, copies of which are available at the Juniata County Conservation District Office, and the BWQM Pub. No. 43, manure management for environmental protection, and any revisions thereto, as published by the PA DEP.
+2. Animal waste storage facility designs shall be reviewed by the Juniata County Conservation District. The applicant shall furnish a letter from the District attesting to the approval of the design of the proposed facility.
 
-Animal waste storage facilities shall be designed in compliance with engineering
-standards and specifications comparable to SCS Technical Manuals, copies of
-which are available at the Juniata County Conservation District Office, and the
-BWQM Pub. No. 43, manure management for environmental protection, and
-any revisions thereto, as published by the PA DEP.
+   A building permit will be issued to the applicant upon approval of the design for the animal waste storage facility and an adequate nutrient management plan.
+3. Construction and subsequent operation of the animal waste storage facility shall be in accordance with the building permit and the approved design. Any design changes during construction or subsequent operation must be reviewed by the Juniata Conservation District and the Township must be notified in writing.
+4. Animal waste storage facilities for new operations shall not be located closer than five hundred (500) feet from any residentially zoned property line and one hundred and fifty (150') feet from any other property lines, street right-of-way lines, and streams. New storage facilities on existing operations shall be subject to review by the Juniata Conservation District. Livestock and poultry operations existing on the effective date of this ordinance shall be subject to the provisions of this ordinance, state laws and the Juniata County requirements if the following circumstances apply:
 
-Animal waste storage facility designs shall be reviewed by the Juniata County
-Conservation District. The applicant shall furnish a letter from the District
-attesting to the approval of the design of the proposed facility.
-
-A building permit will be issued to the applicant upon approval of the design for
-the animal waste storage facility and an adequate nutrient management plan.
-
-Construction and subsequent operation of the animal waste storage facility shall
-be in accordance with the building permit and the approved design. Any design
-changes during construction or subsequent operation must be reviewed by the
-Juniata Conservation District and the Township must be notified in writing.
-
-Animal waste storage facilities for new operations shall not be located closer
-than five hundred (500) feet from any residentially zoned property line and one
-hundred and fifty (150’) feet from any other property lines, street right-of-way
-lines, and streams. New storage facilities on existing operations shall be subject
-to review by the Juniata Conservation District. Livestock and poultry
-operations existing on the effective date of this ordinance shall be subject to the
-provisions of this ordinance, state laws and the Juniata County requirements if
-the following circumstances apply:
-
-A. That the storage, handling or disposal of manure of the application of
-
-fertilizer by the operation is in violation of applicable standards that are
-contained in the most recent text and technical supplements to the
-Commonwealth of Pennsylvania Department of Environmental Resources
-publication “Manure Management for Environmental Protection” and the
-Department of Environmental Resources Regulations; and
-
-B. that such violation is causing or is substantially threatening to cause
-
-pollution to ground or surface waters.
+   - **A.** That the storage, handling or disposal of manure of the application of fertilizer by the operation is in violation of applicable standards that are contained in the most recent text and technical supplements to the Commonwealth of Pennsylvania Department of Environmental Resources publication "Manure Management for Environmental Protection" and the Department of Environmental Resources Regulations; and
+   - **B.** that such violation is causing or is substantially threatening to cause pollution to ground or surface waters.
 
 <a id="section-1002"></a>
 ### Section 1002 - Performance Standards for Industrial and Natural Resource Uses
@@ -2291,49 +2008,19 @@ pollution to ground or surface waters.
 Industrial and Natural Resource uses shall be subject to the following regulations,
 where applicable:
 
-1,
-
-Noise Pollution and Vibration: “Rules and Regulations” of the Pennsylvania
-Department of Environmental Resources.
-
-Air Pollution, Airborne Emissions and Odor: “Rules and Regulations” of the
-Pennsylvania Department of Environmental Resources.
-
-Water Pollution: Pennsylvania Act 394, P.L. 1987, the Clean Streams Act, as
-amended, 1970.
-
-Mine Reclamation and Open Pit Setback: Pennsylvania Act 147, the “Surface
-Mining Conservation and Reclamation Act” of 1971, as amended.
-
-Glare and Heat: “Rules and Regulations” of the Pennsylvania Department of
-Environmental Resources.
-
-No use or operation shall be permitted which creates a public nuisance or hazard
-to adjoining property by reason of fire, explosion, radiation or other similar
-cause.
-
-Outside Industrial Storage: No outside industrial storage including junk yards
-
-shall be located on land with a slope in excess of five (5) percent or within one
-hundred (100) feet of a public right-of-way.
+1. Noise Pollution and Vibration: "Rules and Regulations" of the Pennsylvania Department of Environmental Resources.
+2. Air Pollution, Airborne Emissions and Odor: "Rules and Regulations" of the Pennsylvania Department of Environmental Resources.
+3. Water Pollution: Pennsylvania Act 394, P.L. 1987, the Clean Streams Act, as amended, 1970.
+4. Mine Reclamation and Open Pit Setback: Pennsylvania Act 147, the "Surface Mining Conservation and Reclamation Act" of 1971, as amended.
+5. Glare and Heat: "Rules and Regulations" of the Pennsylvania Department of Environmental Resources.
+6. No use or operation shall be permitted which creates a public nuisance or hazard to adjoining property by reason of fire, explosion, radiation or other similar cause.
+7. Outside Industrial Storage: No outside industrial storage including junk yards shall be located on land with a slope in excess of five (5) percent or within one hundred (100) feet of a public right-of-way.
 
 <a id="section-1003"></a>
 ### Section 1003 - Building Height
 
-1.
-
-Height regulations shall not apply to spires, belfries, cupolas, or domes not used
-for human occupancy, nor to chimneys, ventilators, skylights, water tanks,
-bulkheads, utility poles or towers, radio and television antenna, silos, and
-ornamental or necessary mechanical appurtenances. Any structure designed to
-have a height of one hundred and fifty (150) feet or more above ground level
-must be approved by the Federal Aviation Agency and a written statement of
-approval must accompany the Permit Application.
-
-No dwelling shall be less than one (1) story in height, except, during a
-reasonable period of construction not to exceed a twenty-four (24) month period
-from the date of issuance of the Zoning Permit. This time period may be
-extended by the Board of Supervisors.
+1. Height regulations shall not apply to spires, belfries, cupolas, or domes not used for human occupancy, nor to chimneys, ventilators, skylights, water tanks, bulkheads, utility poles or towers, radio and television antenna, silos, and ornamental or necessary mechanical appurtenances. Any structure designed to have a height of one hundred and fifty (150) feet or more above ground level must be approved by the Federal Aviation Agency and a written statement of approval must accompany the Permit Application.
+2. No dwelling shall be less than one (1) story in height, except, during a reasonable period of construction not to exceed a twenty-four (24) month period from the date of issuance of the Zoning Permit. This time period may be extended by the Board of Supervisors.
 
 <a id="section-1004"></a>
 ### Section 1004 - Landscaping
@@ -2348,40 +2035,15 @@ planted, and quantity and spacing of each.
 <a id="section-1005"></a>
 ### Section 1005 - Screening
 
-1.
-
-All outdoor storage parking and/or loading areas of industrial and commercial
-uses shall be screened from view from any residential or commercial
-development or public right-of-way by a landscape screen or other visual barrier
-with plantings. The screening shall be placed immediately surrounding the area
-between any industrial parcel and a contiguous residential, or commercial
-zoning district and/or a public right-of-way.
-
-The landscape screen shall be composed of evergreen plants and trees arranged
-to form both a low level and a high level screen. The high level screen shall
-consist of evergreen trees planted at an initial height of not less than four (4)
-feet, with specimens no younger than three (3) years in age, and planted at
-intervals of not more than ten (10) feet. The low level screen planting shall be
-placed in an alternating or staggered pattern to produce a more effective visual
-barrier.
-
-An alternative visual barrier shall be a six (6) feet high opaque fence or wall
-with planting of trees, shrubs, and/or vines along the surface of the barrier
-facing any residential or commercial district or public right-of-way.
-
-All outdoor industrial use operations, mechanical equipment and other
-functional accessories of each building, such as elevator, penthouse, ventilation
-pipes and ducts, water pressure tanks, heating, air conditioning and power
-supply units shall have an architectural building material screen or covering
-which is an integral part of the building envelope and/or which is harmonious
-with the building design.
+1. All outdoor storage parking and/or loading areas of industrial and commercial uses shall be screened from view from any residential or commercial development or public right-of-way by a landscape screen or other visual barrier with plantings. The screening shall be placed immediately surrounding the area between any industrial parcel and a contiguous residential, or commercial zoning district and/or a public right-of-way.
+2. The landscape screen shall be composed of evergreen plants and trees arranged to form both a low level and a high level screen. The high level screen shall consist of evergreen trees planted at an initial height of not less than four (4) feet, with specimens no younger than three (3) years in age, and planted at intervals of not more than ten (10) feet. The low level screen planting shall be placed in an alternating or staggered pattern to produce a more effective visual barrier.
+3. An alternative visual barrier shall be a six (6) feet high opaque fence or wall with planting of trees, shrubs, and/or vines along the surface of the barrier facing any residential or commercial district or public right-of-way.
+4. All outdoor industrial use operations, mechanical equipment and other functional accessories of each building, such as elevator, penthouse, ventilation pipes and ducts, water pressure tanks, heating, air conditioning and power supply units shall have an architectural building material screen or covering which is an integral part of the building envelope and/or which is harmonious with the building design.
 
 <a id="section-1006"></a>
 ### Section 1006 - Swimming Pools
 
-1,
-
-Private Swimming Pools: Private swimming pools, in Districts where
+1. Private Swimming Pools: Private swimming pools, in Districts where
 permitted, shall comply with the following conditions and requirements:
 
 a. The pool is intended, and is to be used, solely for the enjoyment of the
@@ -2400,7 +2062,7 @@ uncontrolled access by children from the street or from adjacent
 properties. Said barrier shall not be less than four (4) feet in height and
 maintained in good condition.
 
-Public Swimming Pools: Pubic swimming pools in Districts where permitted
+2. Public Swimming Pools: Pubic swimming pools in Districts where permitted
 shall comply with the conditions set forth in:
 
 a. “Public Bathing Law”, 1931, June 23, P.L. 899, and amendments
@@ -2416,14 +2078,8 @@ Pennsylvania, Department of Environmental Resources, adopted October
 
 The following projections into yards and courts shall be permitted:
 
-1.
-
-Cornices, eaves, belt courses, sills or other similar architectural features,
-exterior stairway, fire escape or other required means of egress, rain lead or
-chimney may extend or project into a required yard not more than two (2) feet.
-
-No patio or paved terrace shall be located within five (5) feet of any property
-line or between building setback line and the right-of-way line.
+1. Cornices, eaves, belt courses, sills or other similar architectural features, exterior stairway, fire escape or other required means of egress, rain lead or chimney may extend or project into a required yard not more than two (2) feet.
+2. No patio or paved terrace shall be located within five (5) feet of any property line or between building setback line and the right-of-way line.
 
 <a id="section-1008"></a>
 ### Section 1008 - Front Yard Exception
@@ -2462,377 +2118,129 @@ Foundation Requirements. The area of the mobilehome stand shall be improved to
 provide an adequate foundation for the placement of the mobilehome, thereby, securing the
 super structure against unlift, sliding, or rotation.
 
-1,
+1. The mobilehome stand shall not heave, shift, or settle unevenly under the weight of the mobilehome due to frost action, inadequate drainage, vibration or other forces acting on the super structure.
+2. The mobilehome stand shall be provided with anchors and tie-downs such as cast-in-place concrete, "deadmen" eyelets imbedded in arrowhead anchors, or other services securing the stability of the mobilehome.
+3. Anchors and tie-downs shall be placed at least at each corner of the mobilehome stand and each shall be able to sustain a minimum tensile strength of 2,080 pounds.
 
-The mobilehome stand shall not heave, shift, or settle unevenly under the weight
-of the mobilehome due to frost action, inadequate drainage, vibration or other
-forces acting on the super structure.
+<a id="section-1011"></a>
+### Section 1011 - Commercial Livestock Operations
 
-The mobilehome stand shall be provided with anchors and tie-downs such as
-cast-in-place concrete, “deadmen” eyelets imbedded in arrowhead anchors, or
-other services securing the stability of the mobilehome.
+**1011.1** Within the (RA) Zone, Commercial Livestock Operations are permitted by conditional use, subject to the following criteria:
 
-Anchors and tie-downs shall be placed at least at each corner of the mobilehome
-stand and each shall be able to sustain a minimum tensile strength of 2,080
-pounds.
+**1011.2** The site shall contain at least fifty (50) tillable acres, and the maximum permitted lot coverage shall be ten percent (10%);
 
-1011 - Commercial Livestock Operations
+**1011.3** Unless specifically enumerates otherwise, by regulations of the Nutrient Management Act, any building or area used for the housing, feeding, watering, or running of livestock or poultry shall be set back at least five hundred feet (500') from;
 
-1011.1
+1. The nearest property line of any existing residence other than the principal residence of the applicant;
+2. The nearest property line of any approved lot which has been subdivided during the last five (5) year for residential purposes, which has not yet been constructed, and,
+3. The nearest property line of any lot proposed for residential purposes which has been submitted for preliminary or final subdivision approval.
 
-1011.2
+**1011.4** Unless specifically enumerates otherwise, by regulations of the Nutrient Management Act, any building or area used for the housing, feeding, watering, or running of livestock or poultry shall be set back at least one thousand feet (1,000') from any land within the (R-1) Zone;
 
-1011.3
+**1011.5** The applicant shall submit written evidence from the appropriate review that the proposed use where required has an approved nutrient management plan. All subsequent operations and activities shall be conducted in accordance with such plans. If, at any time, the nutrient management plan is amended, the applicant must again submit written evidence of plan approval to the Zoning Officer;
 
-1011.4
+**1011.6** The applicant shall furnish evidence from the Juniata Conservation District that the proposed use has an approved Erosion and Sedimentation (E&S) conservation plan. All subsequent operations and activities shall be conducted in accordance with such E&S plan. If, at any time, the E&S plan is amended, the applicant must again furnish evidence from the Juniata Conservation District that the amended plan has been reviewed/approved;
 
-Within the (RA) Zone, Commercial Livestock Operations are permitted by
-conditional use, subject to the following criteria:
+**1011.7** The applicant shall (1) submit written qualified evidence of, (2) abide by, and (3) demonstrate a working knowledge of, those methods that will be employed to:
 
-The site shall contain at least fifty (50) tillable acres, and the maximum
-permitted lot coverage shall be ten percent (10%);
+1. Minimize odor on nearby properties. These methods should employ the best possible techniques and materials that can be practicably applied to the proposed use.
+2. Dispose dead animals according to the regulations of the Pennsylvania Department of Agriculture. In the event of a catastrophic event in which mass disposal is warranted, the Pennsylvania Department of Agriculture can require whatever disposal methods are deemed appropriate to safeguard animal and public health; and,
+3. Comply with the above-required nutrient management plan and Erosion and Sedimentation conservation plan;
+4. Submit an Environmental Impact Study including surveys; geological studies; soils evaluation; ground water evaluation, including availability,
+5. Provide perimeter-monitoring well or wells, as proposed or directed by the Township to be drilled a depth equal to or greater than nearest residential use well around any proposed manure storage lagoons and/or manure spreading areas. Provide semi-annual test results consisting of at least total coliform, fecal coliform and nitrate/nitrites.
 
-Unless specifically enumerates otherwise, by regulations of the Nutrient
-Management Act, any building or area used for the housing, feeding, watering,
-or running of livestock or poultry shall be set back at least five hundred feet
-(500’) from;
+**1011.8** Any exhaust or ventilation fans employed shall be oriented and directed away from the closest residence that is not that of the operator. If said fans are within five hundred feet (500') of the closest subject property line, then the applicant shall construct a dispersion buffer, unless the neighbor agrees to a variance. Such dispersion buffer shall include a vegetative berm that will effectively disperse or redirect fan exhaust so that no direct exhaust velocity is perceptible at any of the subject property lines;
 
-1. The nearest property line of any existing residence other than the
-principal residence of the applicant;
+**1011.9** Any driveway or access drive providing for vehicular access to the proposed use shall be paved at lest twenty (20) feet past right-of-way and shall maintain a forty foot (40') wide radius at the intersections;
 
-Qi The nearest property line of any approved lot which has been subdivided
-during the last five (5) year for residential purposes, which has not yet
-been constructed, and,
+**1011.10** Any on-site manure storage facilities shall comply with the requirements of the state guidelines.
 
-3: The nearest property line of any lot proposed for residential purposes
-which has been submitted for preliminary or final subdivision approval.
+**1011.11** While a commercial livestock operation exists, no subdivision or land development that would create an additional principal dwelling unit or residential unit shall be permitted on the subject property, except when approved by the township under provisions of the current S.L.D.O.
 
-Unless specifically enumerates otherwise, by regulations of the Nutrient
-Management Act, any building or area used for the housing, feeding, watering,
+**1011.12** The applicant shall submit an analysis of raw water needs (groundwater or surface water) from either private or public sources, indicating quantity of water required. If the source is from a municipal system, the applicant shall submit documentation that the public authority will supply the water needed;
 
-1011.5
+In addition, if the facility is to rely upon non-public sources of water, a water feasibility study will be provided to enable the Township to evaluate the impact of the proposed development on the groundwater supply and on existing wells. The purpose of the study will be to determine if there is an adequate supply of water for the proposed development to estimate the impact of the new development on existing wells in the vicinity. The water feasibility shall be reviewed by the municipal engineer;
 
-1011.6
-
-1011.7
-
-or running of livestock or poultry shall be set back at least one thousand feet
-(1,000’) from any land within the (R-1) Zone;
-
-The applicant shall submit written evidence from the appropriate review that the
-proposed use where required has an approved nutrient management plan. All
-subsequent operations and activities shall be conducted in accordance with such
-plans. If, at any time, the nutrient management plan is amended, the applicant
-must again submit written evidence of plan approval to the Zoning Officer;
-
-The applicant shall furnish evidence from the Juniata Conservation District that
-the proposed use has an approved Erosion and Sedimentation (E&S)
-conservation plan. All subsequent operations and activities shall be conducted
-in accordance with such E&S plan. If, at any time, the E&S plan is amended,
-the applicant must again furnish evidence from the Juniata Conservation District
-that the amended plan has been reviewed/approved;
-
-The applicant shall (1) submit written qualified evidence of, (2) abide by, and
-(3) demonstrate a working knowledge of, those methods that will be employed
-to:
-
-1, Minimize odor on nearby properties. These methods should employ the
-best possible techniques and materials that can be practicably applied to
-the proposed use.
-
-2. Dispose dead animals according to the regulations of the Pennsylvania
-Department of Agriculture. In the event of a catastrophic event in which
-mass disposal is warranted, the Pennsylvania Department of Agriculture
-can require whatever disposal methods are deemed appropriate to
-safeguard animal and public health; and,
-
-3y Comply with the above-required nutrient management plan and Erosion
-and Sedimentation conservation plan;
-
-4. Submit an Environmental Impact Study including surveys; geological
-studies; soils evaluation; ground water evaluation, including availability,
-
-5. Provide perimeter-monitoring well or wells, as proposed or directed by
-the Township to be drilled a depth equal to or greater than nearest
-residential use well around any proposed manure storage lagoons and/or
-manure spreading areas. Provide semi-annual test results consisting of at
-least total coliform, fecal coliform and nitrate/nitrites.
-
-1011.8
-
-1011.9
-
-1011.10
-
-1011.11
-
-1011.12
-
-Any exhaust or ventilation fans employed shall be oriented and directed away
-from the closest residence that is not that of the operator. If said fans are within
-five hundred feet (500’) of the closest subject property line, then the applicant
-shall construct a dispersion buffer, unless the neighbor agrees to a variance.
-Such dispersion buffer shall include a vegetative berm that will effectively
-disperse or redirect fan exhaust so that no direct exhaust velocity is perceptible
-at any of the subject property lines;
-
-Any driveway or access drive providing for vehicular access to the proposed use
-shall be paved at lest twenty (20) feet past right-of-way and shall maintain a
-forty foot (40) wide radius at the intersections;
-
-Any on-site manure storage facilities shall comply with the requirements of the
-state guidelines.
-
-While a commercial livestock operation exists, no subdivision or land
-development that would create an additional principal dwelling unit or
-residential unit shall be permitted on the subject property, except when approved
-by the township under provisions of the current S.L.D.O.
-
-The applicant shall submit an analysis of raw water needs (groundwater or
-surface water) from either private or public sources, indicating quantity of water
-required. If the source is from a municipal system, the applicant shall submit
-documentation that the public authority will supply the water needed;
-
-In addition, if the facility is to rely upon non-public sources of water, a water
-feasibility study will be provided to enable the Township to evaluate the impact
-of the proposed development on the groundwater supply and on existing wells.
-The purpose of the study will be to determine if there is an adequate supply of
-water for the proposed development to estimate the impact of the new
-development on existing wells in the vicinity. The water feasibility shall be
-reviewed by the municipal engineer;
-
-A water system which does not provide an adequate supply of water for the
-proposed development, considering both quantity and quality, or does not
-provide for adequate groundwater recharge, considering the water withdrawn by
-the proposed development, shall not be approved by the Township.
+A water system which does not provide an adequate supply of water for the proposed development, considering both quantity and quality, or does not provide for adequate groundwater recharge, considering the water withdrawn by the proposed development, shall not be approved by the Township.
 
 A water feasibility study shall include the following information:
 
-° calculations of the projected water needs;
-e a geologic map of the area with a radius of at least one mile from the
-site;
+- calculations of the projected water needs;
+- a geologic map of the area with a radius of at least one mile from the site;
+- the location of all existing and proposed wells within five hundred feet (500') of the site, with a notation of the capacity of all high-yield wells;
+- the location of all existing on-lot sewage disposal systems within five hundred feet (500') of the site;
+- the location of all streams within five hundred feet (500') of the site and all known point sources of pollution;
+- based on the geologic formation(s) underlying the site, the long-term safe yield shall be determined;
+- a determination of the effects of the proposed water supply system on the quantity and quality of water in nearby wells, streams, and the groundwater table; and,
+- a statement of the qualifications and the signature(s) of the person(s) preparing the study.
 
-1011.13
+**1011.13** Should the proposed use not make use of public water and require more than 10,000 gallons of water per day, the applicant shall furnish written evidence of compliance with the Susquehanna River Basin Commission; that concerns agricultural operations and provide evidence of a satisfactory yield aquifer, without impacting adjacent properties within ¼ mile radius.
 
-1011.14
+**1011.14** All proposed uses must comply with the Fayette Township S.L.D.O. on Stormwater Management Section 610.
 
-1011.15
+**1011.15** The applicant shall be required to obtain an approved land development under the S.L.D.O., as amended.
 
-1011.16
-
-° the location of all existing and proposed wells within five hundred feet
-(500) of the site, with a notation of the capacity of all high-yield wells;
-
-° the location of all existing on-lot sewage disposal systems within five
-hundred feet (500’) of the site;
-
-e the location of all streams within five hundred feet (500’) of the site and
-all known point sources of pollution;
-
-° based on the geologic formation(s) underlying the site, the long-term safe
-yield shall be determined;
-
-° a determination of the effects of the proposed water supply system on the
-
-quantity and quality of water in nearby wells, streams, and the
-groundwater table; and,
-
-° a statement of the qualifications and the signature(s) of the person(s)
-preparing the study.
-
-Should the proposed use not make use of public water and require more than
-10,000 gallons of water per day, the applicant shall furnish written evidence of
-compliance with the Susquehanna River Basin Commission; that concerns
-agricultural operations and provide evidence of a satisfactory yield aquifer,
-without impacting adjacent properties within 4 mile radius.
-
-All proposed uses must comply with the Fayette Township $.L.D.O. on
-Stormwater Management Section 610.
-
-The applicant shall be required to obtain an approved land development under
-the §.L.D.O., as amended.
-
-The applicant shall notify all adjacent property owners of any request for a
-conditional use or special exceptions for commercial livestock operation by
-certified mail, return receipt requested and provide such proof to Township.
+**1011.16** The applicant shall notify all adjacent property owners of any request for a conditional use or special exceptions for commercial livestock operation by certified mail, return receipt requested and provide such proof to Township.
 
 <a id="section-1012"></a>
 ### Section 1012 - Commercial Produce Operations
 
-1012.1
+**1012.1** Within the (RA) Zone, commercial produce operations are permitted by conditional use, subject to the following criteria:
 
-1012.2
+**1012.2** Minimum Lot Area - Fifty (50) acres;
 
-1012.3
+**1012.3** Maximum Permitted Lot Coverage - Thirty percent (30%), including all impervious surfaces;
 
-1012.4
+**1012.4** The applicant shall submit written evidence from the appropriate review that the proposed use has an approved nutrient management plan. All subsequent operations and activities shall be conducted in accordance with such plans. If, at any time, the nutrient management plan is amended, the applicant must again submit written evidence of plan approval to the Zoning Officer;
 
-Within the (RA) Zone, commercial produce operations are permitted by
-conditional use, subject to the following criteria:
+**1012.5** The applicant shall furnish evidence from the Juniata Conservation District that the proposed use has an approved conservation plan. All subsequent operations and activities shall be conducted in accordance with such conservation plan. If, at any time, the conservation plan is amended, the applicant must again furnish evidence from the Juniata Conservation District that the amended plan has been approved.
 
-Minimum Lot Area - Fifty (50) acres;
+**1012.6** The applicant shall abide by, and demonstrate a working knowledge of, those methods that will be employed to comply with the above-required nutrient management plan and conservation plan;
 
-Maximum Permitted Lot Coverage - Thirty percent (30%), including all
-impervious surfaces;
+**1012.7** Any exhaust or ventilation fans employed shall be oriented and directed away from the closest residence that is not that of the operator. If said fans are within five hundred feet (500') of the closest subject property line, then the applicant shall construct a dispersion buffer, unless the neighbor agrees to a variance. Such dispersion buffer shall include a vegetative berm that will effectively disperse or redirect fan exhaust so that no direct exhaust velocity is perceptible at any of the subject property lines;
 
-The applicant shall submit written evidence from the appropriate review that the
-proposed use has an approved nutrient management plan. All subsequent
-operations and activities shall be conducted in accordance with such plans. If,
+**1012.8** Any driveway or access drive providing for vehicular access to the proposed use shall be paved at least twenty (20) feet past right-of-way and shall maintain a forty foot (40') wide radius at the intersections;
 
-1012.5
+**1012.9** Any on-site manure storage facilities shall comply with the requirements of the state guidelines.
 
-1012.6
+**1012.10** While a commercial produce operation exists, no subdivision or land development that would create an additional principal dwelling unit or residential unit shall be permitted on the subject property, except when approved by the Township under provisions of the current S.L.D.O.
 
-1012.7
+**1012.11** The applicant shall submit an analysis of raw water needs (groundwater or surface water) from either private or public sources, indicating quantity of water required. If the source is from a municipal system, the applicant shall submit documentation that the public authority will supply the water needed,
 
-1012.8
+In addition, if the facility is to rely upon non-public sources of water, a water feasibility study will be provided to enable the Township to evaluate the impact of the proposed development on the groundwater supply and on existing wells. The purpose of the study will be to determine if there is an adequate supply of water for the proposed development to estimate the impact of the new development on existing wells in the vicinity. The water feasibility shall be reviewed by the municipal engineer;
 
-1012.9
-
-1012.10
-
-1012.11
-
-at any time, the nutrient management plan is amended, the applicant must again
-submit written evidence of plan approval to the Zoning Officer;
-
-The applicant shall furnish evidence from the Juniata Conservation District that
-the proposed use has an approved conservation plan. All subsequent operations
-and activities shall be conducted in accordance with such conservation plan. If,
-at any time, the conservation plan is amended, the applicant must again furnish
-evidence from the Juniata Conservation District that the amended plan has been
-approved.
-
-The applicant shall abide by, and demonstrate a working knowledge of, those
-methods that will be employed to comply with the above-required nutrient
-management plan and conservation plan;
-
-Any exhaust or ventilation fans employed shall be oriented and directed away
-from the closest residence that is not that of the operator. If said fans are within
-five hundred feet (500’) of the closest subject property line, then the applicant
-shall construct a dispersion buffer, unless the neighbor agrees to a variance.
-Such dispersion buffer shall include a vegetative berm that will effectively
-disperse or redirect fan exhaust so that no direct exhaust velocity is perceptible
-at any of the subject property lines;
-
-Any driveway or access drive providing for vehicular access to the proposed use
-
-shall be paved at least twenty (20) feet past right-of-way and shall maintain a
-forty foot (40°) wide radius at the intersections;
-
-Any on-site manure storage facilities shall comply with the requirements of the
-state guidelines.
-
-While a commercial produce operation exists, no subdivision or land
-development that would create an additional principal dwelling unit or
-residential unit shall be permitted on the subject property, except when approved
-by the Township under provisions of the current $.L.D.O.
-
-The applicant shall submit an analysis of raw water needs (groundwater or
-surface water) from either private or public sources, indicating quantity of water
-required. If the source is from a municipal system, the applicant shall submit
-documentation that the public authority will supply the water needed,
-
-In addition, if the facility is to rely upon non-public sources of water, a water
-feasibility study will be provided to enable the Township to evaluate the impact
-of the proposed development on the groundwater supply and on existing wells.
-The purpose of the study will be to determine if there is an adequate supply of
-
-1012.12
-
-1012.13
-
-1012.14
-
-1012.15
-
-water for the proposed development to estimate the impact of the new
-development on existing wells in the vicinity. The water feasibility shall be
-reviewed by the municipal engineer;
-
-A water system which does not provide an adequate supply of water for the
-proposed development, considering both quantity and quality, or does not
-provide for adequate groundwater recharge, considering the water withdrawn by
-the proposed development, shall not be approved by the Township.
+A water system which does not provide an adequate supply of water for the proposed development, considering both quantity and quality, or does not provide for adequate groundwater recharge, considering the water withdrawn by the proposed development, shall not be approved by the Township.
 
 A water feasibility study shall include the following information:
 
-calculations of the projected water needs;
+- calculations of the projected water needs;
+- a geologic map of the area with a radius of at least one mile from the site;
+- the location of all existing and proposed wells within five hundred feet (500') of the site, with a notation of the capacity of all high-yield wells;
+- the location of all existing on-lot sewage disposal systems within five hundred feet (500') of the site;
+- the location of all streams within five hundred feet (500') of the site and all known point sources of pollution;
+- based on the geologic formation(s) underlying the site, the long-term safe yield shall be determined;
+- a determination of the effects of the proposed water supply system on the quantity and quality of water in nearby wells, streams, and the groundwater table; and,
+- a statement of the qualifications and the signature(s) of the person(s) preparing the study.
 
-a geologic map of the area with a radius of at least one mile from the
-site;
+**1012.12** Should the proposed use not make use of public water and require more than 10,000 gallons of water per day, the applicant shall furnish written evidence of compliance with the Susquehanna River Basin Commission; that concerns agricultural operations and provide evidence of a satisfactory yield aquifer, without impacting adjacent properties within ¼ mile radius.
 
-the location of all existing and proposed wells within five hundred feet
-(500’) of the site, with a notation of the capacity of all high-yield wells;
-the location of all existing on-lot sewage disposal systems within five
-hundred feet (500’) of the site;
+**1012.13** All proposed uses must comply with the Fayette Township S.L.D.O. section on Storm Water Management.
 
-: the location of all streams within five hundred feet (500’) of the site and
-all known point sources of pollution;
+**1012.14** Any pond or impoundment shall comply with the Fayette Township S.L.D.O. section on Stormwater Management.
 
-based on the geologic formation(s) underlying the site, the long-term safe
-yield shall be determined;
+**1012.15** The applicant shall be required to obtain an approved land development under the S.L.D.O., as amended;
 
-a determination of the effects of the proposed water supply system on the
-quantity and quality of water in nearby wells, streams, and the
-groundwater table; and,
+**1012.16** The applicant shall be required to submit a Traffic Impact Study in accordance with Section 402.54 of the S.L.D.O.
 
-a statement of the qualifications and the signature(s) of the person(s)
-preparing the study.
+**1012.17** The applicant shall be required to submit a written qualified plan for the removal of all buildings and the reclamation of all topsoil in the event of discontinuance of the commercial produce operation. If the site is graded during construction and operation of the commercial produce operation, all topsoil shall remain on the site in a manner which makes it conveniently accessible for reclamation. Should the applicant not adequately guarantee the removal of such buildings and reclamation of topsoil upon discontinuance of the commercial produce operation at his/her expense, the conditional use shall be denied;
 
-Should the proposed use not make use of public water and require more than
-10,000 gallons of water per day, the applicant shall furnish written evidence of
-compliance with the Susquehanna River Basin Commission; that_concerns
-agricultural operations and provide evidence of a satisfactory yield aquifer,
-without impacting adjacent properties within 4 mile radius.
+**1012.18** The site shall include one (1) off-street parking space for each employee during the largest work shift;
 
-All proposed uses must comply with the Fayette Township S.D.L.O. section on
-Storm Water Management.
+**1012.19** No retail sales shall be permitted on the site, except for roadside stands as permitted by the S.L.D.O.
 
-Any pond or impoundment shall comply with the Fayette Township $.D.L.O.
-section on Stormwater Management.
+**1012.20** All buildings and storage/processing structures shall be set back at least one hundred feet (100') from adjoining roads and properties, and all off-street parking and loading spaces, outdoor storage areas and dumpsters shall be set back at least fifty feet (50') and screened from adjoining roads and properties; and,
 
-The applicant shall be required to obtain an approved land development under
-the S.L.D.O., as amended;
-
-1012.16
-
-1012.17
-
-1012.18
-
-1012.19
-
-1012.20
-
-1012.21
-
-The applicant shall be required to submit a Traffic Impact Study in accordance
-with Section 402.54 of the S.L.D.O.
-
-The applicant shall be required to submit a written qualified plan for the
-removal of all buildings and the reclamation of all topsoil in the event of
-discontinuance of the commercial produce operation. If the site is graded during
-construction and operation of the commercial produce operation, all topsoil shall
-remain on the site in a manner which makes it conveniently accessible for
-reclamation. Should the applicant not adequately guarantee the removal of such
-buildings and reclamation of topsoil upon discontinuance of the commercial
-produce operation at his/her expense, the conditional use shall be denied;
-
-The site shall include one (1) off-street parking space for each employee during
-the largest work shift;
-
-No retail sales shall be permitted on the site, except for roadside stands as
-permitted by the S.L.D.O.
-
-All buildings and storage/processing structures shall be set back at least one
-hundred feet (100’) from adjoining roads and properties, and all off-street
-parking and loading spaces, outdoor storage areas and dumpsters shall be set
-back at least fifty feet (50’) and screened from adjoining roads and properties;
-and,
-
-One (1) sign as provided for in [Article XII](#article-xii), [Section 1204](#section-1204) and [Section 1205](#section-1205) shall be
-permitted.
+**1012.21** One (1) sign as provided for in [Article XII](#article-xii), [Section 1204](#section-1204) and [Section 1205](#section-1205) shall be permitted.
 
 <a id="article-xi"></a>
 ## Article XI — Conditional Uses
@@ -2873,7 +2281,7 @@ applicable the Township Engineer, or other competent technical consultants:
 streets, giving access to it, is in harmony with the orderly and appropriate
 development of the zone in which the use is to be located.
 
-De That the nature and intensity of the operations involved are in harmony with the
+2. That the nature and intensity of the operations involved are in harmony with the
 orderly and appropriate development of the zone in which the use is to be
 located;
 
@@ -2919,111 +2327,47 @@ a. Ground floor plans and elevations of proposed structures;
 
 b. Names and addresses of adjoining owners.
 
-a3
-
-Unless otherwise specified or extended by the Zoning Hearing Board or Board
-of Supervisors, a special exception/variance or conditional use authorized by
-such board expires is the applicant fails to obtain, where required to do so, a
-building permit within six (6) months of the date of the authorization of the
-special exception.
+3. Unless otherwise specified or extended by the Zoning Hearing Board or Board of Supervisors, a special exception/variance or conditional use authorized by such board expires is the applicant fails to obtain, where required to do so, a building permit within six (6) months of the date of the authorization of the special exception.
 
 <a id="section-1103"></a>
 ### Section 1103 - Adult Regulated Facility
 
-1103.1
+**1103.1** Within the (C/I) Zone, adult-related uses are permitted by conditional use, subject to the following criteria:
 
-1103.2
+**1103.2** An adult-related use shall not be permitted to be located within one thousand feet (1,000') of any other adult-related use;
 
-1103.3
+**1103.3** No adult-related use shall be located within six hundred feet (600') of any residentially-zoned land;
 
-1103.4
+**1103.4** No establishment shall be located within six hundred feet (600') of any parcel of land which contains any one or more of the following specified land uses:
 
-1103.5
+1. Amusement park;
+2. Camp (for minors' activity);
+3. Child-care facility;
+4. Church or other similar religious facility;
+5. Community center;
+6. Museum;
+7. Park;
+8. Playground;
+9. School; or
+10. Other lands where minors congregate.
 
-1103.6
+**1103.5** The distance between any two adult-related uses shall be measured in a straight line, without regard to intervening structures, from the closest point on the exterior parcel lien of each use. The distance between any adult-related use and any land use specified above shall be measured in a straight line, without regard to intervening structures, from the closest point on the exterior parcel line of the adult-related use to the closest point on the property line of said land use;
 
-Within the (C/I) Zone, adult-related uses are permitted by conditional use,
-subject to the following criteria:
+**1103.6** No materials, merchandise, or film offered for sale, rent lease, loan or for view upon the premises shall be exhibited or displayed outside of a building or structure;
 
-An adult-related use shall not be permitted to be located within one thousand
-feet (1,000’) of any other adult-related use;
+**1103.7** Any building or structure used and occupied as an adult-related use shall be windowless, or have an opaque covering over all windows or doors of any area in which materials, merchandise, of film are exhibited or displayed and no sale materials, merchandise or film shall be visible from outside of the building or structure;
 
-No adult-related use shall be located within six hundred feet (600’) of any
-residentially-zoned land;
+**1103.8** No sign shall be erected upon the premises depicting or giving a visual representation of the type of materials, merchandise or film offered therein;
 
-No establishment shall be located within six hundred feet (600’) of any parcel of
-land which contains any one or more of the following specified land uses:
+**1103.9** Each entrance to the premises shall be posted with a notice specifying that persons under the age of seventeen (17) years are not permitted to enter therein and warning all other persons that they may be offended upon entry;
 
-Amusement park;
+**1103.10** No adult-related use may change to another adult-related facility, except upon approval of an additional conditional use;
 
-Camp (for minors’ activity);
+**1103.11** The use shall not create an enticement for minors because of its proximity to nearby uses where minors may congregate;
 
-Child-care facility;
+**1103.12** No unlawful sexual activity or conduct shall be permitted;
 
-Church or other similar religious facility;
-Community center;
-
-Museum;
-
-Park;
-
-Playground;
-
-School; or
-
-0. Other lands where minors congregate.
-
-Be eI AH AWNe
-
-The distance between any two adult-related uses shall be measured in a straight
-line, without regard to intervening structures, from the closest point on the
-exterior parcel lien of each use. The distance between any adult-related use and
-any land use specified above shall be measured in a straight line, without regard
-to intervening structures, from the closest point on the exterior parcel line of the
-adult-related use to the closest point on the property line of said land use;
-
-No materials, merchandise, or film offered for sale, rent lease, loan or for view
-upon the premises shall be exhibited or displayed outside of a building or
-
-structure;
-
-1103.7
-
-1103.8
-
-1103.9
-
-1103.10
-
-1103.11
-
-1103.12
-
-1103.13
-
-Any building or structure used and occupied as an adult-related use shall be
-windowless, or have an opaque covering over all windows or doors of any area
-in which materials, merchandise, of film are exhibited or displayed and no sale
-materials, merchandise or film shall be visible from outside of the building or
-structure;
-
-No sign shall be erected upon the premises depicting or giving a visual
-representation of the type of materials, merchandise or film offered therein;
-
-Each entrance to the premises shall be posted with a notice specifying that
-persons under the age of seventeen (17) years are not permitted to enter therein
-and warning all other persons that they may be offended upon entry;
-
-No adult-related use may change to another adult-related facility, except upon
-approval of an additional conditional use;
-
-The use shall not create an enticement for minors because of its proximity to
-nearby uses where minors may congregate;
-
-No unlawful sexual activity or conduct shall be permitted;
-
-No more than one adult-related use may be located within one building or
-shopping center.
+**1103.13** No more than one adult-related use may be located within one building or shopping center.
 
 <a id="section-1104"></a>
 ### Section 1104 - Apartment Dwellings
@@ -3032,105 +2376,44 @@ Apartment dwelling are permitted as conditional use in the R - Residential and C
 Commercial Districts, subject to the requirements of the district where proposed as herein
 modified and provided:
 
-li
-
-2.
-
-Lot area —- Seven thousand five hundred (7,500) square feet.
-
-Height modification - Building greater than thirty-five (35) feet in height are
-permitted only if each of the setback requirements is increased by one (1) foot
-by which the height of the building exceeds thirty-five (35) feet.
-
-Impervious area shall not exceed thirty (30) percent.
-
-The maximum number of dwelling units per gross acre of land permitted is ten
-
-(10). A minimum of 4,000 square feet per dwelling unit will be provided.
-
-15:
-
-De Consideration shall be given to traffic problems. If the nature of the multi-
-family development is such that it will generate a high volume of vehicular
-traffic, then access should be via an arterial or collector street as designated in
-the Township Comprehensive Plan.
+1. Lot area - Seven thousand five hundred (7,500) square feet.
+2. Height modification - Building greater than thirty-five (35) feet in height are permitted only if each of the setback requirements is increased by one (1) foot by which the height of the building exceeds thirty-five (35) feet.
+3. Impervious area shall not exceed thirty (30) percent.
+4. The maximum number of dwelling units per gross acre of land permitted is ten (10). A minimum of 4,000 square feet per dwelling unit will be provided.
+5. Consideration shall be given to traffic problems. If the nature of the multi-family development is such that it will generate a high volume of vehicular traffic, then access should be via an arterial or collector street as designated in the Township Comprehensive Plan.
 
 <a id="section-1105"></a>
 ### Section 1105 - Appropriate Public Uses
 
-1. Each lot shall provide front side and rear yard setbacks in accordance with the
-zone requirements where located. Sufficient space shall be provided so service
-vehicles can be parked outside of any public right-of-way.
-
-2, All off-street parking shall be at least five (5) feet from adjoining property lines,
-unless written consent is obtained from adjoining property owners to move
-closer.
-
-3: Outdoor storage of materials, vehicles and related equipment shall be prohibited
-in a residential zone. Outdoor storage in other zones shall be completely
-enclosed with a six (6) foot high fence and screened from adjoining streets and
-property lines.
-
-4. Consideration shall be given to traffic problems. If the nature of the public
-building or facility is such that it will generate a high volume of vehicular traffic
-then access should be via and arterial or collector street as designated in the
-Township Comprehensive Plan.
-
-Ds No equipment causing unreasonable noise, vibration, smoke, odor or other
-hazardous effect shall be installed in the residential zone.
-
-6. The external design of a building shall be in conformity with the buildings in the
-surrounding area to the extend possible.
+1. Each lot shall provide front side and rear yard setbacks in accordance with the zone requirements where located. Sufficient space shall be provided so service vehicles can be parked outside of any public right-of-way.
+2. All off-street parking shall be at least five (5) feet from adjoining property lines, unless written consent is obtained from adjoining property owners to move closer.
+3. Outdoor storage of materials, vehicles and related equipment shall be prohibited in a residential zone. Outdoor storage in other zones shall be completely enclosed with a six (6) foot high fence and screened from adjoining streets and property lines.
+4. Consideration shall be given to traffic problems. If the nature of the public building or facility is such that it will generate a high volume of vehicular traffic then access should be via and arterial or collector street as designated in the Township Comprehensive Plan.
+5. No equipment causing unreasonable noise, vibration, smoke, odor or other hazardous effect shall be installed in the residential zone.
+6. The external design of a building shall be in conformity with the buildings in the surrounding area to the extend possible.
 <a id="section-1106"></a>
 ### Section 1106 - Automobile or Gasoline Service Stations and Garages
 
 In districts where permitted, automobile service stations and garages shall be subject to
 the following additional safe-guards and regulations:
 
-1s Minimum Setbacks from Street Right-of-Way Lines;
-a. Pumps: twenty-five feet (25’)
-b. Building: fifty feet (50’)
-
-10.
-
-Driveways shall be located as provided in this Ordinance.
-
-Gasoline pumps and all service equipment shall be setback not less than thirty-
-five feet (35’) from any lot line and so located that vehicles stopped for service
-will not extend over the property line.
-
-Access drives:
-
-a. Minimum offset from intersection of street right-of-way liens; forty feet
-(40).
-
-b. Side lot line offset: ten feet (10’)
-
-C. Minimum width: twelve feet (12’)
-
-d. Maximum width: thirty-five feet (35’)
-
-e Minimum separation of drives on same lot: twenty-five feet (25’)
-
-Motor vehicles shall not be permitted to be parked or to stand on sidewalk
-areas.
-
-Curbing: Except along access drives, a concrete curb eight inches (8”) in height
-must be placed along all street right-of-way lines.
-
-Signs: As permitted in Article 15.
-
-Outdoor Display: All merchandise, except oil racks, shall be displayed within a
-building. Vending machines shall be maintained in a semi-enclosed structure or
-within the building.
-
-Storage: No outdoor stockpiling of tires or outdoor storage of trash is
-permitted. An area enclosed by a wall or fence, screened from view of
-adjoining properties, shall be provided whenever outdoor storage is permitted.
-
-No materials may be stored so as to create a fire hazard.
-
-Lighting: All lights must be diverted inward and downward.
+1. Minimum Setbacks from Street Right-of-Way Lines;
+   - **a.** Pumps: twenty-five feet (25')
+   - **b.** Building: fifty feet (50')
+2. Driveways shall be located as provided in this Ordinance.
+3. Gasoline pumps and all service equipment shall be setback not less than thirty-five feet (35') from any lot line and so located that vehicles stopped for service will not extend over the property line.
+4. Access drives:
+   - **a.** Minimum offset from intersection of street right-of-way liens; forty feet (40').
+   - **b.** Side lot line offset: ten feet (10')
+   - **c.** Minimum width: twelve feet (12')
+   - **d.** Maximum width: thirty-five feet (35')
+   - **e.** Minimum separation of drives on same lot: twenty-five feet (25')
+5. Motor vehicles shall not be permitted to be parked or to stand on sidewalk areas.
+6. Curbing: Except along access drives, a concrete curb eight inches (8") in height must be placed along all street right-of-way lines.
+7. Signs: As permitted in Article 15.
+8. Outdoor Display: All merchandise, except oil racks, shall be displayed within a building. Vending machines shall be maintained in a semi-enclosed structure or within the building.
+9. Storage: No outdoor stockpiling of tires or outdoor storage of trash is permitted. An area enclosed by a wall or fence, screened from view of adjoining properties, shall be provided whenever outdoor storage is permitted. No materials may be stored so as to create a fire hazard.
+10. Lighting: All lights must be diverted inward and downward.
 
 <a id="section-1107"></a>
 ### Section 1107 - Bed and Breakfast Inns
@@ -3245,54 +2528,22 @@ A playground and snack shop will be permitted as an accessory use.
 <a id="section-1111"></a>
 ### Section 1111 - Forest Industries
 
-1.
-
-Where the removal of trees or forest products is proposed, such activities shall
-incorporate best management practices in accordance with PADER and Juniata
-County Conservation District requirements. An approved erosion and
-sedimentation control plan shall developed, implemented, and maintained on-site
-by the Forest Industry, as required by Chapter 102 - Soil and Erosion Control
-Regulations. Failure to adequately control erosion and sedimentation on the site
-shall constitute nonconformance with the requirements of this ordinance.
-
-When adjacent to residential uses adequate screen plantings and bufferyards
-shall be incorporated in accordance with Township requirements.
-
-A reclamation plan for replacing forest products proposed to be removed shall
-be presented and implemented. Such plan will meet any PADER and/or Juniata
-County Conservation District requirements.
+1. Where the removal of trees or forest products is proposed, such activities shall incorporate best management practices in accordance with PADER and Juniata County Conservation District requirements. An approved erosion and sedimentation control plan shall developed, implemented, and maintained on-site by the Forest Industry, as required by Chapter 102 - Soil and Erosion Control Regulations. Failure to adequately control erosion and sedimentation on the site shall constitute nonconformance with the requirements of this ordinance.
+2. When adjacent to residential uses adequate screen plantings and bufferyards shall be incorporated in accordance with Township requirements.
+3. A reclamation plan for replacing forest products proposed to be removed shall be presented and implemented. Such plan will meet any PADER and/or Juniata County Conservation District requirements.
 
 <a id="section-1112"></a>
 ### Section 1112 - Home Occupations
 
-1.
-
-Home occupations may be authorized in a dwelling unit or accessory structure
-by Conditional Use from the Board of Supervisors.
-
-Home occupations shall be limited to professional and non-professional uses as
-defined in this Ordinance. The Board of Supervisors shall determine whether a
-home occupation meets the requirements listed in this Ordinance.
-
-No more than three (3) persons shall be employed to provide support or other
-assistance, unless a variance is granted by the Township.
-
-The character or external appearance of the dwelling unit or accessory structure
-must be that a dwelling unit or accessory structure.
-
-A name plate not larger than two square feet in area is permitted. It may be
-illuminated by indirect lighting only.
-
-In addition to the required parking for the dwelling unit, additional parking is
-required as follows:
-
-a. A minimum of two (2) additional spaces for the home occupation.
-
-b. The Board of Supervisors may require additional parking if
-circumstances so warrant.
-
-The allowable area used for a home occupation shall not exceed fifty percent
-(50%) of the total floor space of all floors.
+1. Home occupations may be authorized in a dwelling unit or accessory structure by Conditional Use from the Board of Supervisors.
+2. Home occupations shall be limited to professional and non-professional uses as defined in this Ordinance. The Board of Supervisors shall determine whether a home occupation meets the requirements listed in this Ordinance.
+3. No more than three (3) persons shall be employed to provide support or other assistance, unless a variance is granted by the Township.
+4. The character or external appearance of the dwelling unit or accessory structure must be that a dwelling unit or accessory structure.
+5. A name plate not larger than two square feet in area is permitted. It may be illuminated by indirect lighting only.
+6. In addition to the required parking for the dwelling unit, additional parking is required as follows:
+   - **a.** A minimum of two (2) additional spaces for the home occupation.
+   - **b.** The Board of Supervisors may require additional parking if circumstances so warrant.
+7. The allowable area used for a home occupation shall not exceed fifty percent (50%) of the total floor space of all floors.
 
 <a id="section-1113"></a>
 ### Section 1113 - Junkyards
@@ -3300,298 +2551,116 @@ The allowable area used for a home occupation shall not exceed fifty percent
 All junk yards existing at the effective date of this Ordinance, within one (1) year
 thereafter, and all junk yards, where permitted, shall comply with the following provisions;
 
-1.
+1. Any junk yard shall be completely enclosed with a visual screen of evergreen or evergreen type hedge or tree-row of a variety and size at the time of planting that such will attain a height of eight (8) feet within five (5) years thereafter and maintained in a sound and attractive manner.
+2. All junk shall be stored or arranged so as to permit access by fire fighting equipment and to prevent the accumulation of water, and with no junk piled to a height of more than eight (8) feet.
+3. Open burning of material is permissible subject to the Title 25 Rules and Regulations of the Department of Environmental Resources. All burning shall be attended and controlled at all times.
+4. Any junk yard shall be maintained in such a manner as to cause no public or private nuisance, nor to cause any offensive or noxious sounds or odors, nor to cause the breeding or harboring of rats, flies, or other vectors.
+5. No junk material, appurtenant structures, or other enclosure shall be stored or placed within fifty (50) feet of any adjoining property or public right-of-way and such setback area shall be kept free of weeds and scrub growth.
 
-Any junk yard shall be completely enclosed with a visual screen of evergreen or
-evergreen type hedge or tree-row of a variety and size at the time of planting
-that such will attain a height of eight (8) feet within five (5) years thereafter and
-maintained in a sound and attractive manner.
+Any junk yard established as a conditional use after the effective date of this Ordinance, shall comply with the following provisions:
 
-All junk shall be stored or arranged so as to permit access by fire fighting
-equipment and to prevent the accumulation of water, and with no junk piled to a
-height of more than eight (8) feet.
-
-Open burning of material is permissible subject to the Title 25 Rules and
-
-Regulations of the Department of Environmental Resources. All burning shall
-be attended and controlled at all times.
-
-Any junk yard shall be maintained in such a manner as to cause no public or
-private nuisance, nor to cause any offensive or noxious sounds or odors, nor to
-cause the breeding or harboring of rats, flies, or other vectors.
-
-No junk material, appurtenant structures, or other enclosure shall be stored or
-placed within fifty (50) feet of any adjoining property or public right-of-way
-and such setback area shall be kept free of weeds and scrub growth.
-
-Any junk yard established as a conditional use after the effective date of this Ordinance,
-shall comply with the following provisions:
-
-1.
-
-No junk material, appurtenant structures, or other enclosure shall be stored or
-placed within fifty (50) feet of any adjoining property or public right-of-way and
-such setback area shall be kept free of weeds and scrubs growth unless the
-adjoining property is wooded.
-
-The minimum junk yard size shall be twenty (20) acres.
-
-Junk yards shall be located a minimum of one-thousand (1,000) feet from a
-residential district.
+1. No junk material, appurtenant structures, or other enclosure shall be stored or placed within fifty (50) feet of any adjoining property or public right-of-way and such setback area shall be kept free of weeds and scrubs growth unless the adjoining property is wooded.
+2. The minimum junk yard size shall be twenty (20) acres.
+3. Junk yards shall be located a minimum of one-thousand (1,000) feet from a residential district.
 
 <a id="section-1114"></a>
 ### Section 1114 - Meat Processing Facilities
 
-L.,
-
-2,
-
-All animals should be housed in an enclosed structure.
-
-Any animal loading/unloading facilities that are not wholly enclosed shall be
-located within the rear yard.
-
-The facility shall be designed and enclosed to prevent the escape of animals; all
-fences or enclosures shall be setback at least ten (10) feet from all property
-lines.
-
-The facility shall meet all applicable federal, state and local guidelines for health
-and safety. Proof of such approvals should be provided to the Township before
-land development or subdivision approval.
-
-Satisfactory evidence must be presented to indicate that adequate disposal of
-
-animal waste will be provided in a manner that will not create a public health
-hazard or nuisance.
+1. All animals should be housed in an enclosed structure.
+2. Any animal loading/unloading facilities that are not wholly enclosed shall be located within the rear yard.
+3. The facility shall be designed and enclosed to prevent the escape of animals; all fences or enclosures shall be setback at least ten (10) feet from all property lines.
+4. The facility shall meet all applicable federal, state and local guidelines for health and safety. Proof of such approvals should be provided to the Township before land development or subdivision approval.
+5. Satisfactory evidence must be presented to indicate that adequate disposal of animal waste will be provided in a manner that will not create a public health hazard or nuisance.
 
 <a id="section-1115"></a>
 ### Section 1115 - Mobilehome Parks
 
-1.
-
-Qe
-
-The minimum tract area shall be ten (10) acres.
-
-Public sewer and public water approved by the Pennsylvania Department of
-Environmental Resources must be utilized, and each lot must be not less than
-five-thousand (5,000) square feet in area and not less than fifty (50) feet wide at
-the building setback line.
-
-Regardless of lot size, the side yard distances measured from outside each
-mobilehome to the lot line shall not be less than thirty (30) feet in total and no
-one side yard distance less than twelve (12) feet. Front yards shall not be less
-than twenty (20) feet and rear yards shall not be less than (10) feet and in no
-case, shall the distance between any two (2) mobilehomes be less than thirty
-(30) feet.
-
-The Zoning Hearing Board or Board of Supervisors may require suitable screen
-planting, or may restrict the proximity of mobilehomes or other improvements
-to adjoining properties, or may attach such other conditions or safeguards to the
-use of land for a mobilehome park as the respective Boards may deem necessary
-to protect the general welfare.
-
-A mobilehome park and extension thereof shall also comply with all applicable
-State and/or municipal regulations now in effect or hereafter enacted.
+1. The minimum tract area shall be ten (10) acres.
+2. Public sewer and public water approved by the Pennsylvania Department of Environmental Resources must be utilized, and each lot must be not less than five-thousand (5,000) square feet in area and not less than fifty (50) feet wide at the building setback line.
+3. Regardless of lot size, the side yard distances measured from outside each mobilehome to the lot line shall not be less than thirty (30) feet in total and no one side yard distance less than twelve (12) feet. Front yards shall not be less than twenty (20) feet and rear yards shall not be less than (10) feet and in no case, shall the distance between any two (2) mobilehomes be less than thirty (30) feet.
+4. The Zoning Hearing Board or Board of Supervisors may require suitable screen planting, or may restrict the proximity of mobilehomes or other improvements to adjoining properties, or may attach such other conditions or safeguards to the use of land for a mobilehome park as the respective Boards may deem necessary to protect the general welfare.
+5. A mobilehome park and extension thereof shall also comply with all applicable State and/or municipal regulations now in effect or hereafter enacted.
 
 <a id="section-1116"></a>
 ### Section 1116 - Natural Resources Extraction
 
-1.
+**1. Quarry Standards.**
 
-Quarry Standards.
+Quarrying of any kind or the processing of products thereof, and the excavation and sale of sand, gravel, clay, shale or other natural mineral deposits, is specifically prohibited in all Districts except the Industrial District, and may be authorized as a special exception in the Industrial District. In passing upon a conditional use application for the above described uses and operation, the Board of Supervisors must consider the following factors:
 
-Quarrying of any kind or the processing of products thereof, and the excavation
-and sale of sand, gravel, clay, shale or other natural mineral deposits, is
-specifically prohibited in all Districts except the Industrial District, and may be
-authorized as a special exception in the Industrial District. In passing upon a
-conditional use application for the above described uses and operation, the
-Board of Supervisors must consider the following factors:
+- **A.** Location of quarrying pit, buildings, stock piles, waste piles, in relocation to other existing or planned uses in the area; mining or processing techniques employed including crushing, blasting, drilling, washing, and noise abatement, ground shock or movement.
+- **B.** Physical Factors:
+  1. Soil-nature and characteristics, including possible erosion by water and wind.
+  2. Drainage.
+  3. Prevailing wind.
+- **C.** Abutting land and streets-lateral support slopes and grades.
+- **D.** Rehabilitation Plan: The possible reuses of the site and provisions for the best possible reuse.
+- **E.** General development of the area, including land values, and such other factors as may bear upon or relate to the coordinated, adjusted, and harmonious physical development of the Township.
 
-A. Location of quarrying pit, buildings, stock piles, waste piles, in
-relocation to other existing or planned uses in the area; mining or
-processing techniques employed including crushing, blasting, drilling,
-washing, and noise abatement, ground shock or movement.
+**2. Operation Requirements.**
 
-B. Physical Factors:
+- **A. Machinery; Equipment; Operations.**
 
-(1) Soil-nature and characteristics, including possible erosion by
-water and wind.
+  All machinery, equipment and materials used in quarrying; all processing and manufacturing operations; and all hauling of quarrying products must be maintained, operated, or conducted in such a manner that in a residential zone:
+  1. Flying objects and debris are not thrown;
+  2. Noxious gases are not disseminated;
+  3. There is no appreciable noise, vibration dust or mist.
+- **B. Barriers.**
+  1. Fencing.
 
-(2) Drainage.
-(3) Prevailing wind.
-Cc, Abutting land and streets-lateral support slopes and grades.
+     A six foot (6') substantial fence or other suitable barrier six feet (6') high must surround the area of actual quarrying, unless such requirement is waived by special exception issued by the Zoning Hearing Board.
+  2. Screens.
 
-Dz. Rehabilitation Plan: The possible reuses of the site and provisions for
-the best possible reuse.
+     Where quarrying operations will impair the beauty and character of the surrounding countryside, trees or shrubs must be planted and/or attractive earth barriers erected, to screen the operation as far as practical from normal view.
+- **C. Washing.**
 
-E. General development of the area, including land values, and such other
-factors as may bear upon or relate to the coordinated, adjusted, and
-harmonious physical development of the Township.
+  The washing of any earth material is permitted except:
+  1. Where the quantity of water required will seriously affect the supply for residential uses in the area.
+  2. Where in the written opinion of the Pennsylvania Department of Environmental Resources, disposal of water will result in contamination, pollution or excessive silting.
+- **D. Setbacks from Residential Zones.**
 
-Operation Requirements.
+  Where the lot or parcel of land which is the focus of quarrying operations is adjacent to a residential district:
+  1. No stock piles, waste piles, processing or manufacturing equipment, may be closed than one-thousand feet (1,000') to the residential district.
+  2. No part of the quarrying pit, private access road, truck parking area, scales, or operational equipment, may be closer than five hundred feet (500') to the residential district.
+- **E. Street Setbacks.**
 
-A. Machinery; Equipment; Operations.
+  From the right-of-way line of a public street or highway, no part of the quarrying pit, stock piles, waste piles, processing or manufacturing equipment, scales or operational equipment, may be closer than one hundred feet (100').
+- **F. Property Line Setbacks.**
 
-All machinery, equipment and materials used in quarrying; all processing
-and manufacturing operations; and all hauling of quarrying products
-must be maintained, operated, or conducted in such a manner that in a
-residential zone:
-qd) Flying objects and debris are not thrown;
-(2) Noxious gases are not disseminated;
-(3) There is no appreciable noise, vibration dust or mist.
-B, Barriers.
-(1) Fencing.
-A six foot (6’) substantial fence or other suitable barrier six feet
-(6’) high must surround the area of actual quarrying, unless such
+  From a property line, except for those following:
+  1. No part of the quarrying pit, stock piles, waste piles, processing or manufacturing equipment, scales or operational equipment, may be closer than two hundred feet (200').
+  2. No private access road, truck parking area, scales, or operation equipment, may be closer than one hundred feet (100').
 
-requirement is waived by special exception issued by the Zoning
-Hearing Board.
+  Where a quarrying property abuts another quarrying property, an operating railroad's right-of-way property, or a property in an agricultural district, no part of the quarrying operation except an access road mat be closer than fifty feet (50').
 
-(2)
+**3. Rehabilitation Requirements.**
 
-Screens.
+- **A.** Within two (2) years after the termination of quarrying operations, the area of actual quarrying operations must be rehabilitated to a condition of reasonable physical attractiveness and restored.
+- **B. Rehabilitation Standards:** In rehabilitating the area of actual quarrying operations, the owner or operator must comply with the following standards:
+  1. Slope: The slope of earth material in any excavated pit must not exceed the angle of slippage.
+  2. Topsoil and Ground Cover: Where filing of pit is desirable, the fill must be of a kind and depth to sustain grass, plants or trees and such must be planted.
+  3. Drainage: To prevent any silt, erosional debris, or other loose material from filing any existing drainage, course, or encroachment on State or Township roads or private property, all surface drainage existing or developing by or through the topsoil site must be controlled by dikes, barriers, or drainage structures. All measures to control natural drainage or flood water must meet with the approval of the Board of Supervisors.
+- **C. Reporting of Operational and Rehabilitation Information.**
 
-Where quarrying operations will impair the beauty and character
-of the surrounding countryside, trees or shrubs must be planted
-and/or attractive earth barriers erected, to screen the operation as
-far as practical from normal view.
-
-Washing.
-
-The washing of any earth material is permitted except:
-
-(1)
-
-(2)
-
-Where the quantity of water required will seriously affect the
-supply for residential uses in the area.
-
-Where in the written opinion of the Pennsylvania Department of
-Environmental Resources, disposal of water will result in
-contamination, pollution or excessive silting.
-
-Setbacks from Residential Zones.
-
-Where the lot or parcel of land which is the focus of quarrying
-operations is adjacent to a residential district:
-
-(1) No stock piles, waste piles, processing or manufacturing
-equipment, may be closed than one-thousand feet (1,000’) to the
-residential district.
-
-(2) No part of the quarrying pit, private access road, truck parking
-area, scales, or operational equipment, may be closer than five
-hundred feet (500’) to the residential district.
-
-Street Setbacks.
-
-From the right-of-way line of a public street or highway, no part of the
-quarrying pit, stock piles, waste piles, processing or manufacturing
-equipment, scales or operational equipment, may be closer than one
-hundred feet (100’).
-
-Property Line Setbacks.
-
-From a property line, except for those following:
-
-qd)
-
-No part of the quarrying pit, stock piles, waste piles, processing
-or manufacturing equipment, scales or operational equipment,
-may be closer than two hundred feet (200’).
-
-Q) No private access road, truck parking area, scales, or operation
-equipment, may be closer than one hundred feet (100’).
-
-Where a quarrying property abuts another quarrying property, an
-operating railroad’s right-of-way property, or a property in an
-agricultural district, no part of the quarrying operation except an
-access road mat be closer than fifty feet (50’).
-
-3. Rehabilitation Requirements.
-
-A. Within two (2) years after the termination of quarrying operations, the
-area of actual quarrying operations must be rehabilitated to a condition of
-reasonable physical attractiveness and restored.
-
-B. Rehabilitation Standards: In rehabilitating the area of actual quarrying
-operations, the owner or operator must comply with the following
-standards:
-
-(1) Slope: The slope of earth material in any excavated pit must not
-exceed the angle of slippage.
-
-(2) Topsoil and Ground Cover: Where filing of pit is desirable, the
-fill must be of a kind and depth to sustain grass, plants or trees
-and such must be planted.
-
-(3) Drainage: To prevent any silt, erosional debris, or other loose
-material from filing any existing drainage, course, or
-encroachment on State or Township roads or private property, all
-surface drainage existing or developing by or through the topsoil
-site must be controlled by dikes, barriers, or drainage structures.
-All measures to control natural drainage or flood water must meet
-with the approval of the Board of Supervisors.
-
-Cc. Reporting of Operational and Rehabilitation Information.
-
-In order to keep the Zoning Officer abreast of impending termination of
-quarrying operations and plans for rehabilitation as well as operational
-activities which he has a duty to check, each quarry owner or operator
-
-must submit to the Zoning Officer, as requested, but not to exceed more
-than one report in a period of two (2) years, the information following:
-
-(1)
-
-(2)
-
-(3)
-
-Operational Date:
-
-(a) Ownership and acreage of the land which is the sites of
-quarrying operations, including all land held under
-contract or lease.
-
-(b) Type of earth resource quarried.
-
-(c) Present depth of quarrying operations.
-
-Location map, at a scale of 1 inch = 100 feet, or such other scale
-acceptable to the Township, showing:
-
-(a) All land owned, or under option, contract or lease.
-
-(b) Lot or land quarried.
-
-(c) As practical, contours at twenty feet (20’) intervals
-extending beyond the site to the nearest public street or
-highway.
-
-(d) Private access roads and abutting streets and highways.
-
-(e) Existing structures.
-
-(f) Existing stockpiles and waste piles.
-
-(g) Title, scale, north point, and date.
-
-(nh) Fencing and screen planting. If fencing is vegetation,
-give details of size and type.
-
-Rehabilitation Plan:
-(a) The proposed reuse of the land to be quarried.
-
-(b) Plantings or other planned special features of
-rehabilitation.
-
-(c) The proposed methods by which rehabilitation is to be
-accomplished.
-
-(d) Proposed termination date.
+  In order to keep the Zoning Officer abreast of impending termination of quarrying operations and plans for rehabilitation as well as operational activities which he has a duty to check, each quarry owner or operator must submit to the Zoning Officer, as requested, but not to exceed more than one report in a period of two (2) years, the information following:
+  1. Operational Date:
+     - **(a)** Ownership and acreage of the land which is the sites of quarrying operations, including all land held under contract or lease.
+     - **(b)** Type of earth resource quarried.
+     - **(c)** Present depth of quarrying operations.
+  2. Location map, at a scale of 1 inch = 100 feet, or such other scale acceptable to the Township, showing:
+     - **(a)** All land owned, or under option, contract or lease.
+     - **(b)** Lot or land quarried.
+     - **(c)** As practical, contours at twenty feet (20') intervals extending beyond the site to the nearest public street or highway.
+     - **(d)** Private access roads and abutting streets and highways.
+     - **(e)** Existing structures.
+     - **(f)** Existing stockpiles and waste piles.
+     - **(g)** Title, scale, north point, and date.
+     - **(h)** Fencing and screen planting. If fencing is vegetation, give details of size and type.
+  3. Rehabilitation Plan:
+     - **(a)** The proposed reuse of the land to be quarried.
+     - **(b)** Plantings or other planned special features of rehabilitation.
+     - **(c)** The proposed methods by which rehabilitation is to be accomplished.
+     - **(d)** Proposed termination date.
 
 <a id="section-1117"></a>
 ### Section 1117 - Public/Private Parks and Recreation Areas
@@ -3674,50 +2743,14 @@ waste as defined in the Municipal Waste Planning, Recycling and Waste
 Reduction Act, Act 101 of 1988, and 25 PA Code Chapters 271, 273, 275, 277,
 279, 281, and 283 and 285 as amended, supplemented or revised.
 
-3s If a landfill, no solid waste shall be deposited, either temporarily or
-permanently, within three hundred (300) feet of the property line of any
-adjoining property, or within three hundred (300) feet of the right-of-way line of
-
-10.
-
-any public highway. If an incinerator, resource recovery or other such facility,
-no storage or disposal structure shall be located within three hundred (300) feet
-of such property line or any public highway.
-
-If a landfill, no solid waste shall be deposited either temporarily or permanently,
-within five hundred (500) feet of any dwelling, church, school or any other
-building used for human occupancy, at any time or from time to time. If an
-incinerator, resource recovery or other such facility, no storage or disposal
-structure shall be located within five hundred (500) feet of such structures.
-
-Direct access to the sites shall be available from a highway having a functional
-classification of Arterial or greater capacity as set forth in the Township
-Comprehensive Plan as updated from time to time.
-
-If a landfill, during such time as any excavation shall be open and used for the
-disposal of solid waste, the site of the excavation shall be enclosed with a chain
-link fence or other structure adequate to contain wind blown litter and to secure
-the site against intrusion by unauthorized personnel.
-
-If an incinerator, resource recovery or other such facility, all storage of solid
-waste awaiting disposal shall be within a fully enclosed building and no outside
-storage shall be permitted at any time.
-
-The development plan for the site shall address and comply with all
-requirements of the Township Subdivision and Land Development Ordinance to
-the extent that the same shall not conflict or be inconsistent with or have been
-preempted by the Solid Waste Management Act and the regulations of the
-Department of Environmental Resources adopted pursuant thereto.
-
-No use and occupancy permit shall be issued for a solid waste disposal facility
-until the operator shall be have submitted to the Zoning Officer proof that the
-facility complies with the regulations of the Department of Environmental
-Resources and has been permitted in writing by said Agency.
-
-Landscaping and bufferyards meeting the requirements of this Ordinance and the
-
-Subdivision and Land Development Ordinance as a minimum shall be provided
-around the property.
+3. If a landfill, no solid waste shall be deposited, either temporarily or permanently, within three hundred (300) feet of the property line of any adjoining property, or within three hundred (300) feet of the right-of-way line of any public highway. If an incinerator, resource recovery or other such facility, no storage or disposal structure shall be located within three hundred (300) feet of such property line or any public highway.
+4. If a landfill, no solid waste shall be deposited either temporarily or permanently, within five hundred (500) feet of any dwelling, church, school or any other building used for human occupancy, at any time or from time to time. If an incinerator, resource recovery or other such facility, no storage or disposal structure shall be located within five hundred (500) feet of such structures.
+5. Direct access to the sites shall be available from a highway having a functional classification of Arterial or greater capacity as set forth in the Township Comprehensive Plan as updated from time to time.
+6. If a landfill, during such time as any excavation shall be open and used for the disposal of solid waste, the site of the excavation shall be enclosed with a chain link fence or other structure adequate to contain wind blown litter and to secure the site against intrusion by unauthorized personnel.
+7. If an incinerator, resource recovery or other such facility, all storage of solid waste awaiting disposal shall be within a fully enclosed building and no outside storage shall be permitted at any time.
+8. The development plan for the site shall address and comply with all requirements of the Township Subdivision and Land Development Ordinance to the extent that the same shall not conflict or be inconsistent with or have been preempted by the Solid Waste Management Act and the regulations of the Department of Environmental Resources adopted pursuant thereto.
+9. No use and occupancy permit shall be issued for a solid waste disposal facility until the operator shall be have submitted to the Zoning Officer proof that the facility complies with the regulations of the Department of Environmental Resources and has been permitted in writing by said Agency.
+10. Landscaping and bufferyards meeting the requirements of this Ordinance and the Subdivision and Land Development Ordinance as a minimum shall be provided around the property.
 
 <a id="article-xii"></a>
 ## Article XII — Signs
@@ -3732,61 +2765,16 @@ or maintenance of signs and similar devices.
 <a id="section-1202"></a>
 ### Section 1202 - Signs Permitted in Residential Districts
 
-A.
-
-Signs advertising the sale of rental of the premises upon which they are erected,
-when erected by the owner or broker or any other person interested in the sale
-or rental of such premises, may be erected and maintained, provided: (1) the
-size of any such sign is not in excess of thirty-two (32) square feet: and (2) not
-more than two signs are placed upon any property in single and separate
-ownership, unless such property fronts upon more than one street, in which
-event two such signs may be erected on each frontage.
-
-Signs indicating the location and direction of premises available for or in
-process of development, but not erected upon such premises and having
-inscribed thereon the name of the owner, developer, builder or agent may be
-erected and maintained, provided: (1) the size of any such sign is not in excess
-of six (6) square feet, and no in excessive of four (4) feet in length: and (2) not
-more than one such sign is erected on each five hundred (500) feet of street
-frontage.
-
-Signs bearing the word “sold” or the word “rented” with the name of the
-persons effecting the sale or rental may be erected and maintained provided the
-conditions in subsection 1202.a hereof are complied with.
-
-Signs of mechanics, painters, and other artisans may be erected and maintained
-during the period such persons are performing work on the premises on which
-such signs are erected, provided: (1) the size thereof is not in excess of twelve
-(12) square feet; and (2) such signs are removed promptly upon completion of
-the work.
-
-Trespassing signs, or signs indicating the private nature of a driveway or
-property provided that the size of any signs shall not exceed two (2) square feet.
-
-F, Signs of schools, colleges, churches, hospitals, sanitariums, or other institutions
-of a similar nature may be erected and maintained provided: (1) the size of any
-such sign is not in excess of forty (40) square feet: and (2) not more than two
-signs are placed on a property in single and separate ownership, unless such
-property fronts upon more than one street, in which event two such signs may
-be erected on each frontage.
-
-G. Signs advertising home occupations shall not be larger than twelve (12) inches
-by twenty-four (24) inches, and may include the name, occupation, and logotype
-or trade mark, if appropriate, of the practitioner. Such signs shall not be
-illuminated, with the exception of medical offices during the hours, such offices
-are open of the care of patients.
-
-H. Signs advertising the sale of farm products when permitted by this Ordinance,
-provided (1) the size of any such signs is not in excess of 32 square feet, (2) not
-more than two signs are used, and (3) the signs shall be displayed only when
-such products are on sale.
-
-I. Official traffic and street name signs when erected by, or with the written
-approval of, the Township Supervisors.
-
-J: Signs necessary for the identification, operation or protection of public utility
-facilities and municipal uses; however, all General Regulations, [Section 705](#section-705),
-shall apply to such signs.
+- **A.** Signs advertising the sale of rental of the premises upon which they are erected, when erected by the owner or broker or any other person interested in the sale or rental of such premises, may be erected and maintained, provided: (1) the size of any such sign is not in excess of thirty-two (32) square feet: and (2) not more than two signs are placed upon any property in single and separate ownership, unless such property fronts upon more than one street, in which event two such signs may be erected on each frontage.
+- **B.** Signs indicating the location and direction of premises available for or in process of development, but not erected upon such premises and having inscribed thereon the name of the owner, developer, builder or agent may be erected and maintained, provided: (1) the size of any such sign is not in excess of six (6) square feet, and no in excessive of four (4) feet in length: and (2) not more than one such sign is erected on each five hundred (500) feet of street frontage.
+- **C.** Signs bearing the word "sold" or the word "rented" with the name of the persons effecting the sale or rental may be erected and maintained provided the conditions in subsection 1202.a hereof are complied with.
+- **D.** Signs of mechanics, painters, and other artisans may be erected and maintained during the period such persons are performing work on the premises on which such signs are erected, provided: (1) the size thereof is not in excess of twelve (12) square feet; and (2) such signs are removed promptly upon completion of the work.
+- **E.** Trespassing signs, or signs indicating the private nature of a driveway or property provided that the size of any signs shall not exceed two (2) square feet.
+- **F.** Signs of schools, colleges, churches, hospitals, sanitariums, or other institutions of a similar nature may be erected and maintained provided: (1) the size of any such sign is not in excess of forty (40) square feet: and (2) not more than two signs are placed on a property in single and separate ownership, unless such property fronts upon more than one street, in which event two such signs may be erected on each frontage.
+- **G.** Signs advertising home occupations shall not be larger than twelve (12) inches by twenty-four (24) inches, and may include the name, occupation, and logotype or trade mark, if appropriate, of the practitioner. Such signs shall not be illuminated, with the exception of medical offices during the hours, such offices are open of the care of patients.
+- **H.** Signs advertising the sale of farm products when permitted by this Ordinance, provided (1) the size of any such signs is not in excess of 32 square feet, (2) not more than two signs are used, and (3) the signs shall be displayed only when such products are on sale.
+- **I.** Official traffic and street name signs when erected by, or with the written approval of, the Township Supervisors.
+- **J.** Signs necessary for the identification, operation or protection of public utility facilities and municipal uses; however, all General Regulations, [Section 705](#section-705), shall apply to such signs.
 
 <a id="section-1203"></a>
 ### Section 1203 - Panel Type Signs (Billboards)
@@ -3795,9 +2783,8 @@ Signs which advertise products or services other than those which are sold on th
 premises where the sign is located are permitted in commercial and industrial districts, subject
 to the following conditions, as well as other applicable requirements.
 
-A. No billboards or advertising sign board shall exceed five hundred (500) square
+- **A.** No billboards or advertising sign board shall exceed five hundred (500) square feet in area.
 
-feet in area.
 <a id="section-1204"></a>
 ### Section 1204 - Business Identification Signs
 
@@ -3812,48 +2799,17 @@ in area; however, all General Regulations, [Section 1205](#section-1205), shall 
 
 The following regulations shall apply to all permitted signs uses.
 
-1.
-
-10.
-
-11.
-
-Signs must be constructed of durable material, maintained in good condition,
-and not allowed to become dilapidated.
-
-No sign shall be placed in such a position that is will cause danger to traffic on a
-street by obscuring the view.
-
-No sign, other than an official traffic sign, shall be erected within the right-of-
-way lines of any street, unless authorized by the Municipal Governing Board for
-a special purpose.
-
-No sign shall project over a public sidewalk area more than eighteen (18)
-inches.
-
-Clearance beneath overhead signs shall be at least nine (9) feet, measured from
-the ground or pavement to the bottom-most part of the sign.
-
-No portion of a sign shall be positioned in a manner that exceeds the height of
-the primary structure on the property on which it is located.
-
-No permit shall be required for the erection, alteration, or maintenance of any
-signs as permitted in [Section 1202](#section-1202), Signs in Residential Districts.
-
-Advertising painted upon, or displayed upon, a barn or other building or
-structure shall be regarded as an advertising sign board and the regulations
-pertaining thereto shall apply.
-
-Each sign shall be removed when the circumstances leading to its erection no
-longer apply.
-
-No animated, sequential, flashing or oscillating signs shall be permitted in any
-district. Any sign by reason of its intensity, color, location, or movement that
-may interfere with traffic lights, signals or other controls, or abrogate public
-safety shall not be permitted in any district.
-
-Open flames used to attract public attention to a place of business or to an
-advertising sign shall not be permitted.
+1. Signs must be constructed of durable material, maintained in good condition, and not allowed to become dilapidated.
+2. No sign shall be placed in such a position that is will cause danger to traffic on a street by obscuring the view.
+3. No sign, other than an official traffic sign, shall be erected within the right-of-way lines of any street, unless authorized by the Municipal Governing Board for a special purpose.
+4. No sign shall project over a public sidewalk area more than eighteen (18) inches.
+5. Clearance beneath overhead signs shall be at least nine (9) feet, measured from the ground or pavement to the bottom-most part of the sign.
+6. No portion of a sign shall be positioned in a manner that exceeds the height of the primary structure on the property on which it is located.
+7. No permit shall be required for the erection, alteration, or maintenance of any signs as permitted in [Section 1202](#section-1202), Signs in Residential Districts.
+8. Advertising painted upon, or displayed upon, a barn or other building or structure shall be regarded as an advertising sign board and the regulations pertaining thereto shall apply.
+9. Each sign shall be removed when the circumstances leading to its erection no longer apply.
+10. No animated, sequential, flashing or oscillating signs shall be permitted in any district. Any sign by reason of its intensity, color, location, or movement that may interfere with traffic lights, signals or other controls, or abrogate public safety shall not be permitted in any district.
+11. Open flames used to attract public attention to a place of business or to an advertising sign shall not be permitted.
 
 <a id="article-xiii"></a>
 ## Article XIII — Off-Street Parking, Loading and Unloading
@@ -3966,202 +2922,75 @@ separately.
 
 Off-street parking facilities shall be provided as follows:
 
-(1) Residential Parking Requirements
+**(1) Residential Parking Requirements**
 
-A. Schedule
-Uses One Parking Space for Each
+**A. Schedule**
 
-Single-family detached dwellings Y dwelling unit
-Single-family semi-detached. dwellings Y% dwelling unit
-Two-family detached dwellings Y dwelling unit
-Two-family semi-detached dwellings Y, dwelling unit
-Townhouse dwellings Y, dwelling unit
-Garden apartment dwellings 2/3 dwelling unit
-Mid-rise apartment dwellings 2/3 dwelling unit
-Low-tise apartment dwellings 2/3 dwelling unit
-Residential conversion units Y dwelling unit
-Boarding, rooming or tourist houses Guest room
+| Use | One Parking Space for Each |
+|---|---|
+| Single-family detached dwellings | ½ dwelling unit |
+| Single-family semi-detached dwellings | ½ dwelling unit |
+| Two-family detached dwellings | ½ dwelling unit |
+| Two-family semi-detached dwellings | ½ dwelling unit |
+| Townhouse dwellings | ½ dwelling unit |
+| Garden apartment dwellings | 2/3 dwelling unit |
+| Mid-rise apartment dwellings | 2/3 dwelling unit |
+| Low-rise apartment dwellings | 2/3 dwelling unit |
+| Residential conversion units | ½ dwelling unit |
+| Boarding, rooming or tourist houses | Guest room |
 
-(2) Commercial
+**(2) Commercial**
 
-A. Schedule
-Uses One Parking Space for Each
+**A. Schedule**
 
-Places of public or private 3 seats provided for public
-assembly including theaters, or private assembly
-auditoriums, churches, schools,
-stadiums
-Retail stores and other places for 200 square feet of floor area
-trade or business for public use
+| Use | One Parking Space for Each |
+|---|---|
+| Places of public or private assembly including theaters, auditoriums, churches, schools, stadiums | 3 seats provided for public or private assembly |
+| Retail stores and other places for trade or business | 200 square feet of floor area for public use |
+| Food markets and grocery stores | 100 square feet of floor area for public use |
+| Restaurants, tearooms, cafeterias, taverns, night clubs | 3 seats or 3 person based on design capacity |
+| Bowling alleys | ¼ alleys (4 spaces per alley) plus 1 for each employee |
+| Office building | 200 square feet of floor area plus 1 employee |
+| Vehicles service stations | 200 square feet of floor area devoted to repair or service facilities plus 1 for each employee |
+| Hospital and sanitariums | 3 beds, plus each employee on the largest shift |
+| Drive-in restaurants, drive-in dairies or other similar establishments | 50 square feet of building |
+| Private clubs and lodges | 100 square feet of floor area available to patrons |
+| Public swimming pools | 4 persons based upon the design capacity of the pool |
+| Golf driving range | Tee provided |
+| Miniature gold [golf] | ½ hole (2 spaces per hole) |
+| Coin laundries | 1-1/2 washing machines (2 spaces for every 3 machines) |
+| Hotels and motels | 1 guest unit, plus 1 for each employee |
+| Dormitory, fraternity house, nursing home | 1 sleeping room |
+| Mortuaries, funeral homes and undertaking establishments | 3 seats based on maximum seating capacity |
+| Home occupations | Determined to be adequate for the particular home occupational use in addition to the requirement for the dwelling |
 
-Food markets and grocery stores
+**(3) Industrial Parking Requirements**
 
-Restaurants, tearooms,
-cafeterias, taverns, night clubs
+- **A. Schedule**
 
-Bowling alleys
+  | Use | One Parking Space for Each |
+  |---|---|
+  | Industrial and manufacturing establishments, truck terminals and wholesale warehouses | Employee on the combined major and next largest shift |
+- **B.** Space shall be provided in addition to the above parking requirements for salesmen and other visitor parking, according to specific needs.
 
-Office building
+**(4) Public and Semi-Public Parking Requirements**
 
-Vehicles service stations
+**A. Schedule**
 
-Hospital and sanitariums
+| Use | One Parking Space for Each |
+|---|---|
+| School | Staff members plus one space for each twenty students |
+| Indoor recreation center | 90 square feet of floor area available to patrons |
+| Outdoor recreation center | 500 square feet of lot area devoted to amusement devices |
 
-Drive-in restaurants, drive-in
-dairies or other similar
-establishments
-
-Private clubs and lodges
-
-Public swimming pools
-
-Golf driving range
-
-Miniature gold
-
-Coin laundries
-
-Hotels and motels
-
-100 square feet of floor area
-for public use
-
-3 seats or 3 person based
-on design capacity
-
-% alleys (4 spaces per
-alley) plus 1 for each
-employee
-
-200 square feet of floor area
-plus 1 employee
-
-200 square feet of floor area
-devoted to repair or service
-facilities plus 1 for each
-employee
-
-3 beds, plus each employee
-on the largest shift
-
-50 square feet of building
-
-100 square feet of floor area
-available to patrons
-
-4 persons based upon the
-design capacity of the pool
-
-Tee provided
-
-¥% hole (2 spaces per hole)
-1-1/2 washing machines (2
-spaces for every 3
-
-machines)
-
-1 guest unit, plus 1 for each
-employee
-
-Dormitory, fraternity house,
-nursing home
-
-Mortuaries, funeral homes and
-undertaking establishments
-
-Home occupations
-
-(3) Industrial Parking Requirements
-
-A.
-
-B.
-
-(4) Public and Semi-Public Parking Requirements
-
-A.
-
-(5)
-
-Schedule
-Uses
-
-Industrial and manufacturing
-
-establishments, truck terminals and
-
-wholesale warehouses
-
-1 sleeping room
-
-3 seats based on maximum
-seating capacity
-
-Determined to be adequate
-for the particular home
-occupational use in addition
-to the requirement for the
-dwelling
-
-One Parking Space for Each
-
-Employee on the combined
-major and next largest shift
-
-Space shall be provided in addition to the above parking requirements for
-salesmen and other visitor parking, according to specific needs.
-
-Schedule
-
-Uses
-
-School
-
-Indoor recreation center
-
-Outdoor recreation center
-
-except in designated areas.
-
-One Parking Space for Each
-
-Staff members plus one
-space for each twenty
-students
-
-90 square feet of floor area
-available to patrons
-
-500 square feet of lot area
-devoted to amusement
-devices
-
-Parking Prohibitions: Parking shall not be permitted on public rights-of-way
+**(5) Parking Prohibitions:** Parking shall not be permitted on public rights-of-way except in designated areas.
 
 <a id="section-1303"></a>
 ### Section 1303 - Loading and Unloading Space
 
-(1)
-
-(2)
-
-(3)
-
-In addition to the off-street parking space required above, any building erected,
-converted or enlarged for any non-residential use shall provide adequate off-
-street areas for loading and unloading of vehicles. The minimum size loading
-space shall be fifty (50) feet in depth, twelve (12) feet in width, with an
-overhead clearance of fourteen (14) feet.
-
-All commercial and industrial establishments shall provide loading and
-unloading and commercial vehicle storage space adequate for their needs. This
-required space will be provided in addition to established requirements for
-patron and employee parking. In no case where a building is erected, converted
-or enlarged for commercial, manufacturing, or business purposes shall the
-public rights-of-way be used for loading or unloading of materials.
-
-Required off-street parking space shall not be computed for loading and
-unloading purposes.
+1. In addition to the off-street parking space required above, any building erected, converted or enlarged for any non-residential use shall provide adequate off-street areas for loading and unloading of vehicles. The minimum size loading space shall be fifty (50) feet in depth, twelve (12) feet in width, with an overhead clearance of fourteen (14) feet.
+2. All commercial and industrial establishments shall provide loading and unloading and commercial vehicle storage space adequate for their needs. This required space will be provided in addition to established requirements for patron and employee parking. In no case where a building is erected, converted or enlarged for commercial, manufacturing, or business purposes shall the public rights-of-way be used for loading or unloading of materials.
+3. Required off-street parking space shall not be computed for loading and unloading purposes.
 
 <a id="section-1304"></a>
 ### Section 1304 - Access of Off-Street Parking and Loading Areas
@@ -4170,19 +2999,8 @@ Access to and from all off-street parking, loading, and vehicle services areas a
 public right-of-way consist of well defined separate or common entrances and exits and shall
 comply with the following provisions:
 
-(1)
-
-(2)
-
-Access drives shall not open any public right-of-way within eighty (80) feet of
-the nearest right-of-way line of any intersecting public street or highway.
-
-Access drives shall not open upon any public right-of-way where the sight
-distance in either direction along the public thoroughfare would be less than five
-hundred (500) feet when the posted speed limit exceeds thirty-five (35) miles per
-hour; however, when the posted speed limit is thirty-five (35) miles per hour or
-less, the sight-distance requirement may be reduced to two hundred fifty (250)
-feet.
+1. Access drives shall not open any public right-of-way within eighty (80) feet of the nearest right-of-way line of any intersecting public street or highway.
+2. Access drives shall not open upon any public right-of-way where the sight distance in either direction along the public thoroughfare would be less than five hundred (500) feet when the posted speed limit exceeds thirty-five (35) miles per hour; however, when the posted speed limit is thirty-five (35) miles per hour or less, the sight-distance requirement may be reduced to two hundred fifty (250) feet.
 
 <a id="section-1305"></a>
 ### Section 1305 - Parking and Loading Area Setbacks
@@ -4198,207 +3016,46 @@ common facilities subject to greater setbacks as may be required elsewhere in th
 <a id="section-1401"></a>
 ### Section 1401 - The Zoning Officer
 
-L.
-
-The Zoning Officer: The provisions of the Zoning Ordinance shall be enforced
-by an agent to be appointed by the Board of Township Supervisors who shall be
-known as the Zoning or Permit Officer.
-
-Deputy: The Zoning/Permit Officer may designate an employee of the
-Township as his Deputy who shall exercise all the powers of the Zoning/Permit
-Officer during the temporary absence or disability of the Zoning/Permit Officer.
-
-Compensation: The compensation for the Zoning/Permit Officer and the
-Deputy Zoning/Permit Officer shall be determined by the Board of Township
-Supervisors.
-
-Duties and Responsibilities: The Zoning/Permit Officer shall have all the duties
-and powers conferred by the Zoning Ordinance in addition to those reasonably
-implied for that purpose. He shall not issue a permit in connection with any
-contemplated erection, construction, alteration, repair, extension, replacement
-and/or use of any building, structure, sign and/or land unless it first conforms
-with the requirements of this Zoning Ordinance, all other Ordinances of the
-Township, and with the laws of the commonwealth of Pennsylvania. He shall:
-
-A. Receive applications, process the same, and issue permits for the
-erection, construction, alteration, repair extension, replacement, and/or
-use of any building, structure, sign, and/or land in the Township.
-
-B. At his discretion, examine or cause to be examined, all buildings,
-structures, signs, and/or land or portions thereof, for which an
-application has been filed for the erection, construction, alternation,
-repair, extension, replacement, and/or use before issuing any permit.
-Thereafter, he may make such inspections during the completion of work
-for which a permit has been issued. Upon completion of the building,
-structure, sign, and/or change, a final inspection shall be made and all
-violations of approved plans or permit shall be noted and the holder of
-the permit shall be notified of the discrepancies.
-
-CG. Keep a record of all applications received, all permits and certificates
-issued, reports of inspections, notices, and orders issued, and the
-
-complete recording of all pertinent factors involved. He shall file and
-safely keep copies of all plans permitted, and the same shall form a part
-of the records of his office and shall be available for the use of the Board
-of Township Supervisors and other officials of the Township. At least
-annually, he shall submit to the Board of Township Supervisors a written
-statement of all permits and certificates of use and occupancy issued, and
-violations and stop work orders recommended or promulgated.
-
-D. Identify and register all non-conforming uses and all non-conforming
-structures.
+1. The Zoning Officer: The provisions of the Zoning Ordinance shall be enforced by an agent to be appointed by the Board of Township Supervisors who shall be known as the Zoning or Permit Officer.
+2. Deputy: The Zoning/Permit Officer may designate an employee of the Township as his Deputy who shall exercise all the powers of the Zoning/Permit Officer during the temporary absence or disability of the Zoning/Permit Officer.
+3. Compensation: The compensation for the Zoning/Permit Officer and the Deputy Zoning/Permit Officer shall be determined by the Board of Township Supervisors.
+4. Duties and Responsibilities: The Zoning/Permit Officer shall have all the duties and powers conferred by the Zoning Ordinance in addition to those reasonably implied for that purpose. He shall not issue a permit in connection with any contemplated erection, construction, alteration, repair, extension, replacement and/or use of any building, structure, sign and/or land unless it first conforms with the requirements of this Zoning Ordinance, all other Ordinances of the Township, and with the laws of the commonwealth of Pennsylvania. He shall:
+   - **A.** Receive applications, process the same, and issue permits for the erection, construction, alteration, repair extension, replacement, and/or use of any building, structure, sign, and/or land in the Township.
+   - **B.** At his discretion, examine or cause to be examined, all buildings, structures, signs, and/or land or portions thereof, for which an application has been filed for the erection, construction, alternation, repair, extension, replacement, and/or use before issuing any permit. Thereafter, he may make such inspections during the completion of work for which a permit has been issued. Upon completion of the building, structure, sign, and/or change, a final inspection shall be made and all violations of approved plans or permit shall be noted and the holder of the permit shall be notified of the discrepancies.
+   - **C.** Keep a record of all applications received, all permits and certificates issued, reports of inspections, notices, and orders issued, and the complete recording of all pertinent factors involved. He shall file and safely keep copies of all plans permitted, and the same shall form a part of the records of his office and shall be available for the use of the Board of Township Supervisors and other officials of the Township. At least annually, he shall submit to the Board of Township Supervisors a written statement of all permits and certificates of use and occupancy issued, and violations and stop work orders recommended or promulgated.
+   - **D.** Identify and register all non-conforming uses and all non-conforming structures.
 
 <a id="section-1402"></a>
 ### Section 1402 - Permits
 
-1.
-
-Requirements: It shall be unlawful to commence the excavation for or the
-construction or erection of any building, including an accessory building, or to
-commence the moving or alteration of any building, including an accessory
-building, until the Zoning/Permit Officer has issued a building permit for such
-work. No permit shall be required for repairs do not change the use or
-otherwise violate the provisions of this Ordinance.
-
-Form of Application: The application for a permit shall be submitted in such
-form as the Zoning/Permit Officer may prescribe and shall be accompanied by
-the required fees as hereinafter prescribed. Application for a permit shall be
-made by the Owner or lessee of any building or structure, or the agent of either;
-provided, however, that if the application is made by a person other than the
-Owner or the qualified person making an application, that the proposed work is
-authorized by this Owner. The full name and address of the Owner, Lessee,
-Applicant, and of the responsible officers, if the Owner or Lessee is a corporate
-body, shall be stated in the application.
-
-Application for Building Permits: All applications for building permits shall be
-accompanied by plans in duplicate, drawn to scale, showing the actual shape and
-dimensions of the lot to be built upon, the exact size and location of any
-buildings existing on the lot, the lines within which the proposed building or
-part of a building, the number of families or dwelling units the building is
-designed to accommodate and such information as may be necessary to
-determine compliance with this Ordinance and all other pertinent ordinances.
-
-One copy of such plans shall be returned to the owner when such plans shall be
-approved by the Municipal Governing body. All applications with
-accompanying plans and documents shall become a public record after a permit
-is issued or denied.
-
-10.
-
-Time Limit for Application: An application for a permit for any proposed work
-shall be deemed to have been denied six (6) months after the date of filing,
-unless such application has been diligently prosecuted or a permit shall have
-been issued; except that reasonable extensions of time for additional periods not
-exceeding ninety (90) days each may be granted at the discretion of the
-Zoning/Permit Officer.
-
-Issuance of Permits: Upon receiving the application, the Zoning/Permit Officer
-shall examine the same within 21 days after filing. If the application or plans do
-not conform to the provisions of all pertinent local laws, he shall reject such
-application in writing, stating the reasons therefore. He shall inform the
-applicant of his right of appeal to the Zoning Hearing Board or the Board of
-Supervisors in the event such application is rejected. If satisfied that the
-proposed work and/or use conforms to the provisions of the Zoning Ordinance
-and all laws and ordinances applicable thereto, and that the certificate of use and
-occupancy as required herein has been applied for, he shall issue a permit
-therefor as soon as practical.
-
-Expiration of Permit: The permit shall expire after one (1) year from the date
-of issuance; provided; however, that the same may be extended every six (6)
-months for a period not to exceed an additional one (1) year.
-
-Revocation of Permits: The Zoning/Permit Officer may revoke a permit or
-approval issued under the provisions of the Zoning Ordinance in case of any
-false statement or misrepresentation of fact in the application or on the plans on
-which the permit or approval was based or for any other cause set forth in the
-Zoning Ordinance.
-
-Posting of Permit: A true copy of the permit shall be kept on the site of
-operations open to public inspection during the entire time of prosecution of the
-work or use and until the completion of the same as defined on the application.
-
-Temporary Permit: A temporary permit may be authorized by the Board of
-Supervisors for a nonconforming structure or use which it deems necessary to
-promote the property development of the community, provided that such
-nonconforming structure of use shall be completely removed upon expiration of
-the permit without cost to the Municipality. Such permits shall be issued for a
-specified period of time not to exceed one (1) year, and may be renewed
-annually for an aggregate period not exceeding three (3) years if an application
-for extension is applied for by the applicant before the expiration date of the
-original temporary permit.
-
-11.
-
-12.
-
-13;
-
-Payment of Fees: No permit to begin work for the erection, construction,
-alternation, repair, extension, replacement, and/or use of any building,
-structure, sign and/or land for construction or use purpose shall be issued until
-the fees prescribed by the Board of Township Supervisors pursuant to
-Resolution shall be paid to the Zoning/Permit Officer. The payment of fees
-under this Section shall not relieve the applicant or holder of said permit from
-payment of other fees that may be required by this Ordinance, or any other
-Ordinance or law.
-
-Compliance with Ordinance: The permit shall be a license to proceed with the
-work and should not be construed as authority to violate, cancel, or set aside
-any of the provisions of the Zoning Ordinance, except as stipulated by the Board
-of Supervisors.
-
-Compliance with Permit and Plot Plan: All work or uses shall conform to the
-approved application and plans for which the permit has been issued as well as
-the approved plot plan.
+1. Requirements: It shall be unlawful to commence the excavation for or the construction or erection of any building, including an accessory building, or to commence the moving or alteration of any building, including an accessory building, until the Zoning/Permit Officer has issued a building permit for such work. No permit shall be required for repairs do not change the use or otherwise violate the provisions of this Ordinance.
+2. Form of Application: The application for a permit shall be submitted in such form as the Zoning/Permit Officer may prescribe and shall be accompanied by the required fees as hereinafter prescribed. Application for a permit shall be made by the Owner or lessee of any building or structure, or the agent of either; provided, however, that if the application is made by a person other than the Owner or the qualified person making an application, that the proposed work is authorized by this Owner. The full name and address of the Owner, Lessee, Applicant, and of the responsible officers, if the Owner or Lessee is a corporate body, shall be stated in the application.
+3. Application for Building Permits: All applications for building permits shall be accompanied by plans in duplicate, drawn to scale, showing the actual shape and dimensions of the lot to be built upon, the exact size and location of any buildings existing on the lot, the lines within which the proposed building or part of a building, the number of families or dwelling units the building is designed to accommodate and such information as may be necessary to determine compliance with this Ordinance and all other pertinent ordinances.
+4. One copy of such plans shall be returned to the owner when such plans shall be approved by the Municipal Governing body. All applications with accompanying plans and documents shall become a public record after a permit is issued or denied.
+5. Time Limit for Application: An application for a permit for any proposed work shall be deemed to have been denied six (6) months after the date of filing, unless such application has been diligently prosecuted or a permit shall have been issued; except that reasonable extensions of time for additional periods not exceeding ninety (90) days each may be granted at the discretion of the Zoning/Permit Officer.
+6. Issuance of Permits: Upon receiving the application, the Zoning/Permit Officer shall examine the same within 21 days after filing. If the application or plans do not conform to the provisions of all pertinent local laws, he shall reject such application in writing, stating the reasons therefore. He shall inform the applicant of his right of appeal to the Zoning Hearing Board or the Board of Supervisors in the event such application is rejected. If satisfied that the proposed work and/or use conforms to the provisions of the Zoning Ordinance and all laws and ordinances applicable thereto, and that the certificate of use and occupancy as required herein has been applied for, he shall issue a permit therefor as soon as practical.
+7. Expiration of Permit: The permit shall expire after one (1) year from the date of issuance; provided; however, that the same may be extended every six (6) months for a period not to exceed an additional one (1) year.
+8. Revocation of Permits: The Zoning/Permit Officer may revoke a permit or approval issued under the provisions of the Zoning Ordinance in case of any false statement or misrepresentation of fact in the application or on the plans on which the permit or approval was based or for any other cause set forth in the Zoning Ordinance.
+9. Posting of Permit: A true copy of the permit shall be kept on the site of operations open to public inspection during the entire time of prosecution of the work or use and until the completion of the same as defined on the application.
+10. Temporary Permit: A temporary permit may be authorized by the Board of Supervisors for a nonconforming structure or use which it deems necessary to promote the property development of the community, provided that such nonconforming structure of use shall be completely removed upon expiration of the permit without cost to the Municipality. Such permits shall be issued for a specified period of time not to exceed one (1) year, and may be renewed annually for an aggregate period not exceeding three (3) years if an application for extension is applied for by the applicant before the expiration date of the original temporary permit.
+11. Payment of Fees: No permit to begin work for the erection, construction, alternation, repair, extension, replacement, and/or use of any building, structure, sign and/or land for construction or use purpose shall be issued until the fees prescribed by the Board of Township Supervisors pursuant to Resolution shall be paid to the Zoning/Permit Officer. The payment of fees under this Section shall not relieve the applicant or holder of said permit from payment of other fees that may be required by this Ordinance, or any other Ordinance or law.
+12. Compliance with Ordinance: The permit shall be a license to proceed with the work and should not be construed as authority to violate, cancel, or set aside any of the provisions of the Zoning Ordinance, except as stipulated by the Board of Supervisors.
+13. Compliance with Permit and Plot Plan: All work or uses shall conform to the approved application and plans for which the permit has been issued as well as the approved plot plan.
 
 <a id="section-1403"></a>
 ### Section 1403 - Certificate of Use and Occupancy
 
-1.
-
-It shall be unlawful to use and/or occupy any structure, building, sign, and/or
-land or portion thereof for which a permit is required herein until a certificate of
-use and occupancy for such structure, building, sign, and/or land portion thereof
-has been issued by the Zoning/Permit Officer. The application for issuance of a
-certificate of use and occupancy shall be made at the same time an application
-for a permit is filed with the Zoning/Permit Officer as required herein.
-
-The application for a certificate of use and occupancy shall be in such form as
-the Zoning/Permit Officer may prescribe and may be made on the same
-application as is required for a permit.
-
-The application shall contain the intended use and/or occupancy of any
-structure, building, sign, and/or land or portion thereof for which a permit is
-required herein.
-
-The Zoning/Permit Officer shall inspect any structure, building, or sign within
-ten (10) days upon notification on that the proposed work that was listed under
-the permit has been completed and if satisfied that the work is in conformity and
-compliance with the work listed in the issued permit and all other pertinent
-laws, he shall issue a certificate of use and occupancy without fee for the
-intended use listed in the original application.
-
-The certification of use of occupancy or a true copy thereof shall be kept
-available for official inspection at all times.
-
-Upon request of a holder of a permit, the Zoning/Permit Officer may issue a
-temporary certificate of use and occupancy for a structure, building, sign,
-and/or land, or portion thereof, before the work covered by the permit shall
-have been completed, provided such portion or portions may be used and/or
-occupied safely prior to full completion of the work without endangering life or
-public welfare. The Zoning/Permit Officer shall also issue a temporary
-certificate of use and occupancy for such temporary uses as tents, use of land
-for religious or other public or semi-public purposes and similar temporary use
-and/or occupancy. Such temporary certificates shall be for the period of time to
-be determined by the Zoning/Permit Officer, however, in no case for a period
-exceeding six (6) months.
+1. It shall be unlawful to use and/or occupy any structure, building, sign, and/or land or portion thereof for which a permit is required herein until a certificate of use and occupancy for such structure, building, sign, and/or land portion thereof has been issued by the Zoning/Permit Officer. The application for issuance of a certificate of use and occupancy shall be made at the same time an application for a permit is filed with the Zoning/Permit Officer as required herein.
+2. The application for a certificate of use and occupancy shall be in such form as the Zoning/Permit Officer may prescribe and may be made on the same application as is required for a permit.
+3. The application shall contain the intended use and/or occupancy of any structure, building, sign, and/or land or portion thereof for which a permit is required herein.
+4. The Zoning/Permit Officer shall inspect any structure, building, or sign within ten (10) days upon notification on that the proposed work that was listed under the permit has been completed and if satisfied that the work is in conformity and compliance with the work listed in the issued permit and all other pertinent laws, he shall issue a certificate of use and occupancy without fee for the intended use listed in the original application.
+5. The certification of use of occupancy or a true copy thereof shall be kept available for official inspection at all times.
+6. Upon request of a holder of a permit, the Zoning/Permit Officer may issue a temporary certificate of use and occupancy for a structure, building, sign, and/or land, or portion thereof, before the work covered by the permit shall have been completed, provided such portion or portions may be used and/or occupied safely prior to full completion of the work without endangering life or public welfare. The Zoning/Permit Officer shall also issue a temporary certificate of use and occupancy for such temporary uses as tents, use of land for religious or other public or semi-public purposes and similar temporary use and/or occupancy. Such temporary certificates shall be for the period of time to be determined by the Zoning/Permit Officer, however, in no case for a period exceeding six (6) months.
 
 <a id="section-1404"></a>
 ### Section 1404 - Enforcement, Penalty, and Remedy
 
-1,
-
-The construction, erection, replacement, alteration, repair, extension,
+1. The construction, erection, replacement, alteration, repair, extension,
 replacement, and/or use of any structure, building, sign, and/or land or the
 change of use, area of use, percentage of use or extension or displacement of the
 use any structure, building, sign, and/or land without first obtaining a permit for
@@ -4406,39 +3063,17 @@ the use of any building, structures, sign, and/or land without receipt of a
 certificate of use and occupancy or the failure to comply with any other
 provisions of this Ordinance, are hereby declared to be violation of this Zoning
 Ordinance.
+2. The Zoning/Permit Officer shall notify by written notice of violation or order on the person, firm or corporation, or the owner, lessee or agent of the land upon which the violation has occurred who has committed the violation, and such order shall direct the discontinuance of the illegal action or condition and the abatement of the violation. However, in no case shall the person so notified abandon the premise in such a condition so as to create a hazard or menace to the public safely, health, morals or welfare. Said premises shall be placed in such condition as the Zoning/Permit Officer shall direct.
 
-The Zoning/Permit Officer shall notify by written notice of violation or order on
-the person, firm or corporation, or the owner, lessee or agent of the land upon
-which the violation has occurred who has committed the violation, and such
-order shall direct the discontinuance of the illegal action or condition and the
-abatement of the violation. However, in no case shall the person so notified
-abandon the premise in such a condition so as to create a hazard or menace to
-the public safely, health, morals or welfare. Said premises shall be placed in
-such condition as the Zoning/Permit Officer shall direct.
+   An enforcement notice shall state at least the following:
+   - **(a)** The name of the owner of record and any other person against whom the Township intends to take action.
+   - **(b)** The location of the property in violation.
+   - **(c)** The specific violation with a description of the requirements which have been met, citing in each instance the applicable provisions of the ordinance.
+   - **(d)** The date before which the steps for compliance must be commenced and the date before which the steps must be completed.
+   - **(e)** That the recipient of the notice has the right to appeal to the zoning hearing board within the prescribed period of time in accordance with procedures set forth in this Ordinance.
+   - **(f)** That failure to comply with the notice within the time specified, unless extended by appeal to the Zoning Hearing Board, constitutes a violation, with possible sanctions clearly described.
 
-An enforcement notice shall state at least the following:
-
-(a) The name of the owner of record and any other person against whom the
-Township intends to take action.
-
-(b) — The location of the property in violation.
-
-(c) The specific violation with a description of the requirements which have
-been met, citing in each instance the applicable provisions of the
-ordinance.
-
-(d) The date before which the steps for compliance must be commenced and
-the date before which the steps must be completed.
-
-(e) That the recipient of the notice has the right to appeal to the zoning
-hearing board within the prescribed period of time in accordance with
-procedures set forth in this Ordinance.
-
-(f) That failure to comply with the notice within the time specified, unless
-extended by appeal to the Zoning Hearing Board, constitutes a violation,
-with possible sanctions clearly described.
-
-In any case any building, structure, landscaping or land is, or is proposed to be,
+   In any case any building, structure, landscaping or land is, or is proposed to be,
 erected, constructed, reconstructed, altered, converted, maintained or used in
 violation of any ordinance enacted under the PAMPC or prior enabling laws,
 the Supervisors or, with the approval of the Supervisors, an officer of the
@@ -4452,17 +3087,8 @@ tenant, notice of that action shall be served upon the Township at least 30 days
 prior to the time the action is begun by serving a copy of the complaint on the
 Board of Supervisors of Fayette Township. No such action may be maintained
 until such notice has been given.
-
-If the notice of violation is not complied with within a period of five (5) days,
-the Zoning/Permit Officer or other Township officer may take, in the name of
-the Township, any appropriate action or proceeding at law or in equity to
-prevent, restrain, correct or abate such violation or to require the removal or
-termination of the unlawful use of the structure, building sign, and/or land in
-violation of the provisions of the Zoning Ordinance or of the order or direction
-made pursuant thereto.
-
-Any person, partnership or corporation who or which has violated or permitted
-the violation of the provisions of this zoning ordinance enacted under the
+3. If the notice of violation is not complied with within a period of five (5) days, the Zoning/Permit Officer or other Township officer may take, in the name of the Township, any appropriate action or proceeding at law or in equity to prevent, restrain, correct or abate such violation or to require the removal or termination of the unlawful use of the structure, building sign, and/or land in violation of the provisions of the Zoning Ordinance or of the order or direction made pursuant thereto.
+4. Any person, partnership or corporation who or which has violated or permitted the violation of the provisions of this zoning ordinance enacted under the
 Municipalities Planning Code or prior enabling laws shall, upon being found
 liable therefor in civil enforcement proceeding commended by the Township,
 pay a judgement of not more than $500 plus all court costs, including reasonable
@@ -4481,42 +3107,16 @@ thereafter each day a violation continues shall constitute a separate violation.
 All judgements, costs and reasonable attorney fees collected for the violation of
 zoning ordinances shall be paid over to the Township whose ordinance has been
 violated.
-
-The court of common pleas, upon petition, may grant an order of stay, upon
-cause shown, tolling the per diem fine pending a final adjudication of the
-violation and judgement.
-
-Nothing contained in this section shall be construed or interpreted to grant to
-any person or entity other than the Township the right to commence any action
-for enforcement pursuant to this section.
+5. The court of common pleas, upon petition, may grant an order of stay, upon cause shown, tolling the per diem fine pending a final adjudication of the violation and judgement.
+6. Nothing contained in this section shall be construed or interpreted to grant to any person or entity other than the Township the right to commence any action for enforcement pursuant to this section.
 
 <a id="section-1405"></a>
 ### Section 1405 - Zoning Hearing Board - Powers and Duties
 
-1.
+1. Creation and Membership: The terms of office of the board shall be three (3) years and shall be so fixed that the term of office of one member of a three member board shall expire each year. The board shall promptly notify the Supervisors or any vacancies which occur. Appointments to fill vacancies shall be only for the unexpired portion of the term. Members of the board shall hold no other office on the municipality.
 
-Creation and Membership: The terms of office of the board shall be three (3)
-years and shall be so fixed that the term of office of one member of a three
-member board shall expire each year. The board shall promptly notify the
-Supervisors or any vacancies which occur. Appointments to fill vacancies shall
-be only for the unexpired portion of the term. Members of the board shall hold
-no other office on the municipality.
-
-The Supervisors map appoint by resolution at least one but no more than three
-residents of the Township to serve as alternate members of the board. The term
-of office of an alternate member shall be three years. When seated pursuant to
-the provisions of this ordinance, an alternate shall be entitled to participate in all
-proceedings and discussions of the board to the same and full extent as provided
-by law for board members, including specifically the right to cast a vote as a
-voting member during the proceedings, and shall have all the powers and duties
-set forth as otherwise provided by law. Alternates shall hold no other office in
-the municipality, including membership on the Planning Commission and
-Zoning/Permit Officer. Any alternate may participate in any proceeding or
-
-discussion of the board shall not be entitled to vote as a member of the board
-nor be compensated unless designed as a voting alternate member.
-
-General Procedures: The Zoning Hearing Board shall be governed by the
+   The Supervisors map appoint by resolution at least one but no more than three residents of the Township to serve as alternate members of the board. The term of office of an alternate member shall be three years. When seated pursuant to the provisions of this ordinance, an alternate shall be entitled to participate in all proceedings and discussions of the board to the same and full extent as provided by law for board members, including specifically the right to cast a vote as a voting member during the proceedings, and shall have all the powers and duties set forth as otherwise provided by law. Alternates shall hold no other office in the municipality, including membership on the Planning Commission and Zoning/Permit Officer. Any alternate may participate in any proceeding or discussion of the board shall not be entitled to vote as a member of the board nor be compensated unless designed as a voting alternate member.
+2. General Procedures: The Zoning Hearing Board shall be governed by the
 provisions of the “Pennsylvania Municipalities Planning Code,” Act 170 of
 December 21, 1988, P.L. 1329 Article [IX as may be amended or revised, and
 such other Commonwealth of Pennsylvania laws as may be applicable. As used
@@ -4548,97 +3148,28 @@ time for hearings.
 
 The Zoning Hearing Board shall have the following powers:
 
-1.
+1. To hear and decide appeals where it is alleged there is error in any order, requirement, decision, determination or interpretation made by an administrative official in the enforcement of this Ordinance or of any ordinance adopted pursuant thereto.
+2. To hear and decide special exceptions which may be authorized in this ordinance by the Board of Supervisors. In addition to the express standards and criteria stated in this Ordinance, the Zoning Hearing Board may attach such reasonable conditions and safeguards to an approval as it may deem necessary to insure that the approval is consistent with the purposes and intent of this Ordinance.
+3. The Board shall hear requests for variances where it is alleged that the provisions of the zoning ordinance inflict unnecessary hardship upon the applicant. The board may be rule prescribe the form of application and may require preliminary application to the Zoning Officer. The board may grant a variance, provided that all of the following findings are made where relevant in a given case:
+   - **A.** That there are unique physical circumstances or conditions, including irregularity, narrowness, or shallowness of lot size or shape, or exceptional topographical or other physical conditions peculiar to the particular property and that the unnecessary hardship is due to such conditions and not the circumstances or conditions generally created by the provisions of the zoning ordinance in the neighborhood or district in which the property is located.
+   - **B.** That because of such physical circumstances or conditions, there is no possibility that the property can be developed in strict conformity with the provisions of the zoning ordinance and that the authorization of a variance is therefore necessary to enable the reasonable use of the property.
+   - **C.** That such unnecessary hardship has not been created by the applicant.
+   - **D.** That the variance, if authorized, will not alter the essential character of the neighborhood or district in which the property is located, nor substantially or permanently impair the appropriate use or development of adjacent property, nor be detrimental to the public welfare.
+   - **E.** That the variance, if authorized, will represent the minimum variance that will afford relief and will represent the least modification possible of the regulation in issue.
 
-To hear and decide appeals where it is alleged there is error in any order,
-requirement, decision, determination or interpretation made by an administrative
-official in the enforcement of this Ordinance or of any ordinance adopted
-pursuant thereto.
+   In granting an variance, the Board may attach such reasonable conditions and safeguards as it any deem necessary to implement the purpose of the Pennsylvania Municipalities Planning Code and this ordinance.
 
-To hear and decide special exceptions which may be authorized in this ordinance
-by the Board of Supervisors. In addition to the express standards and criteria
-stated in this Ordinance, the Zoning Hearing Board may attach such reasonable
-conditions and safeguards to an approval as it may deem necessary to insure that
-the approval is consistent with the purposes and intent of this Ordinance.
-
-The Board shall hear requests for variances where it is alleged that the
-provisions of the zoning ordinance inflict unnecessary hardship upon the
-applicant. The board may be rule prescribe the form of application and may
-require preliminary application to the Zoning Officer. The board may grant a
-variance, provided that all of the following findings are made where relevant in
-a given case:
-
-A.
-
-That there are unique physical circumstances or conditions, including
-irregularity, narrowness, or shallowness of lot size or shape, or
-exceptional topographical or other physical conditions peculiar to the
-particular property and that the unnecessary hardship is due to such
-conditions and not the circumstances or conditions generally created by
-the provisions of the zoning ordinance in the neighborhood or district in
-which the property is located.
-
-That because of such physical circumstances or conditions, there is no
-possibility that the property can be developed in strict conformity with
-the provisions of the zoning ordinance and that the authorization of a
-variance is therefore necessary to enable the reasonable use of the
-
-property.
-That such unnecessary hardship has not been created by the applicant.
-
-That the variance, if authorized, will not alter the essential character of
-the neighborhood or district in which the property is located, nor
-substantially or permanently impair the appropriate use or development
-of adjacent property, nor be detrimental to the public welfare.
-
-That the variance, if authorized, will represent the minimum variance
-that will afford relief and will represent the least modification possible of
-the regulation in issue.
-
-In granting an variance, the Board may attach such reasonable conditions
-and safeguards as it any deem necessary to implement the purpose of the
-Pennsylvania Municipalities Planning Code and this ordinance.
-
-All applications for use variance shall be referred to the Planning
-Commission or the Board of Supervisors by the Zoning Hearing Board
-with the direction that the Planning Commission or Board of Supervisors
-shall make a study thereof and recommendations to the Board within
-forty (40) days from the date of the receipt of said application by the
-Planning Commission.
-
-In exercising the above mentioned powers, the Board may, in conformity with
-the provisions of this article, reverse or affirm, wholly or partly, or may
-modify, the order, requirement, decision or determination appealed from, and
-may make such order, requirement, decision or determination as believed
-proper. Notice of such decision shall forthwith be given to all parties in
-interest.
-
-All applications for special exceptions and variances shall be fully reviewed by
-the Township Planning Commission or the Board of Supervisors except that the
-Zoning Officer may waiver this requirement when only a fence or single family
-residential use is contemplated. The Planning Commission or the Board of
-Supervisors shall issue a report to both the applicant and Zoning Hearing Board
-as evidence. Unless expressly characterized as “permanent” in the Zoning
-Hearing Board’s opinion, no special exception or variance shall create a non-
-conforming use or extend to anyone other than the person seeking such special
-exception or variance and their heirs, successors, or assigns.
-
-The fee for appeals and permits shall be set by the Board of Supervisors by
-resolution.
-
-Appeals From Board Rulings: Any person aggrieved by any decision of the
-Zoning Hearing Board may, within thirty (30) days after such decision of the
-Board, appeal to the Court of Common Pleas of the County.
-
-The Burden of Proof in any appeal whether for a variance, special exception, or
-otherwise shall be on the appellant.
+   All applications for use variance shall be referred to the Planning Commission or the Board of Supervisors by the Zoning Hearing Board with the direction that the Planning Commission or Board of Supervisors shall make a study thereof and recommendations to the Board within forty (40) days from the date of the receipt of said application by the Planning Commission.
+4. In exercising the above mentioned powers, the Board may, in conformity with the provisions of this article, reverse or affirm, wholly or partly, or may modify, the order, requirement, decision or determination appealed from, and may make such order, requirement, decision or determination as believed proper. Notice of such decision shall forthwith be given to all parties in interest.
+5. All applications for special exceptions and variances shall be fully reviewed by the Township Planning Commission or the Board of Supervisors except that the Zoning Officer may waiver this requirement when only a fence or single family residential use is contemplated. The Planning Commission or the Board of Supervisors shall issue a report to both the applicant and Zoning Hearing Board as evidence. Unless expressly characterized as "permanent" in the Zoning Hearing Board's opinion, no special exception or variance shall create a non-conforming use or extend to anyone other than the person seeking such special exception or variance and their heirs, successors, or assigns.
+6. The fee for appeals and permits shall be set by the Board of Supervisors by resolution.
+7. Appeals From Board Rulings: Any person aggrieved by any decision of the Zoning Hearing Board may, within thirty (30) days after such decision of the Board, appeal to the Court of Common Pleas of the County.
+8. The Burden of Proof in any appeal whether for a variance, special exception, or otherwise shall be on the appellant.
 
 <a id="section-1407"></a>
 ### Section 1407 - Appeals to the Zoning Hearing Board and Board of Supervisors
 
-Ls
-
-Appeals to the Zoning Hearing Board or the Board of Supervisors may be made
+1. Appeals to the Zoning Hearing Board or the Board of Supervisors may be made
 by any person or by any Township official or agency aggrieved or affected by
 any decision of the Zoning/Permit Officer. Such appeal shall be taken with
 thirty (30) days of the decision of the Zoning/Permit Officer by filing with the
@@ -4646,251 +3177,64 @@ Zoning/Permit Officer and with the Board a notice of appeal, specifying the
 grounds thereof. The Zoning/Permit Officer shall forthwith transmit to the
 Board all the papers constituting the record upon which the action appealed from
 was taken. An appeal shall state:
+   - **A.** The name and address of the appellant.
+   - **B.** The name and address of the owner of the real estate to be affected by such proposed exception, of variance.
+   - **C.** A brief description and location of the real estate to be affected by such proposed change.
+   - **D.** A statement of the present zoning classification of the real estate in question, the improvements thereon, and the present use thereof.
+   - **E.** A statement of the section of this Ordinance under which the variance, or exception requested, may be allowed, and reasons why it should be granted.
+2. An appeal to the respective Boards shall stay all proceedings in furtherance of the action appealed from, unless the Zoning/Permit Officer certifies to the Boards after the notice of appeal shall have been filed, that by reason of facts stated in the certificate a stay would in his opinion cause imminent peril to life and property. In such a case proceedings shall not be stayed otherwise than by a restraining order, which may be granted by the Zoning/Permit Officer and for due cause shown.
+3. Upon receiving an appeal, the Boards shall fix a reasonable time and place for a public hearing thereon and shall give the notice thereof:
+   - **A.** By advertising at least one (1) week before the hearing, at least one (1) time in a newspaper of general circulation within the Township.
+   - **B.** By mailing due notice at least six (6) days prior to the date of the hearing to the parties in interest.
+   - **C.** By giving due notice thereof to the Township Planning Commission, the County Planning Agency, the Zoning/Permit Officer, and such other persons who make timely request for the notice.
+   - **D.** In addition to the published notice, the Zoning Hearing Board or the Board of Supervisors shall give notice of the hearing to the owners of all properties lying within tow hundred (200) feet of the property under consideration. This notice shall be mailed to each property owner not less than six (6) days in advance of the hearing and shall be made from the list of property owners submitted by the person making the appeal. The failure to notify as provided in this paragraph shall not invalidate any recommendations adopted in the hearing; it being the intent, so far as may be possible to provide due notice to the persons substantially interested that the application for appeal is pending.
 
-A. The name and address of the appellant.
-B. The name and address of the owner of the real estate to be affected by
+4. The respective Board shall conduct a public hearing on such appeal at which hearing any party may appear in person, or by agent or attorney, and all of said parties so affected shall be given an opportunity to be heard.
+5. The respective Board shall decide the issue involved within forty-five (45) days after the hearing or continued hearing, it shall be deemed that such Board has decided in favor of the person or Township official aggrieved or affected who is seeking relief. All actions of the Board shall be by Resolution and a copy shall be furnished to the parties in interest and the Zoning/Permit Officer as a public record.
+6. If the variance is granted or the issuance of a permit is approved, or other actions by the appellant is authorized, the necessary permit shall be secured and the authorized action begun within six (6) months after the date when the variance is finally granted or the issuance of a permit is finally approved or the other action by the appellant is authorized. For good cause the Board may, upon application in writing stating the reasons therefore grant an additional six (6) month extension.
 
-such proposed exception, of variance.
+   Should appellant or applicant fail to obtain the necessary permits within said twelve (12) month period, or having obtained the permit should he fail to commence work thereunder within such twelve (12) month period, it shall be conclusively presumed that the appellant or applicant has waived, withdrawn, or abandoned his appeal or his application, and all provisions, variances and permits granted to him shall be deemed automatically rescinded by the Board.
 
-A brief description and location of the real estate to be affected by such
-proposed change.
-
-A statement of the present zoning classification of the real estate in
-question, the improvements thereon, and the present use thereof.
-
-A statement of the section of this Ordinance under which the variance, or
-exception requested, may be allowed, and reasons why it should be
-granted.
-
-An appeal to the respective Boards shall stay all proceedings in furtherance of
-the action appealed from, unless the Zoning/Permit Officer certifies to the
-Boards after the notice of appeal shall have been filed, that by reason of facts
-stated in the certificate a stay would in his opinion cause imminent peril to life
-and property. In such a case proceedings shall not be stayed otherwise than by
-a restraining order, which may be granted by the Zoning/Permit Officer and for
-due cause shown.
-
-Upon receiving an appeal, the Boards shall fix a reasonable time and place for a
-public hearing thereon and shall give the notice thereof:
-
-A.
-
-By advertising at least one (1) week before the hearing, at least one (1)
-time in a newspaper of general circulation within the Township.
-
-By mailing due notice at least six (6) days prior to the date of the hearing
-to the parties in interest.
-
-By giving due notice thereof to the Township Planning Commission, the
-County Planning Agency, the Zoning/Permit Officer, and such other
-persons who make timely request for the notice.
-
-In addition to the published notice, the Zoning Hearing Board or the
-Board of Supervisors shall give notice of the hearing to the owners of all
-properties lying within tow hundred (200) feet of the property under
-consideration. This notice shall be mailed to each property owner not
-less than six (6) days in advance of the hearing and shall be made from
-the list of property owners submitted by the person making the appeal.
-The failure to notify as provided in this paragraph shall not invalidate
-any recommendations adopted in the hearing; it being the intent, so far
-as may be possible to provide due notice to the persons substantially
-interested that the application for appeal is pending.
-
-The respective Board shall conduct a public hearing on such appeal at which
-hearing any party may appear in person, or by agent or attorney, and all of said
-parties so affected shall be given an opportunity to be heard.
-
-The respective Board shall decide the issue involved within forty-five (45) days
-after the hearing or continued hearing, it shall be deemed that such Board has
-decided in favor of the person or Township official aggrieved or affected who is
-seeking relief. All actions of the Board shall be by Resolution and a copy shall
-be furnished to the parties in interest and the Zoning/Permit Officer as a public
-record.
-
-If the variance is granted or the issuance of a permit is approved, or other
-actions by the appellant is authorized, the necessary permit shall be secured and
-the authorized action begun within six (6) months after the date when the
-variance is finally granted or the issuance of a permit is finally approved or the
-other action by the appellant is authorized. For good cause the Board may,
-upon application in writing stating the reasons therefore grant an additional six
-(6) month extension.
-
-Should appellant or applicant fail to obtain the necessary permits within said
-twelve (12) month period, or having obtained the permit should he fail to
-commence work thereunder within such twelve (12) month period, it shall be
-conclusively presumed that the appellant or applicant has waived, withdrawn, or
-abandoned his appeal or his application, and all provisions, variances and
-permits granted to him shall be deemed automatically rescinded by the Board.
-
-Should the appellant or applicant commence construction or alteration within
-said twelve (12) month period, but should he fail to complete such construction
-or alteration within said twelve (12) month period, the Board may upon ten (10)
-days notice in writing, rescind revoke the granted variance, or the issuance of
-the permit, or permits or the other action authorized to the appellant or
-applicant, if the Board finds that a good cause appears for the failure complete
-within such twelve (12) month period, and if the Board further finds that
-conditions have so altered or changed in the interval since the granting of the
-variance, permit or action, that revocation or rescission of the action is justified.
+   Should the appellant or applicant commence construction or alteration within said twelve (12) month period, but should he fail to complete such construction or alteration within said twelve (12) month period, the Board may upon ten (10) days notice in writing, rescind revoke the granted variance, or the issuance of the permit, or permits or the other action authorized to the appellant or applicant, if the Board finds that a good cause appears for the failure complete within such twelve (12) month period, and if the Board further finds that conditions have so altered or changed in the interval since the granting of the variance, permit or action, that revocation or rescission of the action is justified.
 
 <a id="section-1408"></a>
 ### Section 1408 - Hearings
 
-1.
+1. Notice; Conduct of Hearing
+   - **A.** Notice shall be given to the public, the applicant, the Zoning/Permit Officer, such other persons as the Board of Supervisors shall designate by ordinance and to any person who has made timely request for the same. Notice shall be given as follows:
+     - **(1)** By publishing a notice thereof, at least fifteen (15) days in advance of such hearing, in a newspaper or general circulation in the Township.
+     - **(2)** By mailing a notice thereof to the Zoning/Permit Officer.
+     - **(3)** By mailing a notice thereof, at least six (6) days prior to the hearing to the applicant or appellant at the address filed with the appeal or application.
+     - **(4)** By mailing a notice thereof, at least six (6) days prior to the hearing, to such other person as designated by ordinance or to such other person who has made a timely request for notice of the hearing.
+     - **(5)** When the Zoning Hearing Board or Board of Supervisors shall so order, by mailing or delivering a notice thereof the owner, if his residence is known and to the owner of every lot on the same street within one hundred feet (100') of said lot or building; provided, that failure to give notice required by this paragraph shall not invalidate any action by the Zoning Hearing Board or Board of Supervisors.
 
-Notice; Conduct of Hearing
+     The Board of Supervisors may establish reasonable fees, based on cost, to be paid by the applicant and by persons requesting any notice not required by ordinance.
+   - **B.** The hearing shall be conducted by the Zoning Hearing Board or the Board of Supervisors may appoint any member as a hearing officer. The decision, or, where no decision is called for, the findings shall be made by the respective Boards, but the parties may waive decision or findings by the Board and accept the decision or findings of the hearing officer as final.
+   - **C.** Formal rules of evidence shall not apply, but irrelevant, immaterial or unduly repetitious evidence may be excluded.
+   - **D.** The respective Boards or the Hearing Officer:
+     - **(1)** Shall not communicate, directly or indirectly, with any party or his representative in connection with any issue involved except upon notice and opportunity for all parties to participate;
+     - **(2)** Shall not take notice of any communication, reports, staff memoranda, or other materials unless the parties are afforded an opportunity to contest the material or notices; and
+     - **(3)** Shall not inspect the site or its surroundings after the commencement of hearings with any party or his representative unless all parties are given an opportunity to be present.
+2. Parties, Representation, Statements
+   - **A.** Parties. The Parties to the hearing shall be the Township, any person affected by the application who has made timely appearance of record before the Board and any other person including civic or community organizations permitted to appear by the Board. The Board shall have power to require that all persons who wish to be considered parties enter appearances in writing on forms provided by the Board for that purpose.
+   - **B.** Representation. The parties shall have the right to be represented by counsel and shall be afforded the opportunity to respond and present evidence and argument and cross-examine adverse witnesses on all relevant issues.
+   - **C.** Statements. Statements are to be made in the following order or as the Chairman may direct:
+     - **(1)** Applicant or appellant.
+     - **(2)** Zoning Officer and other officials.
+     - **(3)** Any private citizen.
+3. Witness, documents, and papers
 
-As Notice shall be given to the public, the applicant, the Zoning/Permit
-Officer, such other persons as the Board of Supervisors shall designate
-
-by ordinance and to any person who has made timely request for the
-same. Notice shall be given as follows:
-
-(1)
-
-(2)
-(3)
-
-(4)
-
-(6)
-
-By publishing a notice thereof, at least fifteen (15) days in
-advance of such hearing, in a newspaper or general circulation in
-the Township.
-
-By mailing a notice thereof to the Zoning/Permit Officer.
-
-By mailing a notice thereof, at least six (6) days prior to the
-hearing to the applicant or appellant at the address filed with the
-appeal or application.
-
-By mailing a notice thereof, at least six (6) days prior to the
-hearing, to such other person as designated by ordinance or to
-such other person who has made a timely request for notice of the
-hearing.
-
-When the Zoning Hearing Board or Board of Supervisors shall so
-order, by mailing or delivering a notice thereof the owner, if his
-residence is known and to the owner of every lot on the same
-street within one hundred feet (100’) of said lot or building;
-provided, that failure to give notice required by this paragraph
-shall not invalidate any action by the Zoning Hearing Board or
-Board of Supervisors.
-
-The Board of Supervisors may establish reasonable fees, based on cost, to be
-paid by the applicant and by persons requesting any notice not required by
-
-ordinance.
-
-B. The hearing shall be conducted by the Zoning Hearing Board or the
-Board of Supervisors may appoint any member as a hearing officer. The
-decision, or, where no decision is called for, the findings shall be made
-by the respective Boards, but the parties may waive decision or findings
-by the Board and accept the decision or findings of the hearing officer as
-
-final.
-
-GC Formal rules of evidence shall not apply, but irrelevant, immaterial or
-unduly repetitious evidence may be excluded.
-
-D. The respective Boards or the Hearing Officer:
-
-(1) Shall not communicate, directly or indirectly, with any party or
-his representative in connection with any issue involved except
-upon notice and opportunity for all parties to participate;
-
-(2) Shall not take notice of any communication, reports, staff
-memoranda, or other materials unless the parties are afforded an
-opportunity to contest the material or notices; and
-
-(3) Shall not inspect the site or its surroundings after the
-commencement of hearings with any party or his representative
-unless all parties are given an opportunity to be present.
-
-Parties, Representation, Statements
-
-A.
-
-Parties. The Parties to the hearing shall be the Township, any person
-affected by the application who has made timely appearance of record
-before the Board and any other person including civic or community
-organizations permitted to appear by the Board. The Board shall have
-power to require that all persons who wish to be considered parties enter
-appearances in writing on forms provided by the Board for that purpose.
-
-Representation. The parties shall have the right to be represented by
-counsel and shall be afforded the opportunity to respond and present
-evidence and argument and cross-examine adverse witnesses on all
-relevant issues.
-
-Statements. Statements are to be made in the following order or as the
-Chairman may direct:
-
-(1) — Applicant or appellant.
-(2) Zoning Officer and other officials.
-
-(3) Any private citizen.
-
-Witness, documents, and papers
-
-The Chairman or acting Chairman of the Board or the Hearing Officer presiding
-shall have power to administer oaths and issue subpoenas to compel the
-attendance of witnesses and the production of relevant documents and papers,
-including witnesses and documents requested by the parties.
-
-Decision Procedure
-
-A,
-
-The Board or the hearing officer, as the case may be, shall render a
-written decision or, when no decision is called for, make written findings
-on the application within forty-five (45) days after the last hearing before
-the Board of Hearing Officer.
-
-Where the application is contested or denied, each decision shall be
-accompanied by findings of fact and conclusions based thereon together
-with the reasons therefor. Conclusions based on any provision of any
-law, or on any provision of any ordinance, rule, or regulation shall
-contain a reference to the provision relied on and the reasons why the
-conclusion is deemed appropriate in light of the facts found.
-
-If the hearing is conducted by a Hearing Officer, and there has been no
-stipulation that his decision or finds are final, the Board shall make his
-report and recommendations available to the parties and the parties shall
-be entitled to make written representations thereon to the Board prior to
-final decision or entry of findings, and the Board’s decision shall be
-entered no later than forty-five (45) days after the decision of the
-Hearing Officer.
-
-Where the Board has power to render a decision and the Board or the
-Hearing Officer, as the case may be, fails to render the same within the
-period required by this section, the decision shall be deemed to have
-been rendered in favor of the applicant unless the applicant has agreed to
-an extension of time. Nothing herein contained in this section shall
-prejudice the right of any part opposing the application to urge that such
-decision is erroneous.
-
-A copy of the final decision or, where no decision is called for, of the
-findings shall be delivered to the applicant personally or mailed to him
-not later than a day following its date. To all other persons who have
-filed their name and address with the Board, no later than the last day of
-the hearing, the Board shall provide by mail or otherwise, brief notice of
-the decision or findings and a statement of the place at which the full
-decision or findings may be examined.
-
-F, Whenever the Board imposes a condition, or conditions with respect to
-the granting of an application or appeal, this condition must be stated in
-the order of the Board and in the permit issued pursuant to the order by
-the Zoning Officer. This permit remains valid only as long as the
-condition or conditions upon which it was granted or the conditions
-imposed by this Ordinance are adhered to.
-
+   The Chairman or acting Chairman of the Board or the Hearing Officer presiding shall have power to administer oaths and issue subpoenas to compel the attendance of witnesses and the production of relevant documents and papers, including witnesses and documents requested by the parties.
+4. Decision Procedure
+   - **A.** The Board or the hearing officer, as the case may be, shall render a written decision or, when no decision is called for, make written findings on the application within forty-five (45) days after the last hearing before the Board of Hearing Officer.
+   - **B.** Where the application is contested or denied, each decision shall be accompanied by findings of fact and conclusions based thereon together with the reasons therefor. Conclusions based on any provision of any law, or on any provision of any ordinance, rule, or regulation shall contain a reference to the provision relied on and the reasons why the conclusion is deemed appropriate in light of the facts found.
+   - **C.** If the hearing is conducted by a Hearing Officer, and there has been no stipulation that his decision or finds are final, the Board shall make his report and recommendations available to the parties and the parties shall be entitled to make written representations thereon to the Board prior to final decision or entry of findings, and the Board's decision shall be entered no later than forty-five (45) days after the decision of the Hearing Officer.
+   - **D.** Where the Board has power to render a decision and the Board or the Hearing Officer, as the case may be, fails to render the same within the period required by this section, the decision shall be deemed to have been rendered in favor of the applicant unless the applicant has agreed to an extension of time. Nothing herein contained in this section shall prejudice the right of any part opposing the application to urge that such decision is erroneous.
+   - **E.** A copy of the final decision or, where no decision is called for, of the findings shall be delivered to the applicant personally or mailed to him not later than a day following its date. To all other persons who have filed their name and address with the Board, no later than the last day of the hearing, the Board shall provide by mail or otherwise, brief notice of the decision or findings and a statement of the place at which the full decision or findings may be examined.
+   - **F.** Whenever the Board imposes a condition, or conditions with respect to the granting of an application or appeal, this condition must be stated in the order of the Board and in the permit issued pursuant to the order by the Zoning Officer. This permit remains valid only as long as the condition or conditions upon which it was granted or the conditions imposed by this Ordinance are adhered to.
 5. Stenographic Record
 
-The Board or the Hearing Officer, as the case may be, shall keep a stenographic
-record of the proceedings, and a transcript of the proceedings and copies of
-graphic or written materials received in evidence shall be made available to any
-party at cost.
+   The Board or the Hearing Officer, as the case may be, shall keep a stenographic record of the proceedings, and a transcript of the proceedings and copies of graphic or written materials received in evidence shall be made available to any party at cost.
 
 <a id="section-1409"></a>
 ### Section 1409 - Amendments
@@ -4911,126 +3255,43 @@ amendment, the proposed amendment is revised, or further revised, to include lan
 not affected by it, the Township Supervisors shall hold another public hearing, pursuant to
 public notice, before proceeding to vote on the amendment.
 
-il Report of the Township Planning Commission.
-In making such report on a proposed amendment, the Township Planning
-Commission shall make inquiry and determination concerning the items
-specified below.
-A. Concerning a proposed amendment or change in text of this Ordinance:
-dd) Whether such change is consistent with the aims and principles
-embodied in this Ordinance as to the particular Districts
+1. Report of the Township Planning Commission.
 
-concerned;
+   In making such report on a proposed amendment, the Township Planning Commission shall make inquiry and determination concerning the items specified below.
+   - **A.** Concerning a proposed amendment or change in text of this Ordinance:
+     - **(1)** Whether such change is consistent with the aims and principles embodied in this Ordinance as to the particular Districts concerned;
+     - **(2)** Which areas, land uses, buildings, and establishments in the Township will be directly affected by such change and in what way they will be affected;
+     - **(3)** The indirect implications of such change in its effect on other regulations; and
+     - **(4)** Whether such proposed amendment is consistent with the aims of the Comprehensive Plan of the Township.
+   - **B.** Concerning a proposed amendment involving a change in the Zoning Map:
+     - **(1)** Whether the uses permitted by the proposed change would be appropriate in the area concerned;
+     - **(2)** Whether adequate public school facilities and other public services exist or can be created to serve the needs of any additional residences likely to be constructed as a result of such changes;
+     - **(3)** Whether the proposed change is in accord with any existing or proposed plans in the vicinity;
+     - **(4)** The effect of the proposed amendment upon the growth of the Township as envisaged by the Comprehensive Plan; and
+     - **(5)** Whether the proposed amendment is likely to result in an increase or decrease in the total zoned residential capacity of the Township and the probable effect thereof.
+2. Petition and Fee
 
-(2) Which areas, land uses, buildings, and establishments in the
-Township will be directly affected by such change and in what
-way they will be affected;
+   Each petition for a zoning amendment shall be accompanied by a fee as set by separate resolution of the Fayette Township Board of Supervisors upon the filing of such a petition. No fee shall be required for petition filed in favor of or against a pending application.
+3. Referral to County Planning Commission
 
-(3) The indirect implications of such change in its effect on other
-regulations; and
+   At least thirty (30) days prior to the hearing on the amendment to this Ordinance by the Township Supervisors, the Township Planning Commission shall submit the proposed ordinance and amendment to the Juniata County Planning Commission. The County Planning Commission shall report to the Supervisors in writing its advisory opinion on said amendment within thirty (30) days. Failure of the County Planning Commission to report to the Supervisors within the prescribed time period shall constitute a favorable opinion on said amendment by the County.
+4. Publication Advertisement and Availability of Proposed Amendments
+   - **A.** Proposed zoning amendments shall not be enacted unless notice of proposed enactment is given in the manner set forth in this section, and shall include the time and place of the meeting at which passage will be considered, a reference to a place within the Township where copies of the proposed amendment may be examined without charge or obtained for a charge not greater than the cost thereof. The Board of Supervisors shall publish the proposed amendment once in one newspaper of general circulation in the Township not more than 60 days or less than 7 days prior to passage. Publications of the proposed amendment shall include either the full text thereof or the title and a brief summary, prepared by the municipal solicitor and setting forth all the provisions in reasonable detail. If the full text is not included:
+     - **(1)** A copy thereof shall be supplied to a newspaper of general circulation in the Township at the time the public notice is published.
+     - **(2)** An attested copy of the proposed amendment shall be filed in the County Law Library or other County Office designated by the County Commissioners, who may impose a fee no greater than that necessary to cover the actual costs of storing said ordinances.
+   - **B.** In the event substantial amendments are made in the proposed amendment, before voting upon enactment, the governing body shall, at least ten days prior to enactment, readvertise, in one newspaper of general circulation in the Township, a brief summary setting forth all the provisions in reasonable detail together with a summary of the amendments.
+   - **C.** Zoning amendments may be incorporated into official ordinance books by reference with the same force and effect as if duly recorded therein.
+5. Supervisor's Action
 
-(4) | Whether such proposed amendment is consistent with the aims of
-the Comprehensive Plan of the Township.
-
-B. Concerning a proposed amendment involving a change in the Zoning
-
-Map:
-
-(69) Whether the uses permitted by the proposed change would be
-appropriate in the area concerned;
-
-(2) Whether adequate public school facilities and other public
-services exist or can be created to serve the needs of any
-additional residences likely to be constructed as a result of such
-changes;
-
-(3) | Whether the proposed change is in accord with any existing or
-proposed plans in the vicinity;
-
-(4) The effect of the proposed amendment upon the growth of the
-Township as envisaged by the Comprehensive Plan; and
-
-(5) | Whether the proposed amendment is likely to result in an increase
-
-or decrease in the total zoned residential capacity of the Township
-and the probable effect thereof.
-
-Petition and Fee
-
-Each petition for a zoning amendment shall be accompanied by a fee as set by
-separate resolution of the Fayette Township Board of Supervisors upon the filing
-of such a petition. No fee shall be required for petition filed in favor of or
-against a pending application.
-
-Referral to County Planning Commission
-
-At least thirty (30) days prior to the hearing on the amendment to this Ordinance
-by the Township Supervisors, the Township Planning Commission shall submit
-the proposed ordinance and amendment to the Juniata County Planning
-
-Commission. The County Planning Commission shall report to the Supervisors
-in writing its advisory opinion on said amendment within thirty (30) days.
-Failure of the County Planning Commission to report to the Supervisors within
-the prescribed time period shall constitute a favorable opinion on said
-amendment by the County.
-
-Publication Advertisement and Availability of Proposed Amendments
-
-A.
-
-Proposed zoning amendments shall not be enacted unless notice of
-proposed enactment is given in the manner set forth in this section, and
-shall include the time and place of the meeting at which passage will be
-considered, a reference to a place within the Township where copies of
-the proposed amendment may be examined without charge or obtained
-for a charge not greater than the cost thereof. The Board of Supervisors
-shall publish the proposed amendment once in one newspaper of general
-circulation in the Township not more than 60 days or less than 7 days
-prior to passage. Publications of the proposed amendment shall include
-either the full text thereof or the title and a brief summary, prepared by
-the municipal solicitor and setting forth all the provisions in reasonable
-detail. If the full text is not included:
-
-68) A copy thereof shall be supplied to a newspaper of general
-circulation in the Township at the time the public notice is
-published.
-
-(2) An attested copy of the proposed amendment shall be filed in the
-County Law Library or other County Office designated by the
-County Commissioners, who may impose a fee no greater than
-that necessary to cover the actual costs of storing said ordinances.
-
-In the event substantial amendments are made in the proposed
-amendment, before voting upon enactment, the governing body shall, at
-least ten days prior to enactment, readvertise, in one newspaper of
-general circulation in the Township, a brief summary setting forth all the
-provisions in reasonable detail together with a summary of the
-amendments.
-
-Zoning amendments may be incorporated into official ordinance books
-by reference with the same force and effect as if duly recorded therein.
-
-5:
-
-Supervisor’s Action
-
-The Township Supervisors shall act to approve or disapprove said amendment
-within forty-five (45) days after the date of said public hearing.
+   The Township Supervisors shall act to approve or disapprove said amendment within forty-five (45) days after the date of said public hearing.
 
 <a id="section-1410"></a>
 ### Section 1410 - Non-conforming Uses and Structures
 
-Ii
-
-The Zoning Officer shall identify and register all uses which are in conflict with
-the use designated for the zone in which they are situated.
-
-Continuation:
-
-A. Any lawful use of a structure or land existing at the effective date of this
-Ordinance, may be continued although such use does not conform to the
-provisions of this Ordinance.
-
-Extensions:
+1. The Zoning Officer shall identify and register all uses which are in conflict with the use designated for the zone in which they are situated.
+2. Continuation:
+   - **A.** Any lawful use of a structure or land existing at the effective date of this Ordinance, may be continued although such use does not conform to the provisions of this Ordinance.
+3. Extensions:
 
 A non-conforming use shall not be extended either within a building or upon a
 lot in any manner without authorization as a conditional use. The Board of
@@ -5038,271 +3299,68 @@ Supervisors may not waive district regulations relating to yard, coverage,
 parking, sign and other applicable regulations. The Board of Supervisors may
 authorize the expansion up to fifty (50) percent of floor area of non-conforming
 building or structure.
-
-Non-conforming Lots of Record:
-
-A. In any district, in which single-family houses are permitted, a single-
-family house and customary accessory buildings may be erected on any
-lot of record in existence at the effective date of the Ordinance.
-Consideration shall be given by the Board of Supervisors as to the
-desirability and feasibility of re-subdividing the area when two or more
-conforming lots have contiguous frontage and area in single ownership.
-
-B. This provision shall apply even though such lot fails to meet
-
-requirements of side, front or rear yards or the minimum lot area
-requirements applicable in the District in which the lot is located.
-
-Restoration:
-
-A.
-
-A non-conforming structure that has been damaged or destroyed by fire,
-windstorm, lighting or a similar cause deemed to be no fault of the
-owner may be rebuilt. Request for a building permit must be submitted
-within three (3) years from the date of damage or destruction or the non-
-conforming use shall not be restored.
-
-No rebuilding shall be undertaken as provided herein until plans for
-rebuilding have been presented and approved by the Zoning Officer.
-Approval shall be for the same use or for a use of more restricted
-classification.
-
-Restoration regulations shall not apply to active non-conforming
-agricultural buildings and active farms which may be restored by right.
-
-Changes:
-
-A.
-
-A non-conforming use of a building or land may be changed to a use of
-an equal or more restricted classification when authorized as a
-conditional use by the Board of Supervisors.
-
-Abandonment:
-
-A.
-
-B.
-
-A non-conforming use of a building or land ceases for a period of one
-(1) year or more, subsequent use of such building or land shall be in
-conformity with the provisions of this Ordinance.
-
-Abandonment regulations shall not apply to agricultural uses.
-
-Building Permits:
-
-A.
-
-In a case where a building permit has been issued prior to the effective
-date of this Ordinance, and the proposed use of land and/or building does
-not conform with this Ordinance, said proposed use shall be regulated by
-the non-conforming use requirements of this Ordinance and shall be
-considered the same as a lawful non-conforming use if construction other
-than excavation and foundations is undertaken within a period of thirty
-(30) calendar days after the issuance date of said building permit and
-construction thereof is complete within twelve (12) calendar months from
-the issuance date of the building permit.
-
+4. Non-conforming Lots of Record:
+   - **A.** In any district, in which single-family houses are permitted, a single-family house and customary accessory buildings may be erected on any lot of record in existence at the effective date of the Ordinance. Consideration shall be given by the Board of Supervisors as to the desirability and feasibility of re-subdividing the area when two or more conforming lots have contiguous frontage and area in single ownership.
+   - **B.** This provision shall apply even though such lot fails to meet requirements of side, front or rear yards or the minimum lot area requirements applicable in the District in which the lot is located.
+5. Restoration:
+   - **A.** A non-conforming structure that has been damaged or destroyed by fire, windstorm, lighting or a similar cause deemed to be no fault of the owner may be rebuilt. Request for a building permit must be submitted within three (3) years from the date of damage or destruction or the non-conforming use shall not be restored.
+   - **B.** No rebuilding shall be undertaken as provided herein until plans for rebuilding have been presented and approved by the Zoning Officer. Approval shall be for the same use or for a use of more restricted classification.
+   - **C.** Restoration regulations shall not apply to active non-conforming agricultural buildings and active farms which may be restored by right.
+6. Changes:
+   - **A.** A non-conforming use of a building or land may be changed to a use of an equal or more restricted classification when authorized as a conditional use by the Board of Supervisors.
+7. Abandonment:
+   - **A.** A non-conforming use of a building or land ceases for a period of one (1) year or more, subsequent use of such building or land shall be in conformity with the provisions of this Ordinance.
+   - **B.** Abandonment regulations shall not apply to agricultural uses.
+8. Building Permits:
+   - **A.** In a case where a building permit has been issued prior to the effective date of this Ordinance, and the proposed use of land and/or building does not conform with this Ordinance, said proposed use shall be regulated by the non-conforming use requirements of this Ordinance and shall be considered the same as a lawful non-conforming use if construction other than excavation and foundations is undertaken within a period of thirty (30) calendar days after the issuance date of said building permit and construction thereof is complete within twelve (12) calendar months from the issuance date of the building permit.
 9. Non-conforming Use of Open Land:
-
-A.
-
-All non-conforming signs, billboards, junk storage areas, storage areas,
-and similar non-conforming use of open land, when discontinued for a
-period of ninety (90) days or damaged to an extent of sixty percent
-(60%) or more of replacement costs, shall be continued, repaired or
-reconstructed.
+   - **A.** All non-conforming signs, billboards, junk storage areas, storage areas, and similar non-conforming use of open land, when discontinued for a period of ninety (90) days or damaged to an extent of sixty percent (60%) or more of replacement costs, shall be continued, repaired or reconstructed.
 
 <a id="section-1411"></a>
 ### Section 1411 - Conditional Uses
 
 1. Procedure and Standards
-
-A.
-
-An application for a conditional use shall be submitted to the Board of
-Supervisors.
-
-The application shall be accompanied by a plan for the proposed use.
-Such plan shall indicate the location and specification of all buildings,
-parking areas, traffic access and circulation drives, open spaces,
-landscaping, storm drainage facilities and sewage treatment facilities. In
-addition the plan shall show tax map designations and total tract
-boundaries of the property including bearings, distances and a statement
-of the total acreage, name and address of all abutting property owners
-and zoning data of surrounding properties. The plan shall also contain
-any other information that the Board of Supervisors, at its discretion,
-may require in order to determine if the proposed conditional use meets
-the provisions of this ordinance.
-
-Upon receiving an application for a conditional use permit, the Board of
-Supervisors shall review the application in conjunction with the standards
-set forth in paragraph 1411.D of the section. After due investigation and
-review, if the application is tentatively approved, a public hearing shall
-be authorized and conducted in the following manner:
-
-is The Board of Supervisors shall hold a public hearing on the
-application within sixty (60) days after its receipt.
-
-Written notice of the hearing shall be given to the applicant and
-to all abutting property owners of the proposed. conditional use.
-A notice of the hearing shall be published twice, the first notice
-appearing not more than thirty (30) days and not less than
-fourteen (14) days before the hearing, in a newspaper of general
-circulation in’ the municipality. All notices shall be the
-applicant’s expense.
-
-Within thirty (30) days after the public hearing, the conditional
-use permit shall be granted or denied. In granting the conditional
-permit, the Board of Supervisors shall be authorized to permit the
-use applied for subject to such reasonable conditions as it may
-impose. These conditions may contain such requirements for
-improving, maintaining, operating, and screening the conditional
-use as will protect character of the surrounding property.
-
-D. The following standards shall be applicable to conditional uses and
-special exception uses:
-
-1.
-
-The location and size of the use, the nature and intensity of
-operations involved and the size of the site in relation to it shall
-be in harmony with the orderly development of the District. The
-location, nature, and height of buildings, walls, and fence shall be
-such as will not discourage the permitted use of adjacent land and
-buildings.
-
-No conditional use (or special exception use) shall be more
-objectionable to nearby properties by reason of traffic, parking,
-noise, fumes, vibration, or lights than any other use allowable in
-the District.
-
-The principal and accessory buildings shall meet all area and bulk
-coverage, setback, height, and off-street parking, loading and
-unloading, sign and any other regulations applicable to the
-District or use including supplementary regulations.
-
-Each proposed use shall plan for sufficient safeguards such as
-traffic control, storm drainage, screening, setbacks, lighting, etc.
-so as to remove any potential adverse effects the use may have on
-adjoining uses.
-
-3: Each proposed use shall provide for sewage treatment facilities
-which meet or exceed specifications established by the
-Pennsylvania Department of Environmental Resources and submit
-to the municipality evidence of approval from that agency of such
-a facility and system.
-
-E; The Board of Supervisors may request an advisory report from the
-Planning Commission. No decision will be made until the report from
-the Planning Commission is received or until the Planning Commission
-has had such request for thirty (30) days. In the event that the Planning
-Commission fails to file its report within thirty (30) days, such
-application shall be deemed to be approved by the Planning Commission.
-
-F, The Board of Supervisors shall notify the applicant for a conditional use
-in writing of their decision and how the decision was arrived at not more
-than ninety (90) days after the acceptance of the application.
-
-G. A conditional use permit shall be issued upon approval of the Board of
-Supervisors stating the conditions upon which the permit was issued.
-
-H. A conditional use for which a permit is granted by the Board of
-Supervisors pursuant to the provisions of this Ordinance, shall be
-construed a conforming use.
+   - **A.** An application for a conditional use shall be submitted to the Board of Supervisors.
+   - **B.** The application shall be accompanied by a plan for the proposed use. Such plan shall indicate the location and specification of all buildings, parking areas, traffic access and circulation drives, open spaces, landscaping, storm drainage facilities and sewage treatment facilities. In addition the plan shall show tax map designations and total tract boundaries of the property including bearings, distances and a statement of the total acreage, name and address of all abutting property owners and zoning data of surrounding properties. The plan shall also contain any other information that the Board of Supervisors, at its discretion, may require in order to determine if the proposed conditional use meets the provisions of this ordinance.
+   - **C.** Upon receiving an application for a conditional use permit, the Board of Supervisors shall review the application in conjunction with the standards set forth in paragraph 1411.D of the section. After due investigation and review, if the application is tentatively approved, a public hearing shall be authorized and conducted in the following manner:
+     - **(1)** The Board of Supervisors shall hold a public hearing on the application within sixty (60) days after its receipt.
+     - **(2)** Written notice of the hearing shall be given to the applicant and to all abutting property owners of the proposed conditional use. A notice of the hearing shall be published twice, the first notice appearing not more than thirty (30) days and not less than fourteen (14) days before the hearing, in a newspaper of general circulation in the municipality. All notices shall be the applicant's expense.
+     - **(3)** Within thirty (30) days after the public hearing, the conditional use permit shall be granted or denied. In granting the conditional permit, the Board of Supervisors shall be authorized to permit the use applied for subject to such reasonable conditions as it may impose. These conditions may contain such requirements for improving, maintaining, operating, and screening the conditional use as will protect character of the surrounding property.
+   - **D.** The following standards shall be applicable to conditional uses and special exception uses:
+     - **(1)** The location and size of the use, the nature and intensity of operations involved and the size of the site in relation to it shall be in harmony with the orderly development of the District. The location, nature, and height of buildings, walls, and fence shall be such as will not discourage the permitted use of adjacent land and buildings.
+     - **(2)** No conditional use (or special exception use) shall be more objectionable to nearby properties by reason of traffic, parking, noise, fumes, vibration, or lights than any other use allowable in the District.
+     - **(3)** The principal and accessory buildings shall meet all area and bulk coverage, setback, height, and off-street parking, loading and unloading, sign and any other regulations applicable to the District or use including supplementary regulations.
+     - **(4)** Each proposed use shall plan for sufficient safeguards such as traffic control, storm drainage, screening, setbacks, lighting, etc. so as to remove any potential adverse effects the use may have on adjoining uses.
+     - **(5)** Each proposed use shall provide for sewage treatment facilities which meet or exceed specifications established by the Pennsylvania Department of Environmental Resources and submit to the municipality evidence of approval from that agency of such a facility and system.
+   - **E.** The Board of Supervisors may request an advisory report from the Planning Commission. No decision will be made until the report from the Planning Commission is received or until the Planning Commission has had such request for thirty (30) days. In the event that the Planning Commission fails to file its report within thirty (30) days, such application shall be deemed to be approved by the Planning Commission.
+   - **F.** The Board of Supervisors shall notify the applicant for a conditional use in writing of their decision and how the decision was arrived at not more than ninety (90) days after the acceptance of the application.
+   - **G.** A conditional use permit shall be issued upon approval of the Board of Supervisors stating the conditions upon which the permit was issued.
+   - **H.** A conditional use for which a permit is granted by the Board of Supervisors pursuant to the provisions of this Ordinance, shall be construed a conforming use.
 
 <a id="section-1412"></a>
 ### Section 1412 - Special Exception Uses
 
-1.
+1. Uses specified as special exception within zoning districts of this Ordinance shall be permitted only after approval by the Zoning Hearing Board. Criteria to be used as guidelines in evaluating a proposed special exception shall be the same as described in [Section 1411](#section-1411).D of this Ordinance. In granting a special exception, the Zoning Hearing Board shall require all regulations of the District in which the special exception is proposed to be satisfied, if feasible. The proposed special exception shall be appropriate to the specific location and neighborhood for which it is proposed, consistent with the community development plan, and in keeping with the purposed and intent of this Ordinance.
+2. The Zoning Hearing Board's decision to grant a permit for a special exception use shall be made only after public notification of a hearing as established in [Section 1408](#section-1408).
+3. At the discretion of the Zoning Hearing Board, an advisory report may be requested from the Planning Commission in which case no decision will be made until the report from the Planning Commission is received or until the Planning Commission has had such request for thirty (30) days. In the event that the Planning Commission fails to the file its report within thirty (30) days, such application shall be deemed to be approved by the Planning Commission.
+4. The Zoning Hearing Board shall notify the applicant for a special exception use in writing of their decision and how the decision was arrived at not more than ninety (90) days after the acceptance of the application.
+5. A special exception use permit shall be issued upon approval of the Zoning Hearing Board stating the conditions upon which the permit was issued.
 
-Uses specified as special exception within zoning districts of this Ordinance
-shall be permitted only after approval by the Zoning Hearing Board. Criteria to
-be used as guidelines in evaluating a proposed special exception shall be the
-same as described in Section 1411.D of this Ordinance. In granting a special
-exception, the Zoning Hearing Board shall require all regulations of the District
-in which the special exception is proposed to be satisfied, if feasible. The
-proposed special exception shall be appropriate to the specific location and
-neighborhood for which it is proposed, consistent with the community
-development plan, and in keeping with the purposed and intent of this
-Ordinance.
-
-The Zoning Hearing Board’s decision to grant a permit for a special exception
-
-use hall be made only after public notification of a hearing as established in
-Sectin1408.
-
-At the discretion of the Zoning Hearing Board, an advisory report may be
-requested from the Planning Commission in which case no decision will be
-made until the report from the Planning Commission is received or until the
-Planning Commission has had such request for thirty (30) days. In the event
-that the Planning Commission fails to the file its report within thirty (30) days,
-such application shall be deemed to be approved by the Planning Commission.
-
-The Zoning Hearing Board shall notify the applicant for a special exception use
-in writing of their decision and how the decision was arrived at not more than
-ninety (90) days after the acceptance of the application.
-
-A special exception use permit shall be issued upon approval of the Zoning
-Hearing Board stating the conditions upon which the permit was issued.
-
-A special exception permit shall be deemed to authorized only one particular use
-and shall expire if the conditional use shall cease for more than six (6) months
-for any reasons.
-
-A special exception use, for which a permit is granted by the Zoning Hearing
-Board pursuant to the provisions of this Ordinance, shall be construed a
-conforming use.
+   A special exception permit shall be deemed to authorized only one particular use and shall expire if the conditional use shall cease for more than six (6) months for any reasons.
+6. A special exception use, for which a permit is granted by the Zoning Hearing Board pursuant to the provisions of this Ordinance, shall be construed a conforming use.
 
 <a id="section-1413"></a>
 ### Section 1413 - Validity
 
-1.
-
-Severance: If any article, section, subsection, provision, regulation, limitation,
-restriction, sentence, clause, phrase, or word in the Zoning Ordinance is, for
-any reason, declared to be illegal, unconstitutional or invalid, by any Court of
-Competent Jurisdiction, such decision shall not affect or impair the validity of
-the Zoning Ordinance as a whole, or any other article, section, subsection,
-provision, regulation, limitation, restriction, sentence, clause, phrase, word or
-remaining portion of the Zoning Ordinance. The Board of Supervisors of the
-Township of Fayette, Juniata County, Pennsylvania, hereby declares that it
-would have adopted the Zoning Ordinance and each article, section, subsection,
-provision regulation, limitation, restriction, sentence, clause, phrase and word
-thereof, irrespective of the fact that any one or more of the sections,
-subsections, provisions, regulations, limitations, restrictions, sentences, clauses,
-phrases, or words may be declared illegal, unconstitutional or invalid.
+1. Severance: If any article, section, subsection, provision, regulation, limitation, restriction, sentence, clause, phrase, or word in the Zoning Ordinance is, for any reason, declared to be illegal, unconstitutional or invalid, by any Court of Competent Jurisdiction, such decision shall not affect or impair the validity of the Zoning Ordinance as a whole, or any other article, section, subsection, provision, regulation, limitation, restriction, sentence, clause, phrase, word or remaining portion of the Zoning Ordinance. The Board of Supervisors of the Township of Fayette, Juniata County, Pennsylvania, hereby declares that it would have adopted the Zoning Ordinance and each article, section, subsection, provision regulation, limitation, restriction, sentence, clause, phrase and word thereof, irrespective of the fact that any one or more of the sections, subsections, provisions, regulations, limitations, restrictions, sentences, clauses, phrases, or words may be declared illegal, unconstitutional or invalid.
 
 <a id="section-1414"></a>
 ### Section 1414 - Repealer
 
-1 Inconsistent Ordinances: Any resolution, ordinance, or part of any ordinance or
-resolution inconsistent herewith and any amendment thereof are hereby
-expressly repealed to the extent necessary to give this ordinance full force and
-effect, specifically Ordinance No. 94-1,
+1. Inconsistent Ordinances: Any resolution, ordinance, or part of any ordinance or resolution inconsistent herewith and any amendment thereof are hereby expressly repealed to the extent necessary to give this ordinance full force and effect, specifically Ordinance No. 94-1.
 
 <a id="section-1415"></a>
 ### Section 1415 - Adoption
 
-Ordinance No# 000 shonted by the Board of Supervisors of Fayette Township, Juniata County,
-Pennsylvania, into an Ordinance this/3" day of ewer , 2000.
-
-BOARD OF SUPERVISORS
-FAYETTE TOWNSHIP
-JUNIATA COUNTY, PENNSYLVANIA.
-
-BY: RarelX Meebo
-
-Chairman
-
-BY:
-
-Vice-Chairman
-
-BY: Rabpk AL Yeent
-
-ATTEST: [LYLE Lath
-Seéretary
+*The original scan of the signature/adoption page is heavily degraded (faded ink, handwritten signatures), so the OCR text for this page is not reliably legible. The Ordinance was adopted by the Board of Supervisors of Fayette Township, Juniata County, Pennsylvania, in 2000, and signed by the Board of Supervisors (Chairman, Vice-Chairman, and Secretary attestation) on the original document.*
 
