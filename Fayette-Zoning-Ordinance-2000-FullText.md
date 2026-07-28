@@ -35,8 +35,7 @@ Fayette Township, Juniata County
 
 ORDINANCE NO. 2000-1
 
-THE FAYETTE TOWNSHIP ZONING ORDINANCE
-OF 2000
+THE FAYETTE TOWNSHIP ZONING ORDINANCE OF 2000
 
 <a id="article-i"></a>
 ## Article I — General Provisions
@@ -44,117 +43,55 @@ OF 2000
 <a id="section-101"></a>
 ### Section 101 - Title
 
-AN AMENDED ORDINANCE PERMITTING, PROHIBITING, REGULATING,
-RESTRICTING, AND DETERMINING THE USES OF LAND, WATERCOURSES,
-AND OTHER BODIES OF WATER; THE SIZE, HEIGHT, BULK, LOCATION,
-ERECTION, CONSTRUCTION, REPAIR, MAINTENANCE, ALTERATION,
-RAZING, REMOVAL AND USE OF STRUCTURES; THE AREAS AND
-DIMENSIONS OF LAND AND BODIES OF WATER TO BE OCCUPIED BY USES
-AND STRUCTURES AS WELL AS COURTS, YARDS, AND OTHER OPEN
-SPACES AND DISTANCES TO BE LEFT UNOCCUPIED BY USES AND
-STRUCTURES; THE DENSITY OF POPULATION AND INTENSITY OF USE;
-THE LOCATION AND SIZE OF SIGNS; CREATING ZONING DISTRICTS AND
-ESTABLISHING THE BOUNDARIES THEREOF; CREATING THE OFFICE OF
-ZONING OFFICERS; CREATING A ZONING HEARING BOARD; AND
-PROVIDING FOR THE ADMINISTRATION, AMENDMENT, AND
-ENFORCEMENT OF THE ORDINANCE, INCLUDING THE IMPOSITION OF
-PENALTIES.
+AN AMENDED ORDINANCE PERMITTING, PROHIBITING, REGULATING, RESTRICTING, AND DETERMINING THE USES OF LAND, WATERCOURSES, AND OTHER BODIES OF WATER; THE SIZE, HEIGHT, BULK, LOCATION, ERECTION, CONSTRUCTION, REPAIR, MAINTENANCE, ALTERATION, RAZING, REMOVAL AND USE OF STRUCTURES; THE AREAS AND DIMENSIONS OF LAND AND BODIES OF WATER TO BE OCCUPIED BY USES AND STRUCTURES AS WELL AS COURTS, YARDS, AND OTHER OPEN SPACES AND DISTANCES TO BE LEFT UNOCCUPIED BY USES AND STRUCTURES; THE DENSITY OF POPULATION AND INTENSITY OF USE; THE LOCATION AND SIZE OF SIGNS; CREATING ZONING DISTRICTS AND ESTABLISHING THE BOUNDARIES THEREOF; CREATING THE OFFICE OF ZONING OFFICERS; CREATING A ZONING HEARING BOARD; AND PROVIDING FOR THE ADMINISTRATION, AMENDMENT, AND ENFORCEMENT OF THE ORDINANCE, INCLUDING THE IMPOSITION OF PENALTIES.
 
 ORDAINING CLAUSE
 
-BE IT HEREBY ORDAINED AND ENACTED by the Board of Supervisors of the Township
-of Fayette, County of Juniata, by authority of an pursuant to the provisions of Article VI
-through X of Act No. 170 of the General Assembly of the Commonwealth of Pennsylvania,
-approved December 21, 1988, known and cited as the “Pennsylvania Municipalities Planning
-Code,” and any amendments and supplements thereto, as follows:
+BE IT HEREBY ORDAINED AND ENACTED by the Board of Supervisors of the Township of Fayette, County of Juniata, by authority of an pursuant to the provisions of Article VI through X of Act No. 170 of the General Assembly of the Commonwealth of Pennsylvania, approved December 21, 1988, known and cited as the “Pennsylvania Municipalities Planning Code,” and any amendments and supplements thereto, as follows:
 
 <a id="section-102"></a>
 ### Section 102 - Short Title
 
-This Ordinance shall be known and may be cited as the “Fayette Township Zoning
-Ordinance of 2000.”
+This Ordinance shall be known and may be cited as the “Fayette Township Zoning Ordinance of 2000.”
 
 <a id="section-103"></a>
 ### Section 103 - Purpose
 
-This revised Zoning Ordinance has been prepared and amended in accordance with the
-Fayette Township Comprehensive Development Plan of 1993, with consideration for the
-character of the municipality, its various parts, and the suitability of the various parts for the
-particular uses and structures, and is enacted for the following purposes:
+This revised Zoning Ordinance has been prepared and amended in accordance with the Fayette Township Comprehensive Development Plan of 1993, with consideration for the character of the municipality, its various parts, and the suitability of the various parts for the particular uses and structures, and is enacted for the following purposes:
 
-1. To promote, protect, and facilitate one or more of the following: The public health,
-safety, morals, general welfare, coordinated and practical community development,
-proper density of population, civil defense, disaster evacuation, airports, and
-national defense facilities, the provisions of adequate light and air, police
-protection, vehicle parking and loading space, transportation, water sewerage,
-schools, public grounds and other public requirements, as well as
+1. To promote, protect, and facilitate one or more of the following: The public health, safety, morals, general welfare, coordinated and practical community development, proper density of population, civil defense, disaster evacuation, airports, and national defense facilities, the provisions of adequate light and air, police protection, vehicle parking and loading space, transportation, water sewerage, schools, public grounds and other public requirements, as well as
 
-2. To prevent one or more of the following: Overcrowding of land, blight, danger and
-congestion in travel and transportation, loss of health, life of property from fire,
-flood, panic or other dangers.
+2. To prevent one or more of the following: Overcrowding of land, blight, danger and congestion in travel and transportation, loss of health, life of property from fire, flood, panic or other dangers.
 
 <a id="section-104"></a>
 ### Section 104 - Zoning Hearing Board
 
-In accordance with Article IX of the Act of December 21, 1988, P.L. 1329, No. 170,
-as amended, known as the Pennsylvania Municipalities Planning Code of the Commonwealth
-of Pennsylvania, a Zoning Hearing Board is hereby created and shall have the number of
-members and such powers and authority as set forth in said Act and this Ordinance. The duly
-established Zoning Hearing Board may, from time to time, be herein referred to as the Board
-and unless otherwise clearly indicated, the term “Board” shall refer to such Zoning Hearing
-Board.
+In accordance with Article IX of the Act of December 21, 1988, P.L. 1329, No. 170, as amended, known as the Pennsylvania Municipalities Planning Code of the Commonwealth of Pennsylvania, a Zoning Hearing Board is hereby created and shall have the number of members and such powers and authority as set forth in said Act and this Ordinance. The duly established Zoning Hearing Board may, from time to time, be herein referred to as the Board and unless otherwise clearly indicated, the term “Board” shall refer to such Zoning Hearing Board.
 
 <a id="section-105"></a>
 ### Section 105 - Interpretation and Conflict
 
-In interpreting and applying the provisions of this Ordinance, they shall be held to be
-the minimum requirements for the promotion of health, safety, morals, and the general welfare
-of the Township and its citizens. It is not intended by this Ordinance to interfere with or
-abrogate or annul any rules or regulations previously adopted or permits previously issued by
-the Township which are not in conflict with any provisions of this Ordinance, nor is it intended
-by this Ordinance to interfere with or abrogate or annul easements, covenants, building
-restrictions, or other agreements between parties; provided, however, that where this
-Ordinance imposes a greater restriction upon the use of the buildings or premises or upon the
-height of the building, or requires a larger open space than is imposed or required by such
-ordinance, rules, regulations or permits, or by easements, covenants, building restrictions or
-
-agreements, the provisions of this Ordinance shall control. Furthermore, if a discrepancy
-exists between any regulations contained within this ordinance, that regulation which imposes
-the greater restriction shall apply.
+In interpreting and applying the provisions of this Ordinance, they shall be held to be the minimum requirements for the promotion of health, safety, morals, and the general welfare of the Township and its citizens. It is not intended by this Ordinance to interfere with or abrogate or annul any rules or regulations previously adopted or permits previously issued by the Township which are not in conflict with any provisions of this Ordinance, nor is it intended by this Ordinance to interfere with or abrogate or annul easements, covenants, building restrictions, or other agreements between parties; provided, however, that where this Ordinance imposes a greater restriction upon the use of the buildings or premises or upon the height of the building, or requires a larger open space than is imposed or required by such ordinance, rules, regulations or permits, or by easements, covenants, building restrictions or agreements, the provisions of this Ordinance shall control. Furthermore, if a discrepancy exists between any regulations contained within this ordinance, that regulation which imposes the greater restriction shall apply.
 
 <a id="section-106"></a>
 ### Section 106 - Uses Not Provided For
 
-Whenever, in any District established under this Ordinance, a use is neither specifically
-permitted or denied and an application is made by a property owner to the Zoning Officer for
-such use, the Zoning Officer shall refer the application to the Board of Supervisors or the
-Zoning Hearing Board, which ever has jurisdiction, which shall have the authority to permit
-the use or deny the use. The use may be permitted if it is similar to and compatible with
-permitted uses in the district and in no way is in conflict with the general purpose and intent of
-this Ordinance. The burden of proof shall be upon the applicant to demonstrate that the
-proposed use meets the foregoing criteria and would not be detrimental to the public health,
-safety and welfare of the neighborhood.
+Whenever, in any District established under this Ordinance, a use is neither specifically permitted or denied and an application is made by a property owner to the Zoning Officer for such use, the Zoning Officer shall refer the application to the Board of Supervisors or the Zoning Hearing Board, which ever has jurisdiction, which shall have the authority to permit the use or deny the use. The use may be permitted if it is similar to and compatible with permitted uses in the district and in no way is in conflict with the general purpose and intent of this Ordinance. The burden of proof shall be upon the applicant to demonstrate that the proposed use meets the foregoing criteria and would not be detrimental to the public health, safety and welfare of the neighborhood.
 
 <a id="section-107"></a>
 ### Section 107 - Community Goals and Objectives
 
-This amended Zoning Ordinance is enacted as part of the overall plan for the orderly
-growth and development of Fayette Township. As such, this Ordinance is based upon the
-expressed or implied community development goals and objectives as contained in the Fayette
-Township Comprehensive Plan of 1993, as amended.
+This amended Zoning Ordinance is enacted as part of the overall plan for the orderly growth and development of Fayette Township. As such, this Ordinance is based upon the expressed or implied community development goals and objectives as contained in the Fayette Township Comprehensive Plan of 1993, as amended.
 
 <a id="section-108"></a>
 ### Section 108 - Validity
 
-Should any section or provision of this ordinance be declared by a court of competent
-jurisdiction to be invalid, such decision shall not affect the validity of this ordinance as a whole
-or of any other part thereof.
+Should any section or provision of this ordinance be declared by a court of competent jurisdiction to be invalid, such decision shall not affect the validity of this ordinance as a whole or of any other part thereof.
 
 <a id="section-109"></a>
 ### Section 109 - Establishment of Zones
 
-For the purpose of this amended Ordinance, Fayette Township is still divided into
-previously established zones, which are designated as follows:
+For the purpose of this amended Ordinance, Fayette Township is still divided into previously established zones, which are designated as follows:
 
 Rural Agricultural District (RA)
 
@@ -171,19 +108,12 @@ Floodplain District (FP)
 <a id="section-110"></a>
 ### Section 110 - Zoning Map
 
-The areas within Fayette Township, as assigned to each zone and the location of the
-zones established by this Ordinance, are shown upon the Zoning Map, which together with all
-explanatory matter thereon, is attached to and is declared to be a part of this Ordinance.
+The areas within Fayette Township, as assigned to each zone and the location of the zones established by this Ordinance, are shown upon the Zoning Map, which together with all explanatory matter thereon, is attached to and is declared to be a part of this Ordinance.
 
 <a id="section-111"></a>
 ### Section 111 - Zone Boundary Lines
 
-The zone boundary lines shall be as shown on the Zoning Map. Zone boundary lines
-are intended to coincide with lot lines; centerlines of streets, alleys, railroad rights-of-way, and
-streams at time of passage of this Ordinance; the corporate boundary of the Township; or as
-dimensioned on the map. In the event of dispute about the location of the boundary of any
-zone, the Zoning Officer shall investigate and render a decision on the location of the line.
-Appeals from this decision shall be made to the Zoning Hearing Board.
+The zone boundary lines shall be as shown on the Zoning Map. Zone boundary lines are intended to coincide with lot lines; centerlines of streets, alleys, railroad rights-of-way, and streams at time of passage of this Ordinance; the corporate boundary of the Township; or as dimensioned on the map. In the event of dispute about the location of the boundary of any zone, the Zoning Officer shall investigate and render a decision on the location of the line. Appeals from this decision shall be made to the Zoning Hearing Board.
 
 <a id="article-ii"></a>
 ## Article II — Glossary of Zoning Terms
@@ -191,13 +121,9 @@ Appeals from this decision shall be made to the Zoning Hearing Board.
 <a id="section-201"></a>
 ### Section 201 - Application and Interpretation
 
-It is not intended that this Glossary include only words used or referred to in this
-Ordinance. The words are included in order to facilitate the interpretation of the Ordinance for
-administrative purposes and in the carrying out of duties by appropriate Township officers and
-by the Zoning Hearing Board.
+It is not intended that this Glossary include only words used or referred to in this Ordinance. The words are included in order to facilitate the interpretation of the Ordinance for administrative purposes and in the carrying out of duties by appropriate Township officers and by the Zoning Hearing Board.
 
-Unless otherwise expressly stated, the following shall, for the purpose of this
-Ordinance, have the meaning herein indicated:
+Unless otherwise expressly stated, the following shall, for the purpose of this Ordinance, have the meaning herein indicated:
 
 1. Words used in the past tense include the future tense.
 2. The singular includes the plural.
@@ -212,359 +138,182 @@ Ordinance, have the meaning herein indicated:
 <a id="section-202"></a>
 ### Section 202 - Definition of Terms
 
-For the purpose of this Ordinance, the following words, terms, and phrases have the
-meaning herein indicated:
+For the purpose of this Ordinance, the following words, terms, and phrases have the meaning herein indicated:
 
-Access Drive: An improved cartway designed and constructed to provide for vehicular
-movement between a street and more than four (4) dwelling units, or any other use or
-uses.
+<u>Access Drive</u>: An improved cartway designed and constructed to provide for vehicular movement between a street and more than four (4) dwelling units, or any other use or uses.
 
-Accessory Building: A detached, subordinate building, not used for habitation, which
-is customarily incidental and subordinate to that of the principal building, and is located
-on the same lot as the occupied by the principal building. Farm buildings not intended
-for human or animal habitation are considered to be accessory buildings.
+<u>Accessory Building</u>: A detached, subordinate building, not used for habitation, which is customarily incidental and subordinate to that of the principal building, and is located on the same lot as the occupied by the principal building. Farm buildings not intended for human or animal habitation are considered to be accessory buildings.
 
-Accessory Use: A use customarily incidental, subordinate to the principal use or
-building, and located on the same lot with such principal use of building.
+<u>Accessory Use</u>: A use customarily incidental, subordinate to the principal use or building, and located on the same lot with such principal use of building.
 
-ACT: The latest version of the Pennsylvania Municipalities Planning Code, as
-amended.
+<u>ACT</u>: The latest version of the Pennsylvania Municipalities Planning Code, as amended.
 
-Agribusiness: Activities including agriculture, distribution of farm equipment and
-supplies and the process, storage and distribution of farm commodities.
+<u>Agribusiness</u>: Activities including agriculture, distribution of farm equipment and supplies and the process, storage and distribution of farm commodities.
 
-Agriculture: The tilling of the soil, the raising of corps, forestry, horticultural and
-gardening, including the keeping or raising of livestock such as cattle, cows, hogs,
-horses, sheep, goats, poultry, rabbits, birds, fish, bees, and other similar animals. This
-definition also includes non-commercial greenhouses and mushroom houses.
+<u>Agriculture</u>: The tilling of the soil, the raising of corps, forestry, horticultural and gardening, including the keeping or raising of livestock such as cattle, cows, hogs, horses, sheep, goats, poultry, rabbits, birds, fish, bees, and other similar animals. This definition also includes non-commercial greenhouses and mushroom houses.
 
-Alley: A strip of land over which there is an existing right-of-way intended to provide
-vehicular access to the side and/or rear of those properties whose frontage is on a
-street. An alley is not intended for general traffic circulation.
+<u>Alley</u>: A strip of land over which there is an existing right-of-way intended to provide vehicular access to the side and/or rear of those properties whose frontage is on a street. An alley is not intended for general traffic circulation.
 
-Alterations: As applied to a building or structure, any change or rearrangement in the
-structural parts or an enlargement, whether by extending on a side or by increasing in
-height, or the moving from one location or position to another. An alteration does not
-include maintenance and repair.
+<u>Alterations</u>: As applied to a building or structure, any change or rearrangement in the structural parts or an enlargement, whether by extending on a side or by increasing in height, or the moving from one location or position to another. An alteration does not include maintenance and repair.
 
-Alterations, Structural: Any change in the supporting members of a building such as
-bearing walls, columns, beams, or girders.
+<u>Alterations, Structural</u>: Any change in the supporting members of a building such as bearing walls, columns, beams, or girders.
 
-Amendment: A change in use in any district which includes revisions to the zoning text
-and/or the official zoning map; and the authority for any amendment lies solely with the
-Township Board of Supervisors.
+<u>Amendment</u>: A change in use in any district which includes revisions to the zoning text and/or the official zoning map; and the authority for any amendment lies solely with the Township Board of Supervisors.
 
-Animal Hospital: A building or any establishment offering veterinary services used for
-the treatment, housing, or overnight boarding of small domestic animals such as dogs,
-cats, rabbits, and birds or fowls by a veterinarian.
+<u>Animal Hospital</u>: A building or any establishment offering veterinary services used for the treatment, housing, or overnight boarding of small domestic animals such as dogs, cats, rabbits, and birds or fowls by a veterinarian.
 
-Applicant: A landowner or developer, as hereinafter defined, who has filed an
-application for development, including his heirs, personal representatives, successors
-and assigns.
+<u>Applicant</u>: A landowner or developer, as hereinafter defined, who has filed an application for development, including his heirs, personal representatives, successors and assigns.
 
-Application for Development: Every application, whether preliminary or final,
-required to be filed and approved prior to the start of construction or development
-including, but not limited to, an application for a building permit, for the approval of a
-subdivision plot or plan, or for the approval of a development plan filed under the
-provisions of this Ordinance.
+<u>Application for Development</u>: Every application, whether preliminary or final, required to be filed and approved prior to the start of construction or development including, but not limited to, an application for a building permit, for the approval of a subdivision plot or plan, or for the approval of a development plan filed under the provisions of this Ordinance.
 
-Appropriate Public Uses: Uses not considered as cited permitted or conditional uses,
-but to be reviewed as conditional uses for the specific zoning district based on data
-submitted by an applicant.
+<u>Appropriate Public Uses</u>: Uses not considered as cited permitted or conditional uses, but to be reviewed as conditional uses for the specific zoning district based on data submitted by an applicant.
 
-Area, Building: The total of areas taken on a horizontal plane at the main grade level
-of the principal building and all accessory buildings, exclusive of uncovered porches,
-terraces, and steps.
+<u>Area, Building</u>: The total of areas taken on a horizontal plane at the main grade level of the principal building and all accessory buildings, exclusive of uncovered porches, terraces, and steps.
 
-Area, Lot: The total area within the lot lines, excluding any portion, which may be
-used or dedicated as a public or private street or alley.
+<u>Area, Lot</u>: The total area within the lot lines, excluding any portion, which may be used or dedicated as a public or private street or alley.
 
-Automobile: A self-propelled motor vehicle designed for the conveyance of persons or
-property requiring a registration plate by the Commonwealth of Pennsylvania for
-operation upon public highways; including a truck, motor home, motorcycle.
+<u>Automobile</u>: A self-propelled motor vehicle designed for the conveyance of persons or property requiring a registration plate by the Commonwealth of Pennsylvania for operation upon public highways; including a truck, motor home, motorcycle.
 
-Automobile Body Shop: A building on a lot that is used for the repair or painting of
-bodies, chassis, wheels, fenders, bumpers and/or accessories of automobiles and other
-vehicles for conveyance.
+<u>Automobile Body Shop</u>: A building on a lot that is used for the repair or painting of bodies, chassis, wheels, fenders, bumpers and/or accessories of automobiles and other vehicles for conveyance.
 
-Automobile Garage, Minor: An accessory building for the storage of one or more
-automobiles and/or other vehicles accessory and incidental to the primary use of the
-premise, provided that no business, occupation or service is conducted for profit therein
-nor space therein for more than one automobile is leased to a non-occupant of the
-premises.
+<u>Automobile Garage, Minor</u>: An accessory building for the storage of one or more automobiles and/or other vehicles accessory and incidental to the primary use of the premise, provided that no business, occupation or service is conducted for profit therein nor space therein for more than one automobile is leased to a non-occupant of the premises.
 
-Automobile Garage, Major: A building on a lot designed and/or used primarily for
-mechanical and/or body repairs, storage, rental servicing or supplying of gasoline or oil
-to automobiles, trucks, and similar motor vehicles.
+<u>Automobile Garage, Major</u>: A building on a lot designed and/or used primarily for mechanical and/or body repairs, storage, rental servicing or supplying of gasoline or oil to automobiles, trucks, and similar motor vehicles.
 
-Automobile and/or Trailer Sales Garage: A building on a lot designed and used for the
-display, sale or rental of new and used cars, trucks, campers, tractors, trailers, and
-snowmobiles where mechanical repairs and body work may be conducted as an
-accessory use incidental to the primary use.
+<u>Automobile and/or Trailer Sales Garage</u>: A building on a lot designed and used for the display, sale or rental of new and used cars, trucks, campers, tractors, trailers, and snowmobiles where mechanical repairs and body work may be conducted as an accessory use incidental to the primary use.
 
-Automobile, or Gasoline Services Station: A building on a lot or part thereof, that is
-used primarily for the retail sale of gasoline, oil or fuel and which may include facilities
-used for polishing, greasing, washing, dry cleaning or otherwise cleaning or servicing
-automobiles and other vehicles.
+<u>Automobile, or Gasoline Services Station</u>: A building on a lot or part thereof, that is used primarily for the retail sale of gasoline, oil or fuel and which may include facilities used for polishing, greasing, washing, dry cleaning or otherwise cleaning or servicing automobiles and other vehicles.
 
-Automobile and/or Trailer Sales Lot: An open lot, used for the outdoor display or
-sales of new or used automobiles or trailers, and where minor and incidental repair
-work (other than body and fender) may be done.
+<u>Automobile and/or Trailer Sales Lot</u>: An open lot, used for the outdoor display or sales of new or used automobiles or trailers, and where minor and incidental repair work (other than body and fender) may be done.
 
-Automobile Washing (Car Wash): A building on a lot, designed and used primarily for
-the washing and polishing of automobiles and which may provide accessory services as
-set forth herein for Automobile Service Stations.
+<u>Automobile Washing (Car Wash)</u>: A building on a lot, designed and used primarily for the washing and polishing of automobiles and which may provide accessory services as set forth herein for Automobile Service Stations.
 
-Automobile Wrecking: The dismantling or wrecking of used automobiles or trailers, or
-the storage, sale or dumping of dismantled, partially dismantled, obsolete or wrecked
-vehicles or their parts.
+<u>Automobile Wrecking</u>: The dismantling or wrecking of used automobiles or trailers, or the storage, sale or dumping of dismantled, partially dismantled, obsolete or wrecked vehicles or their parts.
 
-Base Flood: The flood having a one percent (1%) chance of being equaled or exceeded
-in any given year (100-year flood).
+<u>Base Flood</u>: The flood having a one percent (1%) chance of being equaled or exceeded in any given year (100-year flood).
 
-Base Flood Elevation: The projected flood height of the base flood.
+<u>Base Flood Elevation</u>: The projected flood height of the base flood.
 
-Basement: A story partly underground but having at least one-half of its height above
-the average level of the adjoining ground. A basement shall be counted as a story for
-the purpose of height measurement if the vertical distance between the ceiling and the
-average level of the adjoining ground is more than five (5) feet or if used for business
-or dwelling purposes, other than a game or recreation room.
+<u>Basement</u>: A story partly underground but having at least one-half of its height above the average level of the adjoining ground. A basement shall be counted as a story for the purpose of height measurement if the vertical distance between the ceiling and the average level of the adjoining ground is more than five (5) feet or if used for business or dwelling purposes, other than a game or recreation room.
 
-Bed and Breakfast Inns: An owner-occupied single-family detached dwelling, or
-portions thereof, containing not more than five (5) guest rooms which are to be
-occupied by not more than fifteen (15) guests where rent is paid in money, goods, labor
-or otherwise. Meals may be offered only to registered overnight guests.
+<u>Bed and Breakfast Inns</u>: An owner-occupied single-family detached dwelling, or portions thereof, containing not more than five (5) guest rooms which are to be occupied by not more than fifteen (15) guests where rent is paid in money, goods, labor or otherwise. Meals may be offered only to registered overnight guests.
 
-Billboard: A sign upon which advertising matter of any character is printed, posted, or
-lettered; and it may be either freestanding or attached to a surface of a building or other
-structure. A billboard is used to advertise products, services or businesses at a location
-other than the premises on which the sign is placed, or to disseminate other messages-
+<u>Billboard</u>: A sign upon which advertising matter of any character is printed, posted, or lettered; and it may be either freestanding or attached to a surface of a building or other structure. A billboard is used to advertise products, services or businesses at a location other than the premises on which the sign is placed, or to disseminate other messages-
 
-Boarding House: Any dwelling in which more than three persons, but not more than
-ten (10) persons, either individually or as families, are housed or lodged for hire with
-or without meals. A rooming house or a furnished room house shall be deemed a
-boarding house.
+<u>Boarding House</u>: Any dwelling in which more than three persons, but not more than ten (10) persons, either individually or as families, are housed or lodged for hire with or without meals. A rooming house or a furnished room house shall be deemed a boarding house.
 
-Building: Any structure, either temporary or permanent, having walls and a roof or
-other covering, and designed or used for the shelter or enclosure of any person, animal
-or property of any kind, including tents, awnings, or vehicles situated on private
-property and used for purposes stated above. For the purposes of this section, the word
-building shall include gas or liquid storage tanks.
+<u>Building</u>: Any structure, either temporary or permanent, having walls and a roof or other covering, and designed or used for the shelter or enclosure of any person, animal or property of any kind, including tents, awnings, or vehicles situated on private property and used for purposes stated above. For the purposes of this section, the word building shall include gas or liquid storage tanks.
 
-Detached: A building which has no party wall.
-Semi-detached: A building which has only one party wall in common.
-Attached: A building which has two or more party walls in common.
+<u>Detached</u>: A building which has no party wall. Semi-detached: A building which has only one party wall in common. Attached: A building which has two or more party walls in common.
 
-Building Detached: A building surrounded by open space on the same lot.
-Building, Front Line Of: The line of that face of the building nearest the front line of the lot. This face includes sun parlors and covered porches, whether enclosed or
-unenclosed, but does not include steps.
+<u>Building Detached</u>: A building surrounded by open space on the same lot. Building, Front Line Of: The line of that face of the building nearest the front line of the lot. This face includes sun parlors and covered porches, whether enclosed or unenclosed, but does not include steps.
 
-Building, Height Of: The vertical distance measured from the average elevation of the
-proposed finished grade at the front of the building to the highest point of the roof for
-flat roofs, to the deck line of mansard roofs, and to the mean height between eaves and
-ridge for gable, hip, and gambrel roofs.
+<u>Building, Height Of</u>: The vertical distance measured from the average elevation of the proposed finished grade at the front of the building to the highest point of the roof for flat roofs, to the deck line of mansard roofs, and to the mean height between eaves and ridge for gable, hip, and gambrel roofs.
 
-Building Line: The line(s) created by the setback, (front, side or rear) of a building
-from a property or street line.
+<u>Building Line</u>: The line(s) created by the setback, (front, side or rear) of a building from a property or street line.
 
-Building, Principal: A building which is enclosed within exterior walls or fire walls,
-which is built, erected, and framed of component structural parts, which is designed for
-housing, shelter, enclosure, and support of individuals, or property of any kind, and
-which is a main structure on a given lot.
+<u>Building, Principal</u>: A building which is enclosed within exterior walls or fire walls, which is built, erected, and framed of component structural parts, which is designed for housing, shelter, enclosure, and support of individuals, or property of any kind, and which is a main structure on a given lot.
 
-Business Services: Business services shall include and be limited to banks, credit
-unions, loan companies, real estate and insurance agencies, utility offices,
-governmental offices, business and professional offices.
+<u>Business Services</u>: Business services shall include and be limited to banks, credit unions, loan companies, real estate and insurance agencies, utility offices, governmental offices, business and professional offices.
 
-Camp: Any one or more of the following, other than a hospital, place or detention,
-school offering general instructions or a mobilehome park:
+<u>Camp</u>: Any one or more of the following, other than a hospital, place or detention, school offering general instructions or a mobilehome park:
 
 * Type 1 - Any area of land or water of a design or character used for seasonal, recreational or similar temporary living purposes which may include any building or group of buildings or a movable, temporary or seasonal nature, such as cabins, tents, or shelters.
 * Type 2 - Any land and buildings thereon, used for any assembly of persons for which is commonly known as “day camp” purposes, whether or not conducted for profit or whether occupied by adults or children, either as individuals, families, or groups.
 
-Campground: A parcel of land upon which two or more campsites are located to be
-used by campers for seasonal, recreational or other similar temporary living purposes,
-in buildings of a movable, temporary or seasonal nature, such as cabins, tents,
-recreational vehicles or shelters, but not including a mobilehome camp, court or park.
+<u>Campground</u>: A parcel of land upon which two or more campsites are located to be used by campers for seasonal, recreational or other similar temporary living purposes, in buildings of a movable, temporary or seasonal nature, such as cabins, tents, recreational vehicles or shelters, but not including a mobilehome camp, court or park.
 
-Campsites: A plot of ground within a campground intended for occupation by a
-recreational vehicle or tent.
+<u>Campsites</u>: A plot of ground within a campground intended for occupation by a recreational vehicle or tent.
 
-Carport: An unenclosed structure for the storage of one (1) or more vehicles in the
-same manner as a private garage, which may be covered by a roof supported by
-columns or posts except that one or more walls may be the walls of the main building to
-which the carport is accessory.
+<u>Carport</u>: An unenclosed structure for the storage of one (1) or more vehicles in the same manner as a private garage, which may be covered by a roof supported by columns or posts except that one or more walls may be the walls of the main building to which the carport is accessory.
 
-Cartway: That portion of a street or alley right-of-way that is intended for vehicular
-movement:
+<u>Cartway</u>: That portion of a street or alley right-of-way that is intended for vehicular movement:
 
-Cellar: A story partly underground and having more than one-half of its clear height
-below the average level of the adjoining ground. A cellar shall not be considered in
-determining the permissible number of stories.
+<u>Cellar</u>: A story partly underground and having more than one-half of its clear height below the average level of the adjoining ground. A cellar shall not be considered in determining the permissible number of stories.
 
-Cemetery: Land used or intended to be used for the burial of the deceased, including
-columbariums, mausoleums, and mortuaries when operated in conjunction with the
-cemetery and within the boundaries thereof. This definition shall not include
-crematoria, which shall be considered as funeral homes.
+<u>Cemetery</u>: Land used or intended to be used for the burial of the deceased, including columbariums, mausoleums, and mortuaries when operated in conjunction with the cemetery and within the boundaries thereof. This definition shall not include crematoria, which shall be considered as funeral homes.
 
-Certificate of Use and Occupancy: A statement signed by a duly authorized Township
-officer, setting forth that a building, structure or use legally complies with the Zoning
-Ordinance and other applicable codes and regulations and that the same may be used for
-the purposes stated therein.
+<u>Certificate of Use and Occupancy</u>: A statement signed by a duly authorized Township officer, setting forth that a building, structure or use legally complies with the Zoning Ordinance and other applicable codes and regulations and that the same may be used for the purposes stated therein.
 
-Channel: A natural or artificial watercourse with a definite bed and banks which
-confine and conduct continuously or periodically flowing water.
+<u>Channel</u>: A natural or artificial watercourse with a definite bed and banks which confine and conduct continuously or periodically flowing water.
 
-Child Day Care Center: A Pennsylvania licensed and/or registered facility which care
-is provided or is intended to be provided for seven (7) or more children at any age of at
-any time.
+<u>Child Day Care Center</u>: A Pennsylvania licensed and/or registered facility which care is provided or is intended to be provided for seven (7) or more children at any age of at any time.
 
-Child Day Care Home: A State licensed and/or registered single-family dwelling in
-which child day care is provided at any time for not more than seven (7) children under
-the age of twelve (12), including any children under the age of twelve (12) who are
-residents of the dwelling.
+<u>Child Day Care Home</u>: A State licensed and/or registered single-family dwelling in which child day care is provided at any time for not more than seven (7) children under the age of twelve (12), including any children under the age of twelve (12) who are residents of the dwelling.
 
-Church and Related Uses: A building, structure, or group of buildings or structures,
-including accessory uses, designed or intended for public worship. This definition shall
-include rectories, convents, and church-related educational and/or day care facilities.
+<u>Church and Related Uses</u>: A building, structure, or group of buildings or structures, including accessory uses, designed or intended for public worship. This definition shall include rectories, convents, and church-related educational and/or day care facilities.
 
-Commercial Keeping and Handling: Producing and/or maintaining with the express
-purpose and intent of selling the product for a livelihood, excluding farming.
+<u>Commercial Keeping and Handling</u>: Producing and/or maintaining with the express purpose and intent of selling the product for a livelihood, excluding farming.
 
-Commercial Livestock Operation: A concentrated animal operation, as defined by the
-Pennsylvania Nutrient Management Act (Act 6) or the agricultural use involving more
-than 125 animal equivalent units (AEU) as defined by federal regulations.
+<u>Commercial Livestock Operation</u>: A concentrated animal operation, as defined by the Pennsylvania Nutrient Management Act (Act 6) or the agricultural use involving more than 125 animal equivalent units (AEU) as defined by federal regulations.
 
-Commercial Produce Operation: An agricultural use whereby plant materials are
-principally grown within enclosed buildings, and where such use exceeds a lot coverage
-of ten percent (10%).
+<u>Commercial Produce Operation</u>: An agricultural use whereby plant materials are principally grown within enclosed buildings, and where such use exceeds a lot coverage of ten percent (10%).
 
-Commercial Recreation Facility: An activity operated as a business, open to the public,
-for the purpose of public recreation or entertainment, including, but not limited to,
-bowling alleys, drive-in motion picture facilities, swimming pools, health clubs,
-miniature golf courses, museums, etc. This does not include adult-related uses or
-amusement arcades, as defined herein.
+<u>Commercial Recreation Facility</u>: An activity operated as a business, open to the public, for the purpose of public recreation or entertainment, including, but not limited to, bowling alleys, drive-in motion picture facilities, swimming pools, health clubs, miniature golf courses, museums, etc. This does not include adult-related uses or amusement arcades, as defined herein.
 
-Common Open Space: Any area of land or water, or a combination of land and water,
-within a development site designed and intended for use by all residents of the
-development or the general public. Land included within the right-of-way lines of
-streets shall not be classified as common open space. Common open spaces shall not
-include required open areas nor setbacks between buildings and between buildings and
-street rights-of-way, driveways, access drives, parking areas, and property lines of the
-development. No dwelling unit, residential accessory buildings, or parking or loading
-areas may be located within common open spaces.
+<u>Common Open Space</u>: Any area of land or water, or a combination of land and water, within a development site designed and intended for use by all residents of the development or the general public. Land included within the right-of-way lines of streets shall not be classified as common open space. Common open spaces shall not include required open areas nor setbacks between buildings and between buildings and street rights-of-way, driveways, access drives, parking areas, and property lines of the development. No dwelling unit, residential accessory buildings, or parking or loading areas may be located within common open spaces.
 
-Comprehensive Plan: The official Fayette Township Comprehensive Plan, Juniata
-County, PA adopted February 10, 1993.
+<u>Comprehensive Plan</u>: The official Fayette Township Comprehensive Plan, Juniata County, PA adopted February 10, 1993.
 
-Comprehensive Plan: The official public document prepared in accordance with
-Pennsylvania Municipalities Planning Code, Act 170 of 1988, as amended, consisting
-of maps, charts, and textual material, that constitutes a policy guide to decisions about
-the physical and social development of Fayette Township, as amended from the time to
-time.
+<u>Comprehensive Plan</u>: The official public document prepared in accordance with Pennsylvania Municipalities Planning Code, Act 170 of 1988, as amended, consisting of maps, charts, and textual material, that constitutes a policy guide to decisions about the physical and social development of Fayette Township, as amended from the time to time.
 
-Conditional Use: A use which may not be appropriate to a particular zoning district as
-a whole, but which may be suitable in certain localities within the district only when
-specific conditions and criteria prescribed for such uses have been complied with.
-Conditional uses are reviewed by the Board of Supervisors.
+<u>Conditional Use</u>: A use which may not be appropriate to a particular zoning district as a whole, but which may be suitable in certain localities within the district only when specific conditions and criteria prescribed for such uses have been complied with. Conditional uses are reviewed by the Board of Supervisors.
 
-Condominium: A form of property ownership providing for individual ownership of a
-specific dwelling unit, or other space not necessarily on ground level, together with an
-undivided interest in the land or other parts of the structure in common with other
-owners.
+<u>Condominium</u>: A form of property ownership providing for individual ownership of a specific dwelling unit, or other space not necessarily on ground level, together with an undivided interest in the land or other parts of the structure in common with other owners.
 
-Conservation Plan: A plan including a map(s) and narrative that, at the very least,
-outlines an erosion and sedimentation control plan for an identified parcel of land-
+<u>Conservation Plan</u>: A plan including a map(s) and narrative that, at the very least, outlines an erosion and sedimentation control plan for an identified parcel of land-
 
-Contractor’s Office or Shop: Offices and shops for tradesmen, such as building,
-cement, electrical, masonry, painting and roofing contractors.
+<u>Contractor’s Office or Shop</u>: Offices and shops for tradesmen, such as building, cement, electrical, masonry, painting and roofing contractors.
 
-Convenience Store: A retail sales business which specializes in providing household
-products and foods. Convenience stores may also provide for any or all of the
-following as an accessory use:
+<u>Convenience Store</u>: A retail sales business which specializes in providing household products and foods. Convenience stores may also provide for any or all of the following as an accessory use:
 
 1. The rental of video tapes provided that an adult bookstore is specifically prohibited;
 2. The preparation and sales of delicatessen sandwiches and foods provided that no patron seating is provided; and,
 3. The use of no more than two amusement devices (e.g. pinball machines, video games, and other similar devices).
 
-Convenience stores shall not include the dispensing of gasoline or other vehicle fuels,
-unless the appropriate approvals for an automobile filling station (as defined herein)
-have been obtained.
+Convenience stores shall not include the dispensing of gasoline or other vehicle fuels, unless the appropriate approvals for an automobile filling station (as defined herein) have been obtained.
 
-Courts: An unoccupied open space, other than a yard, on the lot with a building, which
-is bounded on two or more sides by the walls of such building.
+<u>Courts</u>: An unoccupied open space, other than a yard, on the lot with a building, which is bounded on two or more sides by the walls of such building.
 
-Court, Inner: A court enclosed on all sides by exterior walls of a building or by
-exterior walls and lot lines on which walls are allowable.
+<u>Court, Inner</u>: A court enclosed on all sides by exterior walls of a building or by exterior walls and lot lines on which walls are allowable.
 
-Court, Outer: A court enclosed on not more than three sides by exterior walls and lot
-lines on which walls are allowable, with one side or end open to a street, driveway,
-alley or yard.
+<u>Court, Outer</u>: A court enclosed on not more than three sides by exterior walls and lot lines on which walls are allowable, with one side or end open to a street, driveway, alley or yard.
 
-Coverage: That portion or percentage of the plot or lot area covered by the building
-area.
+<u>Coverage</u>: That portion or percentage of the plot or lot area covered by the building area.
 
-Curb Level: The officially established grade of the curb in front of the midpoint of the
-lot.
+<u>Curb Level</u>: The officially established grade of the curb in front of the midpoint of the lot.
 
-Dairy: A commercial establishment for the manufacture or processing of dairy
-products.
+<u>Dairy</u>: A commercial establishment for the manufacture or processing of dairy products.
 
-Density: A measure of the number of dwelling units, which occupy, or may occupy,
-an area of land.
+<u>Density</u>: A measure of the number of dwelling units, which occupy, or may occupy, an area of land.
 
-Density, Net Residential: The number of dwelling units in relation to the land area
-actually in use or proposed to be used for residential purposes, exclusive of public
-rights-of-way, streets, sidewalks, parks, playgrounds, common open spaces, etc.
+<u>Density, Net Residential</u>: The number of dwelling units in relation to the land area actually in use or proposed to be used for residential purposes, exclusive of public rights-of-way, streets, sidewalks, parks, playgrounds, common open spaces, etc.
 
-Density, Gross Residential: The number of dwelling units in relation to an area of land
-actually in use or proposed to be used for residential purposes, excluding public rights-
-of-way whether exterior or interior, but including interior parking areas and access
-lanes, sidewalks, parks, playgrounds, common open spaces, etc.
+<u>Density, Gross Residential</u>: The number of dwelling units in relation to an area of land actually in use or proposed to be used for residential purposes, excluding public rights- of-way whether exterior or interior, but including interior parking areas and access lanes, sidewalks, parks, playgrounds, common open spaces, etc.
 
-Development: Any man-made change to improved or unimproved real estate, including
-but not limited to building or other structures, mining, dredging, filling grading,
-paving, excavating, or drilling operations.
+<u>Development</u>: Any man-made change to improved or unimproved real estate, including but not limited to building or other structures, mining, dredging, filling grading, paving, excavating, or drilling operations.
 
-Development Disability: A disability of a person which has continued or can be
-expected to continue indefinitely; a disability which is:
+<u>Development Disability</u>: A disability of a person which has continued or can be expected to continue indefinitely; a disability which is:
 
 1. As Attributable to mental retardation, cerebral palsy, epilepsy or autism;
 2. Found to be attributable to any other conditions found to be closely related to mental retardation because such condition results in similar impairment of general intellectual functioning or adaptive behavior to that of mentally retarded persons or requires treatment and services similar to those required for such persons; and,
 3. Attributable to dyslexia resulting from a disability described in Subsections (1) and (2) of this definition.
 
-Developmentally Disabled Person: A person with a developmental disability.
+<u>Developmentally Disabled Person</u>: A person with a developmental disability.
 
-Dog Kennel: An establishment for the sheltering of four (4) or more dogs that are
-more than six (6) months old.
+<u>Dog Kennel</u>: An establishment for the sheltering of four (4) or more dogs that are more than six (6) months old.
 
-Domiciliary Care Unit: An existing building or structure designed for a dwelling unit
-for one family which provides 24-hour supervised living arrangements by the family
-residing therein for not more than two (2) unrelated persons eighteen (18) years of age
-and above who are disabled physically, mentally, emotionally or who are aged persons.
+<u>Domiciliary Care Unit</u>: An existing building or structure designed for a dwelling unit for one family which provides 24-hour supervised living arrangements by the family residing therein for not more than two (2) unrelated persons eighteen (18) years of age and above who are disabled physically, mentally, emotionally or who are aged persons.
 
-Drive-In Business: A commercial establishment, including an eating establishment,
-offering refreshments, entertainment, or services to patrons, who purchase and/or
-consume such refreshments, entertainment or services on the premises and/or outside of
-the building, including patrons who may be served in their automobile.
+<u>Drive-In Business</u>: A commercial establishment, including an eating establishment, offering refreshments, entertainment, or services to patrons, who purchase and/or consume such refreshments, entertainment or services on the premises and/or outside of the building, including patrons who may be served in their automobile.
 
-Driveway: An improved cartway designed and constructed to provide vehicular
-movement between a public street and a tract of land serving one single-family dwelling
-unit or a farm, or up to four (4) dwelling units.
+<u>Driveway</u>: An improved cartway designed and constructed to provide vehicular movement between a public street and a tract of land serving one single-family dwelling unit or a farm, or up to four (4) dwelling units.
 
-Dump: A lot of land or part thereof used primarily for the disposal by abandonment,
-dumping, burial, burning, or other means and for whatever purpose, of garbage,
-sewage, trash, refuse, junk, discarded machinery, vehicles or parts thereof, or waste
-material of any kind.
+<u>Dump</u>: A lot of land or part thereof used primarily for the disposal by abandonment, dumping, burial, burning, or other means and for whatever purpose, of garbage, sewage, trash, refuse, junk, discarded machinery, vehicles or parts thereof, or waste material of any kind.
 
-Dwelling: A building or structure designed for living quarters for one or more
-families, including trailers (mobile homes) which are supported either by a foundation
-or by blocks or jacks covered by skirts or are otherwise permanently attached to the
-land and anchored against wind and water movement, but not including room houses,
-convalescent homes, motels, hotels, tourist homes or other accommodations used for
-transient occupancy.
+<u>Dwelling</u>: A building or structure designed for living quarters for one or more families, including trailers (mobile homes) which are supported either by a foundation or by blocks or jacks covered by skirts or are otherwise permanently attached to the land and anchored against wind and water movement, but not including room houses, convalescent homes, motels, hotels, tourist homes or other accommodations used for transient occupancy.
 
-Dwelling Types:
+<u>Dwelling Types</u>:
 
 1. Residential Conversion Unit - To be considered a conversion, any proposed alteration must be confined to the interior of an already existing structural shell. Any proposal to extend the sides or increase the height of an existing structure shall not be considered a conversion and shall be required to meet the appropriate provisions established in that District for that particular use.
 2. Single-Family Detached - A dwelling unit accommodating a single-family and separated from any other building or structure by space on all sides.
@@ -575,207 +324,91 @@ Dwelling Types:
 7. Garden Apartment - Three or more dwelling units accommodating three or more families which are located one over the other and which, when more than three unit are utilized, are attached side-by-side through the use of common party walls, and which shall have side yards adjacent to each first story end unit. Single-family dwelling units are generally built to a height of three (3) stories, but may conceivably be built to a height of only two (2) stories. Each dwelling unit is accessible by a common stairwell.
 8. Apartment House - A structure consisting of a series of single-story dwelling units (two-story units may conceivably by used in certain instances) clustered on a floor about a central elevator shaft or central corridor, each series, consisting of one story, being stacked one upon the other to a specified maximum height.
 
-Dwelling Unit: A building or portion thereof providing complete cooking and sanitary
-facilities for not more than one (1) family.
+<u>Dwelling Unit</u>: A building or portion thereof providing complete cooking and sanitary facilities for not more than one (1) family.
 
-Dwelling Unit Area: The minimum or average square footage necessary to constitute a
-dwelling unit.
+<u>Dwelling Unit Area</u>: The minimum or average square footage necessary to constitute a dwelling unit.
 
-Earthmoving Activity: Any construction or other activity which disturbs the surface of
-the land including, but not limited to, excavations, embankments, land development,
-subdivision development, mineral extraction and the moving, depositing or storing of
-soil, rock or earth.
+<u>Earthmoving Activity</u>: Any construction or other activity which disturbs the surface of the land including, but not limited to, excavations, embankments, land development, subdivision development, mineral extraction and the moving, depositing or storing of soil, rock or earth.
 
-Electric Substation: An assemblage of equipment for purposes other than generation or
-utilization, through which electric energy in bulk is passed for the purpose of switching
-or modifying its characteristics to meet the needs of the general public.
+<u>Electric Substation</u>: An assemblage of equipment for purposes other than generation or utilization, through which electric energy in bulk is passed for the purpose of switching or modifying its characteristics to meet the needs of the general public.
 
-Facade: The front of a building; part of a building facing a street, courtyard, etc.
+<u>Facade</u>: The front of a building; part of a building facing a street, courtyard, etc.
 
-Family: One (1) or more persons related by blood, adoption or marriage, living and
-cooking together as a single housekeeping unit, exclusive of household servants. A
-number of persons not exceeding two (2) living and cooking together as a single
-housekeeping unit though not related by blood, adoption, or marriage shall be deemed
-to constitute a family for purposes of this Ordinance.
+<u>Family</u>: One (1) or more persons related by blood, adoption or marriage, living and cooking together as a single housekeeping unit, exclusive of household servants. A number of persons not exceeding two (2) living and cooking together as a single housekeeping unit though not related by blood, adoption, or marriage shall be deemed to constitute a family for purposes of this Ordinance.
 
-Farm: Any parcel of land containing ten (10) or more acres, which is used for gain in
-the raising of agricultural products, livestock, poultry, and dairy products. It includes
-necessary farm structures within the prescribed limits and the storage of equipment
-used. For the purposes of this Ordinance, a farm shall not include the raising of fur-
-bearing animals, riding academies, livery or boarding stables and dog kennels.
+<u>Farm</u>: Any parcel of land containing ten (10) or more acres, which is used for gain in the raising of agricultural products, livestock, poultry, and dairy products. It includes necessary farm structures within the prescribed limits and the storage of equipment used. For the purposes of this Ordinance, a farm shall not include the raising of fur- bearing animals, riding academies, livery or boarding stables and dog kennels.
 
-Farm Occupation: An accessory use to the primary agricultural use of a property in
-which residents engage in a secondary occupation conducted on the active farm.
+<u>Farm Occupation</u>: An accessory use to the primary agricultural use of a property in which residents engage in a secondary occupation conducted on the active farm.
 
-Farm Pond: An artificial body of water used for irrigation, fire protection or other
-farm use as approved by the U.S. Department of Agriculture Soil Conservation
-Service.
+<u>Farm Pond</u>: An artificial body of water used for irrigation, fire protection or other farm use as approved by the U.S. Department of Agriculture Soil Conservation Service.
 
-Fence: A structure designed as a barrier to restrict the movement or view of persons,
-animals, property and/or vehicles. This definition shall not include ornamental fence
-treatments that are located in the front yard and extend less than one-half (2) the width
-and/or depth of the front yard.
+<u>Fence</u>: A structure designed as a barrier to restrict the movement or view of persons, animals, property and/or vehicles. This definition shall not include ornamental fence treatments that are located in the front yard and extend less than one-half (2) the width and/or depth of the front yard.
 
-Fill: Material placed or deposited so as to form an embankment or raise the surface
-elevation of the land, including, but not limited to, levees, bulkheads, dikes, jetties,
-embankments, and causeways.
+<u>Fill</u>: Material placed or deposited so as to form an embankment or raise the surface elevation of the land, including, but not limited to, levees, bulkheads, dikes, jetties, embankments, and causeways.
 
-Floodplain: A floodplain is defined and established to be the low area adjoining and
-including any water or drainage course or body of water subject to periodic flooding or
-overflow as further defined in [Article IX](#article-ix) of this Ordinance.
+<u>Floodplain</u>: A floodplain is defined and established to be the low area adjoining and including any water or drainage course or body of water subject to periodic flooding or overflow as further defined in [Article IX](#article-ix) of this Ordinance.
 
-Floor Area of a Building: The sum of the gross horizontal areas of the several floors of
-a building and its accessory building on the same lot, excluding cellar and basement
-floor areas not devoted to residential use, but including the area of roofed porches and
-roofed terraces. All dimensions shall be measured between exterior faces of walls.
+<u>Floor Area of a Building</u>: The sum of the gross horizontal areas of the several floors of a building and its accessory building on the same lot, excluding cellar and basement floor areas not devoted to residential use, but including the area of roofed porches and roofed terraces. All dimensions shall be measured between exterior faces of walls.
 
-Floor Area, Habitable: The aggregate of the horizontal areas of all rooms used for
-habitation, such as living room, dining room, kitchen, bedroom, but not including
-hallways, stairways, cellars, attics, service rooms or utility rooms, bathroom, closets,
-nor unheated areas such as enclosed porches, no rooms without at least one window or
-skylight opening onto an outside yard or court. A least one-half of the floor area of
-every habitable room shall have a ceiling height of not less than seven (7) feet and the
-floor area of that part of any room where the ceiling height is less than five (5) feet
-shall not be considered as part of the habitable floor area. The minimum total window
-area, measured between stops shall be ten (10) percent of the habitable floor area of
-such room.
+<u>Floor Area, Habitable</u>: The aggregate of the horizontal areas of all rooms used for habitation, such as living room, dining room, kitchen, bedroom, but not including hallways, stairways, cellars, attics, service rooms or utility rooms, bathroom, closets, nor unheated areas such as enclosed porches, no rooms without at least one window or skylight opening onto an outside yard or court. A least one-half of the floor area of every habitable room shall have a ceiling height of not less than seven (7) feet and the floor area of that part of any room where the ceiling height is less than five (5) feet shall not be considered as part of the habitable floor area. The minimum total window area, measured between stops shall be ten (10) percent of the habitable floor area of such room.
 
-Floor Area Retail, Net: All that space relegated to use by the customer and the retail
-employee to consummate retail sales; and to include display area used to indicate the
-variety of goods available for the customer; but not to include office space, storage
-space, and other general administrative areas.
+<u>Floor Area Retail, Net</u>: All that space relegated to use by the customer and the retail employee to consummate retail sales; and to include display area used to indicate the variety of goods available for the customer; but not to include office space, storage space, and other general administrative areas.
 
-Forest Industries: Are those industries that remove tree or forest products from the
-land, which may include timbering ad tree harvesting operations.
+<u>Forest Industries</u>: Are those industries that remove tree or forest products from the land, which may include timbering ad tree harvesting operations.
 
-Garage, Private: An enclosed or covered space for the storage of one or more motor
-vehicles, provided that no business, occupation or service is conducted for profit
-therein nor space therein for more than one car is leased to a non-resident of the
-premises.
+<u>Garage, Private</u>: An enclosed or covered space for the storage of one or more motor vehicles, provided that no business, occupation or service is conducted for profit therein nor space therein for more than one car is leased to a non-resident of the premises.
 
-Garage, Public: Any garage not a private garage and which is used for storage, repair,
-rental, servicing or supplying of gasoline or oil to motor vehicles.
+<u>Garage, Public</u>: Any garage not a private garage and which is used for storage, repair, rental, servicing or supplying of gasoline or oil to motor vehicles.
 
-Gardening: See Home Gardening for definition.
+<u>Gardening</u>: See Home Gardening for definition.
 
-Grade, Establishing: The elevation of the centerline of the streets as officially
-established by the municipal authorities.
+<u>Grade, Establishing</u>: The elevation of the centerline of the streets as officially established by the municipal authorities.
 
-Grade, Finished: The completed surfaces of lawns, walks, and roads brought to grades
-as shown on official plans or designs relating thereto.
+<u>Grade, Finished</u>: The completed surfaces of lawns, walks, and roads brought to grades as shown on official plans or designs relating thereto.
 
-Greenhouse: A glass, plastic or other clear, or opaque substance-enclosed room or
-building for growing plants for commercial sale that need an even, usually warm
-temperature.
+<u>Greenhouse</u>: A glass, plastic or other clear, or opaque substance-enclosed room or building for growing plants for commercial sale that need an even, usually warm temperature.
 
-Group Home: A dwelling designed for a group of mentally and/or physically disabled
-persons living and cooking together in a single dwelling unit. The maximum number of
-occupants, including resident staff personnel, shall not exceed five (5). A group home
-shall be directly affiliated with a parent institution, which provides for the
-administration of the residents through the direction of a professional staff.
+<u>Group Home</u>: A dwelling designed for a group of mentally and/or physically disabled persons living and cooking together in a single dwelling unit. The maximum number of occupants, including resident staff personnel, shall not exceed five (5). A group home shall be directly affiliated with a parent institution, which provides for the administration of the residents through the direction of a professional staff.
 
-Group Quarters: Any dwelling or portion thereof which is designed or used for five or
-more persons unrelated to each other or to any family occupying the dwelling unit and
-having common eating facilities. Group quarters include, but are not limited to,
-lodging or boarding houses, fraternity and sorority houses and dormitories and other
-quarters of an institutional nature. Such quarters must be associated with a parent
-religious, educational, charitable or philanthropic institution.
+<u>Group Quarters</u>: Any dwelling or portion thereof which is designed or used for five or more persons unrelated to each other or to any family occupying the dwelling unit and having common eating facilities. Group quarters include, but are not limited to, lodging or boarding houses, fraternity and sorority houses and dormitories and other quarters of an institutional nature. Such quarters must be associated with a parent religious, educational, charitable or philanthropic institution.
 
-Hazardous Material: Materials which have the potential to damage health, endanger
-human life or impair safety.
+<u>Hazardous Material</u>: Materials which have the potential to damage health, endanger human life or impair safety.
 
-Hazardous Waste: Any garbage, refuse, sludge from an industrial or other waste-water
-treatment plant, sludge from a water supply treatment plant, or air pollution facility and
-other discarded material including solid, liquid, semi-solid, or contained gaseous
-material resulting from municipal, commercial, industrial, institutional, mining, or
-agricultural operations, and from community activities, or any combination of the
-above, which because of its quantity, concentration, or physical, chemical, or infectious
-characteristics may:
+<u>Hazardous Waste</u>: Any garbage, refuse, sludge from an industrial or other waste-water treatment plant, sludge from a water supply treatment plant, or air pollution facility and other discarded material including solid, liquid, semi-solid, or contained gaseous material resulting from municipal, commercial, industrial, institutional, mining, or agricultural operations, and from community activities, or any combination of the above, which because of its quantity, concentration, or physical, chemical, or infectious characteristics may:
 
 1. Cause or significantly contribute to an increase in mortality or an increase in morbidity in either an individual or the total population; or
 2. Pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, exposed of, or otherwise managed.
 
-Hazardous Waste Facility: Any structure, group of structures, aboveground or
-underground storage tanks, or any other area or buildings used for the purpose of
-permanently housing or temporarily holding hazardous waste for the storage or
-treatment for any time span other than the normal transportation time through the
-Township.
+<u>Hazardous Waste Facility</u>: Any structure, group of structures, aboveground or underground storage tanks, or any other area or buildings used for the purpose of permanently housing or temporarily holding hazardous waste for the storage or treatment for any time span other than the normal transportation time through the Township.
 
-Home Gardening: The cultivation of herbs, fruits, flowers or vegetables on a piece of
-ground adjoining the dwelling, excluding the keeping of livestock, and permitting the
-sale of produce raised thereon.
+<u>Home Gardening</u>: The cultivation of herbs, fruits, flowers or vegetables on a piece of ground adjoining the dwelling, excluding the keeping of livestock, and permitting the sale of produce raised thereon.
 
-Home Occupation: Any use customarily conducted entirely within a dwelling or in a
-building accessory thereto and carried on by the inhabitants residing therein, providing
-that the use is clearly incidental and secondary to the use of the dwelling for dwelling
-purposes, the exterior appearance of the structure or premises is constructed and
-maintained as a residential dwelling.
+<u>Home Occupation</u>: Any use customarily conducted entirely within a dwelling or in a building accessory thereto and carried on by the inhabitants residing therein, providing that the use is clearly incidental and secondary to the use of the dwelling for dwelling purposes, the exterior appearance of the structure or premises is constructed and maintained as a residential dwelling.
 
 1. Non-Professional - An occupation for gain or support conducted only by immediate members of a family residing on the premises and conducted entirely within the dwelling or accessory building; provided no article is sold or offered for sale except such as may be produced on the premises by members of the family, and further provided that such occupation shall in no case occupy more than twenty-five (25) percent of the floor area of the dwelling.
 2. Professional - An occupation for gain or support conducted by a member of a recognized profession, entirely within the dwelling or accessory building, provided that not more than three (3) persons not in residence in the dwelling are employed and, further provided that such occupation shall in no case occupy more than twenty-five (25) percent of the floor area of the dwelling.
 
-Hospital: Unless otherwise specified, the term “hospital” shall be deemed to include
-sanitarium, sanatorium, preventorium, clinic, rest home, nursing home, convalescent
-home, and any other place for the diagnosis, treatment or other care of ailments, and
-shall be deemed to be limited to places for the diagnosis, treatment or other care of
-human ailments.
+<u>Hospital</u>: Unless otherwise specified, the term “hospital” shall be deemed to include sanitarium, sanatorium, preventorium, clinic, rest home, nursing home, convalescent home, and any other place for the diagnosis, treatment or other care of ailments, and shall be deemed to be limited to places for the diagnosis, treatment or other care of human ailments.
 
-Hotel: A building containing rooms intended or designed to be used or which are used,
-rented, or hired out to be occupied or which are occupied for sleeping purposes by
-guests and where only a general kitchen and dining room are provided within the
-building or in any accessory building.
+<u>Hotel</u>: A building containing rooms intended or designed to be used or which are used, rented, or hired out to be occupied or which are occupied for sleeping purposes by guests and where only a general kitchen and dining room are provided within the building or in any accessory building.
 
-Junk: Used materials, discarded materials, or both, including, but not limited to, waste
-paper, rags, metal, building materials, house furnishings, machinery, vehicles, or parts
-thereof, which are being stored awaiting potential reuse or ultimate disposal. In
-addition, junk shall include one or more unlicensed, wrecked, or disabled vehicles, or
-the major part thereof. (A disabled vehicle is a vehicle intended to be self-propelled
-that shall not be operable under its own power for any reason, or a vehicle that does not
-have a valid current registration plate or that has a certificate of inspection which is
-more than sixty (60) days beyond the expiration date). This will except farm equipment
-utilized in farming operations.
+<u>Junk</u>: Used materials, discarded materials, or both, including, but not limited to, waste paper, rags, metal, building materials, house furnishings, machinery, vehicles, or parts thereof, which are being stored awaiting potential reuse or ultimate disposal. In addition, junk shall include one or more unlicensed, wrecked, or disabled vehicles, or the major part thereof. (A disabled vehicle is a vehicle intended to be self-propelled that shall not be operable under its own power for any reason, or a vehicle that does not have a valid current registration plate or that has a certificate of inspection which is more than sixty (60) days beyond the expiration date). This will except farm equipment utilized in farming operations.
 
-Junk Yard: An area of land, with or without buildings, used for the storage, outside a
-completely enclosed building, of used and discarded materials, including, but not
-limited to, waste paper, rags, metal, building materials, house furnishings, machinery,
-vehicles, or parts thereof, with or without the dismantling, processing, salvage, sale or
-other use or disposition of the same. The deposit or storage on a lot of one or more
-unlicensed, wrecked or disabled vehicles, or the major part thereof, shall be deemed to
-constitute a “junkyard”. (A disabled vehicle is a vehicle intended to be self-propelled
-that shall not be operable under its own power for any reason, or a vehicle that does not
-have a valid current registration plate or that has a certificate of inspection which is
-more than sixty (60) days beyond the expiration date).
+<u>Junk Yard</u>: An area of land, with or without buildings, used for the storage, outside a completely enclosed building, of used and discarded materials, including, but not limited to, waste paper, rags, metal, building materials, house furnishings, machinery, vehicles, or parts thereof, with or without the dismantling, processing, salvage, sale or other use or disposition of the same. The deposit or storage on a lot of one or more unlicensed, wrecked or disabled vehicles, or the major part thereof, shall be deemed to constitute a “junkyard”. (A disabled vehicle is a vehicle intended to be self-propelled that shall not be operable under its own power for any reason, or a vehicle that does not have a valid current registration plate or that has a certificate of inspection which is more than sixty (60) days beyond the expiration date).
 
-Land Development: The improvement of one lot or two or more contiguous lots, tracts
-or parcels of land for any purpose involving:
+<u>Land Development</u>: The improvement of one lot or two or more contiguous lots, tracts or parcels of land for any purpose involving:
 
-A group of two or more residential or non-residential buildings, whether
-proposed initially or cumulatively, or a single non-residential building on a lot
-or lots regardless of the number of occupants or tenure; or
+A group of two or more residential or non-residential buildings, whether proposed initially or cumulatively, or a single non-residential building on a lot or lots regardless of the number of occupants or tenure; or
 
-The division or allocation of land or space, whether initially or cumulatively,
-between or among two or more existing or prospective occupants by means of,
-or for the purpose of streets, common areas, leaseholds, condominiums,
-building groups or other features.
+The division or allocation of land or space, whether initially or cumulatively, between or among two or more existing or prospective occupants by means of, or for the purpose of streets, common areas, leaseholds, condominiums, building groups or other features.
 
-Landscape Area: The minimum square footage of lot area that is available for the use
-of the residents of a dwelling unit complex in which it is located or a part of the
-required area of a commercial or industrial development. This area must be both
-unsurfaced and water absorbent, and no more than one-third of this total space footage
-requirement may be made up of the area located within the setback requirements for the
-front, side, or rear yards of the complex.
+<u>Landscape Area</u>: The minimum square footage of lot area that is available for the use of the residents of a dwelling unit complex in which it is located or a part of the required area of a commercial or industrial development. This area must be both unsurfaced and water absorbent, and no more than one-third of this total space footage requirement may be made up of the area located within the setback requirements for the front, side, or rear yards of the complex.
 
-Landowner: The legal, beneficial, equitable owner or owners of land, including the
-holder of an option or contract to purchase (whether or not such option or contract is
-subject to any condition), a lessee (if he is authorized under the lease to exercise the
-rights of the landowner), or another person having a proprietary interest in land, shall
-be deemed to be a landowner for the purpose of this Ordinance.
+<u>Landowner</u>: The legal, beneficial, equitable owner or owners of land, including the holder of an option or contract to purchase (whether or not such option or contract is subject to any condition), a lessee (if he is authorized under the lease to exercise the rights of the landowner), or another person having a proprietary interest in land, shall be deemed to be a landowner for the purpose of this Ordinance.
 
-Laundromat: A business premise equipped with individual clothes washing machines
-for the use of retail customers, exclusive of laundry facilities provided as an accessory
-use in an apartment house or an apartment hotel.
+<u>Laundromat</u>: A business premise equipped with individual clothes washing machines for the use of retail customers, exclusive of laundry facilities provided as an accessory use in an apartment house or an apartment hotel.
 
-Lighting:
+<u>Lighting</u>:
 
 1. Diffused - That form of lighting wherein the light passes from the source through a translucent cover or shade.
 
@@ -783,406 +416,195 @@ Lighting:
 
 3. Indirect - That form of lighting wherein the light source is entirely hidden, the light being projected to a suitable reflector from which it is reflected to the object to be illuminated.
 
-Line, Street: The dividing line between the street and the lot.
-
-Lodging House: A building in which three (3) or more, but not more than fifteen (15)
-rooms, are rented and in which no table board is furnished.
-
-Lot: Land occupied or to be occupied by a building and its accessory buildings, or by a
-dwelling group and its accessory buildings, together with such open spaces as are
-required under the provisions of this Ordinance, having not less than the minimum area
-and width required by this Ordinance for a lot in the district which such land is situated,
-and having its principal frontage on a street or on such other means of access as may be
-determined in accordance with the provisions of law to be adequate as a condition of
-the issuance of a zoning permit for a building on such land.
-
-Lot, Corner: A parcel of land at the junction of and abutting on two or more
-intersecting streets.
-
-Lot, Flag: A lot whose frontage does not satisfy the minimum width requirements for
-the respective zone, but that does have sufficient lot width away from the lot’s frontage.
-
-Lot, Interior: A lot other than a comer lot.
-Lot Lines: The lines bounding a lot as defined herein.
-
-Manure: The fecal and urinary excrement of livestock and poultry, often containing
-some spilled feed, bedding or litter.
-
-Manure Storage Facilities: A detached structure or other improvement built to store
-manure for future use, or disposal. Types of storage facilities are as follows:
-underground storage, in-ground storage, earthen bank, stacking area, and above-ground
-storage.
-
-Mobilehome: Any structure intended for, or capable of, permanent human habitation,
-with or without wheels, and capable of being transported or towed from one place to
-the next, in one or more pieces, by whatsoever name or title it is colloquially or
-commercially known, but travel trailers. Mobile homes placed in parks shall meet the
-requirements for mobile home parks listed in [Section 1115](#section-1115) of this Ordinance. Mobile
-homes placed on individual lots shall be considered “dwellings,” and be bound by the
-requirements there-imposed. For the purposes of this Ordinance, any travel trailer, as
-defined herein, that is contained on the same parcel for more than one hundred eighty
-(180) days in any calendar year shall be considered a mobile home.
-
-Mobilehome Lot: A parcel of land in a mobilehome park, improved with the necessary
-utility connections and other appurtenances necessary for the erection thereon of a
-single mobilehome.
-
-Mobilehome Park: A parcel, or contiguous parcels that are under the same ownership,
-which have been so designated and improved to contain two or more mobile home lots
-for the placement thereon of mobilehome.
-
-Municipality: The Township of Fayette, Juniata County, Pennsylvania.
-
-Natural Resource Extraction: Activities include, but are not limited to excavation,
-quarrying, mining, the production of forest products and forest industries.
-
-New Construction: Structures for which the start of construction commenced on or
-after the effective date of this section.
-
-Non-conforming Lot: A lot, the area or dimension of which was lawful prior to the
-adoption or amendment of a zoning ordinance, but which fails to conform to the
-requirements of the zoning district in which it is located by reasons of such adoption or
-amendment.
-
-Non-conforming Structure: A structure or part of a structure manifestly not designed to
-comply with the applicable use or extent of use provisions in a zoning ordinance or
-amendment heretofore or hereafter enacted, where such structure lawfully existed prior
-to the enactment of such ordinance or amendment or prior to the application of such
-ordinance or amendment to its location by reason of annexation. Such non-conforming
-structures include, but are not limited to, non-conforming signs.
-
-Non-conforming Use: A use, whether of land or of structure, which does not comply
-with the applicable use provisions in a zoning ordinance or amendment heretofore or
-hereafter enacted, where such use was lawfully in existence prior to the enactment of
-such ordinance or amendment, or prior to the application of such ordinance or
-amendment to its location by reason of annexation.
-
-Non-conformity, Dimensional: Any aspect of a land use that does not comply with any
-size, height, bulk, setback, distance, landscaping, coverage, screening, or any other
-design or performance standard specified by this Ordinance, where such dimensional
-non-conformity lawfully existed prior to the adoption of this Ordinance or amendment
-thereto.
-
-Nursing or Convalescent Home: Any dwelling with less than fifteen (15) sleeping
-rooms where persons are housed or lodged and furnished with meals and nursing care
-for hire.
-
-Off-site Sewer Service: A sanitary sewage collection system in which sewage is carried
-from individual lot or dwelling units by a system of pipes to a central treatment and
-disposal plant which may be publicly or privately owned and operated.
-
-On-Site Sewer Service: A single system of piping, tanks or other facilities serving only
-a single lot and disposing of sewage in whole or in part into the soil.
-
-Open Pit Mining: Open pit mining shall include all activity which removes from the
-surface or beneath the surface, of the land some material mineral resource, natural
-resource, or other element of economic value, by means of mechanical excavation
-necessary to separate the desired material from an undesirable one: or to remove the
-strata or material which overlies or is above the desired material in its natural condition
-and position. Open pit mining includes, but is not limited to, the excavation necessary
-to the extraction of: sand, gravel, topsoil, limestone, sandstone, coal, clay, shale, and
-iron ore.
-
-Open Space: An unoccupied space open to the sky on the same lot with the building.
-
-Open Space Option: A conditional use in a residential use district that may be granted
-to a landowner or developer which would enable said landowner or developer to
-subdivide a parcel of land into lots for building purposes which do not conform to the
-minimum requirements of the district, provided open space is included in the plan
-designed for passive or active recreational purposes for dedication to the Township.
-
-PA DEP: Pennsylvania Department of Environmental Protection.
-
-Parking Lot: An accessory use in which required, and possibly additional, parking
-spaces are provided subject to the requirements listed in this Ordinance.
+<u>Line, Street</u>: The dividing line between the street and the lot.
 
-Parking Space: An off-street space available for the parking of one (1) motor vehicle
-and having usable access to a street or alley.
-
-Parks, Private: A recreational facility owned or operated by a nonpublic agency and/or
-conducted as a private gainful business.
-
-Parks, Public and/or Non-Profit: Those facilities designed and used for recreation
-purposes by the general public that are (1) owned and operated by a government or
-governmental agency/authority, or (2) are operated on a nonprofit basis. This
-
-definition is meant to include the widest range of recreational activities, excluding adult
-entertainment uses, and amusement arcades.
-
-PennDOT: Pennsylvania Department of Transportation-
-
-Plat: A map, plan or layout of a subdivision indicating the location and boundaries of
-individual properties.
-
-Porch: A covered area in excess of four (4) feet by five (5) feet or twenty (20) square
-feet in area at a front, side, or rear door.
-
-Premises: Any lot, parcel or tract of land and any building constructed thereon.
-
-Profession: Includes any occupation or vocation in which a professed knowledge of
-some department of science or learning is used by its practical application to the affairs
-others, either advising, guiding, or teaching them and in serving their interest or
-welfare in the practice of an art founded on it. The work implies attainments in
-professional knowledge as distinguished from mere skill and the application of such
-knowledge to uses for others as a vocation. It requires knowledge of an advanced type
-in a given field of science or instruction and study.
-
-Property Line: A recorded boundary of a lot, however, any property line which abuts
-a “street” or other public or quasi-public way shall be measured from the full right-of-
-way.
-
-Public Uses, Appropriate: Includes public and semi-public uses of a welfare and
-educational nature, such as hospitals, nursing homes, schools, parks, churches,
-cemeteries, civic centers, historical restorations, fire stations, municipal buildings;
-essential public utilities that require enclosure within a building; airports; fraternal
-clubs and homes; non-profit recreational facilities; and easements of alleys, streets, and
-public utility rights-of-way.
-
-Residence: A place in which a person lives.
-
-Restaurant: A building designed for the preparation and serving of food to the general
-public within the same structure; wrapping, covering or packaging food for take-out
-and consumption of food off premises is incidental to providing table service to
-customers for the purpose of facilitating consumption of food on the premises, as
-distinguished from Drive-In Restaurants.
-
-Restaurant, Drive-In: A building designed for the preparation of food to be consumed
-by and served to the general public within the structure or outside of the structure.
-Differentiated from a restaurant in that no table service is offered, and wrapping,
-covering and/or packaging food is specialized to facilities off-premises consumption of
-food.
-
-Riding Academy: Any establishment where horses are kept for riding, driving, or
-stabling for compensation or incidental to the operation of any club, association, ranch
-or similar establishment.
-
-Right-of-Way: A corridor of publicity owned or eased land for purposes of maintaining
-primary vehicular and pedestrian access to abutting properties, including but not limited
-to, roads, streets, highways and sidewalks. Abutting property owners are prohibited
-from encroaching across the right-of-way line. (See also “Street”).
-
-Road Classification: Setback distance in this Ordinance may vary in accordance with
-the type of roadway abutting the properties. For the purpose of this Ordinance,
-classifications shall be consistent with those contained in the Subdivision and Land
-Development Ordinance and the Comprehensive Plan.
-
-Roadside Stands: Roadside stands are considered to be temporary stands for the sale of
-garden products and/or garden commodities produced on the same property where
-offered for sale.
-
-Sanitarium, Sanatorium: An institution for the car of invalids or convalescents
-consisting of sixteen (16) or more sleeping rooms.
-
-Sanitary Landfill: A lot or land or part thereof used primarily for the disposal of
-garbage, refuse, and other discarded materials including, but not limited to, solid and
-liquid waste materials resulting from industrial, commercial, agricultural, and
-residential activities. The operation of a sanitary landfill normally consists of: (1)
-Depositing the discarded material in a planned controlled manner, (2) Compacting the
-discarded material in thin layers to reduce its volume, (3) Covering the discarded
-material with a layer of earth, and (4) Compacting the earth cover.
-
-Screen Planting: A vegetative material of sufficient height and density to conceal from
-the view of property owners in adjoining residential districts the structures and uses on
-the premises on which the screen planting is located.
-
-Seasonal Residence: A dwelling, cabin, lodge or summer house which is intended for
-occupancy less than one hundred and eight-two (182) days of the year.
-
-Services, Essential: Uses, not enclosed within a building, necessary for the
-preservation of the public health and safety including, but not limited to, the erection,
-construction, alteration or maintenance of, by public utilities or governmental agencies,
-
-underground or overhead transmission systems, poles, wires, pipes, cables, fire alarms
-boxes, hydrants, or other similar equipment.
-
-Service Station: Any area of land, including structures thereon, that is used or
-designed to be used for the supply of gasoline or oil or other fuel for the propulsion of
-motor vehicles and which may include facilities used or designated to be used for
-polishing, greasing, washing, spraying, dry cleaning or otherwise cleaning or servicing
-such motor vehicles.
-
-Setback Line: The line within a property defining the required minimum distance
-between any building to be erected and the adjacent right-of-way. Such line shall be
-measured at right angles from the front street right-of-way line which abuts the property
-upon which said building is located and shall be parallel to said right-of-way line.
-
-Sign: Any device for visual communication that is used for the purpose of bringing the
-subject thereof the attention of the public, but not including any flag, badge, or insignia
-of any government or government agency, or of any civic, charitable, religious,
-patriotic, or similar organization.
-
-Soil Survey: The latest published version of the United States Department of
-Agriculture’s Soil Survey for Cumberland County, Pennsylvania.
-
-Solid Waste: Garbage, refuse and other discarded materials including, but not limited
-to, solid and liquid waste materials resulting from municipal, industrial, commercial,
-agricultural and residential activities. Such wastes shall not include biological
-excrement nor hazardous waste materials as defined in the Code of Federal
-Regulations, Title 40, Chapter 1, Part 261, dated July 1, 1984, or as amended.
-
-Special Exception: The granting of a modification of the provisions of this Ordinance
-as authorized in specific instances listed, and under the terms, procedures, and
-conditions prescribed herein. Special exceptions are administered by the Zoning
-Hearing Board.
-
-Stable, Private: An accessory building in which horses are kept for private use and not
-for hire, remuneration or sale.
-
-Stable, Public: A building in which any horses are kept for private use and not for
-hire, remuneration or sale.
-
-Stoop: A covered or uncovered area at a front, side or rear door not exceeding four (4)
-feet by five (5) feet or twenty (20) square feet in area.
-
-Story: That portion of a building included between the surface of any floor and the
-surface of the floor next above it, or if there be no floor above it, then the space
-between any floor and the ceiling next above it.
-
-Story, Half: A story under a gable, hip or gambrel roof, the wall plates of which on at
-least two (2) opposite exterior walls are not more than two (2) feet above the floor of
-such story.
-
-Street: Includes street, avenue, boulevard, road, highway, freeway, lane, viaduct and
-any other dedicated and adopted public or private right-of-way used or intended to be
-used by vehicular traffic and/or pedestrians.
-
-Street-Center Line: The center of the surveyed street right-of-way, or where not
-surveyed, the center of the traveled cartway.
-
-Street Grade: The officially established grade of the street upon which a lot fronts or in
-its absence the established grade of other streets upon which the lot abuts, at the
-midpoint of the frontage of the lot thereon, if there is no officially established grade,
-the existing grade of the street at such midpoint shall be taken as the street grade.
-
-Street Right-of-Way Line: The line dividing a lot from the full street right-of-way, not
-just the cartway. The word “street” shall include, but not be limited to, the words
-“road”, “highway”, “alley”, and “thoroughfare” .
-
-Structure: Any assembly of materials constructed or erected with a fixed location on
-the ground, or attached to something having a fixed location on the ground, any portion
-of which is above the natural surface grade, including, but not limited to, buildings,
-sheds cabins, mobile homes and trailers, fences, dams, culverts, roads, railroads,
-bridges, storage tanks, and signs.
-
-    Structure Accessory: A structure associated with an accessory use, (e.g. swimming pools, patios, antennas, tennis courts, garages, utility sheds, etc.).
-
-    Structure, Principal: A structure associated with a primary use.
-
-Structures shall not include such things as fences, sandboxes, decorative fountains,
-swing sets, birdhouses, birdfeeders, mailboxes, and any other similar nonpermanent
-improvements.
-
-Subdivision: An area of land divided by the owners or agent, either by lots or by metes
-and bounds into lots or parcels two or more in number, for the purpose of conveyance,
-transfer, improvement or sale. The appurtenant roads, streets, lanes, alleys, and ways
-dedicated or intended to be dedicated to public uses, or the use of purchasers or owners
-of lots fronting thereon are included. The word “subdivision” includes the word
-“resubdivision” , “plot”, “plan”, or “re-plan”.
-
-Swimming Pool:
+<u>Lodging House</u>: A building in which three (3) or more, but not more than fifteen (15) rooms, are rented and in which no table board is furnished.
+
+<u>Lot</u>: Land occupied or to be occupied by a building and its accessory buildings, or by a dwelling group and its accessory buildings, together with such open spaces as are required under the provisions of this Ordinance, having not less than the minimum area and width required by this Ordinance for a lot in the district which such land is situated, and having its principal frontage on a street or on such other means of access as may be determined in accordance with the provisions of law to be adequate as a condition of the issuance of a zoning permit for a building on such land.
+
+<u>Lot, Corner</u>: A parcel of land at the junction of and abutting on two or more intersecting streets.
+
+<u>Lot, Flag</u>: A lot whose frontage does not satisfy the minimum width requirements for the respective zone, but that does have sufficient lot width away from the lot’s frontage.
+
+<u>Lot, Interior</u>: A lot other than a comer lot. Lot Lines: The lines bounding a lot as defined herein.
+
+<u>Manure</u>: The fecal and urinary excrement of livestock and poultry, often containing some spilled feed, bedding or litter.
+
+<u>Manure Storage Facilities</u>: A detached structure or other improvement built to store manure for future use, or disposal. Types of storage facilities are as follows: underground storage, in-ground storage, earthen bank, stacking area, and above-ground storage.
+
+<u>Mobilehome</u>: Any structure intended for, or capable of, permanent human habitation, with or without wheels, and capable of being transported or towed from one place to the next, in one or more pieces, by whatsoever name or title it is colloquially or commercially known, but travel trailers. Mobile homes placed in parks shall meet the requirements for mobile home parks listed in [Section 1115](#section-1115) of this Ordinance. Mobile homes placed on individual lots shall be considered “dwellings,” and be bound by the requirements there-imposed. For the purposes of this Ordinance, any travel trailer, as defined herein, that is contained on the same parcel for more than one hundred eighty (180) days in any calendar year shall be considered a mobile home.
+
+<u>Mobilehome Lot</u>: A parcel of land in a mobilehome park, improved with the necessary utility connections and other appurtenances necessary for the erection thereon of a single mobilehome.
+
+<u>Mobilehome Park</u>: A parcel, or contiguous parcels that are under the same ownership, which have been so designated and improved to contain two or more mobile home lots for the placement thereon of mobilehome.
+
+<u>Municipality</u>: The Township of Fayette, Juniata County, Pennsylvania.
+
+<u>Natural Resource Extraction</u>: Activities include, but are not limited to excavation, quarrying, mining, the production of forest products and forest industries.
+
+<u>New Construction</u>: Structures for which the start of construction commenced on or after the effective date of this section.
+
+<u>Non-conforming Lot</u>: A lot, the area or dimension of which was lawful prior to the adoption or amendment of a zoning ordinance, but which fails to conform to the requirements of the zoning district in which it is located by reasons of such adoption or amendment.
+
+<u>Non-conforming Structure</u>: A structure or part of a structure manifestly not designed to comply with the applicable use or extent of use provisions in a zoning ordinance or amendment heretofore or hereafter enacted, where such structure lawfully existed prior to the enactment of such ordinance or amendment or prior to the application of such ordinance or amendment to its location by reason of annexation. Such non-conforming structures include, but are not limited to, non-conforming signs.
+
+<u>Non-conforming Use</u>: A use, whether of land or of structure, which does not comply with the applicable use provisions in a zoning ordinance or amendment heretofore or hereafter enacted, where such use was lawfully in existence prior to the enactment of such ordinance or amendment, or prior to the application of such ordinance or amendment to its location by reason of annexation.
+
+<u>Non-conformity, Dimensional</u>: Any aspect of a land use that does not comply with any size, height, bulk, setback, distance, landscaping, coverage, screening, or any other design or performance standard specified by this Ordinance, where such dimensional non-conformity lawfully existed prior to the adoption of this Ordinance or amendment thereto.
+
+<u>Nursing or Convalescent Home</u>: Any dwelling with less than fifteen (15) sleeping rooms where persons are housed or lodged and furnished with meals and nursing care for hire.
+
+<u>Off-site Sewer Service</u>: A sanitary sewage collection system in which sewage is carried from individual lot or dwelling units by a system of pipes to a central treatment and disposal plant which may be publicly or privately owned and operated.
+
+<u>On-Site Sewer Service</u>: A single system of piping, tanks or other facilities serving only a single lot and disposing of sewage in whole or in part into the soil.
+
+<u>Open Pit Mining</u>: Open pit mining shall include all activity which removes from the surface or beneath the surface, of the land some material mineral resource, natural resource, or other element of economic value, by means of mechanical excavation necessary to separate the desired material from an undesirable one: or to remove the strata or material which overlies or is above the desired material in its natural condition and position. Open pit mining includes, but is not limited to, the excavation necessary to the extraction of: sand, gravel, topsoil, limestone, sandstone, coal, clay, shale, and iron ore.
+
+<u>Open Space</u>: An unoccupied space open to the sky on the same lot with the building.
+
+<u>Open Space Option</u>: A conditional use in a residential use district that may be granted to a landowner or developer which would enable said landowner or developer to subdivide a parcel of land into lots for building purposes which do not conform to the minimum requirements of the district, provided open space is included in the plan designed for passive or active recreational purposes for dedication to the Township.
+
+<u>PA DEP</u>: Pennsylvania Department of Environmental Protection.
+
+<u>Parking Lot</u>: An accessory use in which required, and possibly additional, parking spaces are provided subject to the requirements listed in this Ordinance.
+
+<u>Parking Space</u>: An off-street space available for the parking of one (1) motor vehicle and having usable access to a street or alley.
+
+<u>Parks, Private</u>: A recreational facility owned or operated by a nonpublic agency and/or conducted as a private gainful business.
+
+<u>Parks, Public and/or Non-Profit</u>: Those facilities designed and used for recreation purposes by the general public that are (1) owned and operated by a government or governmental agency/authority, or (2) are operated on a nonprofit basis. This definition is meant to include the widest range of recreational activities, excluding adult entertainment uses, and amusement arcades.
+
+<u>PennDOT</u>: Pennsylvania Department of Transportation-
+
+<u>Plat</u>: A map, plan or layout of a subdivision indicating the location and boundaries of individual properties.
+
+<u>Porch</u>: A covered area in excess of four (4) feet by five (5) feet or twenty (20) square feet in area at a front, side, or rear door.
+
+<u>Premises</u>: Any lot, parcel or tract of land and any building constructed thereon.
+
+<u>Profession</u>: Includes any occupation or vocation in which a professed knowledge of some department of science or learning is used by its practical application to the affairs others, either advising, guiding, or teaching them and in serving their interest or welfare in the practice of an art founded on it. The work implies attainments in professional knowledge as distinguished from mere skill and the application of such knowledge to uses for others as a vocation. It requires knowledge of an advanced type in a given field of science or instruction and study.
+
+<u>Property Line</u>: A recorded boundary of a lot, however, any property line which abuts a “street” or other public or quasi-public way shall be measured from the full right-of- way.
+
+<u>Public Uses, Appropriate</u>: Includes public and semi-public uses of a welfare and educational nature, such as hospitals, nursing homes, schools, parks, churches, cemeteries, civic centers, historical restorations, fire stations, municipal buildings; essential public utilities that require enclosure within a building; airports; fraternal clubs and homes; non-profit recreational facilities; and easements of alleys, streets, and public utility rights-of-way.
+
+<u>Residence</u>: A place in which a person lives.
+
+<u>Restaurant</u>: A building designed for the preparation and serving of food to the general public within the same structure; wrapping, covering or packaging food for take-out and consumption of food off premises is incidental to providing table service to customers for the purpose of facilitating consumption of food on the premises, as distinguished from Drive-In Restaurants.
+
+<u>Restaurant, Drive-In</u>: A building designed for the preparation of food to be consumed by and served to the general public within the structure or outside of the structure. Differentiated from a restaurant in that no table service is offered, and wrapping, covering and/or packaging food is specialized to facilities off-premises consumption of food.
+
+<u>Riding Academy</u>: Any establishment where horses are kept for riding, driving, or stabling for compensation or incidental to the operation of any club, association, ranch or similar establishment.
+
+<u>Right-of-Way</u>: A corridor of publicity owned or eased land for purposes of maintaining primary vehicular and pedestrian access to abutting properties, including but not limited to, roads, streets, highways and sidewalks. Abutting property owners are prohibited from encroaching across the right-of-way line. (See also “Street”).
+
+<u>Road Classification</u>: Setback distance in this Ordinance may vary in accordance with the type of roadway abutting the properties. For the purpose of this Ordinance, classifications shall be consistent with those contained in the Subdivision and Land Development Ordinance and the Comprehensive Plan.
+
+<u>Roadside Stands</u>: Roadside stands are considered to be temporary stands for the sale of garden products and/or garden commodities produced on the same property where offered for sale.
+
+<u>Sanitarium, Sanatorium</u>: An institution for the car of invalids or convalescents consisting of sixteen (16) or more sleeping rooms.
+
+<u>Sanitary Landfill</u>: A lot or land or part thereof used primarily for the disposal of garbage, refuse, and other discarded materials including, but not limited to, solid and liquid waste materials resulting from industrial, commercial, agricultural, and residential activities. The operation of a sanitary landfill normally consists of: (1) Depositing the discarded material in a planned controlled manner, (2) Compacting the discarded material in thin layers to reduce its volume, (3) Covering the discarded material with a layer of earth, and (4) Compacting the earth cover.
+
+<u>Screen Planting</u>: A vegetative material of sufficient height and density to conceal from the view of property owners in adjoining residential districts the structures and uses on the premises on which the screen planting is located.
+
+<u>Seasonal Residence</u>: A dwelling, cabin, lodge or summer house which is intended for occupancy less than one hundred and eight-two (182) days of the year.
+
+<u>Services, Essential</u>: Uses, not enclosed within a building, necessary for the preservation of the public health and safety including, but not limited to, the erection, construction, alteration or maintenance of, by public utilities or governmental agencies, underground or overhead transmission systems, poles, wires, pipes, cables, fire alarms boxes, hydrants, or other similar equipment.
+
+<u>Service Station</u>: Any area of land, including structures thereon, that is used or designed to be used for the supply of gasoline or oil or other fuel for the propulsion of motor vehicles and which may include facilities used or designated to be used for polishing, greasing, washing, spraying, dry cleaning or otherwise cleaning or servicing such motor vehicles.
+
+<u>Setback Line</u>: The line within a property defining the required minimum distance between any building to be erected and the adjacent right-of-way. Such line shall be measured at right angles from the front street right-of-way line which abuts the property upon which said building is located and shall be parallel to said right-of-way line.
+
+<u>Sign</u>: Any device for visual communication that is used for the purpose of bringing the subject thereof the attention of the public, but not including any flag, badge, or insignia of any government or government agency, or of any civic, charitable, religious, patriotic, or similar organization.
+
+<u>Soil Survey</u>: The latest published version of the United States Department of Agriculture’s Soil Survey for Cumberland County, Pennsylvania.
+
+<u>Solid Waste</u>: Garbage, refuse and other discarded materials including, but not limited to, solid and liquid waste materials resulting from municipal, industrial, commercial, agricultural and residential activities. Such wastes shall not include biological excrement nor hazardous waste materials as defined in the Code of Federal Regulations, Title 40, Chapter 1, Part 261, dated July 1, 1984, or as amended.
+
+<u>Special Exception</u>: The granting of a modification of the provisions of this Ordinance as authorized in specific instances listed, and under the terms, procedures, and conditions prescribed herein. Special exceptions are administered by the Zoning Hearing Board.
+
+<u>Stable, Private</u>: An accessory building in which horses are kept for private use and not for hire, remuneration or sale.
+
+<u>Stable, Public</u>: A building in which any horses are kept for private use and not for hire, remuneration or sale.
+
+<u>Stoop</u>: A covered or uncovered area at a front, side or rear door not exceeding four (4) feet by five (5) feet or twenty (20) square feet in area.
+
+<u>Story</u>: That portion of a building included between the surface of any floor and the surface of the floor next above it, or if there be no floor above it, then the space between any floor and the ceiling next above it.
+
+<u>Story, Half</u>: A story under a gable, hip or gambrel roof, the wall plates of which on at least two (2) opposite exterior walls are not more than two (2) feet above the floor of such story.
+
+<u>Street</u>: Includes street, avenue, boulevard, road, highway, freeway, lane, viaduct and any other dedicated and adopted public or private right-of-way used or intended to be used by vehicular traffic and/or pedestrians.
+
+<u>Street-Center Line</u>: The center of the surveyed street right-of-way, or where not surveyed, the center of the traveled cartway.
+
+<u>Street Grade</u>: The officially established grade of the street upon which a lot fronts or in its absence the established grade of other streets upon which the lot abuts, at the midpoint of the frontage of the lot thereon, if there is no officially established grade, the existing grade of the street at such midpoint shall be taken as the street grade.
+
+<u>Street Right-of-Way Line</u>: The line dividing a lot from the full street right-of-way, not just the cartway. The word “street” shall include, but not be limited to, the words “road”, “highway”, “alley”, and “thoroughfare” .
+
+<u>Structure</u>: Any assembly of materials constructed or erected with a fixed location on the ground, or attached to something having a fixed location on the ground, any portion of which is above the natural surface grade, including, but not limited to, buildings, sheds cabins, mobile homes and trailers, fences, dams, culverts, roads, railroads, bridges, storage tanks, and signs.
+
+<u>Structure Accessory</u>: A structure associated with an accessory use, (e.g. swimming pools, patios, antennas, tennis courts, garages, utility sheds, etc.).
+
+<u>Structure, Principal</u>: A structure associated with a primary use.
+
+Structures shall not include such things as fences, sandboxes, decorative fountains, swing sets, birdhouses, birdfeeders, mailboxes, and any other similar nonpermanent improvements.
+
+<u>Subdivision</u>: An area of land divided by the owners or agent, either by lots or by metes and bounds into lots or parcels two or more in number, for the purpose of conveyance, transfer, improvement or sale. The appurtenant roads, streets, lanes, alleys, and ways dedicated or intended to be dedicated to public uses, or the use of purchasers or owners of lots fronting thereon are included. The word “subdivision” includes the word “resubdivision” , “plot”, “plan”, or “re-plan”.
+
+<u>Swimming Pool</u>:
 
 1. Private ~ Any reasonably permanent pool or open tank, not located within a completely enclosed building, and containing or normally capable of containing, water to a depth at any point greater than one and one-half (1 2) feet. Farm ponds and/or lakes are not included, provided that swimming was not the primary purpose for their construction.
 2. Public - A public bathing place shall mean any open or enclosed place, open to the public for amateur and professional swimming or recreative bathing, whether or not a fee is charged for admission or for the use thereof.
 
-Telephone Central Office: A building and its equipment erected and used for the
-purpose of facilitating transmission and exchange of telephone or radio telephone
-messages between subscribers and other business of the Telephone Company; but in a
-residential district not to include public business facilities, storage or materials, trucks
-or repair facilities, or housing or repair crews.
+<u>Telephone Central Office</u>: A building and its equipment erected and used for the purpose of facilitating transmission and exchange of telephone or radio telephone messages between subscribers and other business of the Telephone Company; but in a residential district not to include public business facilities, storage or materials, trucks or repair facilities, or housing or repair crews.
 
-Theater: A building or part of a building devoted to the showing of moving pictures or
-theatrical productions on a paid admission basis.
+<u>Theater</u>: A building or part of a building devoted to the showing of moving pictures or theatrical productions on a paid admission basis.
 
-Theater, Outdoor Drive-In: An open lot or part thereof, with its appurtenant facilities,
-devoted primarily to the showing of moving pictures or theatrical productions, on a
-paid admission basis, to patrons seated in automobiles, or on outdoor seats.
+<u>Theater, Outdoor Drive-In</u>: An open lot or part thereof, with its appurtenant facilities, devoted primarily to the showing of moving pictures or theatrical productions, on a paid admission basis, to patrons seated in automobiles, or on outdoor seats.
 
-Tourist Cabins: A group of buildings, including either separate cabins or a row of
-cabins, which:
+<u>Tourist Cabins</u>: A group of buildings, including either separate cabins or a row of cabins, which:
 
 1. Contain living and sleeping accommodations for transient occupancy; and
 2. Have individual entrances.
 
-Travel Trailer: A vehicular, portable structure built on a chassis, designed to be used
-as a temporary dwelling for travel, recreational, and vacation uses, permanently
+<u>Travel Trailer</u>: A vehicular, portable structure built on a chassis, designed to be used as a temporary dwelling for travel, recreational, and vacation uses, permanently identified “Travel Trailer” by the manufacturer on the trailer. Unoccupied travel trailers do not constitute mobilehomes, as used in this Ordinance.
 
-identified “Travel Trailer” by the manufacturer on the trailer. Unoccupied travel
-trailers do not constitute mobilehomes, as used in this Ordinance.
+<u>Use</u>: The specific purpose for which land or a building is designed, arranged, intended, or for which it is or may be occupied or maintained. The term “permitted use” or its equivalent shall not be deemed to include any non-conforming use.
 
-Use: The specific purpose for which land or a building is designed, arranged,
-intended, or for which it is or may be occupied or maintained. The term “permitted
-use” or its equivalent shall not be deemed to include any non-conforming use.
+<u>Use, Accessory</u>: A use customarily incidental and subordinate to the principal use or building and located on the same lot with this principal use or building.
 
-Use, Accessory: A use customarily incidental and subordinate to the principal use or
-building and located on the same lot with this principal use or building.
+<u>Use, Principal</u>: The main or primary use of property or structures.
 
-Use, Principal: The main or primary use of property or structures.
+<u>Use and Occupancy Permit</u>: A permit issued by the Zoning Officer certifying a use’s compliance with information reflected on the Zoning Permit and the Zoning Ordinance.
 
-Use and Occupancy Permit: A permit issued by the Zoning Officer certifying a use’s
-compliance with information reflected on the Zoning Permit and the Zoning Ordinance.
+<u>Utility Shed</u>: A small building accessory to a dwelling unit designed primarily for the storage of yard and garden equipment, bicycles, and other miscellaneous household items incidental to a dwelling and of the type customarily made of prefabricated materials, purchased assembled, and erected by the property owner but not including truck trailers without wheels that have been permanently or temporarily parked for storage purposes.
 
-Utility Shed: A small building accessory to a dwelling unit designed primarily for the
-storage of yard and garden equipment, bicycles, and other miscellaneous household
-items incidental to a dwelling and of the type customarily made of prefabricated
-materials, purchased assembled, and erected by the property owner but not including
-truck trailers without wheels that have been permanently or temporarily parked for
-storage purposes.
+<u>Variance</u>: The permission, granted by the Zoning Hearing Board, following a public hearing that has been properly advertised, for an adjustment to some regulation or provision of the Zoning Ordinance which, if strictly adhered to, would result in an unnecessary hardship, and where the permission granted would not be contrary to the public interest, and would maintain the spirit and intent of the Ordinance.
 
-Variance: The permission, granted by the Zoning Hearing Board, following a public
-hearing that has been properly advertised, for an adjustment to some regulation or
-provision of the Zoning Ordinance which, if strictly adhered to, would result in an
-unnecessary hardship, and where the permission granted would not be contrary to the
-public interest, and would maintain the spirit and intent of the Ordinance.
+<u>Watercourse</u>: A permanent or intermittent stream, river, brook, run, creek, channel, swale, pond, lake or other body of surface water carrying or holding surface water, whether natural or artificial.
 
-Watercourse: A permanent or intermittent stream, river, brook, run, creek, channel,
-swale, pond, lake or other body of surface water carrying or holding surface water,
-whether natural or artificial.
+<u>Watershed</u>: All the land from which water drains into a particular watercourse.
 
-Watershed: All the land from which water drains into a particular watercourse.
+<u>Wetland</u>: Area with the characteristics of wetland, as defined by the U.S. Environmental Protection Agency, U.S. Army Corps of Engineers, Pennsylvania Department of Environmental Protection, and the U.S. Soil Conservation Service. Wetland areas are not limited to the locations delineated on wetland maps prepared by the U.S. Fish and Wildlife Service.
 
-Wetland: Area with the characteristics of wetland, as defined by the U.S.
-Environmental Protection Agency, U.S. Army Corps of Engineers, Pennsylvania
-Department of Environmental Protection, and the U.S. Soil Conservation Service.
-Wetland areas are not limited to the locations delineated on wetland maps prepared by
-the U.S. Fish and Wildlife Service.
+<u>Window</u>: An opening to the outside other than a door which provides all or part of the required natural light, natural ventilation or both to an interior space, the glazed portion of a door in an exterior wall may be construed to be a window in regard to provision of natural light.
 
-Window: An opening to the outside other than a door which provides all or part of the
-required natural light, natural ventilation or both to an interior space, the glazed portion
-of a door in an exterior wall may be construed to be a window in regard to provision of
-natural light.
+<u>Yard</u>: An unoccupied space open to the sky, on the same lot with a building or structure.
 
-Yard: An unoccupied space open to the sky, on the same lot with a building or
-structure.
+<u>Yard, Front</u>: An open unoccupied space on the same lot with a main building, extending the full width of the building projected to the side lines of the lot. The depth of the front yard shall be measured between the front line of the building and the street right-of-way line. Covered porches, whether enclosed or unenclosed, shall be considered as part of the main building and shall not project into a required front yard.
 
-Yard, Front: An open unoccupied space on the same lot with a main building,
-extending the full width of the building projected to the side lines of the lot. The depth
-of the front yard shall be measured between the front line of the building and the street
-right-of-way line. Covered porches, whether enclosed or unenclosed, shall be
-considered as part of the main building and shall not project into a required front yard.
+<u>Yard, Rear</u>: An open unoccupied space on the same lot with a main building, extending the full-width of the lot, and situated between the side lines of the lot and the rear line of the building projected to the side lines of the lot. The depth of the rear yard shall be measured between the rear line of the lot and the rear line of the building. In the case of “pre-shaped” lots, the rear yard shall be drawn as an arc with the specified radius measured from the rear corner of the lot. A building shall not extend into the required rear yard.
 
-Yard, Rear: An open unoccupied space on the same lot with a main building,
-extending the full-width of the lot, and situated between the side lines of the lot and the
-rear line of the building projected to the side lines of the lot. The depth of the rear yard
-shall be measured between the rear line of the lot and the rear line of the building. In
-the case of “pre-shaped” lots, the rear yard shall be drawn as an arc with the specified
-radius measured from the rear corner of the lot. A building shall not extend into the
-required rear yard.
+<u>Yard, Side</u>: An open unoccupied space on the same lot with the building situated between the building and the side line of the lot and extending from the front yard to the rear yard. Any lot line not a rear line or a front line shall be deemed a side line. A building shall not extend into the required side yards.
 
-Yard, Side: An open unoccupied space on the same lot with the building situated
-between the building and the side line of the lot and extending from the front yard to
-the rear yard. Any lot line not a rear line or a front line shall be deemed a side line. A
-building shall not extend into the required side yards.
+<u>Zoning</u>: The designation of specified districts within a community or township, reserving them for certain uses together with limitations on lot size, heights or structures, and other stipulated requirements.
 
-Zoning: The designation of specified districts within a community or township,
-reserving them for certain uses together with limitations on lot size, heights or
-structures, and other stipulated requirements.
+<u>Zoning Map</u>: The Zoning Map of Fayette Township, Juniata County, Pennsylvania.
 
-Zoning Map: The Zoning Map of Fayette Township, Juniata County, Pennsylvania.
+<u>Zoning Officer</u>: The duly constituted municipal official designated to administer and enforce this Ordinance in accordance with its literal terms.
 
-Zoning Officer: The duly constituted municipal official designated to administer and
-enforce this Ordinance in accordance with its literal terms.
-
-Zoning Ordinance: The “Fayette Township Zoning Ordinance.”
+<u>Zoning Ordinance</u>: The “Fayette Township Zoning Ordinance.”
 
 <a id="article-iii"></a>
 ## Article III — Designation of Districts
@@ -1192,15 +614,13 @@ Zoning Ordinance: The “Fayette Township Zoning Ordinance.”
 <a id="section-301"></a>
 ### Section 301 - General Districts
 
-For the purposes of this Ordinance, the Township of Fayette is hereby divided
-into six (6) types of Districts, which shall be designed as follows:
+For the purposes of this Ordinance, the Township of Fayette is hereby divided into six (6) types of Districts, which shall be designed as follows:
 
 RA - Rural Agricultural District
 
 F - Forest District
 
-R-1 - Residential Low-density District
-Cc - Commercial District
+R-1 - Residential Low-density District Cc - Commercial District
 
 I - Industrial District
 
@@ -1209,38 +629,23 @@ FP - Floodplain District
 <a id="section-302"></a>
 ### Section 302 - Zoning Map
 
-The boundaries of said Districts should be shown upon the map made a part of
-this Ordinance, which shall be designated as the Official Zoning Map. The map and all
-notations, are referenced into this Ordinance as if they were fully described herein.
+The boundaries of said Districts should be shown upon the map made a part of this Ordinance, which shall be designated as the Official Zoning Map. The map and all notations, are referenced into this Ordinance as if they were fully described herein.
 
 <a id="section-303"></a>
 ### Section 303 - District Boundaries
 
-Where uncertainly exists as to boundaries of any District as shown on said map,
-the following rules shall apply:
+Where uncertainly exists as to boundaries of any District as shown on said map, the following rules shall apply:
 
-1. District boundary lines are intended to follow or parallel to the center line of
-streets, streams, and railroads and lot or property lines as they exist on a
-recorded deed or plan or record in the County Recorded of Deed’s office at
-the time of the adoption of this Ordinance, unless such District boundary
-lines are fixed by dimensions as shown on the Zoning Map.
+1. District boundary lines are intended to follow or parallel to the center line of streets, streams, and railroads and lot or property lines as they exist on a recorded deed or plan or record in the County Recorded of Deed’s office at the time of the adoption of this Ordinance, unless such District boundary lines are fixed by dimensions as shown on the Zoning Map.
 
-2. Where a District boundary is not fixed by dimensions and where it
-approximately follows lot lines, and where it does not scale more than ten
-(10) feet therefrom, such lot lines shall be construed to be such boundaries
-unless specifically shown otherwise.
+2. Where a District boundary is not fixed by dimensions and where it approximately follows lot lines, and where it does not scale more than ten (10) feet therefrom, such lot lines shall be construed to be such boundaries unless specifically shown otherwise.
 
-3. Where a District boundary divides a lot held in a single separate ownership
-prior to the effective date of this Ordinance spacing seventy-five (75) percent
-or more of the lot area in a particular district, the location of such District
-boundary may be construed to include the remaining twenty-five (25)
-percent or less of the lot so divided.
+3. Where a District boundary divides a lot held in a single separate ownership prior to the effective date of this Ordinance spacing seventy-five (75) percent or more of the lot area in a particular district, the location of such District boundary may be construed to include the remaining twenty-five (25) percent or less of the lot so divided.
 
 <a id="section-304"></a>
 ### Section 304 - Interpretation of Boundaries
 
-In case of any uncertainty, the Zoning Hearing Board shall interpret the intent of the
-map as to location of District boundaries.
+In case of any uncertainty, the Zoning Hearing Board shall interpret the intent of the map as to location of District boundaries.
 
 <a id="article-iv"></a>
 ## Article IV — RA - Rural Agricultural District
@@ -1248,17 +653,11 @@ map as to location of District boundaries.
 <a id="section-401"></a>
 ### Section 401 - Purpose
 
-The purpose of the Rural Agricultural District (RA) is to (1) identify those areas where
-agricultural activities should be encouraged or preserved, and (2) provide for the preservation
-of natural, unpolluted drainageways, protection from flooding and high-water tables,
-preservations of open space, and conservation of the natural environment and natural resources
-while providing for such uses and development as are compatible with these objectives.
+The purpose of the Rural Agricultural District (RA) is to (1) identify those areas where agricultural activities should be encouraged or preserved, and (2) provide for the preservation of natural, unpolluted drainageways, protection from flooding and high-water tables, preservations of open space, and conservation of the natural environment and natural resources while providing for such uses and development as are compatible with these objectives.
 <a id="section-402"></a>
 ### Section 402 - Permitted Uses
 
-The chart on the following page refers to the uses permitted in a Rural Agricultural
-(RA) District. Uses not specifically mentioned shall be considered as special exceptions,
-requiring the approval of a Zoning Hearing Board.
+The chart on the following page refers to the uses permitted in a Rural Agricultural (RA) District. Uses not specifically mentioned shall be considered as special exceptions, requiring the approval of a Zoning Hearing Board.
 <a id="section-403"></a>
 ### Section 403 - Area Regulations
 
@@ -1270,23 +669,15 @@ The chart on the following page refers to the minimum area and bulk requirements
 
 3. Building devoted to agricultural use shall be exempt from height regulations.
 
-4. Accessory buildings shall be a minimum of twelve (12) feet from side or rear lot
-lines.
+4. Accessory buildings shall be a minimum of twelve (12) feet from side or rear lot lines.
 
 5. On each corner lot there shall be two front yards, such abutting a street.
 
-6. On each pie shaped lot (front property line is an arc) the rear yard shall be
-measured as an arc with a 50-foot radius originating at the rear property corner.
+6. On each pie shaped lot (front property line is an arc) the rear yard shall be measured as an arc with a 50-foot radius originating at the rear property corner.
 
-7. Buildings housing livestock (including dog kennels) poultry, or mushroom culture,
-shall be no closer than one hundred (100) feet to any public right-of-way nor five
-hundred (500) feet to a residential district, except as noted under provisions of
-Commercial Livestock Operations.
+7. Buildings housing livestock (including dog kennels) poultry, or mushroom culture, shall be no closer than one hundred (100) feet to any public right-of-way nor five hundred (500) feet to a residential district, except as noted under provisions of Commercial Livestock Operations.
 
-8. Buildings housing livestock (including dog kennels) poultry, or mushroom culture,
-shall be no closer than one hundred (100) feet to any public right-of-way nor five
-hundred (500) feet of a building of like use owned by a different party, except as
-noted under provisions of Commercial Livestock Operations.
+8. Buildings housing livestock (including dog kennels) poultry, or mushroom culture, shall be no closer than one hundred (100) feet to any public right-of-way nor five hundred (500) feet of a building of like use owned by a different party, except as noted under provisions of Commercial Livestock Operations.
 
 <a id="section-404"></a>
 ### Section 404 - Off-Street Parking
@@ -1301,41 +692,22 @@ See [Article XII](#article-xii).
 <a id="section-406"></a>
 ### Section 406 - Required Conservation Plan
 
-Any agricultural, horticultural or forestry related uses which involve earthmoving activities, or
-the commercial harvesting or timbering of vegetation shall require the obtainment of an
-approved conservation plan by the Juniata County Conservation District pursuant to Chapter
-102 Erosion Control of Title 25 Rules and Regulations, Department of Environmental
-Protection. All on-site activities shall then be in compliance with the approved conservation
-plan.
+Any agricultural, horticultural or forestry related uses which involve earthmoving activities, or the commercial harvesting or timbering of vegetation shall require the obtainment of an approved conservation plan by the Juniata County Conservation District pursuant to Chapter 102 Erosion Control of Title 25 Rules and Regulations, Department of Environmental Protection. All on-site activities shall then be in compliance with the approved conservation plan.
 
 <a id="section-407"></a>
 ### Section 407 - Driveways and Access Drives
 
-All driveways serving single-family dwellings shall be in accordance with this Ordinance. All
-access drives serving other uses shall be in accordance with this Ordinance. All lanes
-exclusively serving agricultural, horticultural and/or forestry related activities shall be exempt
-from driveway and access drive requirements.
+All driveways serving single-family dwellings shall be in accordance with this Ordinance. All access drives serving other uses shall be in accordance with this Ordinance. All lanes exclusively serving agricultural, horticultural and/or forestry related activities shall be exempt from driveway and access drive requirements.
 
 <a id="section-408"></a>
 ### Section 408
 
-All uses permitted within this Zone shall also comply with the Supplemental Regulations
-contained within [Article X](#article-x) of this Ordinance.
+All uses permitted within this Zone shall also comply with the Supplemental Regulations contained within [Article X](#article-x) of this Ordinance.
 
 <a id="section-409"></a>
 ### Section 409 - Agricultural Nuisance Disclaimer
 
-All lands within the Agricultural Zone are located within an area where land may be used for
-normal or commercial agricultural production. Owners, residents and other users of this
-property may be subjected to inconvenience, discomfort and the possibility of injury to
-property and health arising from normal and accepted agricultural practices and operations
-including but not limited to noise, odors, dust, the operation of machinery of any kind
-including aircraft, the storage and disposal of manure, the application of fertilizers, soil
-amendments, herbicides and pesticides. Owners, occupants and users of this property should
-be prepared to accept such inconveniences, discomfort and possibility of injury from normal
-agricultural operations, and are hereby put on official notice that Section 4 of the Pennsylvania
-Act 133 of 1982 “The Right to Farm Law” may bar them from obtaining a legal judgment
-against such normal agricultural operations.
+All lands within the Agricultural Zone are located within an area where land may be used for normal or commercial agricultural production. Owners, residents and other users of this property may be subjected to inconvenience, discomfort and the possibility of injury to property and health arising from normal and accepted agricultural practices and operations including but not limited to noise, odors, dust, the operation of machinery of any kind including aircraft, the storage and disposal of manure, the application of fertilizers, soil amendments, herbicides and pesticides. Owners, occupants and users of this property should be prepared to accept such inconveniences, discomfort and possibility of injury from normal agricultural operations, and are hereby put on official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right to Farm Law” may bar them from obtaining a legal judgment against such normal agricultural operations.
 
 **Table: RA — Rural Agricultural District, Dimensional & Use Regulations**
 
@@ -1365,8 +737,7 @@ against such normal agricultural operations.
 
 \* Refer to paragraph 1011.2, under [Section 1011 — Commercial Livestock Operations](#section-1011).
 
-[^ra37-1]: In the original document, the printed values "20,000 sq. ft." / "100 ft." in this cell are struck through and hand-corrected to "30,000 sq. ft." / "125 ft." — transcribed here as the corrected (handwritten) figures. Verify against the official recorded ordinance.
-[^ra37-2]: The "No Public Water or Public Sewer" lot-size figure for this row carries a handwritten mark that is not fully legible (appears to read approximately "1 ac.," possibly amended). Verify against the official recorded ordinance or the source image below before relying on this figure.
+[^ra37-1]: In the original document, the printed values "20,000 sq. ft." / "100 ft." in this cell are struck through and hand-corrected to "30,000 sq. ft." / "125 ft." — transcribed here as the corrected (handwritten) figures. Verify against the official recorded ordinance. [^ra37-2]: The "No Public Water or Public Sewer" lot-size figure for this row carries a handwritten mark that is not fully legible (appears to read approximately "1 ac.," possibly amended). Verify against the official recorded ordinance or the source image below before relying on this figure.
 
 **Source images (upright):**
 
@@ -1382,15 +753,11 @@ Full-resolution files: [`RA-Rural-Agricultural-table-p37.jpg`](zoning-district-t
 <a id="section-501"></a>
 ### Section 501 - Purpose
 
-The purpose of the F - Forest District is to encourage the preservation and conservation
-of the natural resources by providing reasonable standards for the development and use of
-land.
+The purpose of the F - Forest District is to encourage the preservation and conservation of the natural resources by providing reasonable standards for the development and use of land.
 <a id="section-502"></a>
 ### Section 502 - Permitted Uses
 
-The chart on the following page refers to the uses permitted in a Forest District. Uses
-not specifically cited shall be considered as special exceptions, requiring the approval of the
-Zoning Hearing Board.
+The chart on the following page refers to the uses permitted in a Forest District. Uses not specifically cited shall be considered as special exceptions, requiring the approval of the Zoning Hearing Board.
 <a id="section-503"></a>
 ### Section 503 - Area Regulations
 
@@ -1402,8 +769,7 @@ The chart on the following page refers to the minimum area and bulk requirements
 
 3. On each corner lot there shall be two front yards, each abutting a street.
 
-4. On each pie-shaped lot (front property line is an arc) the rear yard shall be
-measured as an arc with a 50 foot radius originating at the rear property corner.
+4. On each pie-shaped lot (front property line is an arc) the rear yard shall be measured as an arc with a 50 foot radius originating at the rear property corner.
 
 5. No lot shall be covered by more than twelve (12) percent with impervious surfaces.
 
@@ -1420,33 +786,17 @@ See [Article XII](#article-xii).
 <a id="section-506"></a>
 ### Section 506 - Required Conservation Plan
 
-Any agricultural, horticultural or forestry related uses which involves earthmoving activities,
-or the commercial harvesting or timbering of vegetation shall require the obtainment of an
-approved conservation plan by the Juniata County Conservation District pursuant to Chapter
-102 Erosion Control of Title 25 Rules and Regulations, Department of Environmental
-Protection. All on-site activities shall then be in compliance with the approved conservation
-plan.
+Any agricultural, horticultural or forestry related uses which involves earthmoving activities, or the commercial harvesting or timbering of vegetation shall require the obtainment of an approved conservation plan by the Juniata County Conservation District pursuant to Chapter 102 Erosion Control of Title 25 Rules and Regulations, Department of Environmental Protection. All on-site activities shall then be in compliance with the approved conservation plan.
 
 <a id="section-507"></a>
 ### Section 507
 
-All uses permitted within this Zone shall also comply with the Supplemental Regulations
-contained within [Article X](#article-x) of this Ordinance.
+All uses permitted within this Zone shall also comply with the Supplemental Regulations contained within [Article X](#article-x) of this Ordinance.
 
 <a id="section-508"></a>
 ### Section 508 - Agricultural Nuisance Disclaimer
 
-All lands within the Forest District Zone are located within an area where land may be used
-for agricultural production. Owners, residents, and other users of this property may be
-subjected to inconvenience, discomfort and the possibility of injury to property and health
-arising from normal and accepted agricultural practices and operations including but not
-limited to noise, odors, dust, the operation of machinery of any kind including aircraft, the
-storage and disposal of manure, the application of fertilizers, soil amendments, herbicides and
-pesticides. Owners, occupants and users of this property should be prepared to accept such
-inconveniences, discomfort and possibility of injury from normal agricultural operations, and
-are hereby put on official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right
-of Farm Law” may bar them from obtaining a legal judgement against such normal agricultural
-operations.
+All lands within the Forest District Zone are located within an area where land may be used for agricultural production. Owners, residents, and other users of this property may be subjected to inconvenience, discomfort and the possibility of injury to property and health arising from normal and accepted agricultural practices and operations including but not limited to noise, odors, dust, the operation of machinery of any kind including aircraft, the storage and disposal of manure, the application of fertilizers, soil amendments, herbicides and pesticides. Owners, occupants and users of this property should be prepared to accept such inconveniences, discomfort and possibility of injury from normal agricultural operations, and are hereby put on official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right of Farm Law” may bar them from obtaining a legal judgement against such normal agricultural operations.
 
 **Table: F — Forest District, Dimensional & Use Regulations**
 
@@ -1489,16 +839,12 @@ Full-resolution file: [`zoning-district-tables/Forest-District-table-p41.jpg`](z
 <a id="section-601"></a>
 ### Section 601 - Purpose
 
-The purpose of the R-1 Residential District is to provide for the orderly expansion of
-residential development in those areas where public services are adequate and to exclude uses
-not compatible with such residential development.
+The purpose of the R-1 Residential District is to provide for the orderly expansion of residential development in those areas where public services are adequate and to exclude uses not compatible with such residential development.
 
 <a id="section-602"></a>
 ### Section 602 - Permitted Uses
 
-The chart on the following page refers to the uses permitted in a Residential District.
-Uses not specifically mentioned shall be considered special exceptions, requiring the approval
-of a Zoning Hearing Board.
+The chart on the following page refers to the uses permitted in a Residential District. Uses not specifically mentioned shall be considered special exceptions, requiring the approval of a Zoning Hearing Board.
 
 <a id="section-603"></a>
 ### Section 603 - Area Regulations
@@ -1525,28 +871,17 @@ See [Article XII](#article-xii).
 <a id="section-606"></a>
 ### Section 606 - Driveways and Access Drives
 
-All driveways serving single-family dwellings shall be in accordance with this Ordinance. All
-access drives serving other uses shall be in accordance with this Ordinance.
+All driveways serving single-family dwellings shall be in accordance with this Ordinance. All access drives serving other uses shall be in accordance with this Ordinance.
 
 <a id="section-607"></a>
 ### Section 607
 
-All uses permitted within this Zone shall also comply with the Supplemental Regulations
-contained within [Article X](#article-x) of this Ordinance.
+All uses permitted within this Zone shall also comply with the Supplemental Regulations contained within [Article X](#article-x) of this Ordinance.
 
 <a id="section-608"></a>
 ### Section 608 - Agricultural Nuisance Disclaimer
 
-All lands within the Residential Zone are located within an area where land may be used for
-agricultural production. Owners, residents, and other users of this property may be subjected
-to inconvenience, discomfort and the possibility of injury to property and health arising from
-normal and accepted agricultural practices and operations including but not limited to noise,
-odors, dust, the operation of machinery of any kind including aircraft, the storage and disposal
-of manure, the application of fertilizers, soil amendments, herbicides and pesticides. Owners,
-occupants and users of this property should be prepared to accept such inconveniences,
-discomfort and possibility of injury from normal agricultural operations, and are hereby put on
-official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right of Farm Law”
-may bar them from obtaining a legal judgement against such normal agricultural operations.
+All lands within the Residential Zone are located within an area where land may be used for agricultural production. Owners, residents, and other users of this property may be subjected to inconvenience, discomfort and the possibility of injury to property and health arising from normal and accepted agricultural practices and operations including but not limited to noise, odors, dust, the operation of machinery of any kind including aircraft, the storage and disposal of manure, the application of fertilizers, soil amendments, herbicides and pesticides. Owners, occupants and users of this property should be prepared to accept such inconveniences, discomfort and possibility of injury from normal agricultural operations, and are hereby put on official notice that Section 4 of the Pennsylvania Act 133 of 1982 “The Right of Farm Law” may bar them from obtaining a legal judgement against such normal agricultural operations.
 
 **Table: R — Residential District, Dimensional & Use Regulations**
 
@@ -1586,16 +921,12 @@ Full-resolution files: [`R1-Residential-table-p44.jpg`](zoning-district-tables/R
 <a id="section-701"></a>
 ### Section 701 - Purpose
 
-The purpose of the C - Commercial District is to provide for the orderly development
-of those uses necessary to meet the community and regional need for general goods and
-services, and to provide for anticipated future needs.
+The purpose of the C - Commercial District is to provide for the orderly development of those uses necessary to meet the community and regional need for general goods and services, and to provide for anticipated future needs.
 
 <a id="section-702"></a>
 ### Section 702 - Permitted Uses
 
-The chart on the following page refers to the uses permitted in a Commercial District.
-Uses not specifically mentioned shall be considered special exceptions, requiring the approval
-of a Zoning Hearing Board.
+The chart on the following page refers to the uses permitted in a Commercial District. Uses not specifically mentioned shall be considered special exceptions, requiring the approval of a Zoning Hearing Board.
 
 <a id="section-703"></a>
 ### Section 703 - Area Regulations
@@ -1610,13 +941,7 @@ of a Zoning Hearing Board.
 <a id="section-704"></a>
 ### Section 704 - Screen Planting
 
-Screen Planting: Where adjacent to land zoned for residential use or used for
-residential purposes, screen planting is required to screen the commercial use and storage of
-material from normal view. Screening may be accomplished by the placement of a solid fence
-high enough to provide screening, and/or the provision and maintenance of solid planting in
-the form of contiguous evergreen shrubs. Evergreen trees or shrubs shall be at least four (4)
-feet in height at the time of planting and setback at least ten (10) feet from any property line.
-Such planting will be of a variety that will attain a height of eight (8) feet.
+Screen Planting: Where adjacent to land zoned for residential use or used for residential purposes, screen planting is required to screen the commercial use and storage of material from normal view. Screening may be accomplished by the placement of a solid fence high enough to provide screening, and/or the provision and maintenance of solid planting in the form of contiguous evergreen shrubs. Evergreen trees or shrubs shall be at least four (4) feet in height at the time of planting and setback at least ten (10) feet from any property line. Such planting will be of a variety that will attain a height of eight (8) feet.
 <a id="section-705"></a>
 ### Section 705 - Off-Street Parking Regulations
 
@@ -1673,17 +998,12 @@ Full-resolution files: [`Commercial-District-table-p48.jpg`](zoning-district-tab
 <a id="section-801"></a>
 ### Section 801 - Purpose
 
-The purpose of the I - Industrial District is to provide for the orderly development of
-limited industrial activity to stimulate employment generating land use types in the Township.
-It is further intended that industrial operations will be compatible with surrounding residential
-or farm areas.
+The purpose of the I - Industrial District is to provide for the orderly development of limited industrial activity to stimulate employment generating land use types in the Township. It is further intended that industrial operations will be compatible with surrounding residential or farm areas.
 
 <a id="section-802"></a>
 ### Section 802 - Permitted Uses
 
-The chart on the following page refers to the uses permitted in an Industrial District.
-Uses not specifically cited shall be considered as special exceptions. Requiring approval of the
-Zoning Hearing Board.
+The chart on the following page refers to the uses permitted in an Industrial District. Uses not specifically cited shall be considered as special exceptions. Requiring approval of the Zoning Hearing Board.
 <a id="section-803"></a>
 ### Section 803 - Area Regulations
 
@@ -1696,14 +1016,7 @@ total lot area.
 <a id="section-804"></a>
 ### Section 804 - Screen Planting
 
-Where adjacent to land zoned or used for residential purposes, screen planting is
-required to screen the industrial use and storage of material from normal view. Screening may
-be accomplished by the placement of a solid fence and/or berm high enough to provide
-screening, and/or the provision and maintenance of a solid planting in the form of contiguous
-evergreen shrubs. Evergreen trees or shrubs shall be at least four (4) feet in height at the time
-of planting and setback at least ten (10) feet from any property. Such planting will be of a
-variety that will attain a height sufficient to visually block the industrial facility from view at
-ground level.
+Where adjacent to land zoned or used for residential purposes, screen planting is required to screen the industrial use and storage of material from normal view. Screening may be accomplished by the placement of a solid fence and/or berm high enough to provide screening, and/or the provision and maintenance of a solid planting in the form of contiguous evergreen shrubs. Evergreen trees or shrubs shall be at least four (4) feet in height at the time of planting and setback at least ten (10) feet from any property. Such planting will be of a variety that will attain a height sufficient to visually block the industrial facility from view at ground level.
 <a id="section-805"></a>
 ### Section 805 - Off-Street Parking Regulations
 
@@ -1786,7 +1099,7 @@ This Ordinance shall not create liability on the part of Fayette Township or any
 
 - **A. Basis of District**
 
-  The Floodplain District (FP) is defined and established as those areas of the Township subject to flooding as defined in subsection (1) hereof. The most extensive of these areas described in the following sources shall determine the outermost boundary of the FP District:
+The Floodplain District (FP) is defined and established as those areas of the Township subject to flooding as defined in subsection (1) hereof. The most extensive of these areas described in the following sources shall determine the outermost boundary of the FP District:
 
   1. Those areas subject to inundation by the waters of the 100 year flood as delineated in the Flood Insurance Study for the Township as prepared by the U.S. Department of Housing and Urban Development, Federal Insurance Administration.
      - **a.** "Floodway" means that portion of the FP District required to carry and discharge the waters of the 100 year flood without increasing the water surface elevation at any point more than one foot above existing conditions, as demonstrated in the Flood Insurance Study referenced above.
@@ -1822,11 +1135,11 @@ Under no circumstances shall any use, activity and/or development adversely affe
 
 - **A. Floodway**
 
-  The following uses and no others shall be permitted in a Floodplain District. No development shall be permitted in the Floodway except where the effect of such development on flood heights is fully offset by accompanying improvements which have been approved by all appropriate local and/or State authorities as required above.
+The following uses and no others shall be permitted in a Floodplain District. No development shall be permitted in the Floodway except where the effect of such development on flood heights is fully offset by accompanying improvements which have been approved by all appropriate local and/or State authorities as required above.
 
   1. **Permitted Uses**
 
-     The following uses and activities are permitted in the Floodway provided that they are in compliance with the provisions of the underlying district and are not prohibited by any other ordinance and provided that they do not require structures, fill, or storage of materials and equipment:
+The following uses and activities are permitted in the Floodway provided that they are in compliance with the provisions of the underlying district and are not prohibited by any other ordinance and provided that they do not require structures, fill, or storage of materials and equipment:
 
      - **a.** Agriculture, excluding commercial livestock or commercial produce operations, and farm uses such as general farming, pasture, grazing, outdoor plant, nurseries, horticulture, truck farming, forestry, sod farming, and wild crop harvesting.
      - **b.** Public and private recreational uses and activities such as parks, day camps, picnic grounds, golf courses, boat launching and swimming areas, hiking, and horseback riding trails, wildlife and nature preserves, game farms, fish hatcheries, trap and skeet game ranges, and hunting and fishing areas.
@@ -1835,7 +1148,7 @@ Under no circumstances shall any use, activity and/or development adversely affe
 
   2. **Uses Permitted by Conditional Use**
 
-     The following uses and activities may be permitted by Conditional Use provided that they are in compliance with the provisions of the underlying district and are not prohibited by other ordinance:
+The following uses and activities may be permitted by Conditional Use provided that they are in compliance with the provisions of the underlying district and are not prohibited by other ordinance:
 
      - **a.** Structures, except for mobilehomes, accessory to the uses and activities in Section 1 above.
      - **b.** Utilities and public facilities and improvements such as railroads, streets, bridges, transmission lines, pipe lines, water and sewage treatment plants, and other similar related uses.
@@ -1847,7 +1160,7 @@ Under no circumstances shall any use, activity and/or development adversely affe
 
 - **B. Floodway-Fringe**
 
-  The development and/or use of land shall be permitted in the Floodway-Fringe in accordance with the regulations of the underlying district provided that all such uses, activities, and/or development shall be undertaken in strict compliance with the floodproofing and related provisions contained in all other applicable codes and ordinances.
+The development and/or use of land shall be permitted in the Floodway-Fringe in accordance with the regulations of the underlying district provided that all such uses, activities, and/or development shall be undertaken in strict compliance with the floodproofing and related provisions contained in all other applicable codes and ordinances.
 
 <a id="section-903"></a>
 ### Section 903 - Conditional Uses, Special Exception and Variances - Factors to be Considered
@@ -1867,25 +1180,14 @@ In passing upon applications for Conditional Uses by the Board of Supervisors an
 11. The expected heights, velocity, duration, rate of rise, and sediment transport of the flood waters expected at the site.
 12. Such other factors which are relevant to the purposes of this ordinance.
 
-The Board of Supervisors or the Zoning Hearing Board may refer any application and accompanying documentation pertaining to any request for a special exception, conditional use
-or variance to any engineer or other qualified person or agency for technical assistance in
-evaluating the proposed project in relation to flood heights and velocities, and the adequacy of
-the plans for protection and other related matters.
+The Board of Supervisors or the Zoning Hearing Board may refer any application and accompanying documentation pertaining to any request for a special exception, conditional use or variance to any engineer or other qualified person or agency for technical assistance in evaluating the proposed project in relation to flood heights and velocities, and the adequacy of the plans for protection and other related matters.
 
-Conditional Uses shall be issued after the Board of Supervisors has determined that the
-granting of such will not result in (a) unacceptable or prohibited increases in flood heights, (b)
-additional threats to public safety, (c) extraordinary public expense, (d) create nuisances, (e)
-cause fraud or victimization of the public, or (f) conflict with local laws or ordinances.
-Variances or special exceptions granted by the Zoning Hearing Board shall consider the same
-
-data above.
+Conditional Uses shall be issued after the Board of Supervisors has determined that the granting of such will not result in (a) unacceptable or prohibited increases in flood heights, (b) additional threats to public safety, (c) extraordinary public expense, (d) create nuisances, (e) cause fraud or victimization of the public, or (f) conflict with local laws or ordinances. Variances or special exceptions granted by the Zoning Hearing Board shall consider the same data above.
 
 <a id="section-904"></a>
 ### Section 904 - Existing Structures in Floodplain District
 
-A structure or use of a structure or premises which lawfully existed before the
-enactment of these provisions, but which is not in conformity with these provisions may be
-continued subject to the following conditions:
+A structure or use of a structure or premises which lawfully existed before the enactment of these provisions, but which is not in conformity with these provisions may be continued subject to the following conditions:
 
 1. Existing structures and/or uses located in any floodway shall not be expanded or enlarged, unless the effect of the proposed expansion or enlargement of flood heights is fully offset by accompanying improvements.
 2. Any modification, alteration, repair, reconstruction, or improvements of any kind to a structure and/or use located in the floodplain district to an extent or amount of less than fifty (50) percent of its market value, shall be elevated and/or floodproofed to the greatest extent possible regardless of its location in the floodplain district.
@@ -1898,17 +1200,14 @@ continued subject to the following conditions:
 <a id="section-1001"></a>
 ### Section 1001 - Performance Standards for General Agricultural Uses, excluding Commercial Livestock Operations
 
-All agricultural uses shall be in conformance with requirements of Juniata County and
-the Laws of the State of Pennsylvania, as amended.
+All agricultural uses shall be in conformance with requirements of Juniata County and the Laws of the State of Pennsylvania, as amended.
 
-Every applicant installing, erecting or constructing an animal waste storage facility and
-the owner of the land where the animal waste storage facility is placed shall be responsible for
-satisfying the requirements of the following regulations:
+Every applicant installing, erecting or constructing an animal waste storage facility and the owner of the land where the animal waste storage facility is placed shall be responsible for satisfying the requirements of the following regulations:
 
 1. Animal waste storage facilities shall be designed in compliance with engineering standards and specifications comparable to SCS Technical Manuals, copies of which are available at the Juniata County Conservation District Office, and the BWQM Pub. No. 43, manure management for environmental protection, and any revisions thereto, as published by the PA DEP.
 2. Animal waste storage facility designs shall be reviewed by the Juniata County Conservation District. The applicant shall furnish a letter from the District attesting to the approval of the design of the proposed facility.
 
-   A building permit will be issued to the applicant upon approval of the design for the animal waste storage facility and an adequate nutrient management plan.
+A building permit will be issued to the applicant upon approval of the design for the animal waste storage facility and an adequate nutrient management plan.
 3. Construction and subsequent operation of the animal waste storage facility shall be in accordance with the building permit and the approved design. Any design changes during construction or subsequent operation must be reviewed by the Juniata Conservation District and the Township must be notified in writing.
 4. Animal waste storage facilities for new operations shall not be located closer than five hundred (500) feet from any residentially zoned property line and one hundred and fifty (150') feet from any other property lines, street right-of-way lines, and streams. New storage facilities on existing operations shall be subject to review by the Juniata Conservation District. Livestock and poultry operations existing on the effective date of this ordinance shall be subject to the provisions of this ordinance, state laws and the Juniata County requirements if the following circumstances apply:
 
@@ -1918,8 +1217,7 @@ satisfying the requirements of the following regulations:
 <a id="section-1002"></a>
 ### Section 1002 - Performance Standards for Industrial and Natural Resource Uses
 
-Industrial and Natural Resource uses shall be subject to the following regulations,
-where applicable:
+Industrial and Natural Resource uses shall be subject to the following regulations, where applicable:
 
 1. Noise Pollution and Vibration: "Rules and Regulations" of the Pennsylvania Department of Environmental Resources.
 2. Air Pollution, Airborne Emissions and Odor: "Rules and Regulations" of the Pennsylvania Department of Environmental Resources.
@@ -1938,12 +1236,7 @@ where applicable:
 <a id="section-1004"></a>
 ### Section 1004 - Landscaping
 
-Any part of portion of the site which is not used for buildings, other structures, loading
-or parking spaces and aisle, sidewalks and designated storage areas shall be provided with an
-all-season ground cover and shall be landscaped with small trees and shrubs in accordance with
-an overall landscape plan. To facilitate the processing of plot plans, a plant schedule should be
-prepared giving the botanical and common names of the plants to be used, the sizes to be
-planted, and quantity and spacing of each.
+Any part of portion of the site which is not used for buildings, other structures, loading or parking spaces and aisle, sidewalks and designated storage areas shall be provided with an all-season ground cover and shall be landscaped with small trees and shrubs in accordance with an overall landscape plan. To facilitate the processing of plot plans, a plant schedule should be prepared giving the botanical and common names of the plants to be used, the sizes to be planted, and quantity and spacing of each.
 
 <a id="section-1005"></a>
 ### Section 1005 - Screening
@@ -1956,35 +1249,23 @@ planted, and quantity and spacing of each.
 <a id="section-1006"></a>
 ### Section 1006 - Swimming Pools
 
-1. Private Swimming Pools: Private swimming pools, in Districts where
-permitted, shall comply with the following conditions and requirements:
+1. Private Swimming Pools: Private swimming pools, in Districts where permitted, shall comply with the following conditions and requirements:
 
-a. The pool is intended, and is to be used, solely for the enjoyment of the
-occupants of a principal use of the property on which it is located.
+a. The pool is intended, and is to be used, solely for the enjoyment of the occupants of a principal use of the property on which it is located.
 
-b. It may be located only in the rear yard or side yard of the property on
-which it is an accessory use.
+b. It may be located only in the rear yard or side yard of the property on which it is an accessory use.
 
-Cs It may not be located, including any walks, or paved areas or accessory
-structures adjacent thereto, closer than twenty (20) feet to any property
-line of the property on which located.
+Cs It may not be located, including any walks, or paved areas or accessory structures adjacent thereto, closer than twenty (20) feet to any property line of the property on which located.
 
-d. The swimming pool area or the entire property on which it is located
-shall be so walled or fenced or otherwise protected as to prevent
-uncontrolled access by children from the street or from adjacent
-properties. Said barrier shall not be less than four (4) feet in height and
-maintained in good condition.
+d. The swimming pool area or the entire property on which it is located shall be so walled or fenced or otherwise protected as to prevent uncontrolled access by children from the street or from adjacent properties. Said barrier shall not be less than four (4) feet in height and maintained in good condition.
 
-2. Public Swimming Pools: Pubic swimming pools in Districts where permitted
-shall comply with the conditions set forth in:
+2. Public Swimming Pools: Pubic swimming pools in Districts where permitted shall comply with the conditions set forth in:
 
-a. “Public Bathing Law”, 1931, June 23, P.L. 899, and amendments
-thereto.
+a. “Public Bathing Law”, 1931, June 23, P.L. 899, and amendments thereto.
 
 b. Chapter 4, Article 442, Rules and Regulations, Commonwealth of
 
-Pennsylvania, Department of Environmental Resources, adopted October
-30, 1959, and amendments thereto.
+Pennsylvania, Department of Environmental Resources, adopted October 30, 1959, and amendments thereto.
 
 <a id="section-1007"></a>
 ### Section 1007 - Projections into Required Yard
@@ -1997,39 +1278,21 @@ The following projections into yards and courts shall be permitted:
 <a id="section-1008"></a>
 ### Section 1008 - Front Yard Exception
 
-In any use district when fifty (50) percent or more of the block frontage
-containing a lot upon which a proposed building is to be located in already
-improved with buildings having front yards of less depth than that required for
-that particular use district, the average of such front yards shall establish the
-minimum front yard depth for the remainder of the frontage provided, however,
-that in no case shall such front yard have a depth less than twenty-five (25) feet.
+In any use district when fifty (50) percent or more of the block frontage containing a lot upon which a proposed building is to be located in already improved with buildings having front yards of less depth than that required for that particular use district, the average of such front yards shall establish the minimum front yard depth for the remainder of the frontage provided, however, that in no case shall such front yard have a depth less than twenty-five (25) feet.
 
-In any use district when fifty (50) percent or more of the block frontage
-containing a lot upon which a proposed building is to be located is already
-improved with buildings that have observed a front yard greater in depth than
-that required for the particular use district, new buildings shall not be erected
-closer to the street than the average from yard so established by the existing
-buildings provided, however, that in no case shall the depth of such front yard
-be required to exceed such minimum depth by more than fifteen (15).
+In any use district when fifty (50) percent or more of the block frontage containing a lot upon which a proposed building is to be located is already improved with buildings that have observed a front yard greater in depth than that required for the particular use district, new buildings shall not be erected closer to the street than the average from yard so established by the existing buildings provided, however, that in no case shall the depth of such front yard be required to exceed such minimum depth by more than fifteen (15).
 
 <a id="section-1009"></a>
 ### Section 1009 - Intersection Clearance
 
-On a corner lot no fence, structure or planting higher than two (2) feet above the curb
-or street line shall be erected or within twenty-five (25) feet of the intersection of the street lot
-
-lines.
+On a corner lot no fence, structure or planting higher than two (2) feet above the curb or street line shall be erected or within twenty-five (25) feet of the intersection of the street lot lines.
 
 <a id="section-1010"></a>
 ### Section 1010 - Individual Mobilehomes
 
-An enclosure of compatible design and materials shall be erected around the entire base
-of each mobile home. Such enclosure shall provide sufficient ventilation t inhibit decay and
-deterioration of the structure.
+An enclosure of compatible design and materials shall be erected around the entire base of each mobile home. Such enclosure shall provide sufficient ventilation t inhibit decay and deterioration of the structure.
 
-Foundation Requirements. The area of the mobilehome stand shall be improved to
-provide an adequate foundation for the placement of the mobilehome, thereby, securing the
-super structure against unlift, sliding, or rotation.
+Foundation Requirements. The area of the mobilehome stand shall be improved to provide an adequate foundation for the placement of the mobilehome, thereby, securing the super structure against unlift, sliding, or rotation.
 
 1. The mobilehome stand shall not heave, shift, or settle unevenly under the weight of the mobilehome due to frost action, inadequate drainage, vibration or other forces acting on the super structure.
 2. The mobilehome stand shall be provided with anchors and tie-downs such as cast-in-place concrete, "deadmen" eyelets imbedded in arrowhead anchors, or other services securing the stability of the mobilehome.
@@ -2161,58 +1424,27 @@ A water feasibility study shall include the following information:
 <a id="section-1100"></a>
 ### Section 1100 - Referral to Planning Commission
 
-Where the Zoning Ordinance has stated conditional uses to be granted or denied by the
-Board pursuant to express standards and criteria, the Board shall hear and decide requests for
-such conditional uses in accordance with such standards and criteria. All applications for a
-conditional uses may be referred to a Planning Commission and/or Township Engineer by the
-Board of Supervisors with the direction that the Planning Commission and/or Township
-Engineer shall make a study thereof and recommendation thereon the Board within thirty (30)
-days from the date of the receipt and said application by the Planning Commission and/or
-Township Engineer.
+Where the Zoning Ordinance has stated conditional uses to be granted or denied by the Board pursuant to express standards and criteria, the Board shall hear and decide requests for such conditional uses in accordance with such standards and criteria. All applications for a conditional uses may be referred to a Planning Commission and/or Township Engineer by the Board of Supervisors with the direction that the Planning Commission and/or Township Engineer shall make a study thereof and recommendation thereon the Board within thirty (30) days from the date of the receipt and said application by the Planning Commission and/or Township Engineer.
 
-Where the Zoning Ordinance has stated special exceptions to be granted or denied by
-the Board pursuant to express standards and criteria, a Zoning Hearing Board shall hear and
-decide requests for such special exceptions in accordance with such standards and criteria. All
-applications for a special exception may be referred to the Planning Commission and/or
-Township Engineer by the Zoning Hearing Board with the direction that the Planning
-Commission and/or Township Engineer shall make a study thereof and recommendation
-thereon the Board within thirty (30) days from the date of the receipt and said application by
-the Planning Commission and/or Township Engineer.
+Where the Zoning Ordinance has stated special exceptions to be granted or denied by the Board pursuant to express standards and criteria, a Zoning Hearing Board shall hear and decide requests for such special exceptions in accordance with such standards and criteria. All applications for a special exception may be referred to the Planning Commission and/or Township Engineer by the Zoning Hearing Board with the direction that the Planning Commission and/or Township Engineer shall make a study thereof and recommendation thereon the Board within thirty (30) days from the date of the receipt and said application by the Planning Commission and/or Township Engineer.
 
 <a id="section-1101"></a>
 ### Section 1101 - General Standards for Conditional Uses and Special Exceptions/Variances
 
-The Board of Supervisors, before granting a conditional use for any use, must find that
-the use and the proposed operations and development in connection with the use, or the
-modification of the terms of this Ordinance, shall have been specifically authorized as a
-conditional use in the District within which such particular site is located. The Board shall
-make the following findings in writing, when relevant in a given case, either from the evidence
-presented at the hearing, or from a study and report prepared by the Planning Commission, if
-applicable the Township Engineer, or other competent technical consultants:
+The Board of Supervisors, before granting a conditional use for any use, must find that the use and the proposed operations and development in connection with the use, or the modification of the terms of this Ordinance, shall have been specifically authorized as a conditional use in the District within which such particular site is located. The Board shall make the following findings in writing, when relevant in a given case, either from the evidence presented at the hearing, or from a study and report prepared by the Planning Commission, if applicable the Township Engineer, or other competent technical consultants:
 
-1. That the location of the use, including with respect to the existing or future
-streets, giving access to it, is in harmony with the orderly and appropriate
-development of the zone in which the use is to be located.
+1. That the location of the use, including with respect to the existing or future streets, giving access to it, is in harmony with the orderly and appropriate development of the zone in which the use is to be located.
 
-2. That the nature and intensity of the operations involved are in harmony with the
-orderly and appropriate development of the zone in which the use is to be
-located;
+2. That the nature and intensity of the operations involved are in harmony with the orderly and appropriate development of the zone in which the use is to be located;
 
-3. That the grant of the special exception shall not materially increase traffic
-congestion in the roads and highways, nor cause nor encourage commercial or
-industrial traffic to use residential streets;
+3. That the grant of the special exception shall not materially increase traffic congestion in the roads and highways, nor cause nor encourage commercial or industrial traffic to use residential streets;
 
-For granting of special exceptions/variances, only the Zoning Hearing Board may
-approve, utilizing the same criteria above.
+For granting of special exceptions/variances, only the Zoning Hearing Board may approve, utilizing the same criteria above.
 
 <a id="section-1102"></a>
 ### Section 1102 - Additional Conditions
 
-1. In granting a conditional use, the Board of Supervisors may attach such
-reasonable conditions and safeguards, in addition to those expressed in the
-Ordinance, considered necessary to implement the purposes of this Ordinance,
-including conditions which are more restrictive than those established for other
-uses in the same zone any may require, among others and where appropriate:
+1. In granting a conditional use, the Board of Supervisors may attach such reasonable conditions and safeguards, in addition to those expressed in the Ordinance, considered necessary to implement the purposes of this Ordinance, including conditions which are more restrictive than those established for other uses in the same zone any may require, among others and where appropriate:
 
 a. Suitable planting, fencing or screening;
 
@@ -2224,17 +1456,11 @@ d. Proper vehicular access and parking facilities;
 
 e. Sidewalks, storm sewer and/or other public improvements;
 
-f. Proper restrictions as to the use of outdoor flood or spot lighting, public
+f. Proper restrictions as to the use of outdoor flood or spot lighting, public address systems, and advertising displays;
 
-address systems, and advertising displays;
+g. And such other improvements and/or restrictions and/or conditions as the Board many deem appropriate.
 
-g. And such other improvements and/or restrictions and/or conditions as the
-Board many deem appropriate.
-
-2: For any use permitted by special exception/variance, a _ special
-exception/variance must be obtained from the Zoning Hearing Board. In
-addition to the information required on the building permit application, the
-special exception/variance application must show:
+2: For any use permitted by special exception/variance, a _ special exception/variance must be obtained from the Zoning Hearing Board. In addition to the information required on the building permit application, the special exception/variance application must show:
 
 a. Ground floor plans and elevations of proposed structures;
 
@@ -2285,9 +1511,7 @@ b. Names and addresses of adjoining owners.
 <a id="section-1104"></a>
 ### Section 1104 - Apartment Dwellings
 
-Apartment dwelling are permitted as conditional use in the R - Residential and C -
-Commercial Districts, subject to the requirements of the district where proposed as herein
-modified and provided:
+Apartment dwelling are permitted as conditional use in the R - Residential and C - Commercial Districts, subject to the requirements of the district where proposed as herein modified and provided:
 
 1. Lot area - Seven thousand five hundred (7,500) square feet.
 2. Height modification - Building greater than thirty-five (35) feet in height are permitted only if each of the setback requirements is increased by one (1) foot by which the height of the building exceeds thirty-five (35) feet.
@@ -2307,8 +1531,7 @@ modified and provided:
 <a id="section-1106"></a>
 ### Section 1106 - Automobile or Gasoline Service Stations and Garages
 
-In districts where permitted, automobile service stations and garages shall be subject to
-the following additional safe-guards and regulations:
+In districts where permitted, automobile service stations and garages shall be subject to the following additional safe-guards and regulations:
 
 1. Minimum Setbacks from Street Right-of-Way Lines;
    - **a.** Pumps: twenty-five feet (25')
@@ -2331,110 +1554,58 @@ the following additional safe-guards and regulations:
 <a id="section-1107"></a>
 ### Section 1107 - Bed and Breakfast Inns
 
-Criteria for the Establishment of a Bed and Breakfast County Inn as a Conditional Use
-subject to recommendation of the Township Planning Commission and approval of the Board
-of Supervisors.
+Criteria for the Establishment of a Bed and Breakfast County Inn as a Conditional Use subject to recommendation of the Township Planning Commission and approval of the Board of Supervisors.
 
 1:
 
-Short-term overnight lodging to be provided; monthly rentals are inappropriate
-and the maximum guest stays shall be limited to fourteen (14) days.
+Short-term overnight lodging to be provided; monthly rentals are inappropriate and the maximum guest stays shall be limited to fourteen (14) days.
 
 Maximum of five (5) quest rooms.
 
-Breakfast served only to overnight lodgers and shall be the only meal provided.
-Parking to be provided: a minimum of 1 off-street parking space per guestroom
-plus two (2) spaces for the owner, located in side or rear yard minimum of
+Breakfast served only to overnight lodgers and shall be the only meal provided. Parking to be provided: a minimum of 1 off-street parking space per guestroom plus two (2) spaces for the owner, located in side or rear yard minimum of twenty (20) feet from the property lines.
 
-twenty (20) feet from the property lines.
-
-The Inn must comply with local regulations regarding all application permits,
-including but not limited to Fire, Health, and Building Codes.
+The Inn must comply with local regulations regarding all application permits, including but not limited to Fire, Health, and Building Codes.
 
 A business license must be obtained prior to opening.
 
-The remainder of the dwelling is which a Bed and Breakfast facility is located
-shall be used solely by the family in permanent residence. Bed and Breakfast
-operations shall be conducted so as to be clearly incidental and accessory to the
-primary use of the site as a Single-Family Dwelling.
+The remainder of the dwelling is which a Bed and Breakfast facility is located shall be used solely by the family in permanent residence. Bed and Breakfast operations shall be conducted so as to be clearly incidental and accessory to the primary use of the site as a Single-Family Dwelling.
 
 <a id="section-1108"></a>
 ### Section 1108 - Child Care Centers
 
 1;
 
-Child care centers shall be permitted in the I zone where such use is the primary
-use or accessory to a house of worship, public or parochial school, or the
-principle use of any permitted use in the I zone.
+Child care centers shall be permitted in the I zone where such use is the primary use or accessory to a house of worship, public or parochial school, or the principle use of any permitted use in the I zone.
 
-All child care centers shall meet all requirements for certification and/or
-registration by the State of Pennsylvania where required. Proof of such
-certification and any recertification shall be provided to the Township.
+All child care centers shall meet all requirements for certification and/or registration by the State of Pennsylvania where required. Proof of such certification and any recertification shall be provided to the Township.
 
-At least one (1) off-street parking space for each person employed plus one (1)
-off-street space for each four (4) children to be served by the facility in addition
+At least one (1) off-street parking space for each person employed plus one (1) off-street space for each four (4) children to be served by the facility in addition to the off-street parking requirements for single-family detached homes shall be provided.
 
-to the off-street parking requirements for single-family detached homes shall be
-provided.
-
-4. Whenever a child care center is located in an Industrial District in a building
-which is also used and occupied for industrial purposes, the Fire Department of
-the Township shall conduct semi-annual inspections to determine whether the
-industrial occupants of such building are storing or processing combustible or
-flammable materials in such quantities as to be considered hazardous to the
-health, safety or welfare of the occupants of the child care center. Should such
-materials in such quantities be found to exist, the Fire Department shall require
-the industrial occupant or occupants upon whose premises the condition exists to
-correct or abate the same within thirty (30) days. If, at the end of said 30-day
-period, upon a further inspection, the condition shall not have been corrected or
-abated, then the Fire Department shall require the child care center to cease and
-terminate its operations at such locations within thirty (30) days of the date of
-notice.
+4. Whenever a child care center is located in an Industrial District in a building which is also used and occupied for industrial purposes, the Fire Department of the Township shall conduct semi-annual inspections to determine whether the industrial occupants of such building are storing or processing combustible or flammable materials in such quantities as to be considered hazardous to the health, safety or welfare of the occupants of the child care center. Should such materials in such quantities be found to exist, the Fire Department shall require the industrial occupant or occupants upon whose premises the condition exists to correct or abate the same within thirty (30) days. If, at the end of said 30-day period, upon a further inspection, the condition shall not have been corrected or abated, then the Fire Department shall require the child care center to cease and terminate its operations at such locations within thirty (30) days of the date of notice.
 
 <a id="section-1109"></a>
 ### Section 1109 - Child Care Homes
 
-1. A child care home may be conducted in districts where permitted in a detached,
-semi-detached or attached single- or two-family dwelling as defined in this
-Ordinance.
+1. A child care home may be conducted in districts where permitted in a detached, semi-detached or attached single- or two-family dwelling as defined in this Ordinance.
 
-2; A child care home shall meet all requirements for certification and/or
+2; A child care home shall meet all requirements for certification and/or registration by the State of Pennsylvania where required. Proof of such certification and any recertification shall be provided to the Township.
 
-registration by the State of Pennsylvania where required. Proof of such
-certification and any recertification shall be provided to the Township.
-
-33 At least one (1) off-street parking space for each person employed, plus one (1)
-off-street space for each four (4) children to be served by the facility in addition
-to the off-street parking requirements for single-family detached homes shall be
-provided.
+33 At least one (1) off-street parking space for each person employed, plus one (1) off-street space for each four (4) children to be served by the facility in addition to the off-street parking requirements for single-family detached homes shall be provided.
 
 <a id="section-1110"></a>
 ### Section 1110 - Drive-In Theaters
 
-A site plan shall be submitted with the application and any building permit issued shall
-
-be in accordance with the approved site plan. A drive-in theater shall be subject to the
-
-following regulations:
+A site plan shall be submitted with the application and any building permit issued shall be in accordance with the approved site plan. A drive-in theater shall be subject to the following regulations:
 
 1, The minimum lot area shall be fifteen (15) acres.
 
-The screen shall be situated so that its face is not visible from any public right-
-of-way.
+The screen shall be situated so that its face is not visible from any public right- of-way.
 
-No structure excepting an enclosure fence shall be located within one hundred
-(100) feet of any lot line provided, however, that the screen shall be located not
-less than one hundred fifty (150) feet from any lot line.
+No structure excepting an enclosure fence shall be located within one hundred (100) feet of any lot line provided, however, that the screen shall be located not less than one hundred fifty (150) feet from any lot line.
 
-The site shall be enclosed by a protective screening or planting strip consisting
-of suitable evergreen plant material. Such planting strip shall be maintained at a
-minimum height of sever (7) feet and shall be setback at least thirty (30) feet
-from right-of-way line and ten (10) feet from other lot lines.
+The site shall be enclosed by a protective screening or planting strip consisting of suitable evergreen plant material. Such planting strip shall be maintained at a minimum height of sever (7) feet and shall be setback at least thirty (30) feet from right-of-way line and ten (10) feet from other lot lines.
 
-Sufficient car storage areas, deceleration lanes, sight distance and lighting shall
-be provided for the safe and expedient handling of traffic provided, however,
-that storage areas shall provide storage space for at least twenty-five (25)
-percent of theater capacity.
+Sufficient car storage areas, deceleration lanes, sight distance and lighting shall be provided for the safe and expedient handling of traffic provided, however, that storage areas shall provide storage space for at least twenty-five (25) percent of theater capacity.
 
 A playground and snack shop will be permitted as an accessory use.
 
@@ -2461,8 +1632,7 @@ A playground and snack shop will be permitted as an accessory use.
 <a id="section-1113"></a>
 ### Section 1113 - Junkyards
 
-All junk yards existing at the effective date of this Ordinance, within one (1) year
-thereafter, and all junk yards, where permitted, shall comply with the following provisions;
+All junk yards existing at the effective date of this Ordinance, within one (1) year thereafter, and all junk yards, where permitted, shall comply with the following provisions;
 
 1. Any junk yard shall be completely enclosed with a visual screen of evergreen or evergreen type hedge or tree-row of a variety and size at the time of planting that such will attain a height of eight (8) feet within five (5) years thereafter and maintained in a sound and attractive manner.
 2. All junk shall be stored or arranged so as to permit access by fire fighting equipment and to prevent the accumulation of water, and with no junk piled to a height of more than eight (8) feet.
@@ -2514,37 +1684,37 @@ Quarrying of any kind or the processing of products thereof, and the excavation 
 
 - **A. Machinery; Equipment; Operations.**
 
-  All machinery, equipment and materials used in quarrying; all processing and manufacturing operations; and all hauling of quarrying products must be maintained, operated, or conducted in such a manner that in a residential zone:
+All machinery, equipment and materials used in quarrying; all processing and manufacturing operations; and all hauling of quarrying products must be maintained, operated, or conducted in such a manner that in a residential zone:
   1. Flying objects and debris are not thrown;
   2. Noxious gases are not disseminated;
   3. There is no appreciable noise, vibration dust or mist.
 - **B. Barriers.**
   1. Fencing.
 
-     A six foot (6') substantial fence or other suitable barrier six feet (6') high must surround the area of actual quarrying, unless such requirement is waived by special exception issued by the Zoning Hearing Board.
+A six foot (6') substantial fence or other suitable barrier six feet (6') high must surround the area of actual quarrying, unless such requirement is waived by special exception issued by the Zoning Hearing Board.
   2. Screens.
 
-     Where quarrying operations will impair the beauty and character of the surrounding countryside, trees or shrubs must be planted and/or attractive earth barriers erected, to screen the operation as far as practical from normal view.
+Where quarrying operations will impair the beauty and character of the surrounding countryside, trees or shrubs must be planted and/or attractive earth barriers erected, to screen the operation as far as practical from normal view.
 - **C. Washing.**
 
-  The washing of any earth material is permitted except:
+The washing of any earth material is permitted except:
   1. Where the quantity of water required will seriously affect the supply for residential uses in the area.
   2. Where in the written opinion of the Pennsylvania Department of Environmental Resources, disposal of water will result in contamination, pollution or excessive silting.
 - **D. Setbacks from Residential Zones.**
 
-  Where the lot or parcel of land which is the focus of quarrying operations is adjacent to a residential district:
+Where the lot or parcel of land which is the focus of quarrying operations is adjacent to a residential district:
   1. No stock piles, waste piles, processing or manufacturing equipment, may be closed than one-thousand feet (1,000') to the residential district.
   2. No part of the quarrying pit, private access road, truck parking area, scales, or operational equipment, may be closer than five hundred feet (500') to the residential district.
 - **E. Street Setbacks.**
 
-  From the right-of-way line of a public street or highway, no part of the quarrying pit, stock piles, waste piles, processing or manufacturing equipment, scales or operational equipment, may be closer than one hundred feet (100').
+From the right-of-way line of a public street or highway, no part of the quarrying pit, stock piles, waste piles, processing or manufacturing equipment, scales or operational equipment, may be closer than one hundred feet (100').
 - **F. Property Line Setbacks.**
 
-  From a property line, except for those following:
+From a property line, except for those following:
   1. No part of the quarrying pit, stock piles, waste piles, processing or manufacturing equipment, scales or operational equipment, may be closer than two hundred feet (200').
   2. No private access road, truck parking area, scales, or operation equipment, may be closer than one hundred feet (100').
 
-  Where a quarrying property abuts another quarrying property, an operating railroad's right-of-way property, or a property in an agricultural district, no part of the quarrying operation except an access road mat be closer than fifty feet (50').
+Where a quarrying property abuts another quarrying property, an operating railroad's right-of-way property, or a property in an agricultural district, no part of the quarrying operation except an access road mat be closer than fifty feet (50').
 
 **3. Rehabilitation Requirements.**
 
@@ -2555,7 +1725,7 @@ Quarrying of any kind or the processing of products thereof, and the excavation 
   3. Drainage: To prevent any silt, erosional debris, or other loose material from filing any existing drainage, course, or encroachment on State or Township roads or private property, all surface drainage existing or developing by or through the topsoil site must be controlled by dikes, barriers, or drainage structures. All measures to control natural drainage or flood water must meet with the approval of the Board of Supervisors.
 - **C. Reporting of Operational and Rehabilitation Information.**
 
-  In order to keep the Zoning Officer abreast of impending termination of quarrying operations and plans for rehabilitation as well as operational activities which he has a duty to check, each quarry owner or operator must submit to the Zoning Officer, as requested, but not to exceed more than one report in a period of two (2) years, the information following:
+In order to keep the Zoning Officer abreast of impending termination of quarrying operations and plans for rehabilitation as well as operational activities which he has a duty to check, each quarry owner or operator must submit to the Zoning Officer, as requested, but not to exceed more than one report in a period of two (2) years, the information following:
   1. Operational Date:
      - **(a)** Ownership and acreage of the land which is the sites of quarrying operations, including all land held under contract or lease.
      - **(b)** Type of earth resource quarried.
@@ -2580,25 +1750,15 @@ Quarrying of any kind or the processing of products thereof, and the excavation 
 
 ly
 
-Consideration shall be given to traffic problems. If the nature of the park or
-open space area is such that it will generate a high volume of vehicular traffic
-then access should be via an arterial or collector street as designated in the
-Township’s Comprehensive Plan.
+Consideration shall be given to traffic problems. If the nature of the park or open space area is such that it will generate a high volume of vehicular traffic then access should be via an arterial or collector street as designated in the Township’s Comprehensive Plan.
 
-The Board of Supervisors shall decide the appropriateness of the design of
-parking, lighting, and similar features of the proposed use to minimize adverse
-impacts on adjacent properties.
+The Board of Supervisors shall decide the appropriateness of the design of parking, lighting, and similar features of the proposed use to minimize adverse impacts on adjacent properties.
 
-Existing trees and vegetation shall be preserved, to the extent possible, to keep
-the area natural.
+Existing trees and vegetation shall be preserved, to the extent possible, to keep the area natural.
 
-Where an outdoor recreational use, other than a golf course, adjoins a
-residential use, trees or shrubs must be planted on the site of this use so as to
-form an effective visual barrier between the outdoor recreational use and
-adjoining residential properties.
+Where an outdoor recreational use, other than a golf course, adjoins a residential use, trees or shrubs must be planted on the site of this use so as to form an effective visual barrier between the outdoor recreational use and adjoining residential properties.
 
-Depending upon the special nature of the proposed use, additional screening or
-buffering may be required to protect adjoining properties.
+Depending upon the special nature of the proposed use, additional screening or buffering may be required to protect adjoining properties.
 
 <a id="section-1118"></a>
 ### Section 1118 - Recreational Vehicle Park or Campground
@@ -2607,54 +1767,32 @@ I.
 
 All campsites shall be located at least fifty (50) feet from any proposed line.
 
-No more than ten (10) campsites shall be permitted per acre. A parking space
-for one (1) automobile shall be provided at each site which will not interfere
-with the convenient and safe movement of traffic, plus an equivalent amount of
-parking shall be provided in a common area or lot.
+No more than ten (10) campsites shall be permitted per acre. A parking space for one (1) automobile shall be provided at each site which will not interfere with the convenient and safe movement of traffic, plus an equivalent amount of parking shall be provided in a common area or lot.
 
-Adequate provisions for water supply and wastewater management must be
-made in accordance with local and state requirements.
+Adequate provisions for water supply and wastewater management must be made in accordance with local and state requirements.
 
 <a id="section-1119"></a>
 ### Section 1119 - Resort Hotels, Motels and Areas
 
-1 Consideration shall be given to traffic problems. If the nature of the park or
-open space area is such that it will generate a high volume of vehicular traffic
-then access should be via an arterial or collector street as designated in the
-Township’s Comprehensive Plan.
+1 Consideration shall be given to traffic problems. If the nature of the park or open space area is such that it will generate a high volume of vehicular traffic then access should be via an arterial or collector street as designated in the Township’s Comprehensive Plan.
 
-2. Off-street parking and loading spaces for all facilities shall be provided in
-accordance with the requirements of this ordinance.
+2. Off-street parking and loading spaces for all facilities shall be provided in accordance with the requirements of this ordinance.
 
-3. Special consideration shall be given to maintaining the rural character of the
-area. Architectural design, landscaping, grading and other site characteristics
-shall be designed to blend into the natural environmental of the Township.
+3. Special consideration shall be given to maintaining the rural character of the area. Architectural design, landscaping, grading and other site characteristics shall be designed to blend into the natural environmental of the Township.
 
 <a id="section-1120"></a>
 ### Section 1120 - Roadside Stands
 
-Temporary roadside stands may be erected for the sale of garden products and garden
-commodities produced on the same property where offered for sale, provided; no building or
-structure other than a portable stand shall be constructed for such sale; such stand shall be
-removed during seasons when such products are not being offered for sale, and in no case shall
-they remain longer than for a period of six (6) months of any one (1) year; and such stand shall
-not be placed closer than twenty-five (25) feet to any lot line.
+Temporary roadside stands may be erected for the sale of garden products and garden commodities produced on the same property where offered for sale, provided; no building or structure other than a portable stand shall be constructed for such sale; such stand shall be removed during seasons when such products are not being offered for sale, and in no case shall they remain longer than for a period of six (6) months of any one (1) year; and such stand shall not be placed closer than twenty-five (25) feet to any lot line.
 
 <a id="section-1121"></a>
 ### Section 1121 - Solid Waste Processing and Disposal Facilities
 
-Facilities for disposal of municipal or residual solid waste permitted by Conditional Use
-in an Industrial District shall, in addition to all of the requirements of this Ordinance, be
-subject to the following:
+Facilities for disposal of municipal or residual solid waste permitted by Conditional Use in an Industrial District shall, in addition to all of the requirements of this Ordinance, be subject to the following:
 
-1. Such municipal or residual solid waste disposal facility, whether a landfill,
-incinerator, or resource recovery or any other system, shall be owned and
-operated only by a political subdivision of the Commonwealth of Pennsylvania.
+1. Such municipal or residual solid waste disposal facility, whether a landfill, incinerator, or resource recovery or any other system, shall be owned and operated only by a political subdivision of the Commonwealth of Pennsylvania.
 
-2. Such facility shall provide for the disposal only of municipal or residual solid
-waste as defined in the Municipal Waste Planning, Recycling and Waste
-Reduction Act, Act 101 of 1988, and 25 PA Code Chapters 271, 273, 275, 277,
-279, 281, and 283 and 285 as amended, supplemented or revised.
+2. Such facility shall provide for the disposal only of municipal or residual solid waste as defined in the Municipal Waste Planning, Recycling and Waste Reduction Act, Act 101 of 1988, and 25 PA Code Chapters 271, 273, 275, 277, 279, 281, and 283 and 285 as amended, supplemented or revised.
 
 3. If a landfill, no solid waste shall be deposited, either temporarily or permanently, within three hundred (300) feet of the property line of any adjoining property, or within three hundred (300) feet of the right-of-way line of any public highway. If an incinerator, resource recovery or other such facility, no storage or disposal structure shall be located within three hundred (300) feet of such property line or any public highway.
 4. If a landfill, no solid waste shall be deposited either temporarily or permanently, within five hundred (500) feet of any dwelling, church, school or any other building used for human occupancy, at any time or from time to time. If an incinerator, resource recovery or other such facility, no storage or disposal structure shall be located within five hundred (500) feet of such structures.
@@ -2671,9 +1809,7 @@ Reduction Act, Act 101 of 1988, and 25 PA Code Chapters 271, 273, 275, 277,
 <a id="section-1201"></a>
 ### Section 1201 - Erection and Maintenance of Signs
 
-Signs may be erected and maintained only when in compliance with the provisions of
-this Article and any and all other ordinance and regulations relating to the erection, alteration,
-or maintenance of signs and similar devices.
+Signs may be erected and maintained only when in compliance with the provisions of this Article and any and all other ordinance and regulations relating to the erection, alteration, or maintenance of signs and similar devices.
 
 <a id="section-1202"></a>
 ### Section 1202 - Signs Permitted in Residential Districts
@@ -2692,20 +1828,14 @@ or maintenance of signs and similar devices.
 <a id="section-1203"></a>
 ### Section 1203 - Panel Type Signs (Billboards)
 
-Signs which advertise products or services other than those which are sold on the
-premises where the sign is located are permitted in commercial and industrial districts, subject
-to the following conditions, as well as other applicable requirements.
+Signs which advertise products or services other than those which are sold on the premises where the sign is located are permitted in commercial and industrial districts, subject to the following conditions, as well as other applicable requirements.
 
 - **A.** No billboards or advertising sign board shall exceed five hundred (500) square feet in area.
 
 <a id="section-1204"></a>
 ### Section 1204 - Business Identification Signs
 
-Signs bearing the name of the occupant and products manufactured, processed, sold or
-displayed may be erected and maintained on the premises in commercial and industrial
-
-districts. The size of business identification signs shall not exceed seventy-five (75) square feet
-in area; however, all General Regulations, [Section 1205](#section-1205), shall apply to such signs.
+Signs bearing the name of the occupant and products manufactured, processed, sold or displayed may be erected and maintained on the premises in commercial and industrial districts. The size of business identification signs shall not exceed seventy-five (75) square feet in area; however, all General Regulations, [Section 1205](#section-1205), shall apply to such signs.
 
 <a id="section-1205"></a>
 ### Section 1205 - General Regulations for All Signs
@@ -2740,40 +1870,15 @@ The following regulations shall apply to all permitted signs uses.
 
 (5)
 
-Off-street parking, loading, and unloading facilities shall be provided to lessen
-congestion in the streets. The facilities required herein shall be available
-throughout the hours of operations of the particular business or use for which
-such facilities are provided. As used herein, the term “parking space” includes
-either covered garage space or uncovered parking lot space located off the
-public right-of-way.
+Off-street parking, loading, and unloading facilities shall be provided to lessen congestion in the streets. The facilities required herein shall be available throughout the hours of operations of the particular business or use for which such facilities are provided. As used herein, the term “parking space” includes either covered garage space or uncovered parking lot space located off the public right-of-way.
 
-Each parking space shall consist of not less than an average of two hundred
-seventy (270) square feet of useable area for each motor vehicle, including
-interior driveways, driveways connecting the garage, or parking space, with a
-street or alley. No withstanding the above, all parking spaces shall be ample in
-size of alley. Not withstanding the above, all parking spaces shall be ample in
-size for the vehicles for which use is intended. The net parking space per
-vehicle shall be not less than ten (10) feet wide and twenty (20) feet long.
-Outdoor parking space, and the approaches thereto, shall be paved, or stabilized
-with a suitable material. Such outdoor parking spaces shall not be used to
-satisfy any open space requirements of the lot on which it is located.
+Each parking space shall consist of not less than an average of two hundred seventy (270) square feet of useable area for each motor vehicle, including interior driveways, driveways connecting the garage, or parking space, with a street or alley. No withstanding the above, all parking spaces shall be ample in size of alley. Not withstanding the above, all parking spaces shall be ample in size for the vehicles for which use is intended. The net parking space per vehicle shall be not less than ten (10) feet wide and twenty (20) feet long. Outdoor parking space, and the approaches thereto, shall be paved, or stabilized with a suitable material. Such outdoor parking spaces shall not be used to satisfy any open space requirements of the lot on which it is located.
 
-A garage or carport may be located wholly or partly inside the walls of the
-principal building, or attached to the outer walls. If separated from the principal
-building, the garage shall conform to all accessory building requirements. The
-garage may be constructed under a yard or court. The space above an
-underground garage shall be deemed to be part of the open space of the lot on
-which it is located.
+A garage or carport may be located wholly or partly inside the walls of the principal building, or attached to the outer walls. If separated from the principal building, the garage shall conform to all accessory building requirements. The garage may be constructed under a yard or court. The space above an underground garage shall be deemed to be part of the open space of the lot on which it is located.
 
-Parking spaces may be located on a lot other than that containing the principal
-use with the approval of the Board of Supervisors provided a written agreement
-approved by the municipal solicitor and accepted by the Board of Supervisors,
-shall be filed with the application for a zoning permit.
+Parking spaces may be located on a lot other than that containing the principal use with the approval of the Board of Supervisors provided a written agreement approved by the municipal solicitor and accepted by the Board of Supervisors, shall be filed with the application for a zoning permit.
 
-Surfacing: Any off-street parking area shall be graded for proper drainage and
-shall be surfaced so as to provide a durable and dustless surface, such as a
-gravel, concrete or bituminous concrete surface, and shall be so arranged as to
-provide for orderly and safe parking storage of vehicles.
+Surfacing: Any off-street parking area shall be graded for proper drainage and shall be surfaced so as to provide a durable and dustless surface, such as a gravel, concrete or bituminous concrete surface, and shall be so arranged as to provide for orderly and safe parking storage of vehicles.
 
 (6)
 
@@ -2789,46 +1894,19 @@ provide for orderly and safe parking storage of vehicles.
 
 (12)
 
-Lighting: Any lighting used to illuminate any off-street parking shall be so
-arranged as to reflect the light away from adjoining premises and public right-
-of-way.
+Lighting: Any lighting used to illuminate any off-street parking shall be so arranged as to reflect the light away from adjoining premises and public right- of-way.
 
-There shall be adequate provisions for ingress and egress to all parking and
-loading spaces designed for use by employees, customers, delivery services,
-sales people and/or the general public. Where a parking or loading area does
-not abut on a public right-of-way or private alley or easement of access, there
-shall be provided an access drive per lane of traffic not less than twelve (12) feet
-in width suitably graded and surfaced not less than eighteen (18) feet in width in
-all cases where the access is to storage areas or loading an unloading spaces
-required hereunder.
+There shall be adequate provisions for ingress and egress to all parking and loading spaces designed for use by employees, customers, delivery services, sales people and/or the general public. Where a parking or loading area does not abut on a public right-of-way or private alley or easement of access, there shall be provided an access drive per lane of traffic not less than twelve (12) feet in width suitably graded and surfaced not less than eighteen (18) feet in width in all cases where the access is to storage areas or loading an unloading spaces required hereunder.
 
-For other uses which do not fit into one of the categories listed in [Section 802](#section-802),
-determination of the appropriate parking space requirement shall be made by the
-Zoning Officer.
+For other uses which do not fit into one of the categories listed in [Section 802](#section-802), determination of the appropriate parking space requirement shall be made by the Zoning Officer.
 
-Off-street parking and loading space as required in this section shall be provided
-for all new buildings and structures and for additions to existing buildings or
-structures. The word “addition” as used above shall include any alternations
-intended to enlarge or increase capacity by adding or creating dwelling units,
-floor area or seats.
+Off-street parking and loading space as required in this section shall be provided for all new buildings and structures and for additions to existing buildings or structures. The word “addition” as used above shall include any alternations intended to enlarge or increase capacity by adding or creating dwelling units, floor area or seats.
 
-Existing off-street parking or loading facilities provided at the effective date of
-this Ordinance and actually being used at the time in connection with the
-operation of an existing use, shall not be reduced below the minimum required
-in this Ordinance.
+Existing off-street parking or loading facilities provided at the effective date of this Ordinance and actually being used at the time in connection with the operation of an existing use, shall not be reduced below the minimum required in this Ordinance.
 
-Whenever the existing use of a building, structure or land shall hereafter be
-changed to a new use, parking and loading facilities shall be provided as
-required for such a new use. However, if the said building or structure was
-erected or the use of land established prior to the effective date of this
-Ordinance, additional parking or loading facilities are mandatory only in the
-amount by which the requirements for the new use would exceed those for the
-existing use.
+Whenever the existing use of a building, structure or land shall hereafter be changed to a new use, parking and loading facilities shall be provided as required for such a new use. However, if the said building or structure was erected or the use of land established prior to the effective date of this Ordinance, additional parking or loading facilities are mandatory only in the amount by which the requirements for the new use would exceed those for the existing use.
 
-In the case of mixed uses, the total number of required parking or loading
-
-spaces shall be the sum of the required spaces for the various uses computed
-separately.
+In the case of mixed uses, the total number of required parking or loading spaces shall be the sum of the required spaces for the various uses computed separately.
 
 <a id="section-1302"></a>
 ### Section 1302 - Parking Facilities Required
@@ -2908,9 +1986,7 @@ Off-street parking facilities shall be provided as follows:
 <a id="section-1304"></a>
 ### Section 1304 - Access of Off-Street Parking and Loading Areas
 
-Access to and from all off-street parking, loading, and vehicle services areas along
-public right-of-way consist of well defined separate or common entrances and exits and shall
-comply with the following provisions:
+Access to and from all off-street parking, loading, and vehicle services areas along public right-of-way consist of well defined separate or common entrances and exits and shall comply with the following provisions:
 
 1. Access drives shall not open any public right-of-way within eighty (80) feet of the nearest right-of-way line of any intersecting public street or highway.
 2. Access drives shall not open upon any public right-of-way where the sight distance in either direction along the public thoroughfare would be less than five hundred (500) feet when the posted speed limit exceeds thirty-five (35) miles per hour; however, when the posted speed limit is thirty-five (35) miles per hour or less, the sight-distance requirement may be reduced to two hundred fifty (250) feet.
@@ -2918,10 +1994,7 @@ comply with the following provisions:
 <a id="section-1305"></a>
 ### Section 1305 - Parking and Loading Area Setbacks
 
-All non-residential parking and loading areas and parallel circulation and service lanes
-shall be separated from the paving edge of a public thoroughfare or adjoining property lines by
-a planting strip at least twenty (20) feet in depth, unless adjoining owners mutually agree to
-common facilities subject to greater setbacks as may be required elsewhere in this Ordinance.
+All non-residential parking and loading areas and parallel circulation and service lanes shall be separated from the paving edge of a public thoroughfare or adjoining property lines by a planting strip at least twenty (20) feet in depth, unless adjoining owners mutually agree to common facilities subject to greater setbacks as may be required elsewhere in this Ordinance.
 
 <a id="article-xiv"></a>
 ## Article XIV — Administration and Enforcement
@@ -2968,17 +2041,10 @@ common facilities subject to greater setbacks as may be required elsewhere in th
 <a id="section-1404"></a>
 ### Section 1404 - Enforcement, Penalty, and Remedy
 
-1. The construction, erection, replacement, alteration, repair, extension,
-replacement, and/or use of any structure, building, sign, and/or land or the
-change of use, area of use, percentage of use or extension or displacement of the
-use any structure, building, sign, and/or land without first obtaining a permit for
-the use of any building, structures, sign, and/or land without receipt of a
-certificate of use and occupancy or the failure to comply with any other
-provisions of this Ordinance, are hereby declared to be violation of this Zoning
-Ordinance.
+1. The construction, erection, replacement, alteration, repair, extension, replacement, and/or use of any structure, building, sign, and/or land or the change of use, area of use, percentage of use or extension or displacement of the use any structure, building, sign, and/or land without first obtaining a permit for the use of any building, structures, sign, and/or land without receipt of a certificate of use and occupancy or the failure to comply with any other provisions of this Ordinance, are hereby declared to be violation of this Zoning Ordinance.
 2. The Zoning/Permit Officer shall notify by written notice of violation or order on the person, firm or corporation, or the owner, lessee or agent of the land upon which the violation has occurred who has committed the violation, and such order shall direct the discontinuance of the illegal action or condition and the abatement of the violation. However, in no case shall the person so notified abandon the premise in such a condition so as to create a hazard or menace to the public safely, health, morals or welfare. Said premises shall be placed in such condition as the Zoning/Permit Officer shall direct.
 
-   An enforcement notice shall state at least the following:
+An enforcement notice shall state at least the following:
    - **(a)** The name of the owner of record and any other person against whom the Township intends to take action.
    - **(b)** The location of the property in violation.
    - **(c)** The specific violation with a description of the requirements which have been met, citing in each instance the applicable provisions of the ordinance.
@@ -2986,40 +2052,11 @@ Ordinance.
    - **(e)** That the recipient of the notice has the right to appeal to the zoning hearing board within the prescribed period of time in accordance with procedures set forth in this Ordinance.
    - **(f)** That failure to comply with the notice within the time specified, unless extended by appeal to the Zoning Hearing Board, constitutes a violation, with possible sanctions clearly described.
 
-   In any case any building, structure, landscaping or land is, or is proposed to be,
-erected, constructed, reconstructed, altered, converted, maintained or used in
-violation of any ordinance enacted under the PAMPC or prior enabling laws,
-the Supervisors or, with the approval of the Supervisors, an officer of the
-Township, or any aggrieved owner or tenant of real property who shows that his
-property or person will be substantially affected by the alleged violation, in
-addition to other remedies, may institute any appropriate action or proceeding to
-prevent, restrain, correct or abate such building, structure, landscaping or land,
-or to prevent, in or about such premises, any act, conduct, business or use
-constituting a violation. When any such action is instituted by a landowner or
-tenant, notice of that action shall be served upon the Township at least 30 days
-prior to the time the action is begun by serving a copy of the complaint on the
-Board of Supervisors of Fayette Township. No such action may be maintained
-until such notice has been given.
+In any case any building, structure, landscaping or land is, or is proposed to be, erected, constructed, reconstructed, altered, converted, maintained or used in violation of any ordinance enacted under the PAMPC or prior enabling laws, the Supervisors or, with the approval of the Supervisors, an officer of the Township, or any aggrieved owner or tenant of real property who shows that his property or person will be substantially affected by the alleged violation, in addition to other remedies, may institute any appropriate action or proceeding to prevent, restrain, correct or abate such building, structure, landscaping or land, or to prevent, in or about such premises, any act, conduct, business or use constituting a violation. When any such action is instituted by a landowner or tenant, notice of that action shall be served upon the Township at least 30 days prior to the time the action is begun by serving a copy of the complaint on the Board of Supervisors of Fayette Township. No such action may be maintained until such notice has been given.
 3. If the notice of violation is not complied with within a period of five (5) days, the Zoning/Permit Officer or other Township officer may take, in the name of the Township, any appropriate action or proceeding at law or in equity to prevent, restrain, correct or abate such violation or to require the removal or termination of the unlawful use of the structure, building sign, and/or land in violation of the provisions of the Zoning Ordinance or of the order or direction made pursuant thereto.
-4. Any person, partnership or corporation who or which has violated or permitted the violation of the provisions of this zoning ordinance enacted under the
-Municipalities Planning Code or prior enabling laws shall, upon being found
-liable therefor in civil enforcement proceeding commended by the Township,
-pay a judgement of not more than $500 plus all court costs, including reasonable
+4. Any person, partnership or corporation who or which has violated or permitted the violation of the provisions of this zoning ordinance enacted under the Municipalities Planning Code or prior enabling laws shall, upon being found liable therefor in civil enforcement proceeding commended by the Township, pay a judgement of not more than $500 plus all court costs, including reasonable
 
-attorney fees incurred by the Township as a result thereof. No judgement shall
-commence or be imposed, levied or payable until the date of the determination
-of a violation by the District Justice. If the defendant neither pays nor timely
-appeals the judgement, the Township may enforce the judgement pursuant to the
-applicable rules of civil procedure. Each day that a violation, unless the district
-justice determining that thee has been a violation further determines that there
-was a good faith basis for the person, partnership or corporation violating the
-Ordinance to have believed that there was no such violation, in which event
-there shall be deemed to have been only one such violation until the fifth day
-following the date of the determination of a violation by the district justice and
-thereafter each day a violation continues shall constitute a separate violation.
-All judgements, costs and reasonable attorney fees collected for the violation of
-zoning ordinances shall be paid over to the Township whose ordinance has been
-violated.
+attorney fees incurred by the Township as a result thereof. No judgement shall commence or be imposed, levied or payable until the date of the determination of a violation by the District Justice. If the defendant neither pays nor timely appeals the judgement, the Township may enforce the judgement pursuant to the applicable rules of civil procedure. Each day that a violation, unless the district justice determining that thee has been a violation further determines that there was a good faith basis for the person, partnership or corporation violating the Ordinance to have believed that there was no such violation, in which event there shall be deemed to have been only one such violation until the fifth day following the date of the determination of a violation by the district justice and thereafter each day a violation continues shall constitute a separate violation. All judgements, costs and reasonable attorney fees collected for the violation of zoning ordinances shall be paid over to the Township whose ordinance has been violated.
 5. The court of common pleas, upon petition, may grant an order of stay, upon cause shown, tolling the per diem fine pending a final adjudication of the violation and judgement.
 6. Nothing contained in this section shall be construed or interpreted to grant to any person or entity other than the Township the right to commence any action for enforcement pursuant to this section.
 
@@ -3028,33 +2065,12 @@ violated.
 
 1. Creation and Membership: The terms of office of the board shall be three (3) years and shall be so fixed that the term of office of one member of a three member board shall expire each year. The board shall promptly notify the Supervisors or any vacancies which occur. Appointments to fill vacancies shall be only for the unexpired portion of the term. Members of the board shall hold no other office on the municipality.
 
-   The Supervisors map appoint by resolution at least one but no more than three residents of the Township to serve as alternate members of the board. The term of office of an alternate member shall be three years. When seated pursuant to the provisions of this ordinance, an alternate shall be entitled to participate in all proceedings and discussions of the board to the same and full extent as provided by law for board members, including specifically the right to cast a vote as a voting member during the proceedings, and shall have all the powers and duties set forth as otherwise provided by law. Alternates shall hold no other office in the municipality, including membership on the Planning Commission and Zoning/Permit Officer. Any alternate may participate in any proceeding or discussion of the board shall not be entitled to vote as a member of the board nor be compensated unless designed as a voting alternate member.
-2. General Procedures: The Zoning Hearing Board shall be governed by the
-provisions of the “Pennsylvania Municipalities Planning Code,” Act 170 of
-December 21, 1988, P.L. 1329 Article [IX as may be amended or revised, and
-such other Commonwealth of Pennsylvania laws as may be applicable. As used
-in Ordinance, unless the context clearly indicates otherwise, the term “Board”
-shall refer to such Zoning Hearing Board, and “Act 170” shall refer to the
-“Pennsylvania Municipalities Planning Code” as cited above.
+The Supervisors map appoint by resolution at least one but no more than three residents of the Township to serve as alternate members of the board. The term of office of an alternate member shall be three years. When seated pursuant to the provisions of this ordinance, an alternate shall be entitled to participate in all proceedings and discussions of the board to the same and full extent as provided by law for board members, including specifically the right to cast a vote as a voting member during the proceedings, and shall have all the powers and duties set forth as otherwise provided by law. Alternates shall hold no other office in the municipality, including membership on the Planning Commission and Zoning/Permit Officer. Any alternate may participate in any proceeding or discussion of the board shall not be entitled to vote as a member of the board nor be compensated unless designed as a voting alternate member.
+2. General Procedures: The Zoning Hearing Board shall be governed by the provisions of the “Pennsylvania Municipalities Planning Code,” Act 170 of December 21, 1988, P.L. 1329 Article [IX as may be amended or revised, and such other Commonwealth of Pennsylvania laws as may be applicable. As used in Ordinance, unless the context clearly indicates otherwise, the term “Board” shall refer to such Zoning Hearing Board, and “Act 170” shall refer to the “Pennsylvania Municipalities Planning Code” as cited above.
 
-The Board shall elect from its own membership its officers, who shall serve
-annual terms as such and any may succeed themselves. For the conduct of any
-hearing and the taking of any action, a quorum shall be not less than a majority
-of all the members of the Board, but where two members are disqualified to act
-in a particular manner, the remaining member may act for the Board. The
-Board may appoint a hearing officer from its own membership to conduct any
-hearing on its behalf and the parties may waive further action by the Board as
-provided in [Section 1408](#section-1408). The Board may make, alter and rescind rules and
-forms for its procedure, consistent with ordinances of the Township and laws of
-the Commonwealth. The Board shall keep full public records of its business and
-shall submit a report of its activities to the Board of Supervisors once a year.
+The Board shall elect from its own membership its officers, who shall serve annual terms as such and any may succeed themselves. For the conduct of any hearing and the taking of any action, a quorum shall be not less than a majority of all the members of the Board, but where two members are disqualified to act in a particular manner, the remaining member may act for the Board. The Board may appoint a hearing officer from its own membership to conduct any hearing on its behalf and the parties may waive further action by the Board as provided in [Section 1408](#section-1408). The Board may make, alter and rescind rules and forms for its procedure, consistent with ordinances of the Township and laws of the Commonwealth. The Board shall keep full public records of its business and shall submit a report of its activities to the Board of Supervisors once a year.
 
-Each application or appeal filed in the proper form with the required date, must
-be numbered serially and be placed upon the calendar of the Board by the
-Secretary. Applications and appeals must be assigned for hearing in the order in
-which they appear on the calendar. However, for good reason, the Board may
-order the advance of the application or appeal. The Board must fix a reasonable
-time for hearings.
+Each application or appeal filed in the proper form with the required date, must be numbered serially and be placed upon the calendar of the Board by the Secretary. Applications and appeals must be assigned for hearing in the order in which they appear on the calendar. However, for good reason, the Board may order the advance of the application or appeal. The Board must fix a reasonable time for hearings.
 
 <a id="section-1406"></a>
 ### Section 1406 - Powers
@@ -3070,9 +2086,9 @@ The Zoning Hearing Board shall have the following powers:
    - **D.** That the variance, if authorized, will not alter the essential character of the neighborhood or district in which the property is located, nor substantially or permanently impair the appropriate use or development of adjacent property, nor be detrimental to the public welfare.
    - **E.** That the variance, if authorized, will represent the minimum variance that will afford relief and will represent the least modification possible of the regulation in issue.
 
-   In granting an variance, the Board may attach such reasonable conditions and safeguards as it any deem necessary to implement the purpose of the Pennsylvania Municipalities Planning Code and this ordinance.
+In granting an variance, the Board may attach such reasonable conditions and safeguards as it any deem necessary to implement the purpose of the Pennsylvania Municipalities Planning Code and this ordinance.
 
-   All applications for use variance shall be referred to the Planning Commission or the Board of Supervisors by the Zoning Hearing Board with the direction that the Planning Commission or Board of Supervisors shall make a study thereof and recommendations to the Board within forty (40) days from the date of the receipt of said application by the Planning Commission.
+All applications for use variance shall be referred to the Planning Commission or the Board of Supervisors by the Zoning Hearing Board with the direction that the Planning Commission or Board of Supervisors shall make a study thereof and recommendations to the Board within forty (40) days from the date of the receipt of said application by the Planning Commission.
 4. In exercising the above mentioned powers, the Board may, in conformity with the provisions of this article, reverse or affirm, wholly or partly, or may modify, the order, requirement, decision or determination appealed from, and may make such order, requirement, decision or determination as believed proper. Notice of such decision shall forthwith be given to all parties in interest.
 5. All applications for special exceptions and variances shall be fully reviewed by the Township Planning Commission or the Board of Supervisors except that the Zoning Officer may waiver this requirement when only a fence or single family residential use is contemplated. The Planning Commission or the Board of Supervisors shall issue a report to both the applicant and Zoning Hearing Board as evidence. Unless expressly characterized as "permanent" in the Zoning Hearing Board's opinion, no special exception or variance shall create a non-conforming use or extend to anyone other than the person seeking such special exception or variance and their heirs, successors, or assigns.
 6. The fee for appeals and permits shall be set by the Board of Supervisors by resolution.
@@ -3082,14 +2098,7 @@ The Zoning Hearing Board shall have the following powers:
 <a id="section-1407"></a>
 ### Section 1407 - Appeals to the Zoning Hearing Board and Board of Supervisors
 
-1. Appeals to the Zoning Hearing Board or the Board of Supervisors may be made
-by any person or by any Township official or agency aggrieved or affected by
-any decision of the Zoning/Permit Officer. Such appeal shall be taken with
-thirty (30) days of the decision of the Zoning/Permit Officer by filing with the
-Zoning/Permit Officer and with the Board a notice of appeal, specifying the
-grounds thereof. The Zoning/Permit Officer shall forthwith transmit to the
-Board all the papers constituting the record upon which the action appealed from
-was taken. An appeal shall state:
+1. Appeals to the Zoning Hearing Board or the Board of Supervisors may be made by any person or by any Township official or agency aggrieved or affected by any decision of the Zoning/Permit Officer. Such appeal shall be taken with thirty (30) days of the decision of the Zoning/Permit Officer by filing with the Zoning/Permit Officer and with the Board a notice of appeal, specifying the grounds thereof. The Zoning/Permit Officer shall forthwith transmit to the Board all the papers constituting the record upon which the action appealed from was taken. An appeal shall state:
    - **A.** The name and address of the appellant.
    - **B.** The name and address of the owner of the real estate to be affected by such proposed exception, of variance.
    - **C.** A brief description and location of the real estate to be affected by such proposed change.
@@ -3106,9 +2115,9 @@ was taken. An appeal shall state:
 5. The respective Board shall decide the issue involved within forty-five (45) days after the hearing or continued hearing, it shall be deemed that such Board has decided in favor of the person or Township official aggrieved or affected who is seeking relief. All actions of the Board shall be by Resolution and a copy shall be furnished to the parties in interest and the Zoning/Permit Officer as a public record.
 6. If the variance is granted or the issuance of a permit is approved, or other actions by the appellant is authorized, the necessary permit shall be secured and the authorized action begun within six (6) months after the date when the variance is finally granted or the issuance of a permit is finally approved or the other action by the appellant is authorized. For good cause the Board may, upon application in writing stating the reasons therefore grant an additional six (6) month extension.
 
-   Should appellant or applicant fail to obtain the necessary permits within said twelve (12) month period, or having obtained the permit should he fail to commence work thereunder within such twelve (12) month period, it shall be conclusively presumed that the appellant or applicant has waived, withdrawn, or abandoned his appeal or his application, and all provisions, variances and permits granted to him shall be deemed automatically rescinded by the Board.
+Should appellant or applicant fail to obtain the necessary permits within said twelve (12) month period, or having obtained the permit should he fail to commence work thereunder within such twelve (12) month period, it shall be conclusively presumed that the appellant or applicant has waived, withdrawn, or abandoned his appeal or his application, and all provisions, variances and permits granted to him shall be deemed automatically rescinded by the Board.
 
-   Should the appellant or applicant commence construction or alteration within said twelve (12) month period, but should he fail to complete such construction or alteration within said twelve (12) month period, the Board may upon ten (10) days notice in writing, rescind revoke the granted variance, or the issuance of the permit, or permits or the other action authorized to the appellant or applicant, if the Board finds that a good cause appears for the failure complete within such twelve (12) month period, and if the Board further finds that conditions have so altered or changed in the interval since the granting of the variance, permit or action, that revocation or rescission of the action is justified.
+Should the appellant or applicant commence construction or alteration within said twelve (12) month period, but should he fail to complete such construction or alteration within said twelve (12) month period, the Board may upon ten (10) days notice in writing, rescind revoke the granted variance, or the issuance of the permit, or permits or the other action authorized to the appellant or applicant, if the Board finds that a good cause appears for the failure complete within such twelve (12) month period, and if the Board further finds that conditions have so altered or changed in the interval since the granting of the variance, permit or action, that revocation or rescission of the action is justified.
 
 <a id="section-1408"></a>
 ### Section 1408 - Hearings
@@ -3121,7 +2130,7 @@ was taken. An appeal shall state:
      - **(4)** By mailing a notice thereof, at least six (6) days prior to the hearing, to such other person as designated by ordinance or to such other person who has made a timely request for notice of the hearing.
      - **(5)** When the Zoning Hearing Board or Board of Supervisors shall so order, by mailing or delivering a notice thereof the owner, if his residence is known and to the owner of every lot on the same street within one hundred feet (100') of said lot or building; provided, that failure to give notice required by this paragraph shall not invalidate any action by the Zoning Hearing Board or Board of Supervisors.
 
-     The Board of Supervisors may establish reasonable fees, based on cost, to be paid by the applicant and by persons requesting any notice not required by ordinance.
+The Board of Supervisors may establish reasonable fees, based on cost, to be paid by the applicant and by persons requesting any notice not required by ordinance.
    - **B.** The hearing shall be conducted by the Zoning Hearing Board or the Board of Supervisors may appoint any member as a hearing officer. The decision, or, where no decision is called for, the findings shall be made by the respective Boards, but the parties may waive decision or findings by the Board and accept the decision or findings of the hearing officer as final.
    - **C.** Formal rules of evidence shall not apply, but irrelevant, immaterial or unduly repetitious evidence may be excluded.
    - **D.** The respective Boards or the Hearing Officer:
@@ -3137,7 +2146,7 @@ was taken. An appeal shall state:
      - **(3)** Any private citizen.
 3. Witness, documents, and papers
 
-   The Chairman or acting Chairman of the Board or the Hearing Officer presiding shall have power to administer oaths and issue subpoenas to compel the attendance of witnesses and the production of relevant documents and papers, including witnesses and documents requested by the parties.
+The Chairman or acting Chairman of the Board or the Hearing Officer presiding shall have power to administer oaths and issue subpoenas to compel the attendance of witnesses and the production of relevant documents and papers, including witnesses and documents requested by the parties.
 4. Decision Procedure
    - **A.** The Board or the hearing officer, as the case may be, shall render a written decision or, when no decision is called for, make written findings on the application within forty-five (45) days after the last hearing before the Board of Hearing Officer.
    - **B.** Where the application is contested or denied, each decision shall be accompanied by findings of fact and conclusions based thereon together with the reasons therefor. Conclusions based on any provision of any law, or on any provision of any ordinance, rule, or regulation shall contain a reference to the provision relied on and the reasons why the conclusion is deemed appropriate in light of the facts found.
@@ -3147,30 +2156,16 @@ was taken. An appeal shall state:
    - **F.** Whenever the Board imposes a condition, or conditions with respect to the granting of an application or appeal, this condition must be stated in the order of the Board and in the permit issued pursuant to the order by the Zoning Officer. This permit remains valid only as long as the condition or conditions upon which it was granted or the conditions imposed by this Ordinance are adhered to.
 5. Stenographic Record
 
-   The Board or the Hearing Officer, as the case may be, shall keep a stenographic record of the proceedings, and a transcript of the proceedings and copies of graphic or written materials received in evidence shall be made available to any party at cost.
+The Board or the Hearing Officer, as the case may be, shall keep a stenographic record of the proceedings, and a transcript of the proceedings and copies of graphic or written materials received in evidence shall be made available to any party at cost.
 
 <a id="section-1409"></a>
 ### Section 1409 - Amendments
 
-This ordinance or any part thereof, may be amended, supplemented or repealed, from time to
-time, by the Township Supervisors on their own motion or upon recommendation by the
-Township Planning Commission. Before voting on the enactment of an amendment, the
-Supervisors shall hold a public hearing thereon, pursuant to public notice. In the case of an
-amendment other than that prepared by the Township Planning Commission, the Board of
-Supervisors shall submit each such amendment to the Township Planning Commission, if
-applicable, at least thirty (30) days prior to the hearing on such proposed amendment to
-provide the Township Planning Commission an opportunity to submit recommendations. The
-Township Supervisors shall not take action on any such amendment without such report or
-recommendations from the Township Planning Commission unless the Commission fails for
-any reason to render such report within thirty (30) days after its next regularly scheduled
-meeting following the date of such referral. If, after any public hearing held upon an
-amendment, the proposed amendment is revised, or further revised, to include land previously
-not affected by it, the Township Supervisors shall hold another public hearing, pursuant to
-public notice, before proceeding to vote on the amendment.
+This ordinance or any part thereof, may be amended, supplemented or repealed, from time to time, by the Township Supervisors on their own motion or upon recommendation by the Township Planning Commission. Before voting on the enactment of an amendment, the Supervisors shall hold a public hearing thereon, pursuant to public notice. In the case of an amendment other than that prepared by the Township Planning Commission, the Board of Supervisors shall submit each such amendment to the Township Planning Commission, if applicable, at least thirty (30) days prior to the hearing on such proposed amendment to provide the Township Planning Commission an opportunity to submit recommendations. The Township Supervisors shall not take action on any such amendment without such report or recommendations from the Township Planning Commission unless the Commission fails for any reason to render such report within thirty (30) days after its next regularly scheduled meeting following the date of such referral. If, after any public hearing held upon an amendment, the proposed amendment is revised, or further revised, to include land previously not affected by it, the Township Supervisors shall hold another public hearing, pursuant to public notice, before proceeding to vote on the amendment.
 
 1. Report of the Township Planning Commission.
 
-   In making such report on a proposed amendment, the Township Planning Commission shall make inquiry and determination concerning the items specified below.
+In making such report on a proposed amendment, the Township Planning Commission shall make inquiry and determination concerning the items specified below.
    - **A.** Concerning a proposed amendment or change in text of this Ordinance:
      - **(1)** Whether such change is consistent with the aims and principles embodied in this Ordinance as to the particular Districts concerned;
      - **(2)** Which areas, land uses, buildings, and establishments in the Township will be directly affected by such change and in what way they will be affected;
@@ -3184,10 +2179,10 @@ public notice, before proceeding to vote on the amendment.
      - **(5)** Whether the proposed amendment is likely to result in an increase or decrease in the total zoned residential capacity of the Township and the probable effect thereof.
 2. Petition and Fee
 
-   Each petition for a zoning amendment shall be accompanied by a fee as set by separate resolution of the Fayette Township Board of Supervisors upon the filing of such a petition. No fee shall be required for petition filed in favor of or against a pending application.
+Each petition for a zoning amendment shall be accompanied by a fee as set by separate resolution of the Fayette Township Board of Supervisors upon the filing of such a petition. No fee shall be required for petition filed in favor of or against a pending application.
 3. Referral to County Planning Commission
 
-   At least thirty (30) days prior to the hearing on the amendment to this Ordinance by the Township Supervisors, the Township Planning Commission shall submit the proposed ordinance and amendment to the Juniata County Planning Commission. The County Planning Commission shall report to the Supervisors in writing its advisory opinion on said amendment within thirty (30) days. Failure of the County Planning Commission to report to the Supervisors within the prescribed time period shall constitute a favorable opinion on said amendment by the County.
+At least thirty (30) days prior to the hearing on the amendment to this Ordinance by the Township Supervisors, the Township Planning Commission shall submit the proposed ordinance and amendment to the Juniata County Planning Commission. The County Planning Commission shall report to the Supervisors in writing its advisory opinion on said amendment within thirty (30) days. Failure of the County Planning Commission to report to the Supervisors within the prescribed time period shall constitute a favorable opinion on said amendment by the County.
 4. Publication Advertisement and Availability of Proposed Amendments
    - **A.** Proposed zoning amendments shall not be enacted unless notice of proposed enactment is given in the manner set forth in this section, and shall include the time and place of the meeting at which passage will be considered, a reference to a place within the Township where copies of the proposed amendment may be examined without charge or obtained for a charge not greater than the cost thereof. The Board of Supervisors shall publish the proposed amendment once in one newspaper of general circulation in the Township not more than 60 days or less than 7 days prior to passage. Publications of the proposed amendment shall include either the full text thereof or the title and a brief summary, prepared by the municipal solicitor and setting forth all the provisions in reasonable detail. If the full text is not included:
      - **(1)** A copy thereof shall be supplied to a newspaper of general circulation in the Township at the time the public notice is published.
@@ -3196,7 +2191,7 @@ public notice, before proceeding to vote on the amendment.
    - **C.** Zoning amendments may be incorporated into official ordinance books by reference with the same force and effect as if duly recorded therein.
 5. Supervisor's Action
 
-   The Township Supervisors shall act to approve or disapprove said amendment within forty-five (45) days after the date of said public hearing.
+The Township Supervisors shall act to approve or disapprove said amendment within forty-five (45) days after the date of said public hearing.
 
 <a id="section-1410"></a>
 ### Section 1410 - Non-conforming Uses and Structures
@@ -3206,12 +2201,7 @@ public notice, before proceeding to vote on the amendment.
    - **A.** Any lawful use of a structure or land existing at the effective date of this Ordinance, may be continued although such use does not conform to the provisions of this Ordinance.
 3. Extensions:
 
-A non-conforming use shall not be extended either within a building or upon a
-lot in any manner without authorization as a conditional use. The Board of
-Supervisors may not waive district regulations relating to yard, coverage,
-parking, sign and other applicable regulations. The Board of Supervisors may
-authorize the expansion up to fifty (50) percent of floor area of non-conforming
-building or structure.
+A non-conforming use shall not be extended either within a building or upon a lot in any manner without authorization as a conditional use. The Board of Supervisors may not waive district regulations relating to yard, coverage, parking, sign and other applicable regulations. The Board of Supervisors may authorize the expansion up to fifty (50) percent of floor area of non-conforming building or structure.
 4. Non-conforming Lots of Record:
    - **A.** In any district, in which single-family houses are permitted, a single-family house and customary accessory buildings may be erected on any lot of record in existence at the effective date of the Ordinance. Consideration shall be given by the Board of Supervisors as to the desirability and feasibility of re-subdividing the area when two or more conforming lots have contiguous frontage and area in single ownership.
    - **B.** This provision shall apply even though such lot fails to meet requirements of side, front or rear yards or the minimum lot area requirements applicable in the District in which the lot is located.
@@ -3259,7 +2249,7 @@ building or structure.
 4. The Zoning Hearing Board shall notify the applicant for a special exception use in writing of their decision and how the decision was arrived at not more than ninety (90) days after the acceptance of the application.
 5. A special exception use permit shall be issued upon approval of the Zoning Hearing Board stating the conditions upon which the permit was issued.
 
-   A special exception permit shall be deemed to authorized only one particular use and shall expire if the conditional use shall cease for more than six (6) months for any reasons.
+A special exception permit shall be deemed to authorized only one particular use and shall expire if the conditional use shall cease for more than six (6) months for any reasons.
 6. A special exception use, for which a permit is granted by the Zoning Hearing Board pursuant to the provisions of this Ordinance, shall be construed a conforming use.
 
 <a id="section-1413"></a>
