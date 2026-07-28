@@ -1860,53 +1860,18 @@ The following regulations shall apply to all permitted signs uses.
 <a id="section-1301"></a>
 ### Section 1301 - General Regulations
 
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-Off-street parking, loading, and unloading facilities shall be provided to lessen congestion in the streets. The facilities required herein shall be available throughout the hours of operations of the particular business or use for which such facilities are provided. As used herein, the term “parking space” includes either covered garage space or uncovered parking lot space located off the public right-of-way.
-
-Each parking space shall consist of not less than an average of two hundred seventy (270) square feet of useable area for each motor vehicle, including interior driveways, driveways connecting the garage, or parking space, with a street or alley. No withstanding the above, all parking spaces shall be ample in size of alley. Not withstanding the above, all parking spaces shall be ample in size for the vehicles for which use is intended. The net parking space per vehicle shall be not less than ten (10) feet wide and twenty (20) feet long. Outdoor parking space, and the approaches thereto, shall be paved, or stabilized with a suitable material. Such outdoor parking spaces shall not be used to satisfy any open space requirements of the lot on which it is located.
-
-A garage or carport may be located wholly or partly inside the walls of the principal building, or attached to the outer walls. If separated from the principal building, the garage shall conform to all accessory building requirements. The garage may be constructed under a yard or court. The space above an underground garage shall be deemed to be part of the open space of the lot on which it is located.
-
-Parking spaces may be located on a lot other than that containing the principal use with the approval of the Board of Supervisors provided a written agreement approved by the municipal solicitor and accepted by the Board of Supervisors, shall be filed with the application for a zoning permit.
-
-Surfacing: Any off-street parking area shall be graded for proper drainage and shall be surfaced so as to provide a durable and dustless surface, such as a gravel, concrete or bituminous concrete surface, and shall be so arranged as to provide for orderly and safe parking storage of vehicles.
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-(10)
-
-(11)
-
-(12)
-
-Lighting: Any lighting used to illuminate any off-street parking shall be so arranged as to reflect the light away from adjoining premises and public right- of-way.
-
-There shall be adequate provisions for ingress and egress to all parking and loading spaces designed for use by employees, customers, delivery services, sales people and/or the general public. Where a parking or loading area does not abut on a public right-of-way or private alley or easement of access, there shall be provided an access drive per lane of traffic not less than twelve (12) feet in width suitably graded and surfaced not less than eighteen (18) feet in width in all cases where the access is to storage areas or loading an unloading spaces required hereunder.
-
-For other uses which do not fit into one of the categories listed in [Section 802](#section-802), determination of the appropriate parking space requirement shall be made by the Zoning Officer.
-
-Off-street parking and loading space as required in this section shall be provided for all new buildings and structures and for additions to existing buildings or structures. The word “addition” as used above shall include any alternations intended to enlarge or increase capacity by adding or creating dwelling units, floor area or seats.
-
-Existing off-street parking or loading facilities provided at the effective date of this Ordinance and actually being used at the time in connection with the operation of an existing use, shall not be reduced below the minimum required in this Ordinance.
-
-Whenever the existing use of a building, structure or land shall hereafter be changed to a new use, parking and loading facilities shall be provided as required for such a new use. However, if the said building or structure was erected or the use of land established prior to the effective date of this Ordinance, additional parking or loading facilities are mandatory only in the amount by which the requirements for the new use would exceed those for the existing use.
-
-In the case of mixed uses, the total number of required parking or loading spaces shall be the sum of the required spaces for the various uses computed separately.
+1. Off-street parking, loading, and unloading facilities shall be provided to lessen congestion in the streets. The facilities required herein shall be available throughout the hours of operations of the particular business or use for which such facilities are provided. As used herein, the term "parking space" includes either covered garage space or uncovered parking lot space located off the public right-of-way.
+2. Each parking space shall consist of not less than an average of two hundred seventy (270) square feet of useable area for each motor vehicle, including interior driveways, driveways connecting the garage, or parking space, with a street or alley. No withstanding the above, all parking spaces shall be ample in size of alley. Not withstanding the above, all parking spaces shall be ample in size for the vehicles for which use is intended. The net parking space per vehicle shall be not less than ten (10) feet wide and twenty (20) feet long. Outdoor parking space, and the approaches thereto, shall be paved, or stabilized with a suitable material. Such outdoor parking spaces shall not be used to satisfy any open space requirements of the lot on which it is located.
+3. A garage or carport may be located wholly or partly inside the walls of the principal building, or attached to the outer walls. If separated from the principal building, the garage shall conform to all accessory building requirements. The garage may be constructed under a yard or court. The space above an underground garage shall be deemed to be part of the open space of the lot on which it is located.
+4. Parking spaces may be located on a lot other than that containing the principal use with the approval of the Board of Supervisors provided a written agreement approved by the municipal solicitor and accepted by the Board of Supervisors, shall be filed with the application for a zoning permit.
+5. Surfacing: Any off-street parking area shall be graded for proper drainage and shall be surfaced so as to provide a durable and dustless surface, such as a gravel, concrete or bituminous concrete surface, and shall be so arranged as to provide for orderly and safe parking storage of vehicles.
+6. Lighting: Any lighting used to illuminate any off-street parking shall be so arranged as to reflect the light away from adjoining premises and public right-of-way.
+7. There shall be adequate provisions for ingress and egress to all parking and loading spaces designed for use by employees, customers, delivery services, sales people and/or the general public. Where a parking or loading area does not abut on a public right-of-way or private alley or easement of access, there shall be provided an access drive per lane of traffic not less than twelve (12) feet in width suitably graded and surfaced not less than eighteen (18) feet in width in all cases where the access is to storage areas or loading an unloading spaces required hereunder.
+8. For other uses which do not fit into one of the categories listed in [Section 802](#section-802), determination of the appropriate parking space requirement shall be made by the Zoning Officer.
+9. Off-street parking and loading space as required in this section shall be provided for all new buildings and structures and for additions to existing buildings or structures. The word "addition" as used above shall include any alternations intended to enlarge or increase capacity by adding or creating dwelling units, floor area or seats.
+10. Existing off-street parking or loading facilities provided at the effective date of this Ordinance and actually being used at the time in connection with the operation of an existing use, shall not be reduced below the minimum required in this Ordinance.
+11. Whenever the existing use of a building, structure or land shall hereafter be changed to a new use, parking and loading facilities shall be provided as required for such a new use. However, if the said building or structure was erected or the use of land established prior to the effective date of this Ordinance, additional parking or loading facilities are mandatory only in the amount by which the requirements for the new use would exceed those for the existing use.
+12. In the case of mixed uses, the total number of required parking or loading spaces shall be the sum of the required spaces for the various uses computed separately.
 
 <a id="section-1302"></a>
 ### Section 1302 - Parking Facilities Required
