@@ -379,9 +379,8 @@ governmental offices, business and professional offices.
 Camp: Any one or more of the following, other than a hospital, place or detention,
 school offering general instructions or a mobilehome park:
 
-    Type 1 - Any area of land or water of a design or character used for seasonal, recreational or similar temporary living purposes which may include any building or group of buildings or a movable, temporary or seasonal nature, such as cabins, tents, or shelters.
-
-    Type 2 - Any land and buildings thereon, used for any assembly of persons for which is commonly known as “day camp” purposes, whether or not conducted for profit or whether occupied by adults or children, either as individuals, families, or groups.
+* Type 1 - Any area of land or water of a design or character used for seasonal, recreational or similar temporary living purposes which may include any building or group of buildings or a movable, temporary or seasonal nature, such as cabins, tents, or shelters.
+* Type 2 - Any land and buildings thereon, used for any assembly of persons for which is commonly known as “day camp” purposes, whether or not conducted for profit or whether occupied by adults or children, either as individuals, families, or groups.
 
 Campground: A parcel of land upon which two or more campsites are located to be
 used by campers for seasonal, recreational or other similar temporary living purposes,
