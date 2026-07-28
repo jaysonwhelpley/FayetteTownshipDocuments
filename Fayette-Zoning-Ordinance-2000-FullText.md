@@ -157,12 +157,14 @@ For the purpose of this amended Ordinance, Fayette Township is still divided int
 previously established zones, which are designated as follows:
 
 Rural Agricultural District (RA)
+
 Forest District (F)
 
 Residential Low Density District (R-1)
+
 Commercial District (C)
 
-Industrial District ()
+Industrial District (I)
 
 Floodplain District (FP)
 
@@ -328,7 +330,7 @@ the purpose of height measurement if the vertical distance between the ceiling a
 average level of the adjoining ground is more than five (5) feet or if used for business
 or dwelling purposes, other than a game or recreation room.
 
-Bed_and Breakfast Inns: An owner-occupied single-family detached dwelling, or
+Bed and Breakfast Inns: An owner-occupied single-family detached dwelling, or
 portions thereof, containing not more than five (5) guest rooms which are to be
 occupied by not more than fifteen (15) guests where rent is paid in money, goods, labor
 or otherwise. Meals may be offered only to registered overnight guests.
@@ -354,9 +356,7 @@ Semi-detached: A building which has only one party wall in common.
 Attached: A building which has two or more party walls in common.
 
 Building Detached: A building surrounded by open space on the same lot.
-Building, Front Line Of: The line of that face of the building nearest the front line of
-
-the lot. This face includes sun parlors and covered porches, whether enclosed or
+Building, Front Line Of: The line of that face of the building nearest the front line of the lot. This face includes sun parlors and covered porches, whether enclosed or
 unenclosed, but does not include steps.
 
 Building, Height Of: The vertical distance measured from the average elevation of the
@@ -379,16 +379,9 @@ governmental offices, business and professional offices.
 Camp: Any one or more of the following, other than a hospital, place or detention,
 school offering general instructions or a mobilehome park:
 
-Type 1 - Any area of land or water of a design or character used for seasonal,
-recreational or similar temporary living purposes which may include any
-building or group of buildings or a movable, temporary or seasonal nature, such
-as cabins, tents, or shelters.
+    Type 1 - Any area of land or water of a design or character used for seasonal, recreational or similar temporary living purposes which may include any building or group of buildings or a movable, temporary or seasonal nature, such as cabins, tents, or shelters.
 
-Type 2 - Any land and buildings thereon, used for any assembly of persons for
-which is commonly known as “day camp” purposes, whether or not conducted
-
-for profit or whether occupied by adults or children, either as individuals,
-families, or groups.
+    Type 2 - Any land and buildings thereon, used for any assembly of persons for which is commonly known as “day camp” purposes, whether or not conducted for profit or whether occupied by adults or children, either as individuals, families, or groups.
 
 Campground: A parcel of land upon which two or more campsites are located to be
 used by campers for seasonal, recreational or other similar temporary living purposes,
@@ -491,14 +484,9 @@ Convenience Store: A retail sales business which specializes in providing househ
 products and foods. Convenience stores may also provide for any or all of the
 following as an accessory use:
 
-Ls The rental of video tapes provided that an adult bookstore is specifically
-prohibited;
-2. The preparation and sales of delicatessen sandwiches and foods provided that no
-
-patron seating is provided; and,
-
-35 The use of no more than two amusement devices (e.g. pinball machines, video
-games, and other similar devices).
+1. The rental of video tapes provided that an adult bookstore is specifically prohibited;
+2. The preparation and sales of delicatessen sandwiches and foods provided that no patron seating is provided; and,
+3. The use of no more than two amusement devices (e.g. pinball machines, video games, and other similar devices).
 
 Convenience stores shall not include the dispensing of gasoline or other vehicle fuels,
 unless the appropriate approvals for an automobile filling station (as defined herein)
@@ -511,7 +499,6 @@ Court, Inner: A court enclosed on all sides by exterior walls of a building or b
 exterior walls and lot lines on which walls are allowable.
 
 Court, Outer: A court enclosed on not more than three sides by exterior walls and lot
-
 lines on which walls are allowable, with one side or end open to a street, driveway,
 alley or yard.
 
@@ -543,17 +530,9 @@ paving, excavating, or drilling operations.
 Development Disability: A disability of a person which has continued or can be
 expected to continue indefinitely; a disability which is:
 
-As Attributable to mental retardation, cerebral palsy, epilepsy or autism;
-
-2. Found to be attributable to any other conditions found to be closely related to
-mental retardation because such condition results in similar impairment of
-general intellectual functioning or adaptive behavior to that of mentally retarded
-
-persons or requires treatment and services similar to those required for such
-persons; and,
-
-3. Attributable to dyslexia resulting from a disability described in Subsections (1)
-and (2) of this definition.
+1. As Attributable to mental retardation, cerebral palsy, epilepsy or autism;
+2. Found to be attributable to any other conditions found to be closely related to mental retardation because such condition results in similar impairment of general intellectual functioning or adaptive behavior to that of mentally retarded persons or requires treatment and services similar to those required for such persons; and,
+3. Attributable to dyslexia resulting from a disability described in Subsections (1) and (2) of this definition.
 
 Developmentally Disabled Person: A person with a developmental disability.
 
@@ -588,43 +567,14 @@ transient occupancy.
 
 Dwelling Types:
 
-1. Residential Conversion Unit - To be considered a conversion, any proposed
-alteration must be confined to the interior of an already existing structural shell.
-Any proposal to extend the sides or increase the height of an existing structure shall
-not be considered a conversion and shall be required to meet the appropriate
-provisions established in that District for that particular use.
-
-2. Single-Family Detached - A dwelling unit accommodating a single-family and
-separated from any other building or structure by space on all sides.
-
-3. Single-Family Semi-Detached - Two dwelling units accommodating two families
-which are attached side by side through the use of a party wall, and having one side
-yard adjacent to each dwelling unit.
-
-4. Two-family Detached - Two dwelling units accommodating two families which are
-located one over the other and having two (2) side yards.
-
-5. Two-Family Semi-Detached - Four dwelling units accommodating four families,
-two units of which are located directly over the other two units.
-
-6. Townhouse (Row Dwelling) - Three or more dwelling units accommodating three
-or more families which are attached side by side through the use of common party
-walls and which shall have side yards adjacent to each end unit. Each dwelling unit
-is generally two (2) stories in height, but may conceivably be either one (1) or three
-(3) stories in height.
-
-7. Garden Apartment - Three or more dwelling units accommodating three or more
-families which are located one over the other and which, when more than three unit
-are utilized, are attached side-by-side through the use of common party walls, and
-which shall have side yards adjacent to each first story end unit. Single-family
-dwelling units are generally built to a height of three (3) stories, but may
-conceivably be built to a height of only two (2) stories. Each dwelling unit is
-accessible by a common stairwell.
-
-8. Apartment House - A structure consisting of a series of single-story dwelling units
-(two-story units may conceivably by used in certain instances) clustered on a floor
-about a central elevator shaft or central corridor, each series, consisting of one
-story, being stacked one upon the other to a specified maximum height.
+1. Residential Conversion Unit - To be considered a conversion, any proposed alteration must be confined to the interior of an already existing structural shell. Any proposal to extend the sides or increase the height of an existing structure shall not be considered a conversion and shall be required to meet the appropriate provisions established in that District for that particular use.
+2. Single-Family Detached - A dwelling unit accommodating a single-family and separated from any other building or structure by space on all sides.
+3. Single-Family Semi-Detached - Two dwelling units accommodating two families which are attached side by side through the use of a party wall, and having one side yard adjacent to each dwelling unit.
+4. Two-family Detached - Two dwelling units accommodating two families which are located one over the other and having two (2) side yards.
+5. Two-Family Semi-Detached - Four dwelling units accommodating four families, two units of which are located directly over the other two units.
+6. Townhouse (Row Dwelling) - Three or more dwelling units accommodating three or more families which are attached side by side through the use of common party walls and which shall have side yards adjacent to each end unit. Each dwelling unit is generally two (2) stories in height, but may conceivably be either one (1) or three (3) stories in height.
+7. Garden Apartment - Three or more dwelling units accommodating three or more families which are located one over the other and which, when more than three unit are utilized, are attached side-by-side through the use of common party walls, and which shall have side yards adjacent to each first story end unit. Single-family dwelling units are generally built to a height of three (3) stories, but may conceivably be built to a height of only two (2) stories. Each dwelling unit is accessible by a common stairwell.
+8. Apartment House - A structure consisting of a series of single-story dwelling units (two-story units may conceivably by used in certain instances) clustered on a floor about a central elevator shaft or central corridor, each series, consisting of one story, being stacked one upon the other to a specified maximum height.
 
 Dwelling Unit: A building or portion thereof providing complete cooking and sanitary
 facilities for not more than one (1) family.
@@ -743,12 +693,8 @@ agricultural operations, and from community activities, or any combination of th
 above, which because of its quantity, concentration, or physical, chemical, or infectious
 characteristics may:
 
-1. Cause or significantly contribute to an increase in mortality or an increase in
-morbidity in either an individual or the total population; or
-
-2 Pose a substantial present or potential hazard to human health or the
-environment when improperly treated, stored, transported, exposed of, or
-otherwise managed.
+1. Cause or significantly contribute to an increase in mortality or an increase in morbidity in either an individual or the total population; or
+2. Pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, exposed of, or otherwise managed.
 
 Hazardous Waste Facility: Any structure, group of structures, aboveground or
 underground storage tanks, or any other area or buildings used for the purpose of
@@ -766,18 +712,8 @@ that the use is clearly incidental and secondary to the use of the dwelling for 
 purposes, the exterior appearance of the structure or premises is constructed and
 maintained as a residential dwelling.
 
-1. Non-Professional - An occupation for gain or support conducted only by immediate
-members of a family residing on the premises and conducted entirely within the
-dwelling or accessory building; provided no article is sold or offered for sale except
-such as may be produced on the premises by members of the family, and further
-provided that such occupation shall in no case occupy more than twenty-five (25)
-percent of the floor area of the dwelling.
-
-2. Professional - An occupation for gain or support conducted by a member of a
-recognized profession, entirely within the dwelling or accessory building, provided
-that not more than three (3) persons not in residence in the dwelling are employed
-and, further provided that such occupation shall in no case occupy more than
-twenty-five (25) percent of the floor area of the dwelling.
+1. Non-Professional - An occupation for gain or support conducted only by immediate members of a family residing on the premises and conducted entirely within the dwelling or accessory building; provided no article is sold or offered for sale except such as may be produced on the premises by members of the family, and further provided that such occupation shall in no case occupy more than twenty-five (25) percent of the floor area of the dwelling.
+2. Professional - An occupation for gain or support conducted by a member of a recognized profession, entirely within the dwelling or accessory building, provided that not more than three (3) persons not in residence in the dwelling are employed and, further provided that such occupation shall in no case occupy more than twenty-five (25) percent of the floor area of the dwelling.
 
 Hospital: Unless otherwise specified, the term “hospital” shall be deemed to include
 sanitarium, sanatorium, preventorium, clinic, rest home, nursing home, convalescent
@@ -842,15 +778,11 @@ use in an apartment house or an apartment hotel.
 
 Lighting:
 
-1. Diffused - That form of lighting wherein the light passes from the source through a
-translucent cover or shade.
+1. Diffused - That form of lighting wherein the light passes from the source through a translucent cover or shade.
 
-2. Direct or Flood - That form of lighting wherein the source is visible and the light is
-distributed directly from it to the object to be illuminated.
+2. Direct or Flood - That form of lighting wherein the source is visible and the light is distributed directly from it to the object to be illuminated.
 
-3. Indirect - That form of lighting wherein the light source is entirely hidden, the light
-being projected to a suitable reflector from which it is reflected to the object to be
-illuminated.
+3. Indirect - That form of lighting wherein the light source is entirely hidden, the light being projected to a suitable reflector from which it is reflected to the object to be illuminated.
 
 Line, Street: The dividing line between the street and the lot.
 
@@ -889,7 +821,6 @@ commercially known, but travel trailers. Mobile homes placed in parks shall meet
 requirements for mobile home parks listed in [Section 1115](#section-1115) of this Ordinance. Mobile
 homes placed on individual lots shall be considered “dwellings,” and be bound by the
 requirements there-imposed. For the purposes of this Ordinance, any travel trailer, as
-
 defined herein, that is contained on the same parcel for more than one hundred eighty
 (180) days in any calendar year shall be considered a mobile home.
 
@@ -1019,7 +950,6 @@ distinguished from Drive-In Restaurants.
 Restaurant, Drive-In: A building designed for the preparation of food to be consumed
 by and served to the general public within the structure or outside of the structure.
 Differentiated from a restaurant in that no table service is offered, and wrapping,
-
 covering and/or packaging food is specialized to facilities off-premises consumption of
 food.
 
@@ -1127,9 +1057,6 @@ the existing grade of the street at such midpoint shall be taken as the street g
 
 Street Right-of-Way Line: The line dividing a lot from the full street right-of-way, not
 just the cartway. The word “street” shall include, but not be limited to, the words
-
-m6
-
 “road”, “highway”, “alley”, and “thoroughfare” .
 
 Structure: Any assembly of materials constructed or erected with a fixed location on
@@ -1138,10 +1065,9 @@ of which is above the natural surface grade, including, but not limited to, buil
 sheds cabins, mobile homes and trailers, fences, dams, culverts, roads, railroads,
 bridges, storage tanks, and signs.
 
-Structure Accessory: A structure associated with an accessory use, (e.g.
-swimming pools, patios, antennas, tennis courts, garages, utility sheds, etc.).
+    Structure Accessory: A structure associated with an accessory use, (e.g. swimming pools, patios, antennas, tennis courts, garages, utility sheds, etc.).
 
-Structure, Principal: A structure associated with a primary use.
+    Structure, Principal: A structure associated with a primary use.
 
 Structures shall not include such things as fences, sandboxes, decorative fountains,
 swing sets, birdhouses, birdfeeders, mailboxes, and any other similar nonpermanent
@@ -1151,24 +1077,13 @@ Subdivision: An area of land divided by the owners or agent, either by lots or b
 and bounds into lots or parcels two or more in number, for the purpose of conveyance,
 transfer, improvement or sale. The appurtenant roads, streets, lanes, alleys, and ways
 dedicated or intended to be dedicated to public uses, or the use of purchasers or owners
-
 of lots fronting thereon are included. The word “subdivision” includes the word
-
-ancs
-
 “resubdivision” , “plot”, “plan”, or “re-plan”.
 
 Swimming Pool:
 
-1. Private ~ Any reasonably permanent pool or open tank, not located within a
-completely enclosed building, and containing or normally capable of containing,
-water to a depth at any point greater than one and one-half (1 2) feet. Farm ponds
-and/or lakes are not included, provided that swimming was not the primary purpose
-for their construction.
-
-2. Public - A public bathing place shall mean any open or enclosed place, open to the
-public for amateur and professional swimming or recreative bathing, whether or not
-a fee is charged for admission or for the use thereof.
+1. Private ~ Any reasonably permanent pool or open tank, not located within a completely enclosed building, and containing or normally capable of containing, water to a depth at any point greater than one and one-half (1 2) feet. Farm ponds and/or lakes are not included, provided that swimming was not the primary purpose for their construction.
+2. Public - A public bathing place shall mean any open or enclosed place, open to the public for amateur and professional swimming or recreative bathing, whether or not a fee is charged for admission or for the use thereof.
 
 Telephone Central Office: A building and its equipment erected and used for the
 purpose of facilitating transmission and exchange of telephone or radio telephone
@@ -1187,7 +1102,6 @@ Tourist Cabins: A group of buildings, including either separate cabins or a row 
 cabins, which:
 
 1. Contain living and sleeping accommodations for transient occupancy; and
-
 2. Have individual entrances.
 
 Travel Trailer: A vehicular, portable structure built on a chassis, designed to be used
