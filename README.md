@@ -6,7 +6,9 @@ Source: [fayettetownship.com](https://fayettetownship.com/) — scraped/collecte
 
 ## Why this exists
 
-The township's own site only offers scanned PDFs and `.odt` files for most documents — no text layer, not searchable, and not diffable. This repo OCRs and transcribes those into plain markdown so the content is searchable, linkable, and easy to reference (e.g., when researching what's permitted on a specific parcel).
+Fayette Township's public records ought to be easy to look things up in — whether that's a resident checking what's allowed on their own property, a neighbor trying to follow along with an ordinance, or the Township itself pulling up an old record. This repo OCRs (optical character recognition — converting a scanned image of text into actual, searchable text) and transcribes the township's scanned PDFs and `.odt` files into plain, structured markdown, so the content is searchable, linkable, and easy to reference (e.g., when researching what's permitted on a specific parcel), rather than sitting in image-only files that can't be searched or read aloud.
+
+This also happens to line up with web accessibility standards. Scanned, image-only PDFs generally can't be read by a screen reader or searched by anyone, which is part of why the Department of Justice's 2024 rule under Title II of the ADA requires state and local government websites to meet WCAG 2.1 Level AA (the same standard, roughly, that federal agencies already follow under Section 508). Smaller municipalities like Fayette Township have until April 26, 2028 to comply — well down the road, but getting a head start never hurts. If the Township would find this work helpful, I'd be glad to share it directly — no strings attached, just trying to make these records easier for everyone to get to.
 
 **This is not an official or legal source.** For anything you intend to rely on — setbacks, permitted uses, procedures, compliance — cross-check against the original PDF in this repo or with the township directly. OCR and manual transcription both introduce risk of error; see the per-document notes below.
 
