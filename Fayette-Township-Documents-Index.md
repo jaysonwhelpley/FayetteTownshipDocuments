@@ -22,6 +22,14 @@ These are all scanned/image PDFs — no text layer via web scraping. Two have si
 
 ---
 
+## Forms
+
+| Document | Status |
+|---|---|
+| Building/Land Use Permit application (`Fayette-Land-Use-Permit-Application.pdf`) | Blank application form — user-uploaded from Fayette Township/Juniata County. Has a text layer (no OCR needed). Covers building/land use permit, driveway permit, sewage/septic, and setback fields. |
+
+---
+
 ## Agenda (page: /meetings/meetings/)
 
 | Document | Link |
