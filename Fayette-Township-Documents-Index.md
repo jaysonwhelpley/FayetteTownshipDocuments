@@ -32,11 +32,12 @@ These are all scanned/image PDFs — no text layer via web scraping. Two have si
 
 ## Agenda (page: /meetings/meetings/)
 
-| Document | Link |
-|---|---|
-| 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt |
+Only the current/most recent agenda is posted on the site at any given time (no historical archive page like the minutes have). As of August 2026 this repo now collects each agenda as it's posted — see [`agendas/`](agendas/) and [`agendas/README.md`](agendas/README.md).
 
-`.odt` format — not extractable through this tool. Link only.
+| Document | Link | Status |
+|---|---|---|
+| 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt | **Archived** — [`agendas/2026-07-08-Agenda.md`](agendas/2026-07-08-Agenda.md) |
+| 2026 Agenda — August 12, 2026 | https://fayettetownship.com/wp-content/uploads/2026/08/2026-Agenda-August-12-2026.odt | **Archived** — [`agendas/2026-08-12-Agenda.md`](agendas/2026-08-12-Agenda.md) |
 
 ---
 
@@ -44,7 +45,7 @@ These are all scanned/image PDFs — no text layer via web scraping. Two have si
 
 All 25 meetings from June 2024 through June 10, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
 
-Still not captured: the July 8, 2026 Agenda (`.odt`, link in the table above) — text-only agenda, low value to convert unless needed.
+Agendas are now captured as well — see the Agenda section above.
 
 **Notable from the newly added minutes:** the supervisors are actively developing a **data center ordinance** (raised April 2026, ongoing discussion through June 2026, with resident concerns aired at the June meeting) — worth watching if this could affect land use policy in the township going forward.
 
