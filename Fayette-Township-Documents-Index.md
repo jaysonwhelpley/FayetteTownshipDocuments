@@ -43,7 +43,7 @@ Only the current/most recent agenda is posted on the site at any given time (no 
 
 ## Meeting Minutes — now fully archived
 
-All 25 meetings from June 2024 through June 10, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
+All 26 meetings from June 2024 through July 8, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April–July 2026 minutes (May duplicated, x2) were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
 
 Agendas are now captured as well — see the Agenda section above.
 

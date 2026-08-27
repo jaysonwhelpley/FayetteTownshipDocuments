@@ -1,8 +1,8 @@
 # Fayette Township — Meeting Minutes Archive (Full Text)
 
 Source: https://fayettetownship.com/meetings/2024-minutes/
-Covers: June 12, 2024 – June 10, 2026 (25 meetings)
-Scraped: July 27, 2026 (21 meetings via web text-extraction); April–June 2026 minutes added from user-uploaded `.odt` files, converted with pandoc.
+Covers: June 12, 2024 – July 8, 2026 (26 meetings)
+Scraped: July 27, 2026 (21 meetings via web text-extraction); April–July 2026 minutes added from user-uploaded `.odt` files, converted with pandoc.
 
 Note: two identical copies of the May 13, 2026 minutes were posted to the site (`2026-Minutes-May-13-2026.odt` and `...-1.odt`) — content is the same, included once below.
 
@@ -894,3 +894,32 @@ Lucas Parkes didn't attend the meeting but Christopher Strawser spoke with him e
 Checks were signed, the paid invoice report, bank statements and financial statements were reviewed.
 
 There being no further business, the meeting was adjourned with the next meeting July 8, 2026.
+
+## July 8, 2026
+
+181 BUNKERTOWN RD JULY 8, 2026 6PM
+The Fayette Township Board of Supervisors held their regular monthly meeting with the following present: Christopher Strawser, Craig Strawser, Robert Barton Jr., Sharon Lukens, William Nale, Seth Mosebey, Dan Graybill, Jim King, Claudia Dill.
+
+After the meeting was called to order, the minutes were reviewed and approved. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+Old Business: Tax collector needs authorization to change her checking account from interest bearing to non-interest bearing. The supervisors signed the letter giving the authorization to make the change.
+
+The supervisors reviewed and adopted the Road Bond Ordinance 2026-2. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+William Nale reported issuing eight permits. Madison Shaffer-roof solar(not paid yet), Angela Reigle-In home bakery, Mike Dressler(Shellenberger Apts.)-porch roof canopy, Gene Hoffmaster-20x16 home addition, Tyler Smith(Dalton Shipp)-new home, Christopher Strawser-new home, Leon Martin-addition to barn, Leon Martin-demo 60x80 barn.
+
+The supervisors and Seth Mosebey discussed a proposed data center ordinance. The moratorium option to place a hold on data centers for six months may only be used every three years. The supervisors decided to have Seth go ahead and prepare an ordinance for data centers. The plan is the have it ready for adoption at either the August or September meeting.
+
+Lost Creek Park: Enders Insurance sent a copy of the values for the township building and park equipment for review. The supervisors didn't feel any changes needed to made. The form was signed and will be sent back to Enders Insurance.
+
+Oakland Mills Sewer: Seth Mosebey is going to advertise the Ordinance for additional hookups to the system for adoption at the August meeting. Breon's have repaired the generator. Patti Bowersox hasn't paid her delinquent account. Before her service can be disconnected the ordinance has to be adopted.
+
+Dan Graybill was present to discuss the issue he has with the construction at the Seth Feltman residence. The project has been shut down by Commonwealth Code because the proper permits weren't obtained. Dan stated he thought the land use permit obtained from William Nale was all that was required. It was discussed that the language on the land use permit could possibly be changed to make it more clear a building permit from Commonwealth Code is also required. The supervisors stated they would look into the matter since the form we use was suggested by the county so all townships would have consistent forms.
+
+Craig Strawser stated the Juniata Christian School wants a letter from the township stating they are authorized to proceed with the construction of the pavilion. The secretary is to prepare the letter and sign and send.
+
+Lucas Parkes: Lucas wasn't in attendance, however Christopher Strawser spoke with him about several projects for the township. Lucas stated the supervisors needed to adopt a resolution so they could apply for the DCED Multi-modal Grant which is due July 31, 2026. The supervisors discussed a 10% match for the application. The supervisors adopted Resolution 2026-8 for the application. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous. The grant for the Rockland Rd project won't be awarded until September. Seth Mosebey stated he didn't receive any information regarding Quarry Rd. The LSA Grant for the bank building won't be awarded until September. Lucas hopes to have the Leonard Rd design phase finished by fall and start the bid process early 2027.
+
+Checks were signed, the paid invoice report, bank statements and financial statements were reviewed.
+
+There being no further business, the meeting was adjourned with the next meeting August 12, 2026 at 6 pm.
