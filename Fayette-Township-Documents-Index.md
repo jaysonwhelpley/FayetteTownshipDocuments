@@ -38,12 +38,13 @@ Only the current/most recent agenda is posted on the site at any given time (no 
 |---|---|---|
 | 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt | **Archived** — [`agendas/2026-07-08-Agenda.md`](agendas/2026-07-08-Agenda.md) |
 | 2026 Agenda — August 12, 2026 | https://fayettetownship.com/wp-content/uploads/2026/08/2026-Agenda-August-12-2026.odt | **Archived** — [`agendas/2026-08-12-Agenda.md`](agendas/2026-08-12-Agenda.md) |
+| 2026 Agenda — September 9, 2026 | https://fayettetownship.com/wp-content/uploads/2026/09/2026-Agenda-September-9-2026.odt | **Archived** — [`agendas/2026-09-09-Agenda.md`](agendas/2026-09-09-Agenda.md) |
 
 ---
 
 ## Meeting Minutes — now fully archived
 
-All 25 meetings from June 2024 through June 10, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
+All 26 meetings from June 2024 through July 8, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), June, and July 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
 
 Agendas are now captured as well — see the Agenda section above.
 
