@@ -1,8 +1,8 @@
 # Fayette Township — Meeting Minutes Archive (Full Text)
 
 Source: https://fayettetownship.com/meetings/2024-minutes/
-Covers: June 12, 2024 – June 10, 2026 (25 meetings)
-Scraped: July 27, 2026 (21 meetings via web text-extraction); April–June 2026 minutes added from user-uploaded `.odt` files, converted with pandoc.
+Covers: June 12, 2024 – August 12, 2026 (27 meetings)
+Scraped: July 27, 2026 (21 meetings via web text-extraction); April–June 2026 minutes added from user-uploaded `.odt` files, converted with pandoc; July–August 2026 minutes added September 17, 2026 from `.odt` files fetched directly from the township website, converted with pandoc.
 
 Note: two identical copies of the May 13, 2026 minutes were posted to the site (`2026-Minutes-May-13-2026.odt` and `...-1.odt`) — content is the same, included once below.
 
@@ -894,3 +894,76 @@ Lucas Parkes didn't attend the meeting but Christopher Strawser spoke with him e
 Checks were signed, the paid invoice report, bank statements and financial statements were reviewed.
 
 There being no further business, the meeting was adjourned with the next meeting July 8, 2026.
+
+---
+
+## July 8, 2026
+
+181 BUNKERTOWN RD JULY 8, 2026 6PM
+The Fayette Township Board of Supervisors held their regular monthly meeting with the following present: Christopher Strawser, Craig Strawser, Robert Barton Jr., Sharon Lukens, William Nale, Seth Mosebey, Dan Graybill, Jim King, Claudia Dill.
+
+After the meeting was called to order, the minutes were reviewed and approved. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+Old Business: Tax collector needs authorization to change her checking account from interest bearing to non-interest bearing. The supervisors signed the letter giving the authorization to make the change.
+
+The supervisors reviewed and adopted the Road Bond Ordinance 2026-2. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+William Nale reported issuing eight permits. Madison Shaffer-roof solar(not paid yet), Angela Reigle-In home bakery, Mike Dressler(Shellenberger Apts.)-porch roof canopy, Gene Hoffmaster-20x16 home addition, Tyler Smith(Dalton Shipp)-new home, Christopher Strawser-new home, Leon Martin-addition to barn, Leon Martin-demo 60x80 barn.
+
+The supervisors and Seth Mosebey discussed a proposed data center ordinance. The moratorium option to place a hold on data centers for six months may only be used every three years. The supervisors decided to have Seth go ahead and prepare an ordinance for data centers. The plan is the have it ready for adoption at either the August or September meeting.
+
+Lost Creek Park: Enders Insurance sent a copy of the values for the township building and park equipment for review. The supervisors didn't feel any changes needed to made. The form was signed and will be sent back to Enders Insurance.
+
+Oakland Mills Sewer: Seth Mosebey is going to advertise the Ordinance for additional hookups to the system for adoption at the August meeting. Breon's have repaired the generator. Patti Bowersox hasn't paid her delinquent account. Before her service can be disconnected the ordinance has to be adopted.
+
+Dan Graybill was present to discuss the issue he has with the construction at the Seth Feltman residence. The project has been shut down by Commonwealth Code because the proper permits weren't obtained. Dan stated he thought the land use permit obtained from William Nale was all that was required. It was discussed that the language on the land use permit could possibly be changed to make it more clear a building permit from Commonwealth Code is also required. The supervisors stated they would look into the matter since the form we use was suggested by the county so all townships would have consistent forms.
+
+Craig Strawser stated the Juniata Christian School wants a letter from the township stating they are authorized to proceed with the construction of the pavilion. The secretary is to prepare the letter and sign and send.
+
+Lucas Parkes: Lucas wasn't in attendance, however Christopher Strawser spoke with him about several projects for the township. Lucas stated the supervisors needed to adopt a resolution so they could apply for the DCED Multi-modal Grant which is due July 31, 2026. The supervisors discussed a 10% match for the application. The supervisors adopted Resolution 2026-8 for the application. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous. The grant for the Rockland Rd project won't be awarded until September. Seth Mosebey stated he didn't receive any information regarding Quarry Rd. The LSA Grant for the bank building won't be awarded until September. Lucas hopes to have the Leonard Rd design phase finished by fall and start the bid process early 2027.
+
+Checks were signed, the paid invoice report, bank statements and financial statements were reviewed.
+
+There being no further business, the meeting was adjourned with the next meeting August 12, 2026 at 6 pm.
+
+---
+
+## August 12, 2026
+
+181 BUNKERTOWN RD AUGUST 12, 2026 6PM
+
+The Fayette Township Board of Supervisors held their regular monthly meeting with the following present: Christopher Strawser, Craig Strawser, Robert Barton Jr., Sharon Lukens, William Nale, Lucas Parkes, Greg Leach, Allison Leach, Lowell Shirk, Jim King, Marcia Thompson, Logan Weaver, Derlyn Weaver.
+
+After the meeting was called to order, the minutes were reviewed and approved. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+Old Business: Patti Bowersox paid her past due amount in full.
+
+New Business: Logan Weaver was present with the Lost Creek Country Market/Lowell Shirk plan.
+
+Logan was present to answer any questions the supervisors might have after reviewing the preliminary plans that were sent to the township office. The current plan is for approximately 50 thousand sq ft. of space for the store. An additional retail space of 35 thousand sq. ft. proposed for later. The requested waivers will be addressed at the September meeting, a possible conditional approval for the plan in September/October pending DEP/PennDOT progress.
+
+The supervisors adopted Ordinance 2026-3 concerning rules/regulations for additional hook-ups for the Oakland Mills Sewer. Robert Barton Jr. made the motion to adopt, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+The supervisors discussed the proposed data center ordinance 2026-4. It was decided further stipulations for infrastructure need to be discussed. The supervisors are going to work with Lucas and Seth.
+
+Madison Sheaffer of 978 Tennis Park Rd, McAlisterville requested a letter of support from the township concerning a game bird operation. The supervisors approved, the secretary will prepare a letter to inform her of the decision.
+
+Allison Leach was present to discuss the possibility of renting the former JVB building. She would like to open a thrift store. The supervisors discussed the repairs needed to bring the building up to code would be expensive. The supervisors stated they would discuss with our engineer and get back to her in approximately three months.
+
+The supervisors discussed the quote from Diana Patton for $1,450.00 to condense the Quick Books files and update the Chart of Accounts. It was decided to go ahead with the work. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+William Nale reported issuing seven permits. Madison Sheaffer-roof mount solar, Amy Hayes-new home 28x48, 1280 sq.ft., MAJA-water storage tank, Scott Peters-30x30 storage/garage, Conner Clayton-shop, Joanthan Spotts-12x28 retail shop, JCS/Trifecta Solar-ground mount solar. The building at Stone Ridge Acres/Michael Brubaker was discussed. He didn't get a permit yet. Christopher Strawser is going to call him.
+
+The supervisors discussed the different options from Karen Conley/Enders Insurance for options for health insurance with Capital Blue Cross. It was decided to continue with the current plan.
+
+Lost Creek Community Park: The secretary reported receiving the fee from the Fayette Community Carnival of $4,000.00. It was decided to keep the fee at $4,000.00 for 2027.
+
+Oakland Mills Sewer: William Nale stated they would be cleaning up the area after hooking the church to the sewer system. He also stated to continue billing the quarterly fee to the camp. He will discuss with the church and let us know if that needs to change. The Terry Colyer property was discussed since it was sold in sheriff sale in January. Starting with the next quarterly billing in September the secretary is to start billing the new owner Samantha Beward. Lucas Parkes reported he is still working on closing out the NPDES permit at Oakland Mills for Hannah Hunsberger.
+
+Lucas Parkes: Lucas reported the Green Light Go project is complete/closed out. Lucas also reported Fayette Township didn't receive the grant for the Rockland Road project. The grant for Sunset Drive was submitted July 31, 2026 requesting $495,000.00 with a $50,000.00 match. The LSA grant will probably be awarded by the end of September. Lucas is working with Seth on the Quarry Rd project, Lucas hopes to have a survey crew out to the Leonard Rd project soon. Hopefully the project will go out for bids early spring. Christopher Strawser stated he hopes to have the work completed in 2027 because the grant expires in June 2028. Signage was discussed on the roads with weight restrictions covered under ordinance 2026-2. The following would be exempt from the weight restrictions, local deliveries, emergency vehicles, fuel delivery trucks, garbage, agriculture. Lucas is going to check on grants for Lost Creek Rd bridge and Rockland Road.
+
+The supervisors discussed the bill from Zimmerman Plumbing/Heating/Electric. It was decided to hold off on paying the bill.
+
+Checks were signed, the paid invoice report, bank statements, and financial statements were reviewed.
+
+There being no further business, the meeting was adjourned with the next meeting September 9, 2026 at 6 pm.

@@ -1,7 +1,7 @@
 # Fayette Township (Juniata County, PA) — Document Index
 
 Source: https://fayettetownship.com/
-Scraped: July 27, 2026
+Scraped: July 27, 2026 (last full scrape); checked for updates September 17, 2026
 
 This index catalogs everything publicly posted on the township site. Full text of the extractable meeting minutes is in the companion file `Fayette-Township-Meeting-Minutes-Archive.md`. Ordinances and a handful of recent minutes/agenda are scanned or `.odt` files with no machine-readable text — links are provided below for direct access.
 
@@ -38,16 +38,17 @@ Only the current/most recent agenda is posted on the site at any given time (no 
 |---|---|---|
 | 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt | **Archived** — [`agendas/2026-07-08-Agenda.md`](agendas/2026-07-08-Agenda.md) |
 | 2026 Agenda — August 12, 2026 | https://fayettetownship.com/wp-content/uploads/2026/08/2026-Agenda-August-12-2026.odt | **Archived** — [`agendas/2026-08-12-Agenda.md`](agendas/2026-08-12-Agenda.md) |
+| 2026 Agenda — September 9, 2026 | https://fayettetownship.com/wp-content/uploads/2026/09/2026-Agenda-September-9-2026.odt | **Archived** — [`agendas/2026-09-09-Agenda.md`](agendas/2026-09-09-Agenda.md) |
 
 ---
 
 ## Meeting Minutes — now fully archived
 
-All 25 meetings from June 2024 through June 10, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
+All 27 meetings from June 2024 through August 12, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April 2026–August 2026 minutes were `.odt` files that couldn't be scraped as plain web text; April–June were converted from user-uploaded copies, and July–August were fetched directly from the township site on September 17, 2026 — all converted with pandoc and added to the archive.
 
 Agendas are now captured as well — see the Agenda section above.
 
-**Notable from the newly added minutes:** the supervisors are actively developing a **data center ordinance** (raised April 2026, ongoing discussion through June 2026, with resident concerns aired at the June meeting) — worth watching if this could affect land use policy in the township going forward.
+**Notable from the newly added minutes:** the supervisors are actively developing a **data center ordinance** (Ordinance 2026-4 — raised April 2026, ongoing discussion through August 2026, with resident concerns aired at the June meeting; still under review as of the September 9, 2026 agenda, not yet adopted or posted to the ordinance page). Two other new ordinances were adopted but are not yet posted as standalone PDFs on the `/ordinance/` page: **Road Bond Ordinance 2026-2** (adopted July 2026) and an **Oakland Mills Sewer additional hook-ups ordinance, 2026-3** (adopted August 2026) — worth checking the ordinance page again on a future sync.
 
 ---
 
