@@ -24,9 +24,10 @@ These are all scanned/image PDFs — no text layer via web scraping. Two have si
 
 ## Forms
 
-| Document | Status |
-|---|---|
-| Building/Land Use Permit application (`Fayette-Land-Use-Permit-Application.pdf`) | Blank application form — user-uploaded from Fayette Township/Juniata County. Has a text layer (no OCR needed). Covers building/land use permit, driveway permit, sewage/septic, and setback fields. |
+| Document | Link | Status |
+|---|---|---|
+| Building/Land Use Permit application (`Fayette-Land-Use-Permit-Application.pdf`) | — | Blank application form — user-uploaded from Fayette Township/Juniata County. Has a text layer (no OCR needed). Covers building/land use permit, driveway permit, sewage/septic, and setback fields. |
+| Right-to-Know Request form (page: /contact-us/) | https://fayettetownship.com/wp-content/uploads/2026/02/Right-to-Know-Request-2.pdf | Archived as-is — `Fayette-Township-Right-to-Know-Request-Form.pdf`. Found on the Contact Us page as of the September 24, 2026 sync; not part of the original July 27, 2026 scrape. |
 
 ---
 
@@ -38,12 +39,13 @@ Only the current/most recent agenda is posted on the site at any given time (no 
 |---|---|---|
 | 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt | **Archived** — [`agendas/2026-07-08-Agenda.md`](agendas/2026-07-08-Agenda.md) |
 | 2026 Agenda — August 12, 2026 | https://fayettetownship.com/wp-content/uploads/2026/08/2026-Agenda-August-12-2026.odt | **Archived** — [`agendas/2026-08-12-Agenda.md`](agendas/2026-08-12-Agenda.md) |
+| 2026 Agenda — September 9, 2026 | https://fayettetownship.com/wp-content/uploads/2026/09/2026-Agenda-September-9-2026.odt | **Archived** — [`agendas/2026-09-09-Agenda.md`](agendas/2026-09-09-Agenda.md) |
 
 ---
 
 ## Meeting Minutes — now fully archived
 
-All 25 meetings from June 2024 through June 10, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
+All 27 meetings from June 2024 through August 12, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April 2026 – August 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded/downloaded copies with pandoc and added to the archive.
 
 Agendas are now captured as well — see the Agenda section above.
 
@@ -73,4 +75,9 @@ Fayette Township's supervisors, secretary, tax collector, auditors, roadmaster, 
 ## Site pages with no documents
 
 - About Our Township — text-only, no attachments
-- Contact Us — not scraped for documents (contact form/info only)
+
+---
+
+## Sync log
+
+- **September 24, 2026**: New agenda (September 9, 2026) and two new meeting minutes (July 8 and August 12, 2026) posted to the site since the July 27, 2026 scrape — archived. Also found a Right-to-Know Request form on the Contact Us page that wasn't captured in the original scrape — archived as `Fayette-Township-Right-to-Know-Request-Form.pdf`. Ordinances, zoning map, and solar ordinance link are unchanged.
