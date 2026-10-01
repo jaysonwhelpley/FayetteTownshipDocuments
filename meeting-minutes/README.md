@@ -27,3 +27,5 @@ Individual meeting minutes, split out from the full archive. See [`../Fayette-To
 - [April 8, 2026](2026-04-08-Minutes.md)
 - [May 13, 2026](2026-05-13-Minutes.md)
 - [June 10, 2026](2026-06-10-Minutes.md)
+- [July 8, 2026](2026-07-08-Minutes.md)
+- [August 12, 2026](2026-08-12-Minutes.md)
