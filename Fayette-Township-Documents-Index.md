@@ -39,6 +39,7 @@ Only the current/most recent agenda is posted on the site at any given time (no 
 | 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt | **Archived** — [`agendas/2026-07-08-Agenda.md`](agendas/2026-07-08-Agenda.md) |
 | 2026 Agenda — August 12, 2026 | https://fayettetownship.com/wp-content/uploads/2026/08/2026-Agenda-August-12-2026.odt | **Archived** — [`agendas/2026-08-12-Agenda.md`](agendas/2026-08-12-Agenda.md) |
 | 2026 Agenda — September 9, 2026 | https://fayettetownship.com/wp-content/uploads/2026/09/2026-Agenda-September-9-2026.odt | **Archived** — [`agendas/2026-09-09-Agenda.md`](agendas/2026-09-09-Agenda.md) |
+| 2026 Agenda — October 14, 2026 | https://fayettetownship.com/wp-content/uploads/2026/10/2026-Agenda-October-14-2026.odt | **Archived** — [`agendas/2026-10-14-Agenda.md`](agendas/2026-10-14-Agenda.md) |
 
 ---
 
