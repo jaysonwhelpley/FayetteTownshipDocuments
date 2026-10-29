@@ -1,7 +1,7 @@
 # Fayette Township — Meeting Minutes Archive (Full Text)
 
 Source: https://fayettetownship.com/meetings/2024-minutes/
-Covers: June 12, 2024 – August 12, 2026 (27 meetings)
+Covers: June 12, 2024 – September 9, 2026 (28 meetings)
 Scraped: July 27, 2026 (21 meetings via web text-extraction); April–June 2026 minutes added from user-uploaded `.odt` files, converted with pandoc.
 
 Note: two identical copies of the May 13, 2026 minutes were posted to the site (`2026-Minutes-May-13-2026.odt` and `...-1.odt`) — content is the same, included once below.
@@ -964,3 +964,37 @@ The supervisors discussed the bill from Zimmerman Plumbing/Heating/Electric. It 
 Checks were signed, the paid invoice report, bank statements, and financial statements were reviewed.
 
 There being no further business, the meeting was adjourned with the next meeting September 9, 2026 at 6 pm.
+
+## September 9, 2026
+
+181 BUNKERTOWN RD SEPTEMBER 9, 2026 6PM
+
+The Fayette Township Board of Supervisors held their regular monthly meeting with the following present: Christopher Strawser, Craig Strawser, Robert Barton Jr., Sharon Lukens, William Nale, Seth Mosebey, Jim King, Marcia Thompson, Lowell Shirk.
+
+After the meeting was called to order, the minutes were reviewed and approved. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+Old Business: The supervisors discussed the Zimmerman Plumbing/Heating invoice. Christopher Strawser is going to contact someone Lucas recommended.
+
+New Business: Lost Creek Country Market/Lowell Shirk discussed information PennDOT was requiring for construction of his new store. The following needs completed, a traffic & intersection study on Tennis Park Rd and Lost Creek Rd., SR 35 possible traffic light, crash study, speed limit study. PennDOT is holding a zoom meeting pertaining to the issues. The supervisors also stated a variance reducing the number of parking spaces is required. The supervisors voted on conditional approval waiving the curb required on Tennis Park Rd. Craig Strawser made the motion, Robert Barton Jr. second, with Christopher Strawser making it unanimous. Christopher Strawser stated he would talk to Lucas Parkes concerning the parking/buffer issues.
+
+After discussing some height/setback/water requirements the supervisors gave Seth Mosebey the approval to proceed with advertising the Data Center Ordinance 4-2026 for adoption at the October 14, 2026 meeting.
+
+The supervisors voted for the PSATS Trustees positions for the Pension, Unemployment, Health Trusts.
+
+The nomination of Jack Hines and John Wilkes to the positions was made by Craig Strawser, Robert Barton Jr. second, with Christopher Strawser making it unanimous.
+
+William Nale reported issuing three permits. Phillip Page-16' x 28' pavilion, Michael Brubaker-13x40 cabin. Permits from Gary Sheaffer and Madison Sheaffer for solar held until receiving payment. Christopher Strawser stated Charles Stine talked to him about the issue with his property. Robin Stine has placed 3 building on his property. He didn't get permits for any of the buildings. He doesn't want the buildings on his property, he wants Robin Stine to move them.
+
+Lost Creek Community Park: Damages in the restrooms was discussed. Someone tore out a urinal divider, Christopher Strawser got a replacement. Issues with the cleaning of the restrooms was discussed. The supervisors stated the secretary shouldn't make any further reservations for the park because of the damages to the restrooms. After the final reservation on October 17, 2026 the restrooms will likely be closed down for the season. Christopher Strawser is going to contact John Berry about placing a handicapped porta-potty in the park. The request from Tammy Brackbill to add pony rides/petting zoo for the 2027 carnival was discussed. The secretary reported Enders Insurance quoted an increase of \$2,500.00 to \$3,500.00 for the pony rides/petting zoo to be added. In addition they had rules that would need to be followed in order for Enders to allow them to be added. The secretary didn't get a response from Tammy Brackbill after providing the information. Christopher Strawser requested an updated lease agreement between the township and Jeff Hoover for signatures.
+
+Oakland Mills Sewer: Christopher Strawser reported everything is working okay. Past due accounts were discussed.
+
+The supervisors discussed the 2026 MMO Payment which will be due in October. The 2026 MMO payment of \$11,576.00 was approved for payment at the October 14, 2026 meeting. Robert Barton Jr. made the motion, Craig Strawser second, with Christopher Strawser making it unanimous.
+
+The supervisors discussed the issue of speeding in Oakland Mills, PA. Several residents have made complaints about speeding/accidents. It was decided to send a letter to our Engineering District 2-0 contact Erik Brown to request PennDOT conduct a road study. Craig Strawser discussed a complaint from Scott Edmiston about the rocks placed along Oakland Rd to prevent traffic from cutting the corner through his yard.
+
+William Nale discussed his retirement at the end of 2026. Christopher Strawser is going to get an advertisement ready to search for someone to replace him.
+
+Checks were signed, the paid invoice report, bank statements and financial statements were reviewed.
+
+There being no further business, the meeting was adjourned with the next meeting October 14, 2026 at 6 pm.
