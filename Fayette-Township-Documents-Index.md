@@ -16,6 +16,7 @@ These are all scanned/image PDFs — no text layer via web scraping. Two have si
 | Zoning Map (2017 Revision) | https://fayettetownship.com/wp-content/uploads/2024/09/Zoning-Map-2017-Revision.pdf | Archived as-is — `Zoning-Map-2017-Revision.pdf` (it's a map image, not a text document, so no OCR attempted) |
 | FATP Zoning Ordinance | https://fayettetownship.com/wp-content/uploads/2024/08/FATP-Zoning-Ordinance.pdf | **OCR'd** — see `Fayette-Zoning-Ordinance-2000-FullText.md`. The 8 dimensional/use-table pages (rotated 90° in the scan, unparseable by OCR) are manually transcribed into markdown tables in place, each with its upright source image embedded from `zoning-district-tables/` for verification |
 | Fayette Township SALDO (Subdivision & Land Development Ordinance) | https://fayettetownship.com/wp-content/uploads/2024/09/Fayette-Township-SALDO.pdf | **OCR'd** — see `Fayette-SALDO-1996-FullText.md` (clean OCR throughout, no rotated tables) |
+| Data Center Ordinance 4-2026 (proposed; advertised for adoption Oct 14, 2026) | https://fayettetownship.com/wp-content/uploads/2026/11/Data-Center-Ordinance-4-2026-1.pdf | Archived as-is — `Data-Center-Ordinance-4-2026.pdf` (22-page scanned PDF, no text layer; not yet OCR'd) |
 | Fayette Twp Solar Ordinance | https://fayettetownship.com/wp-content/uploads/2024/09/Fayette-Twp-Solar-Ordinance-1.pdf | Link only — scanned/image PDF, not yet uploaded for OCR |
 
 **Note for the land parcel project:** Zoning Ordinance (2000) and SALDO (1996) are now fully digitized and directly relevant to your 6.51-acre parcel's permitted uses, dimensional requirements, and subdivision process. The Solar Ordinance is the one remaining gap — upload it the same way (as a PDF in chat) if you want it OCR'd too.
@@ -39,12 +40,13 @@ Only the current/most recent agenda is posted on the site at any given time (no 
 | 2026 Agenda — July 8, 2026 | https://fayettetownship.com/wp-content/uploads/2026/07/2026-Agenda-July-8-2026-2.odt | **Archived** — [`agendas/2026-07-08-Agenda.md`](agendas/2026-07-08-Agenda.md) |
 | 2026 Agenda — August 12, 2026 | https://fayettetownship.com/wp-content/uploads/2026/08/2026-Agenda-August-12-2026.odt | **Archived** — [`agendas/2026-08-12-Agenda.md`](agendas/2026-08-12-Agenda.md) |
 | 2026 Agenda — September 9, 2026 | https://fayettetownship.com/wp-content/uploads/2026/09/2026-Agenda-September-9-2026.odt | **Archived** — [`agendas/2026-09-09-Agenda.md`](agendas/2026-09-09-Agenda.md) |
+| 2026 Agenda — October 14, 2026 | https://fayettetownship.com/wp-content/uploads/2026/11/2026-Agenda-October-14-2026.odt | **Archived** — [`agendas/2026-10-14-Agenda.md`](agendas/2026-10-14-Agenda.md) |
 
 ---
 
 ## Meeting Minutes — now fully archived
 
-All 27 meetings from June 2024 through August 12, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
+All 28 meetings from June 2024 through September 9, 2026 have full text in `Fayette-Township-Meeting-Minutes-Archive.md`. The April, May (x2, duplicate), and June 2026 minutes were originally `.odt` files that couldn't be scraped from the web; they were converted from user-uploaded copies with pandoc and added to the archive.
 
 Agendas are now captured as well — see the Agenda section above.
 
