@@ -6,3 +6,4 @@ Board of Supervisors meeting agendas, collected going forward from the township 
 - [August 12, 2026](2026-08-12-Agenda.md)
 - [September 9, 2026](2026-09-09-Agenda.md)
 - [October 14, 2026](2026-10-14-Agenda.md)
+- [November 11, 2026](2026-11-11-Agenda.md)
